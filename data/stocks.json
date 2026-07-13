@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-13T16:30:53+09:00",
+  "updated_at": "2026-07-13T22:04:25+09:00",
   "disclaimer": "이 목록은 공개 시세 데이터(거래량, 변동률)를 기준으로 자동 정렬한 결과이며 특정 종목의 매수/매도를 추천하지 않습니다. 투자 판단과 책임은 본인에게 있습니다.",
   "criteria": {
     "min_price": 5.0,
@@ -16,15 +16,15 @@
       "price": 14.72,
       "change_percent": 12.54,
       "volume": 17052726,
-      "avg_volume_3m": 4054635,
-      "relative_volume": 4.21,
+      "avg_volume_3m": 4024085,
+      "relative_volume": 4.24,
       "market_cap": 33896562688,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +12.5% 상승, 거래량 3개월 평균 대비 4.2배",
-      "score": 52.73
+      "score": 53.13
     },
     {
       "symbol": "EQPT",
@@ -32,15 +32,15 @@
       "price": 18.65,
       "change_percent": 16.56,
       "volume": 7223766,
-      "avg_volume_3m": 2410320,
-      "relative_volume": 3.0,
+      "avg_volume_3m": 2433526,
+      "relative_volume": 2.97,
       "market_cap": 4706795520,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +16.6% 상승, 거래량 3개월 평균 대비 3.0배",
-      "score": 49.64
+      "score": 49.16
     },
     {
       "symbol": "FRMI",
@@ -48,15 +48,15 @@
       "price": 6.59,
       "change_percent": -9.97,
       "volume": 72477847,
-      "avg_volume_3m": 19546850,
-      "relative_volume": 3.71,
+      "avg_volume_3m": 19733980,
+      "relative_volume": 3.67,
       "market_cap": 4204969216,
       "exchange": "NasdaqGS",
       "sources": [
         "most_actives"
       ],
       "reason": "장중 -10.0% 하락, 거래량 3개월 평균 대비 3.7배, 거래대금 상위 종목",
-      "score": 36.98
+      "score": 36.63
     },
     {
       "symbol": "ALM",
@@ -64,15 +64,15 @@
       "price": 16.61,
       "change_percent": 12.99,
       "volume": 8853973,
-      "avg_volume_3m": 5440158,
-      "relative_volume": 1.63,
+      "avg_volume_3m": 5408116,
+      "relative_volume": 1.64,
       "market_cap": 4712952320,
       "exchange": "NasdaqCM",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +13.0% 상승, 거래량 3개월 평균 대비 1.6배",
-      "score": 21.15
+      "score": 21.27
     },
     {
       "symbol": "REZI",
@@ -80,15 +80,15 @@
       "price": 33.94,
       "change_percent": 9.34,
       "volume": 2850447,
-      "avg_volume_3m": 1462319,
-      "relative_volume": 1.95,
+      "avg_volume_3m": 1470088,
+      "relative_volume": 1.94,
       "market_cap": 5139406848,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +9.3% 상승, 거래량 3개월 평균 대비 1.9배",
-      "score": 18.21
+      "score": 18.12
     },
     {
       "symbol": "CCC",
@@ -96,15 +96,15 @@
       "price": 5.92,
       "change_percent": 10.04,
       "volume": 17312338,
-      "avg_volume_3m": 11385004,
-      "relative_volume": 1.52,
+      "avg_volume_3m": 11321626,
+      "relative_volume": 1.53,
       "market_cap": 3474688000,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +10.0% 상승, 거래량 3개월 평균 대비 1.5배",
-      "score": 15.26
+      "score": 15.35
     },
     {
       "symbol": "META",
@@ -112,8 +112,8 @@
       "price": 669.21,
       "change_percent": 5.97,
       "volume": 40608860,
-      "avg_volume_3m": 17750133,
-      "relative_volume": 2.29,
+      "avg_volume_3m": 17884744,
+      "relative_volume": 2.27,
       "market_cap": 1698738339840,
       "exchange": "NasdaqGS",
       "sources": [
@@ -121,7 +121,7 @@
         "most_actives"
       ],
       "reason": "장중 +6.0% 상승, 거래량 3개월 평균 대비 2.3배, 거래대금 상위 종목",
-      "score": 13.67
+      "score": 13.57
     },
     {
       "symbol": "GGAL",
@@ -129,32 +129,15 @@
       "price": 53.73,
       "change_percent": 8.79,
       "volume": 1808483,
-      "avg_volume_3m": 1213274,
-      "relative_volume": 1.49,
+      "avg_volume_3m": 1222986,
+      "relative_volume": 1.48,
       "market_cap": 9104733184,
       "exchange": "NasdaqCM",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +8.8% 상승, 거래량 3개월 평균 대비 1.5배",
-      "score": 13.1
-    },
-    {
-      "symbol": "SKHYV",
-      "name": "SK hynix Inc. - American Deposi",
-      "price": 168.01,
-      "change_percent": 12.76,
-      "volume": 107674661,
-      "avg_volume_3m": 106123032,
-      "relative_volume": 1.01,
-      "market_cap": 1192627142656,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers",
-        "most_actives"
-      ],
-      "reason": "장중 +12.8% 상승, 거래량 3개월 평균 대비 1.0배, 거래대금 상위 종목",
-      "score": 12.94
+      "score": 12.99
     },
     {
       "symbol": "BBAR",
@@ -162,15 +145,15 @@
       "price": 21.16,
       "change_percent": 9.07,
       "volume": 923057,
-      "avg_volume_3m": 681743,
+      "avg_volume_3m": 686239,
       "relative_volume": 1.35,
       "market_cap": 4321648128,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +9.1% 상승, 거래량 3개월 평균 대비 1.4배",
-      "score": 12.28
+      "reason": "장중 +9.1% 상승, 거래량 3개월 평균 대비 1.3배",
+      "score": 12.2
     },
     {
       "symbol": "CRCL",
@@ -178,8 +161,8 @@
       "price": 66.14,
       "change_percent": 4.97,
       "volume": 35158305,
-      "avg_volume_3m": 15052053,
-      "relative_volume": 2.34,
+      "avg_volume_3m": 15070686,
+      "relative_volume": 2.33,
       "market_cap": 17678606336,
       "exchange": "NYSE",
       "sources": [
@@ -187,7 +170,7 @@
         "most_actives"
       ],
       "reason": "장중 +5.0% 상승, 거래량 3개월 평균 대비 2.3배, 거래대금 상위 종목",
-      "score": 11.6
+      "score": 11.59
     },
     {
       "symbol": "JXN",
@@ -195,15 +178,15 @@
       "price": 116.76,
       "change_percent": 5.39,
       "volume": 1279002,
-      "avg_volume_3m": 620988,
-      "relative_volume": 2.06,
+      "avg_volume_3m": 622616,
+      "relative_volume": 2.05,
       "market_cap": 8143204864,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +5.4% 상승, 거래량 3개월 평균 대비 2.1배",
-      "score": 11.1
+      "score": 11.07
     },
     {
       "symbol": "WHR",
@@ -211,15 +194,15 @@
       "price": 40.72,
       "change_percent": 7.55,
       "volume": 4091876,
-      "avg_volume_3m": 2932703,
-      "relative_volume": 1.4,
+      "avg_volume_3m": 2955811,
+      "relative_volume": 1.38,
       "market_cap": 2639597568,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +7.6% 상승, 거래량 3개월 평균 대비 1.4배",
-      "score": 10.54
+      "score": 10.46
     },
     {
       "symbol": "CAKE",
@@ -227,7 +210,7 @@
       "price": 82.76,
       "change_percent": 5.53,
       "volume": 2295689,
-      "avg_volume_3m": 1279764,
+      "avg_volume_3m": 1283786,
       "relative_volume": 1.79,
       "market_cap": 4111960832,
       "exchange": "NasdaqGS",
@@ -235,23 +218,39 @@
         "day_gainers"
       ],
       "reason": "장중 +5.5% 상승, 거래량 3개월 평균 대비 1.8배",
-      "score": 9.93
+      "score": 9.9
     },
     {
-      "symbol": "WPP",
-      "name": "WPP plc",
-      "price": 18.49,
-      "change_percent": 6.63,
-      "volume": 627493,
-      "avg_volume_3m": 502370,
-      "relative_volume": 1.25,
-      "market_cap": 3988383744,
+      "symbol": "BSBR",
+      "name": "Banco Santander Brasil SA",
+      "price": 5.39,
+      "change_percent": 4.86,
+      "volume": 2113224,
+      "avg_volume_3m": 1358804,
+      "relative_volume": 1.56,
+      "market_cap": 20178886656,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +6.6% 상승, 거래량 3개월 평균 대비 1.2배",
-      "score": 8.28
+      "reason": "장중 +4.9% 상승, 거래량 3개월 평균 대비 1.6배",
+      "score": 7.56
+    },
+    {
+      "symbol": "SEI",
+      "name": "Solaris Energy Infrastructure, ",
+      "price": 71.57,
+      "change_percent": 4.85,
+      "volume": 3396327,
+      "avg_volume_3m": 2390473,
+      "relative_volume": 1.42,
+      "market_cap": 6876291072,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +4.8% 상승, 거래량 3개월 평균 대비 1.4배",
+      "score": 6.89
     }
   ]
 }
