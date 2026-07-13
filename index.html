@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>정보 허브 - 경매 · META · 단타 스크리너</title>
+<link rel="stylesheet" href="assets/style.css" />
+</head>
+<body>
+<header class="site-header">
+  <h1>나만의 정보 허브</h1>
+  <p>부동산 경매 · 메타(META) 주식 뉴스 · 단타 스크리너를 자동으로 수집합니다.</p>
+</header>
+
+<nav class="tabs">
+  <button class="active" data-tab="auctions">부동산 경매</button>
+  <button data-tab="meta">META 뉴스</button>
+  <button data-tab="stocks">단타 스크리너</button>
+</nav>
+
+<main>
+  <section id="panel-auctions" class="panel active">
+    <div id="auctions-meta" class="section-meta"></div>
+    <div id="auctions-content"></div>
+  </section>
+
+  <section id="panel-meta" class="panel">
+    <div id="meta-meta" class="section-meta"></div>
+    <div id="meta-quote" class="quote-box"></div>
+    <div id="meta-news-list" class="news-list"></div>
+  </section>
+
+  <section id="panel-stocks" class="panel">
+    <div id="stocks-meta" class="section-meta"></div>
+    <div id="stocks-disclaimer" class="disclaimer"></div>
+    <div id="stocks-content"></div>
+  </section>
+</main>
+
+<footer>
+  데이터는 GitHub Actions로 주기적으로 자동 수집되며, 법원경매정보(courtauction.go.kr) · Yahoo Finance ·
+  Google News를 출처로 합니다. 단타 스크리너는 공개 시세 데이터를 기준으로 자동 정렬한 참고 자료이며 투자 조언이 아닙니다.
+</footer>
+
+<script src="assets/app.js"></script>
+</body>
+</html>
