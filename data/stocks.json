@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-17T00:38:17+09:00",
+  "updated_at": "2026-07-17T16:52:31+09:00",
   "disclaimer": "이 목록은 공개 시세 데이터(거래량, 변동률)를 기준으로 자동 정렬한 결과이며 특정 종목의 매수/매도를 추천하지 않습니다. 투자 판단과 책임은 본인에게 있습니다.",
   "criteria": {
     "min_price": 5.0,
@@ -13,245 +13,244 @@
     {
       "symbol": "ATAI",
       "name": "AtaiBeckley Inc.",
-      "price": 7.145,
-      "change_percent": 33.3,
-      "volume": 106033795,
-      "avg_volume_3m": 7740622,
-      "relative_volume": 13.7,
-      "market_cap": 2630551040,
+      "price": 7.15,
+      "change_percent": 33.4,
+      "volume": 165656796,
+      "avg_volume_3m": 10365803,
+      "relative_volume": 15.98,
+      "market_cap": 2632391936,
       "exchange": "NasdaqGM",
       "sources": [
         "day_gainers",
         "most_actives"
       ],
-      "reason": "장중 +33.3% 상승, 거래량 3개월 평균 대비 13.7배, 거래대금 상위 종목",
-      "score": 456.19
+      "reason": "장중 +33.4% 상승, 거래량 3개월 평균 대비 16.0배, 거래대금 상위 종목",
+      "score": 533.7
+    },
+    {
+      "symbol": "CDNA",
+      "name": "CareDx, Inc.",
+      "price": 40.34,
+      "change_percent": 35.6,
+      "volume": 4449078,
+      "avg_volume_3m": 872329,
+      "relative_volume": 5.1,
+      "market_cap": 2083943424,
+      "exchange": "NasdaqGM",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +35.6% 상승, 거래량 3개월 평균 대비 5.1배",
+      "score": 181.55
     },
     {
       "symbol": "MAN",
       "name": "ManpowerGroup",
-      "price": 51.915,
-      "change_percent": 33.05,
-      "volume": 2201793,
-      "avg_volume_3m": 1091444,
-      "relative_volume": 2.02,
-      "market_cap": 2414428928,
+      "price": 51.65,
+      "change_percent": 32.37,
+      "volume": 4907870,
+      "avg_volume_3m": 1160196,
+      "relative_volume": 4.23,
+      "market_cap": 2402104320,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +33.0% 상승, 거래량 3개월 평균 대비 2.0배",
-      "score": 66.67
+      "reason": "장중 +32.4% 상승, 거래량 3개월 평균 대비 4.2배",
+      "score": 136.92
     },
     {
       "symbol": "ASTS",
       "name": "AST SpaceMobile, Inc.",
-      "price": 56.11,
-      "change_percent": -15.38,
-      "volume": 26504455,
-      "avg_volume_3m": 22331122,
-      "relative_volume": 1.19,
-      "market_cap": 21777670144,
+      "price": 55.01,
+      "change_percent": -17.04,
+      "volume": 52709876,
+      "avg_volume_3m": 22832922,
+      "relative_volume": 2.31,
+      "market_cap": 21350731776,
       "exchange": "NasdaqGS",
       "sources": [
         "most_actives"
       ],
-      "reason": "장중 -15.4% 하락, 거래량 3개월 평균 대비 1.2배, 거래대금 상위 종목",
-      "score": 18.26
+      "reason": "장중 -17.0% 하락, 거래량 3개월 평균 대비 2.3배, 거래대금 상위 종목",
+      "score": 39.34
     },
     {
       "symbol": "ABT",
       "name": "Abbott Laboratories",
-      "price": 99.09,
-      "change_percent": 11.0,
-      "volume": 14465184,
-      "avg_volume_3m": 13125116,
-      "relative_volume": 1.1,
-      "market_cap": 172596248576,
+      "price": 98.83,
+      "change_percent": 10.71,
+      "volume": 27851980,
+      "avg_volume_3m": 13441829,
+      "relative_volume": 2.07,
+      "market_cap": 172143394816,
       "exchange": "NYSE",
       "sources": [
-        "day_gainers",
-        "most_actives"
+        "day_gainers"
       ],
-      "reason": "장중 +11.0% 상승, 거래량 3개월 평균 대비 1.1배, 거래대금 상위 종목",
-      "score": 12.12
-    },
-    {
-      "symbol": "LCID",
-      "name": "Lucid Group, Inc.",
-      "price": 6.65,
-      "change_percent": 11.76,
-      "volume": 20332684,
-      "avg_volume_3m": 20035240,
-      "relative_volume": 1.01,
-      "market_cap": 2595207680,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers",
-        "most_actives"
-      ],
-      "reason": "장중 +11.8% 상승, 거래량 3개월 평균 대비 1.0배, 거래대금 상위 종목",
-      "score": 11.94
+      "reason": "장중 +10.7% 상승, 거래량 3개월 평균 대비 2.1배",
+      "score": 22.19
     },
     {
       "symbol": "JBHT",
       "name": "J.B. Hunt Transport Services, I",
-      "price": 295.9,
-      "change_percent": 7.1,
-      "volume": 1060045,
-      "avg_volume_3m": 970449,
-      "relative_volume": 1.09,
-      "market_cap": 27903133696,
+      "price": 298.41,
+      "change_percent": 8.01,
+      "volume": 2454379,
+      "avg_volume_3m": 994735,
+      "relative_volume": 2.47,
+      "market_cap": 28020699136,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +7.1% 상승, 거래량 3개월 평균 대비 1.1배",
-      "score": 7.76
+      "reason": "장중 +8.0% 상승, 거래량 3개월 평균 대비 2.5배",
+      "score": 19.76
+    },
+    {
+      "symbol": "LCID",
+      "name": "Lucid Group, Inc.",
+      "price": 6.46,
+      "change_percent": 8.57,
+      "volume": 45435548,
+      "avg_volume_3m": 20447461,
+      "relative_volume": 2.22,
+      "market_cap": 2521058816,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers",
+        "most_actives"
+      ],
+      "reason": "장중 +8.6% 상승, 거래량 3개월 평균 대비 2.2배, 거래대금 상위 종목",
+      "score": 19.05
+    },
+    {
+      "symbol": "BTI",
+      "name": "British American Tobacco  Indus",
+      "price": 63.16,
+      "change_percent": 7.54,
+      "volume": 9626066,
+      "avg_volume_3m": 4182396,
+      "relative_volume": 2.3,
+      "market_cap": 136344272896,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +7.5% 상승, 거래량 3개월 평균 대비 2.3배",
+      "score": 17.36
     },
     {
       "symbol": "RHI",
       "name": "Robert Half Inc.",
-      "price": 41.01,
-      "change_percent": 11.74,
-      "volume": 1267081,
-      "avg_volume_3m": 2380127,
-      "relative_volume": 0.53,
-      "market_cap": 4195059968,
+      "price": 41.33,
+      "change_percent": 12.62,
+      "volume": 3262799,
+      "avg_volume_3m": 2403535,
+      "relative_volume": 1.36,
+      "market_cap": 4227794432,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +11.7% 상승, 거래량 3개월 평균 대비 0.5배",
-      "score": 6.25
+      "reason": "장중 +12.6% 상승, 거래량 3개월 평균 대비 1.4배",
+      "score": 17.13
     },
     {
-      "symbol": "MNSO",
-      "name": "MINISO Group Holding Limited",
-      "price": 13.265,
-      "change_percent": 5.11,
-      "volume": 632903,
-      "avg_volume_3m": 597273,
-      "relative_volume": 1.06,
-      "market_cap": 3959610624,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +5.1% 상승, 거래량 3개월 평균 대비 1.1배",
-      "score": 5.42
-    },
-    {
-      "symbol": "RKLB",
-      "name": "Rocket Lab Corporation",
-      "price": 68.0141,
-      "change_percent": -10.74,
-      "volume": 13546412,
-      "avg_volume_3m": 27005583,
-      "relative_volume": 0.5,
-      "market_cap": 42496483328,
+      "symbol": "HUBG",
+      "name": "Hub Group, Inc.",
+      "price": 51.41,
+      "change_percent": 7.55,
+      "volume": 1501928,
+      "avg_volume_3m": 789109,
+      "relative_volume": 1.9,
+      "market_cap": 3143901952,
       "exchange": "NasdaqGS",
       "sources": [
-        "most_actives"
+        "day_gainers"
       ],
-      "reason": "장중 -10.7% 하락, 거래량 3개월 평균 대비 0.5배, 거래대금 상위 종목",
-      "score": 5.39
+      "reason": "장중 +7.6% 상승, 거래량 3개월 평균 대비 1.9배",
+      "score": 14.37
+    },
+    {
+      "symbol": "CTAS",
+      "name": "Cintas Corporation",
+      "price": 206.25,
+      "change_percent": 7.22,
+      "volume": 4222068,
+      "avg_volume_3m": 2181054,
+      "relative_volume": 1.94,
+      "market_cap": 82530320384,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +7.2% 상승, 거래량 3개월 평균 대비 1.9배",
+      "score": 13.97
     },
     {
       "symbol": "SMG",
       "name": "Scotts Miracle-Gro Company (The",
-      "price": 74.72,
-      "change_percent": 9.9,
-      "volume": 471672,
-      "avg_volume_3m": 941404,
-      "relative_volume": 0.5,
-      "market_cap": 4347354112,
+      "price": 73.47,
+      "change_percent": 8.06,
+      "volume": 1612959,
+      "avg_volume_3m": 956488,
+      "relative_volume": 1.69,
+      "market_cap": 4274626816,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +9.9% 상승, 거래량 3개월 평균 대비 0.5배",
-      "score": 4.96
+      "reason": "장중 +8.1% 상승, 거래량 3개월 평균 대비 1.7배",
+      "score": 13.59
     },
     {
-      "symbol": "IR",
-      "name": "Ingersoll Rand Inc.",
-      "price": 84.625,
-      "change_percent": 6.93,
-      "volume": 2863443,
-      "avg_volume_3m": 4035903,
-      "relative_volume": 0.71,
-      "market_cap": 33116878848,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +6.9% 상승, 거래량 3개월 평균 대비 0.7배",
-      "score": 4.92
-    },
-    {
-      "symbol": "NOK",
-      "name": "Nokia Corporation Sponsored",
-      "price": 10.4302,
-      "change_percent": -7.28,
-      "volume": 70030404,
-      "avg_volume_3m": 111861177,
-      "relative_volume": 0.63,
-      "market_cap": 58226946048,
-      "exchange": "NYSE",
+      "symbol": "RKLB",
+      "name": "Rocket Lab Corporation",
+      "price": 67.35,
+      "change_percent": -11.61,
+      "volume": 30587851,
+      "avg_volume_3m": 27068248,
+      "relative_volume": 1.13,
+      "market_cap": 42081542144,
+      "exchange": "NasdaqGS",
       "sources": [
         "most_actives"
       ],
-      "reason": "장중 -7.3% 하락, 거래량 3개월 평균 대비 0.6배, 거래대금 상위 종목",
-      "score": 4.56
+      "reason": "장중 -11.6% 하락, 거래량 3개월 평균 대비 1.1배, 거래대금 상위 종목",
+      "score": 13.12
     },
     {
-      "symbol": "GT",
-      "name": "The Goodyear Tire & Rubber Comp",
-      "price": 7.225,
-      "change_percent": 7.2,
-      "volume": 5715569,
-      "avg_volume_3m": 9859340,
-      "relative_volume": 0.58,
-      "market_cap": 2076744064,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +7.2% 상승, 거래량 3개월 평균 대비 0.6배",
-      "score": 4.17
-    },
-    {
-      "symbol": "HOMB",
-      "name": "Home BancShares, Inc.",
-      "price": 30.685,
-      "change_percent": 4.76,
-      "volume": 1440130,
-      "avg_volume_3m": 1764957,
-      "relative_volume": 0.82,
-      "market_cap": 6180370944,
+      "symbol": "ZGN",
+      "name": "Ermenegildo Zegna N.V.",
+      "price": 14.43,
+      "change_percent": 7.37,
+      "volume": 2005076,
+      "avg_volume_3m": 1158277,
+      "relative_volume": 1.73,
+      "market_cap": 3871742976,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +4.8% 상승, 거래량 3개월 평균 대비 0.8배",
-      "score": 3.89
+      "reason": "장중 +7.4% 상승, 거래량 3개월 평균 대비 1.7배",
+      "score": 12.75
     },
     {
-      "symbol": "UNH",
-      "name": "UnitedHealth Group Incorporated",
-      "price": 433.75,
-      "change_percent": 3.64,
-      "volume": 7662932,
-      "avg_volume_3m": 7198560,
-      "relative_volume": 1.06,
-      "market_cap": 393907634176,
+      "symbol": "BKD",
+      "name": "Brookdale Senior Living Inc.",
+      "price": 15.28,
+      "change_percent": 6.7,
+      "volume": 8058228,
+      "avg_volume_3m": 4340037,
+      "relative_volume": 1.86,
+      "market_cap": 3649149952,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +3.6% 상승, 거래량 3개월 평균 대비 1.1배",
-      "score": 3.87
+      "reason": "장중 +6.7% 상승, 거래량 3개월 평균 대비 1.9배",
+      "score": 12.45
     }
   ]
 }
