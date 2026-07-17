@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-17T16:52:31+09:00",
+  "updated_at": "2026-07-17T21:51:26+09:00",
   "disclaimer": "이 목록은 공개 시세 데이터(거래량, 변동률)를 기준으로 자동 정렬한 결과이며 특정 종목의 매수/매도를 추천하지 않습니다. 투자 판단과 책임은 본인에게 있습니다.",
   "criteria": {
     "min_price": 5.0,
@@ -16,16 +16,16 @@
       "price": 7.15,
       "change_percent": 33.4,
       "volume": 165656796,
-      "avg_volume_3m": 10365803,
-      "relative_volume": 15.98,
+      "avg_volume_3m": 10441168,
+      "relative_volume": 15.87,
       "market_cap": 2632391936,
       "exchange": "NasdaqGM",
       "sources": [
         "day_gainers",
         "most_actives"
       ],
-      "reason": "장중 +33.4% 상승, 거래량 3개월 평균 대비 16.0배, 거래대금 상위 종목",
-      "score": 533.7
+      "reason": "장중 +33.4% 상승, 거래량 3개월 평균 대비 15.9배, 거래대금 상위 종목",
+      "score": 529.84
     },
     {
       "symbol": "CDNA",
@@ -33,15 +33,15 @@
       "price": 40.34,
       "change_percent": 35.6,
       "volume": 4449078,
-      "avg_volume_3m": 872329,
-      "relative_volume": 5.1,
+      "avg_volume_3m": 863859,
+      "relative_volume": 5.15,
       "market_cap": 2083943424,
       "exchange": "NasdaqGM",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +35.6% 상승, 거래량 3개월 평균 대비 5.1배",
-      "score": 181.55
+      "reason": "장중 +35.6% 상승, 거래량 3개월 평균 대비 5.2배",
+      "score": 183.33
     },
     {
       "symbol": "MAN",
@@ -49,15 +49,15 @@
       "price": 51.65,
       "change_percent": 32.37,
       "volume": 4907870,
-      "avg_volume_3m": 1160196,
-      "relative_volume": 4.23,
+      "avg_volume_3m": 1158098,
+      "relative_volume": 4.24,
       "market_cap": 2402104320,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +32.4% 상승, 거래량 3개월 평균 대비 4.2배",
-      "score": 136.92
+      "score": 137.17
     },
     {
       "symbol": "ASTS",
@@ -65,15 +65,15 @@
       "price": 55.01,
       "change_percent": -17.04,
       "volume": 52709876,
-      "avg_volume_3m": 22832922,
-      "relative_volume": 2.31,
+      "avg_volume_3m": 22877486,
+      "relative_volume": 2.3,
       "market_cap": 21350731776,
       "exchange": "NasdaqGS",
       "sources": [
         "most_actives"
       ],
       "reason": "장중 -17.0% 하락, 거래량 3개월 평균 대비 2.3배, 거래대금 상위 종목",
-      "score": 39.34
+      "score": 39.26
     },
     {
       "symbol": "ABT",
@@ -81,15 +81,16 @@
       "price": 98.83,
       "change_percent": 10.71,
       "volume": 27851980,
-      "avg_volume_3m": 13441829,
-      "relative_volume": 2.07,
+      "avg_volume_3m": 13374319,
+      "relative_volume": 2.08,
       "market_cap": 172143394816,
       "exchange": "NYSE",
       "sources": [
-        "day_gainers"
+        "day_gainers",
+        "most_actives"
       ],
-      "reason": "장중 +10.7% 상승, 거래량 3개월 평균 대비 2.1배",
-      "score": 22.19
+      "reason": "장중 +10.7% 상승, 거래량 3개월 평균 대비 2.1배, 거래대금 상위 종목",
+      "score": 22.3
     },
     {
       "symbol": "JBHT",
@@ -97,15 +98,15 @@
       "price": 298.41,
       "change_percent": 8.01,
       "volume": 2454379,
-      "avg_volume_3m": 994735,
-      "relative_volume": 2.47,
+      "avg_volume_3m": 990040,
+      "relative_volume": 2.48,
       "market_cap": 28020699136,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +8.0% 상승, 거래량 3개월 평균 대비 2.5배",
-      "score": 19.76
+      "score": 19.86
     },
     {
       "symbol": "LCID",
@@ -113,8 +114,8 @@
       "price": 6.46,
       "change_percent": 8.57,
       "volume": 45435548,
-      "avg_volume_3m": 20447461,
-      "relative_volume": 2.22,
+      "avg_volume_3m": 20284418,
+      "relative_volume": 2.24,
       "market_cap": 2521058816,
       "exchange": "NasdaqGS",
       "sources": [
@@ -122,7 +123,7 @@
         "most_actives"
       ],
       "reason": "장중 +8.6% 상승, 거래량 3개월 평균 대비 2.2배, 거래대금 상위 종목",
-      "score": 19.05
+      "score": 19.2
     },
     {
       "symbol": "BTI",
@@ -130,9 +131,9 @@
       "price": 63.16,
       "change_percent": 7.54,
       "volume": 9626066,
-      "avg_volume_3m": 4182396,
+      "avg_volume_3m": 4183206,
       "relative_volume": 2.3,
-      "market_cap": 136344272896,
+      "market_cap": 136308588544,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
@@ -146,7 +147,7 @@
       "price": 41.33,
       "change_percent": 12.62,
       "volume": 3262799,
-      "avg_volume_3m": 2403535,
+      "avg_volume_3m": 2406037,
       "relative_volume": 1.36,
       "market_cap": 4227794432,
       "exchange": "NYSE",
@@ -154,7 +155,7 @@
         "day_gainers"
       ],
       "reason": "장중 +12.6% 상승, 거래량 3개월 평균 대비 1.4배",
-      "score": 17.13
+      "score": 17.11
     },
     {
       "symbol": "HUBG",
@@ -162,15 +163,15 @@
       "price": 51.41,
       "change_percent": 7.55,
       "volume": 1501928,
-      "avg_volume_3m": 789109,
-      "relative_volume": 1.9,
+      "avg_volume_3m": 786557,
+      "relative_volume": 1.91,
       "market_cap": 3143901952,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +7.6% 상승, 거래량 3개월 평균 대비 1.9배",
-      "score": 14.37
+      "score": 14.42
     },
     {
       "symbol": "CTAS",
@@ -178,15 +179,15 @@
       "price": 206.25,
       "change_percent": 7.22,
       "volume": 4222068,
-      "avg_volume_3m": 2181054,
-      "relative_volume": 1.94,
+      "avg_volume_3m": 2190260,
+      "relative_volume": 1.93,
       "market_cap": 82530320384,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +7.2% 상승, 거래량 3개월 평균 대비 1.9배",
-      "score": 13.97
+      "score": 13.91
     },
     {
       "symbol": "SMG",
@@ -194,7 +195,7 @@
       "price": 73.47,
       "change_percent": 8.06,
       "volume": 1612959,
-      "avg_volume_3m": 956488,
+      "avg_volume_3m": 954670,
       "relative_volume": 1.69,
       "market_cap": 4274626816,
       "exchange": "NYSE",
@@ -202,23 +203,7 @@
         "day_gainers"
       ],
       "reason": "장중 +8.1% 상승, 거래량 3개월 평균 대비 1.7배",
-      "score": 13.59
-    },
-    {
-      "symbol": "RKLB",
-      "name": "Rocket Lab Corporation",
-      "price": 67.35,
-      "change_percent": -11.61,
-      "volume": 30587851,
-      "avg_volume_3m": 27068248,
-      "relative_volume": 1.13,
-      "market_cap": 42081542144,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "most_actives"
-      ],
-      "reason": "장중 -11.6% 하락, 거래량 3개월 평균 대비 1.1배, 거래대금 상위 종목",
-      "score": 13.12
+      "score": 13.62
     },
     {
       "symbol": "ZGN",
@@ -226,31 +211,47 @@
       "price": 14.43,
       "change_percent": 7.37,
       "volume": 2005076,
-      "avg_volume_3m": 1158277,
-      "relative_volume": 1.73,
+      "avg_volume_3m": 1166832,
+      "relative_volume": 1.72,
       "market_cap": 3871742976,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +7.4% 상승, 거래량 3개월 평균 대비 1.7배",
-      "score": 12.75
+      "score": 12.66
     },
     {
-      "symbol": "BKD",
-      "name": "Brookdale Senior Living Inc.",
-      "price": 15.28,
-      "change_percent": 6.7,
-      "volume": 8058228,
-      "avg_volume_3m": 4340037,
-      "relative_volume": 1.86,
-      "market_cap": 3649149952,
+      "symbol": "IR",
+      "name": "Ingersoll Rand Inc.",
+      "price": 84.78,
+      "change_percent": 7.13,
+      "volume": 7094860,
+      "avg_volume_3m": 4061857,
+      "relative_volume": 1.75,
+      "market_cap": 33177536512,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +6.7% 상승, 거래량 3개월 평균 대비 1.9배",
+      "reason": "장중 +7.1% 상승, 거래량 3개월 평균 대비 1.7배",
       "score": 12.45
+    },
+    {
+      "symbol": "REXR",
+      "name": "Rexford Industrial Realty, Inc.",
+      "price": 37.58,
+      "change_percent": 7.1,
+      "volume": 4231331,
+      "avg_volume_3m": 2413895,
+      "relative_volume": 1.75,
+      "market_cap": 8694676480,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +7.1% 상승, 거래량 3개월 평균 대비 1.8배",
+      "score": 12.44
     }
   ]
 }
