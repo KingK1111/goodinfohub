@@ -11,7 +11,7 @@ GitHub Actions가 주기적으로 데이터를 수집해 `data/*.json`을 갱신
   - `auctions_scraper.py`: 법원경매정보(courtauction.go.kr)에서 성동구/중구/동대문구/광진구/송파구 아파트 경매 물건 수집 (Selenium)
   - `meta_news_scraper.py`: META 주식 시세(Yahoo Finance) + 관련 뉴스(Google News RSS)
   - `stock_screener.py`: Yahoo Finance의 `day_gainers` / `most_actives` 스크리너를 조합해 거래량·변동성 상위 종목을 추림
-- `.github/workflows/update-data.yml` — 하루 2회(09:00, 18:00 KST) 자동 실행 + 수동 실행(workflow_dispatch)
+- `.github/workflows/update-data.yml` — 하루 3회(08:00, 14:00, 20:00 KST) 자동 실행 + 수동 실행(workflow_dispatch)
 
 ## 로컬에서 실행
 
