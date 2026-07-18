@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18T16:13:56+09:00",
+  "updated_at": "2026-07-18T21:05:33+09:00",
   "disclaimer": "이 목록은 공개 시세 데이터(거래량, 변동률)를 기준으로 자동 정렬한 결과이며 특정 종목의 매수/매도를 추천하지 않습니다. 투자 판단과 책임은 본인에게 있습니다.",
   "criteria": {
     "min_price": 5.0,
@@ -227,7 +227,7 @@
       "volume": 7006393,
       "avg_volume_3m": 4492754,
       "relative_volume": 1.56,
-      "market_cap": 178209734656,
+      "market_cap": 176616194048,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
