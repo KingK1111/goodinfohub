@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-19T21:09:48+09:00",
+  "updated_at": "2026-07-20T19:50:46+09:00",
   "disclaimer": "이 목록은 공개 시세 데이터(거래량, 변동률)를 기준으로 자동 정렬한 결과이며 특정 종목의 매수/매도를 추천하지 않습니다. 투자 판단과 책임은 본인에게 있습니다.",
   "criteria": {
     "min_price": 5.0,
@@ -15,7 +15,7 @@
       "name": "Trevi Therapeutics, Inc.",
       "price": 19.07,
       "change_percent": 9.85,
-      "volume": 8309900,
+      "volume": 8312192,
       "avg_volume_3m": 2072296,
       "relative_volume": 4.01,
       "market_cap": 2707553024,
@@ -24,16 +24,16 @@
         "day_gainers"
       ],
       "reason": "장중 +9.9% 상승, 거래량 3개월 평균 대비 4.0배",
-      "score": 39.5
+      "score": 39.51
     },
     {
       "symbol": "LCID",
       "name": "Lucid Group, Inc.",
       "price": 7.36,
       "change_percent": 13.93,
-      "volume": 47786233,
+      "volume": 48307410,
       "avg_volume_3m": 20735851,
-      "relative_volume": 2.3,
+      "relative_volume": 2.33,
       "market_cap": 2872290048,
       "exchange": "NasdaqGS",
       "sources": [
@@ -41,7 +41,7 @@
         "most_actives"
       ],
       "reason": "장중 +13.9% 상승, 거래량 3개월 평균 대비 2.3배, 거래대금 상위 종목",
-      "score": 32.11
+      "score": 32.46
     },
     {
       "symbol": "NFLX",
@@ -80,7 +80,7 @@
       "name": "Oruka Therapeutics, Inc.",
       "price": 92.7,
       "change_percent": 11.63,
-      "volume": 2804544,
+      "volume": 2804782,
       "avg_volume_3m": 1793296,
       "relative_volume": 1.56,
       "market_cap": 5590931456,
@@ -112,7 +112,7 @@
       "name": "MiniMed Group, Inc.",
       "price": 16.93,
       "change_percent": 6.61,
-      "volume": 2395807,
+      "volume": 2401997,
       "avg_volume_3m": 944162,
       "relative_volume": 2.54,
       "market_cap": 4754669568,
@@ -121,71 +121,71 @@
         "day_gainers"
       ],
       "reason": "장중 +6.6% 상승, 거래량 3개월 평균 대비 2.5배",
-      "score": 16.78
+      "score": 16.82
     },
     {
       "symbol": "SLS",
       "name": "SELLAS Life Sciences Group, Inc",
       "price": 13.19,
       "change_percent": 12.26,
-      "volume": 11231556,
+      "volume": 11293041,
       "avg_volume_3m": 9419235,
-      "relative_volume": 1.19,
+      "relative_volume": 1.2,
       "market_cap": 2593583616,
       "exchange": "NasdaqCM",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +12.3% 상승, 거래량 3개월 평균 대비 1.2배",
-      "score": 14.61
+      "score": 14.69
     },
     {
       "symbol": "CLMT",
       "name": "Calumet, Inc",
       "price": 42.83,
       "change_percent": 4.26,
-      "volume": 2703411,
+      "volume": 2744434,
       "avg_volume_3m": 965653,
-      "relative_volume": 2.8,
+      "relative_volume": 2.84,
       "market_cap": 3732512256,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +4.3% 상승, 거래량 3개월 평균 대비 2.8배",
-      "score": 11.93
+      "score": 12.11
     },
     {
       "symbol": "DNTH",
       "name": "Dianthus Therapeutics, Inc.",
       "price": 105.6,
       "change_percent": 10.75,
-      "volume": 1017100,
+      "volume": 1025194,
       "avg_volume_3m": 950546,
-      "relative_volume": 1.07,
+      "relative_volume": 1.08,
       "market_cap": 5772753920,
       "exchange": "NasdaqCM",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +10.7% 상승, 거래량 3개월 평균 대비 1.1배",
-      "score": 11.5
+      "score": 11.59
     },
     {
       "symbol": "IOVA",
       "name": "Iovance Biotherapeutics, Inc.",
       "price": 5.0,
       "change_percent": 7.3,
-      "volume": 23128414,
+      "volume": 23478578,
       "avg_volume_3m": 15176562,
-      "relative_volume": 1.52,
+      "relative_volume": 1.55,
       "market_cap": 2232512000,
       "exchange": "NasdaqGM",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +7.3% 상승, 거래량 3개월 평균 대비 1.5배",
-      "score": 11.12
+      "score": 11.29
     },
     {
       "symbol": "VG",
@@ -224,7 +224,7 @@
       "name": "Seagate Technology Holdings PLC",
       "price": 787.66,
       "change_percent": 5.66,
-      "volume": 7006393,
+      "volume": 7013109,
       "avg_volume_3m": 4492754,
       "relative_volume": 1.56,
       "market_cap": 178209734656,
@@ -233,23 +233,23 @@
         "day_gainers"
       ],
       "reason": "장중 +5.7% 상승, 거래량 3개월 평균 대비 1.6배",
-      "score": 8.82
+      "score": 8.83
     },
     {
       "symbol": "MBX",
       "name": "MBX Biosciences, Inc.",
       "price": 62.92,
       "change_percent": 7.89,
-      "volume": 886002,
+      "volume": 898469,
       "avg_volume_3m": 840306,
-      "relative_volume": 1.05,
+      "relative_volume": 1.07,
       "market_cap": 2994836992,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +7.9% 상승, 거래량 3개월 평균 대비 1.1배",
-      "score": 8.32
+      "score": 8.43
     }
   ]
 }
