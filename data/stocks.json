@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T00:40:30+09:00",
+  "updated_at": "2026-07-23T10:52:20+09:00",
   "disclaimer": "이 목록은 공개 시세 데이터(거래량, 변동률)를 기준으로 자동 정렬한 결과이며 특정 종목의 매수/매도를 추천하지 않습니다. 투자 판단과 책임은 본인에게 있습니다.",
   "criteria": {
     "min_price": 5.0,
@@ -11,247 +11,248 @@
   },
   "candidates": [
     {
-      "symbol": "SMCI",
-      "name": "Super Micro Computer, Inc.",
-      "price": 31.62,
-      "change_percent": 24.0,
-      "volume": 98617761,
-      "avg_volume_3m": 51446565,
-      "relative_volume": 1.92,
-      "market_cap": 20454125568,
-      "exchange": "NasdaqGS",
+      "symbol": "NG",
+      "name": "Novagold Resources Inc.",
+      "price": 6.21,
+      "change_percent": 10.3,
+      "volume": 25106960,
+      "avg_volume_3m": 3971664,
+      "relative_volume": 6.32,
+      "market_cap": 2724827648,
+      "exchange": "NYSE American",
       "sources": [
         "day_gainers",
         "most_actives"
       ],
-      "reason": "장중 +24.0% 상승, 거래량 3개월 평균 대비 1.9배, 거래대금 상위 종목",
-      "score": 46.01
+      "reason": "장중 +10.3% 상승, 거래량 3개월 평균 대비 6.3배, 거래대금 상위 종목",
+      "score": 65.12
     },
     {
       "symbol": "ARWR",
       "name": "Arrowhead Pharmaceuticals, Inc.",
-      "price": 90.93,
-      "change_percent": 22.02,
-      "volume": 3959116,
-      "avg_volume_3m": 2107598,
-      "relative_volume": 1.88,
-      "market_cap": 12808129536,
+      "price": 88.7,
+      "change_percent": 19.03,
+      "volume": 6988383,
+      "avg_volume_3m": 2186351,
+      "relative_volume": 3.2,
+      "market_cap": 12494017536,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +22.0% 상승, 거래량 3개월 평균 대비 1.9배",
-      "score": 41.37
+      "reason": "장중 +19.0% 상승, 거래량 3개월 평균 대비 3.2배",
+      "score": 60.82
+    },
+    {
+      "symbol": "SMCI",
+      "name": "Super Micro Computer, Inc.",
+      "price": 30.56,
+      "change_percent": 19.84,
+      "volume": 162073657,
+      "avg_volume_3m": 53294674,
+      "relative_volume": 3.04,
+      "market_cap": 19768438784,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers",
+        "most_actives"
+      ],
+      "reason": "장중 +19.8% 상승, 거래량 3개월 평균 대비 3.0배, 거래대금 상위 종목",
+      "score": 60.34
     },
     {
       "symbol": "WAB",
       "name": "Westinghouse Air Brake Technolo",
-      "price": 293.17,
-      "change_percent": 11.25,
-      "volume": 1309127,
-      "avg_volume_3m": 882785,
-      "relative_volume": 1.48,
-      "market_cap": 49744310272,
+      "price": 290.0,
+      "change_percent": 10.04,
+      "volume": 3262143,
+      "avg_volume_3m": 921167,
+      "relative_volume": 3.54,
+      "market_cap": 48984145920,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +11.2% 상승, 거래량 3개월 평균 대비 1.5배",
-      "score": 16.68
+      "reason": "장중 +10.0% 상승, 거래량 3개월 평균 대비 3.5배",
+      "score": 35.57
     },
     {
       "symbol": "PATH",
       "name": "UiPath, Inc.",
-      "price": 10.5999,
-      "change_percent": -11.96,
-      "volume": 40301300,
-      "avg_volume_3m": 54909252,
-      "relative_volume": 0.73,
-      "market_cap": 5492022784,
+      "price": 10.7,
+      "change_percent": -11.13,
+      "volume": 103941940,
+      "avg_volume_3m": 55734037,
+      "relative_volume": 1.86,
+      "market_cap": 5543886848,
       "exchange": "NYSE",
       "sources": [
         "most_actives"
       ],
-      "reason": "장중 -12.0% 하락, 거래량 3개월 평균 대비 0.7배, 거래대금 상위 종목",
-      "score": 8.78
-    },
-    {
-      "symbol": "ONDS",
-      "name": "Ondas Inc",
-      "price": 8.3144,
-      "change_percent": 8.54,
-      "volume": 71231470,
-      "avg_volume_3m": 81667237,
-      "relative_volume": 0.87,
-      "market_cap": 4737865728,
-      "exchange": "NasdaqCM",
-      "sources": [
-        "day_gainers",
-        "most_actives"
-      ],
-      "reason": "장중 +8.5% 상승, 거래량 3개월 평균 대비 0.9배, 거래대금 상위 종목",
-      "score": 7.45
-    },
-    {
-      "symbol": "NG",
-      "name": "Novagold Resources Inc.",
-      "price": 6.07,
-      "change_percent": 7.82,
-      "volume": 3376461,
-      "avg_volume_3m": 3610470,
-      "relative_volume": 0.94,
-      "market_cap": 2663398400,
-      "exchange": "NYSE American",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +7.8% 상승, 거래량 3개월 평균 대비 0.9배",
-      "score": 7.31
+      "reason": "장중 -11.1% 하락, 거래량 3개월 평균 대비 1.9배, 거래대금 상위 종목",
+      "score": 20.76
     },
     {
       "symbol": "EQT",
       "name": "EQT Corporation",
-      "price": 52.84,
-      "change_percent": 6.1,
-      "volume": 7800889,
-      "avg_volume_3m": 7286931,
-      "relative_volume": 1.07,
-      "market_cap": 33050259456,
+      "price": 54.01,
+      "change_percent": 8.45,
+      "volume": 17794788,
+      "avg_volume_3m": 7457604,
+      "relative_volume": 2.39,
+      "market_cap": 33783957504,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +6.1% 상승, 거래량 3개월 평균 대비 1.1배",
-      "score": 6.53
-    },
-    {
-      "symbol": "CBRS",
-      "name": "Cerebras Systems Inc.",
-      "price": 220.5,
-      "change_percent": 5.72,
-      "volume": 7706520,
-      "avg_volume_3m": 7737428,
-      "relative_volume": 1.0,
-      "market_cap": 49138548736,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +5.7% 상승, 거래량 3개월 평균 대비 1.0배",
-      "score": 5.7
-    },
-    {
-      "symbol": "WFRD",
-      "name": "Weatherford International plc",
-      "price": 90.455,
-      "change_percent": 8.56,
-      "volume": 844098,
-      "avg_volume_3m": 1332173,
-      "relative_volume": 0.63,
-      "market_cap": 6488698368,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +8.6% 상승, 거래량 3개월 평균 대비 0.6배",
-      "score": 5.43
-    },
-    {
-      "symbol": "FTAI",
-      "name": "FTAI Aviation Ltd.",
-      "price": 221.4,
-      "change_percent": 5.3,
-      "volume": 1240572,
-      "avg_volume_3m": 1266119,
-      "relative_volume": 0.98,
-      "market_cap": 22711869440,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +5.3% 상승, 거래량 3개월 평균 대비 1.0배",
-      "score": 5.2
-    },
-    {
-      "symbol": "DELL",
-      "name": "Dell Technologies Inc.",
-      "price": 442.125,
-      "change_percent": 9.4,
-      "volume": 4010365,
-      "avg_volume_3m": 8723352,
-      "relative_volume": 0.46,
-      "market_cap": 285675716608,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +9.4% 상승, 거래량 3개월 평균 대비 0.5배",
-      "score": 4.32
+      "reason": "장중 +8.5% 상승, 거래량 3개월 평균 대비 2.4배",
+      "score": 20.17
     },
     {
       "symbol": "RIOT",
       "name": "Riot Platforms, Inc.",
-      "price": 23.16,
-      "change_percent": 7.77,
-      "volume": 9376704,
-      "avg_volume_3m": 17149111,
-      "relative_volume": 0.55,
-      "market_cap": 8757982208,
+      "price": 23.38,
+      "change_percent": 8.79,
+      "volume": 27820342,
+      "avg_volume_3m": 17325911,
+      "relative_volume": 1.61,
+      "market_cap": 8841175040,
       "exchange": "NasdaqCM",
       "sources": [
         "day_gainers",
         "most_actives"
       ],
-      "reason": "장중 +7.8% 상승, 거래량 3개월 평균 대비 0.5배, 거래대금 상위 종목",
-      "score": 4.25
+      "reason": "장중 +8.8% 상승, 거래량 3개월 평균 대비 1.6배, 거래대금 상위 종목",
+      "score": 14.12
+    },
+    {
+      "symbol": "FTAI",
+      "name": "FTAI Aviation Ltd.",
+      "price": 222.49,
+      "change_percent": 5.82,
+      "volume": 2642132,
+      "avg_volume_3m": 1288329,
+      "relative_volume": 2.05,
+      "market_cap": 22823686144,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +5.8% 상승, 거래량 3개월 평균 대비 2.1배",
+      "score": 11.94
     },
     {
       "symbol": "T",
       "name": "AT&T Inc.",
-      "price": 22.9862,
-      "change_percent": 3.26,
-      "volume": 59790170,
-      "avg_volume_3m": 56114213,
-      "relative_volume": 1.07,
-      "market_cap": 159715901440,
+      "price": 23.04,
+      "change_percent": 3.5,
+      "volume": 187232347,
+      "avg_volume_3m": 58230135,
+      "relative_volume": 3.22,
+      "market_cap": 160089735168,
       "exchange": "NYSE",
       "sources": [
         "most_actives"
       ],
-      "reason": "장중 +3.3% 상승, 거래량 3개월 평균 대비 1.1배, 거래대금 상위 종목",
-      "score": 3.48
+      "reason": "장중 +3.5% 상승, 거래량 3개월 평균 대비 3.2배, 거래대금 상위 종목",
+      "score": 11.27
     },
     {
-      "symbol": "INFQ",
-      "name": "Infleqtion, Inc.",
-      "price": 10.625,
-      "change_percent": 7.43,
-      "volume": 7189848,
-      "avg_volume_3m": 16495300,
-      "relative_volume": 0.44,
-      "market_cap": 2318342144,
+      "symbol": "RPM",
+      "name": "RPM International Inc.",
+      "price": 107.43,
+      "change_percent": 5.81,
+      "volume": 1613260,
+      "avg_volume_3m": 863896,
+      "relative_volume": 1.87,
+      "market_cap": 13759170560,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +7.4% 상승, 거래량 3개월 평균 대비 0.4배",
-      "score": 3.24
+      "reason": "장중 +5.8% 상승, 거래량 3개월 평균 대비 1.9배",
+      "score": 10.85
     },
     {
-      "symbol": "ORLA",
-      "name": "Orla Mining Ltd.",
-      "price": 9.655,
-      "change_percent": 6.69,
-      "volume": 1506220,
-      "avg_volume_3m": 3415975,
-      "relative_volume": 0.44,
-      "market_cap": 3623644416,
-      "exchange": "NYSE American",
+      "symbol": "ONDS",
+      "name": "Ondas Inc",
+      "price": 8.0,
+      "change_percent": 4.44,
+      "volume": 171868206,
+      "avg_volume_3m": 83190969,
+      "relative_volume": 2.07,
+      "market_cap": 4558708736,
+      "exchange": "NasdaqCM",
+      "sources": [
+        "day_gainers",
+        "most_actives"
+      ],
+      "reason": "장중 +4.4% 상승, 거래량 3개월 평균 대비 2.1배, 거래대금 상위 종목",
+      "score": 9.17
+    },
+    {
+      "symbol": "EQNR",
+      "name": "Equinor ASA",
+      "price": 39.96,
+      "change_percent": 6.3,
+      "volume": 5199195,
+      "avg_volume_3m": 3898833,
+      "relative_volume": 1.33,
+      "market_cap": 94964670464,
+      "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +6.7% 상승, 거래량 3개월 평균 대비 0.4배",
-      "score": 2.95
+      "reason": "장중 +6.3% 상승, 거래량 3개월 평균 대비 1.3배",
+      "score": 8.41
+    },
+    {
+      "symbol": "FBP",
+      "name": "First BanCorp. New",
+      "price": 28.86,
+      "change_percent": 4.41,
+      "volume": 2747526,
+      "avg_volume_3m": 1456219,
+      "relative_volume": 1.89,
+      "market_cap": 4406183424,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +4.4% 상승, 거래량 3개월 평균 대비 1.9배",
+      "score": 8.33
+    },
+    {
+      "symbol": "WFRD",
+      "name": "Weatherford International plc",
+      "price": 87.11,
+      "change_percent": 4.55,
+      "volume": 2313425,
+      "avg_volume_3m": 1348322,
+      "relative_volume": 1.72,
+      "market_cap": 6248748032,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +4.5% 상승, 거래량 3개월 평균 대비 1.7배",
+      "score": 7.8
+    },
+    {
+      "symbol": "DELL",
+      "name": "Dell Technologies Inc.",
+      "price": 441.8,
+      "change_percent": 9.32,
+      "volume": 7151847,
+      "avg_volume_3m": 8699440,
+      "relative_volume": 0.82,
+      "market_cap": 285465706496,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +9.3% 상승, 거래량 3개월 평균 대비 0.8배",
+      "score": 7.66
     }
   ]
 }
