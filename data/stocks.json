@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T01:04:27+09:00",
+  "updated_at": "2026-07-24T18:14:19+09:00",
   "disclaimer": "이 목록은 공개 시세 데이터(거래량, 변동률)를 기준으로 자동 정렬한 결과이며 특정 종목의 매수/매도를 추천하지 않습니다. 투자 판단과 책임은 본인에게 있습니다.",
   "criteria": {
     "min_price": 5.0,
@@ -11,245 +11,245 @@
   },
   "candidates": [
     {
-      "symbol": "ACI",
-      "name": "Albertsons Companies, Inc.",
-      "price": 11.1518,
-      "change_percent": -23.59,
-      "volume": 23710701,
-      "avg_volume_3m": 6880500,
-      "relative_volume": 3.45,
-      "market_cap": 5461911040,
-      "exchange": "NYSE",
-      "sources": [
-        "most_actives"
-      ],
-      "reason": "장중 -23.6% 하락, 거래량 3개월 평균 대비 3.4배, 거래대금 상위 종목",
-      "score": 81.3
-    },
-    {
       "symbol": "NVCR",
       "name": "NovoCure Limited",
-      "price": 19.4736,
-      "change_percent": 25.07,
-      "volume": 4137349,
-      "avg_volume_3m": 1711293,
-      "relative_volume": 2.42,
-      "market_cap": 2255450880,
+      "price": 19.99,
+      "change_percent": 28.39,
+      "volume": 8933610,
+      "avg_volume_3m": 1827950,
+      "relative_volume": 4.89,
+      "market_cap": 2315260672,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +25.1% 상승, 거래량 3개월 평균 대비 2.4배",
-      "score": 60.61
+      "reason": "장중 +28.4% 상승, 거래량 3개월 평균 대비 4.9배",
+      "score": 138.74
+    },
+    {
+      "symbol": "ACI",
+      "name": "Albertsons Companies, Inc.",
+      "price": 11.44,
+      "change_percent": -21.64,
+      "volume": 46134314,
+      "avg_volume_3m": 7539904,
+      "relative_volume": 6.12,
+      "market_cap": 5603064832,
+      "exchange": "NYSE",
+      "sources": [
+        "most_actives"
+      ],
+      "reason": "장중 -21.6% 하락, 거래량 3개월 평균 대비 6.1배, 거래대금 상위 종목",
+      "score": 132.43
+    },
+    {
+      "symbol": "IMAX",
+      "name": "Imax Corporation",
+      "price": 43.96,
+      "change_percent": 11.86,
+      "volume": 6404448,
+      "avg_volume_3m": 1239290,
+      "relative_volume": 5.17,
+      "market_cap": 2410859264,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +11.9% 상승, 거래량 3개월 평균 대비 5.2배",
+      "score": 61.28
     },
     {
       "symbol": "CLF",
       "name": "Cleveland-Cliffs Inc.",
-      "price": 11.1869,
-      "change_percent": 18.38,
-      "volume": 30175582,
-      "avg_volume_3m": 19000018,
-      "relative_volume": 1.59,
-      "market_cap": 6381171712,
+      "price": 10.96,
+      "change_percent": 15.98,
+      "volume": 67264781,
+      "avg_volume_3m": 19779556,
+      "relative_volume": 3.4,
+      "market_cap": 6251744768,
       "exchange": "NYSE",
       "sources": [
         "day_gainers",
         "most_actives"
       ],
-      "reason": "장중 +18.4% 상승, 거래량 3개월 평균 대비 1.6배, 거래대금 상위 종목",
-      "score": 29.19
+      "reason": "장중 +16.0% 상승, 거래량 3개월 평균 대비 3.4배, 거래대금 상위 종목",
+      "score": 54.34
     },
     {
       "symbol": "STM",
       "name": "STMicroelectronics N.V.",
-      "price": 54.38,
-      "change_percent": -17.32,
-      "volume": 20537504,
-      "avg_volume_3m": 12264586,
-      "relative_volume": 1.67,
-      "market_cap": 48512626688,
+      "price": 53.49,
+      "change_percent": -18.67,
+      "volume": 31422189,
+      "avg_volume_3m": 12586480,
+      "relative_volume": 2.5,
+      "market_cap": 47718653952,
       "exchange": "NYSE",
       "sources": [
         "most_actives"
       ],
-      "reason": "장중 -17.3% 하락, 거래량 3개월 평균 대비 1.7배, 거래대금 상위 종목",
-      "score": 29.0
-    },
-    {
-      "symbol": "IMAX",
-      "name": "Imax Corporation",
-      "price": 43.42,
-      "change_percent": 10.48,
-      "volume": 2946288,
-      "avg_volume_3m": 1154549,
-      "relative_volume": 2.55,
-      "market_cap": 2388790016,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +10.5% 상승, 거래량 3개월 평균 대비 2.6배",
-      "score": 26.75
-    },
-    {
-      "symbol": "QS",
-      "name": "QuantumScape Corporation",
-      "price": 5.05,
-      "change_percent": -13.96,
-      "volume": 34159164,
-      "avg_volume_3m": 25247301,
-      "relative_volume": 1.35,
-      "market_cap": 3106482688,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "most_actives"
-      ],
-      "reason": "장중 -14.0% 하락, 거래량 3개월 평균 대비 1.4배, 거래대금 상위 종목",
-      "score": 18.89
-    },
-    {
-      "symbol": "TSLA",
-      "name": "Tesla, Inc.",
-      "price": 325.1701,
-      "change_percent": -13.06,
-      "volume": 63505404,
-      "avg_volume_3m": 47337077,
-      "relative_volume": 1.34,
-      "market_cap": 1221249073152,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "most_actives"
-      ],
-      "reason": "장중 -13.1% 하락, 거래량 3개월 평균 대비 1.3배, 거래대금 상위 종목",
-      "score": 17.52
-    },
-    {
-      "symbol": "ALLE",
-      "name": "Allegion plc",
-      "price": 157.29,
-      "change_percent": 12.39,
-      "volume": 1519164,
-      "avg_volume_3m": 1175121,
-      "relative_volume": 1.29,
-      "market_cap": 13516851200,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +12.4% 상승, 거래량 3개월 평균 대비 1.3배",
-      "score": 16.02
+      "reason": "장중 -18.7% 하락, 거래량 3개월 평균 대비 2.5배, 거래대금 상위 종목",
+      "score": 46.61
     },
     {
       "symbol": "DGX",
       "name": "Quest Diagnostics Incorporated",
-      "price": 225.215,
-      "change_percent": 7.33,
-      "volume": 1861348,
-      "avg_volume_3m": 866062,
-      "relative_volume": 2.15,
-      "market_cap": 24930496512,
+      "price": 227.9,
+      "change_percent": 8.61,
+      "volume": 3750691,
+      "avg_volume_3m": 912712,
+      "relative_volume": 4.11,
+      "market_cap": 25068998656,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +7.3% 상승, 거래량 3개월 평균 대비 2.1배",
-      "score": 15.76
+      "reason": "장중 +8.6% 상승, 거래량 3개월 평균 대비 4.1배",
+      "score": 35.39
     },
     {
-      "symbol": "EQPT",
-      "name": "EquipmentShare.com Inc",
-      "price": 19.35,
-      "change_percent": 11.59,
-      "volume": 3387702,
-      "avg_volume_3m": 2672380,
-      "relative_volume": 1.27,
-      "market_cap": 4883458560,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +11.6% 상승, 거래량 3개월 평균 대비 1.3배",
-      "score": 14.69
-    },
-    {
-      "symbol": "LMT",
-      "name": "Lockheed Martin Corporation",
-      "price": 572.77,
-      "change_percent": 11.36,
-      "volume": 1602448,
-      "avg_volume_3m": 1308806,
-      "relative_volume": 1.22,
-      "market_cap": 132059930624,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +11.4% 상승, 거래량 3개월 평균 대비 1.2배",
-      "score": 13.9
-    },
-    {
-      "symbol": "TMO",
-      "name": "Thermo Fisher Scientific Inc",
-      "price": 577.45,
-      "change_percent": 9.69,
-      "volume": 3185887,
-      "avg_volume_3m": 2301432,
-      "relative_volume": 1.38,
-      "market_cap": 214592831488,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +9.7% 상승, 거래량 3개월 평균 대비 1.4배",
-      "score": 13.41
-    },
-    {
-      "symbol": "URI",
-      "name": "United Rentals, Inc.",
-      "price": 1162.89,
-      "change_percent": 12.35,
-      "volume": 500960,
-      "avg_volume_3m": 515008,
-      "relative_volume": 0.97,
-      "market_cap": 72851054592,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +12.4% 상승, 거래량 3개월 평균 대비 1.0배",
-      "score": 12.01
-    },
-    {
-      "symbol": "GOOGL",
-      "name": "Alphabet Inc.",
-      "price": 318.9,
-      "change_percent": -6.78,
-      "volume": 39504156,
-      "avg_volume_3m": 32358460,
-      "relative_volume": 1.22,
-      "market_cap": 3891400278016,
+      "symbol": "TSLA",
+      "name": "Tesla, Inc.",
+      "price": 319.69,
+      "change_percent": -14.52,
+      "volume": 113736601,
+      "avg_volume_3m": 48445154,
+      "relative_volume": 2.35,
+      "market_cap": 1262630862848,
       "exchange": "NasdaqGS",
       "sources": [
         "most_actives"
       ],
-      "reason": "장중 -6.8% 하락, 거래량 3개월 평균 대비 1.2배, 거래대금 상위 종목",
-      "score": 8.28
+      "reason": "장중 -14.5% 하락, 거래량 3개월 평균 대비 2.3배, 거래대금 상위 종목",
+      "score": 34.1
     },
     {
-      "symbol": "SLG",
-      "name": "SL Green Realty Corp",
-      "price": 53.12,
-      "change_percent": 5.99,
-      "volume": 1513851,
-      "avg_volume_3m": 1109783,
-      "relative_volume": 1.36,
-      "market_cap": 4090388736,
+      "symbol": "QS",
+      "name": "QuantumScape Corporation",
+      "price": 5.115,
+      "change_percent": -12.86,
+      "volume": 63670420,
+      "avg_volume_3m": 25873641,
+      "relative_volume": 2.46,
+      "market_cap": 3146467072,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "most_actives"
+      ],
+      "reason": "장중 -12.9% 하락, 거래량 3개월 평균 대비 2.5배, 거래대금 상위 종목",
+      "score": 31.65
+    },
+    {
+      "symbol": "EQPT",
+      "name": "EquipmentShare.com Inc",
+      "price": 19.4,
+      "change_percent": 11.88,
+      "volume": 6635728,
+      "avg_volume_3m": 2736435,
+      "relative_volume": 2.42,
+      "market_cap": 4896076800,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +11.9% 상승, 거래량 3개월 평균 대비 2.4배",
+      "score": 28.81
+    },
+    {
+      "symbol": "ALLE",
+      "name": "Allegion plc",
+      "price": 154.57,
+      "change_percent": 10.45,
+      "volume": 3123878,
+      "avg_volume_3m": 1220182,
+      "relative_volume": 2.56,
+      "market_cap": 13144136704,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +6.0% 상승, 거래량 3개월 평균 대비 1.4배",
-      "score": 8.16
+      "reason": "장중 +10.4% 상승, 거래량 3개월 평균 대비 2.6배",
+      "score": 26.75
+    },
+    {
+      "symbol": "WEX",
+      "name": "WEX Inc.",
+      "price": 171.47,
+      "change_percent": 10.14,
+      "volume": 1574680,
+      "avg_volume_3m": 619419,
+      "relative_volume": 2.54,
+      "market_cap": 5944546816,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +10.1% 상승, 거래량 3개월 평균 대비 2.5배",
+      "score": 25.78
+    },
+    {
+      "symbol": "LMT",
+      "name": "Lockheed Martin Corporation",
+      "price": 568.59,
+      "change_percent": 10.54,
+      "volume": 2972616,
+      "avg_volume_3m": 1340506,
+      "relative_volume": 2.22,
+      "market_cap": 130775703552,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +10.5% 상승, 거래량 3개월 평균 대비 2.2배",
+      "score": 23.38
+    },
+    {
+      "symbol": "TMO",
+      "name": "Thermo Fisher Scientific Inc",
+      "price": 572.32,
+      "change_percent": 8.71,
+      "volume": 5800404,
+      "avg_volume_3m": 2357956,
+      "relative_volume": 2.46,
+      "market_cap": 212686405632,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +8.7% 상승, 거래량 3개월 평균 대비 2.5배",
+      "score": 21.43
+    },
+    {
+      "symbol": "URI",
+      "name": "United Rentals, Inc.",
+      "price": 1139.71,
+      "change_percent": 10.11,
+      "volume": 1038489,
+      "avg_volume_3m": 526145,
+      "relative_volume": 1.97,
+      "market_cap": 70938386432,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +10.1% 상승, 거래량 3개월 평균 대비 2.0배",
+      "score": 19.96
+    },
+    {
+      "symbol": "SLG",
+      "name": "SL Green Realty Corp",
+      "price": 53.61,
+      "change_percent": 6.96,
+      "volume": 2779637,
+      "avg_volume_3m": 1141419,
+      "relative_volume": 2.44,
+      "market_cap": 4128120064,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +7.0% 상승, 거래량 3개월 평균 대비 2.4배",
+      "score": 16.96
     }
   ]
 }
