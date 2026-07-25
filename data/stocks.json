@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-25T00:18:05+09:00",
+  "updated_at": "2026-07-25T16:36:44+09:00",
   "disclaimer": "이 목록은 공개 시세 데이터(거래량, 변동률)를 기준으로 자동 정렬한 결과이며 특정 종목의 매수/매도를 추천하지 않습니다. 투자 판단과 책임은 본인에게 있습니다.",
   "criteria": {
     "min_price": 5.0,
@@ -13,244 +13,245 @@
     {
       "symbol": "RNG",
       "name": "Ringcentral, Inc.",
-      "price": 47.96,
-      "change_percent": 24.14,
-      "volume": 4044824,
-      "avg_volume_3m": 1769785,
-      "relative_volume": 2.29,
-      "market_cap": 4021858816,
+      "price": 48.31,
+      "change_percent": 25.09,
+      "volume": 8430019,
+      "avg_volume_3m": 1885133,
+      "relative_volume": 4.47,
+      "market_cap": 4051209472,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +24.1% 상승, 거래량 3개월 평균 대비 2.3배",
-      "score": 55.18
+      "reason": "장중 +25.1% 상승, 거래량 3개월 평균 대비 4.5배",
+      "score": 112.2
     },
     {
       "symbol": "THC",
       "name": "Tenet Healthcare Corporation",
-      "price": 241.01,
-      "change_percent": 21.1,
-      "volume": 1995990,
-      "avg_volume_3m": 1456300,
-      "relative_volume": 1.37,
-      "market_cap": 20759877632,
+      "price": 233.2,
+      "change_percent": 17.17,
+      "volume": 4316007,
+      "avg_volume_3m": 1507664,
+      "relative_volume": 2.86,
+      "market_cap": 20087148544,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +21.1% 상승, 거래량 3개월 평균 대비 1.4배",
-      "score": 28.92
+      "reason": "장중 +17.2% 상승, 거래량 3개월 평균 대비 2.9배",
+      "score": 49.16
     },
     {
       "symbol": "DLR",
       "name": "Digital Realty Trust, Inc.",
-      "price": 206.095,
-      "change_percent": 14.92,
-      "volume": 5320864,
-      "avg_volume_3m": 2789119,
-      "relative_volume": 1.91,
-      "market_cap": 77547159552,
+      "price": 199.08,
+      "change_percent": 11.01,
+      "volume": 10741889,
+      "avg_volume_3m": 2917737,
+      "relative_volume": 3.68,
+      "market_cap": 74907631616,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +14.9% 상승, 거래량 3개월 평균 대비 1.9배",
-      "score": 28.46
-    },
-    {
-      "symbol": "WKC",
-      "name": "World Kinect Corporation",
-      "price": 40.13,
-      "change_percent": 10.64,
-      "volume": 1821550,
-      "avg_volume_3m": 997890,
-      "relative_volume": 1.83,
-      "market_cap": 2060894336,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +10.6% 상승, 거래량 3개월 평균 대비 1.8배",
-      "score": 19.43
-    },
-    {
-      "symbol": "BAH",
-      "name": "Booz Allen Hamilton Holding Cor",
-      "price": 75.495,
-      "change_percent": 14.61,
-      "volume": 1713713,
-      "avg_volume_3m": 2113249,
-      "relative_volume": 0.81,
-      "market_cap": 9054420992,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +14.6% 상승, 거래량 3개월 평균 대비 0.8배",
-      "score": 11.85
-    },
-    {
-      "symbol": "MBLY",
-      "name": "Mobileye Global Inc.",
-      "price": 8.305,
-      "change_percent": 11.18,
-      "volume": 5627589,
-      "avg_volume_3m": 6666744,
-      "relative_volume": 0.84,
-      "market_cap": 6994355712,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +11.2% 상승, 거래량 3개월 평균 대비 0.8배",
-      "score": 9.44
-    },
-    {
-      "symbol": "SLB",
-      "name": "SLB Limited",
-      "price": 51.67,
-      "change_percent": 9.42,
-      "volume": 12935583,
-      "avg_volume_3m": 13919632,
-      "relative_volume": 0.93,
-      "market_cap": 77249626112,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers",
-        "most_actives"
-      ],
-      "reason": "장중 +9.4% 상승, 거래량 3개월 평균 대비 0.9배, 거래대금 상위 종목",
-      "score": 8.76
-    },
-    {
-      "symbol": "SAP",
-      "name": "SAP  SE",
-      "price": 160.12,
-      "change_percent": 9.39,
-      "volume": 2898014,
-      "avg_volume_3m": 3109481,
-      "relative_volume": 0.93,
-      "market_cap": 188770648064,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +9.4% 상승, 거래량 3개월 평균 대비 0.9배",
-      "score": 8.75
-    },
-    {
-      "symbol": "SSNC",
-      "name": "SS&C Technologies Holdings, Inc",
-      "price": 74.36,
-      "change_percent": 11.07,
-      "volume": 1427528,
-      "avg_volume_3m": 2244542,
-      "relative_volume": 0.64,
-      "market_cap": 17908418560,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +11.1% 상승, 거래량 3개월 평균 대비 0.6배",
-      "score": 7.04
-    },
-    {
-      "symbol": "SGRY",
-      "name": "Surgery Partners, Inc.",
-      "price": 16.245,
-      "change_percent": 6.73,
-      "volume": 1419136,
-      "avg_volume_3m": 1445673,
-      "relative_volume": 0.98,
-      "market_cap": 2124653824,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +6.7% 상승, 거래량 3개월 평균 대비 1.0배",
-      "score": 6.61
-    },
-    {
-      "symbol": "HIMS",
-      "name": "Hims & Hers Health, Inc.",
-      "price": 29.535,
-      "change_percent": -9.79,
-      "volume": 12068417,
-      "avg_volume_3m": 19009162,
-      "relative_volume": 0.63,
-      "market_cap": 6836103168,
-      "exchange": "NYSE",
-      "sources": [
-        "most_actives"
-      ],
-      "reason": "장중 -9.8% 하락, 거래량 3개월 평균 대비 0.6배, 거래대금 상위 종목",
-      "score": 6.21
+      "reason": "장중 +11.0% 상승, 거래량 3개월 평균 대비 3.7배",
+      "score": 40.52
     },
     {
       "symbol": "FRMI",
       "name": "Fermi Inc.",
-      "price": 6.94,
-      "change_percent": 9.81,
-      "volume": 9763597,
-      "avg_volume_3m": 17850793,
-      "relative_volume": 0.55,
-      "market_cap": 4428298240,
+      "price": 7.4,
+      "change_percent": 17.09,
+      "volume": 38201154,
+      "avg_volume_3m": 18215503,
+      "relative_volume": 2.1,
+      "market_cap": 4721816576,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers",
         "most_actives"
       ],
-      "reason": "장중 +9.8% 상승, 거래량 3개월 평균 대비 0.5배, 거래대금 상위 종목",
-      "score": 5.37
+      "reason": "장중 +17.1% 상승, 거래량 3개월 평균 대비 2.1배, 거래대금 상위 종목",
+      "score": 35.84
     },
     {
-      "symbol": "VRSN",
-      "name": "VeriSign, Inc.",
-      "price": 275.815,
-      "change_percent": 5.44,
-      "volume": 762713,
-      "avg_volume_3m": 812357,
-      "relative_volume": 0.94,
-      "market_cap": 25099165696,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +5.4% 상승, 거래량 3개월 평균 대비 0.9배",
-      "score": 5.11
-    },
-    {
-      "symbol": "NBIS",
-      "name": "Nebius Group N.V.",
-      "price": 200.0,
-      "change_percent": -9.49,
-      "volume": 9081643,
-      "avg_volume_3m": 18156973,
-      "relative_volume": 0.5,
-      "market_cap": 50779639808,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "most_actives"
-      ],
-      "reason": "장중 -9.5% 하락, 거래량 3개월 평균 대비 0.5배, 거래대금 상위 종목",
-      "score": 4.75
-    },
-    {
-      "symbol": "REXR",
-      "name": "Rexford Industrial Realty, Inc.",
-      "price": 38.23,
-      "change_percent": 6.25,
-      "volume": 1597534,
-      "avg_volume_3m": 2386386,
-      "relative_volume": 0.67,
-      "market_cap": 8845063168,
+      "symbol": "OII",
+      "name": "Oceaneering International, Inc.",
+      "price": 52.73,
+      "change_percent": 9.81,
+      "volume": 3951050,
+      "avg_volume_3m": 1101766,
+      "relative_volume": 3.59,
+      "market_cap": 5248198144,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +6.3% 상승, 거래량 3개월 평균 대비 0.7배",
-      "score": 4.19
+      "reason": "장중 +9.8% 상승, 거래량 3개월 평균 대비 3.6배",
+      "score": 35.17
+    },
+    {
+      "symbol": "CLF",
+      "name": "Cleveland-Cliffs Inc.",
+      "price": 11.93,
+      "change_percent": 8.85,
+      "volume": 69852797,
+      "avg_volume_3m": 20594974,
+      "relative_volume": 3.39,
+      "market_cap": 6806542848,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers",
+        "most_actives"
+      ],
+      "reason": "장중 +8.9% 상승, 거래량 3개월 평균 대비 3.4배, 거래대금 상위 종목",
+      "score": 30.02
+    },
+    {
+      "symbol": "SXT",
+      "name": "Sensient Technologies Corporati",
+      "price": 126.79,
+      "change_percent": 8.34,
+      "volume": 1789717,
+      "avg_volume_3m": 531920,
+      "relative_volume": 3.36,
+      "market_cap": 5397318656,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +8.3% 상승, 거래량 3개월 평균 대비 3.4배",
+      "score": 28.06
+    },
+    {
+      "symbol": "REXR",
+      "name": "Rexford Industrial Realty, Inc.",
+      "price": 39.0,
+      "change_percent": 8.39,
+      "volume": 6672050,
+      "avg_volume_3m": 2471754,
+      "relative_volume": 2.7,
+      "market_cap": 8916780032,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +8.4% 상승, 거래량 3개월 평균 대비 2.7배",
+      "score": 22.66
+    },
+    {
+      "symbol": "HIMS",
+      "name": "Hims & Hers Health, Inc.",
+      "price": 28.09,
+      "change_percent": -14.2,
+      "volume": 28334862,
+      "avg_volume_3m": 19161587,
+      "relative_volume": 1.48,
+      "market_cap": 6501646848,
+      "exchange": "NYSE",
+      "sources": [
+        "most_actives"
+      ],
+      "reason": "장중 -14.2% 하락, 거래량 3개월 평균 대비 1.5배, 거래대금 상위 종목",
+      "score": 21.0
+    },
+    {
+      "symbol": "IP",
+      "name": "International Paper Company",
+      "price": 42.16,
+      "change_percent": 11.21,
+      "volume": 11959693,
+      "avg_volume_3m": 6467869,
+      "relative_volume": 1.85,
+      "market_cap": 22324434944,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +11.2% 상승, 거래량 3개월 평균 대비 1.8배",
+      "score": 20.73
+    },
+    {
+      "symbol": "SLB",
+      "name": "SLB Limited",
+      "price": 52.42,
+      "change_percent": 11.01,
+      "volume": 26285090,
+      "avg_volume_3m": 14161224,
+      "relative_volume": 1.86,
+      "market_cap": 77791281152,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers",
+        "most_actives"
+      ],
+      "reason": "장중 +11.0% 상승, 거래량 3개월 평균 대비 1.9배, 거래대금 상위 종목",
+      "score": 20.44
+    },
+    {
+      "symbol": "BAH",
+      "name": "Booz Allen Hamilton Holding Cor",
+      "price": 72.53,
+      "change_percent": 10.11,
+      "volume": 4282055,
+      "avg_volume_3m": 2148282,
+      "relative_volume": 1.99,
+      "market_cap": 8698815488,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +10.1% 상승, 거래량 3개월 평균 대비 2.0배",
+      "score": 20.15
+    },
+    {
+      "symbol": "SW",
+      "name": "Smurfit WestRock plc",
+      "price": 48.56,
+      "change_percent": 11.1,
+      "volume": 8921201,
+      "avg_volume_3m": 5574304,
+      "relative_volume": 1.6,
+      "market_cap": 25467975680,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +11.1% 상승, 거래량 3개월 평균 대비 1.6배",
+      "score": 17.76
+    },
+    {
+      "symbol": "SAP",
+      "name": "SAP  SE",
+      "price": 160.0,
+      "change_percent": 9.3,
+      "volume": 5948444,
+      "avg_volume_3m": 3159408,
+      "relative_volume": 1.88,
+      "market_cap": 188629172224,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +9.3% 상승, 거래량 3개월 평균 대비 1.9배",
+      "score": 17.52
+    },
+    {
+      "symbol": "VRSN",
+      "name": "VeriSign, Inc.",
+      "price": 280.0,
+      "change_percent": 7.04,
+      "volume": 2032492,
+      "avg_volume_3m": 832987,
+      "relative_volume": 2.44,
+      "market_cap": 25312000000,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +7.0% 상승, 거래량 3개월 평균 대비 2.4배",
+      "score": 17.18
     }
   ]
 }
