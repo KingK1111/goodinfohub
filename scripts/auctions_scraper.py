@@ -146,19 +146,35 @@ def main():
     args = parser.parse_args()
 
     listings, errors = fetch_all(args.districts, headless=not args.show_browser)
+    now_iso = datetime.now(KST).isoformat(timespec="seconds")
 
-    payload = {
-        "updated_at": datetime.now(KST).isoformat(timespec="seconds"),
-        "districts": args.districts,
-        "items": listings,
-        "errors": errors,
-    }
+    if listings:
+        payload = {
+            "updated_at": now_iso,
+            "last_attempt_at": now_iso,
+            "districts": args.districts,
+            "items": listings,
+            "errors": errors,
+        }
+        print(f"{len(listings)}건 수집, {len(errors)}건 오류 -> {OUTPUT_PATH}")
+    else:
+        # 전부 실패한 경우 기존에 수집해둔 데이터를 비우지 않고 유지한다.
+        previous = {}
+        if os.path.exists(OUTPUT_PATH):
+            with open(OUTPUT_PATH, "r", encoding="utf-8") as f:
+                previous = json.load(f)
+        payload = {
+            "updated_at": previous.get("updated_at"),
+            "last_attempt_at": now_iso,
+            "districts": args.districts,
+            "items": previous.get("items", []),
+            "errors": errors,
+        }
+        print(f"수집 실패({len(errors)}건 오류) - 기존 데이터 유지 -> {OUTPUT_PATH}")
 
     os.makedirs(DATA_DIR, exist_ok=True)
     with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
         json.dump(payload, f, ensure_ascii=False, indent=2)
-
-    print(f"{len(listings)}건 수집, {len(errors)}건 오류 -> {OUTPUT_PATH}")
 
 
 if __name__ == "__main__":
