@@ -42,7 +42,11 @@ function initTabs() {
 
 function renderAuctions(data) {
   const meta = document.getElementById("auctions-meta");
-  meta.textContent = `업데이트: ${fmtDate(data.updated_at)} · 대상 지역: ${data.districts.join(", ")} · 총 ${data.items.length}건`;
+  const staleNotice =
+    data.last_attempt_at && data.last_attempt_at !== data.updated_at
+      ? ` · 최근 시도(수집 실패): ${fmtDate(data.last_attempt_at)}`
+      : "";
+  meta.textContent = `업데이트: ${fmtDate(data.updated_at)} · 대상 지역: ${data.districts.join(", ")} · 총 ${data.items.length}건${staleNotice}`;
 
   const container = document.getElementById("auctions-content");
   container.innerHTML = "";
