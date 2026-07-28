@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-07-28T15:37:48+09:00",
+  "updated_at": "2026-07-28T17:24:42+09:00",
   "quote": {
     "symbol": "META",
     "price": 593.87,
-    "previous_close": 594.15,
-    "change": -0.28,
-    "change_percent": -0.05,
+    "previous_close": 595.74,
+    "change": -1.87,
+    "change_percent": -0.31,
     "currency": "USD",
     "day_high": 611.260009765625,
     "day_low": 593.1300048828125,
@@ -25,16 +25,16 @@
       "published": "Mon, 27 Jul 2026 13:04:20 GMT"
     },
     {
-      "title": "7 Red Days In A Row: Meta Platforms Stock Is Down 13% - Trefis",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaFVrVG1SVmNIZkQzOVIyUFZCeEo5UjA0VEhfOU1zb3I3YzhaQWVzdTZ1ajVfNEg4bUdKMWlfMEpNeUc1eXJXZmlnc3dXbVFDWkxDemV5Wk13c0Z6TUo2S0dNaURuaVFicG5fVW8zTnBoT0xnZVJKX2s1NnpYMWhLREpHUzdlcEhNZVFLTnV1a3BiQUpNdFk3eWR2d0tOM2ZyWG5ZMWU1WVo1S3JPX2NSem1n?oc=5",
-      "source": "Trefis",
-      "published": "Mon, 27 Jul 2026 08:47:39 GMT"
-    },
-    {
       "title": "Meta Platforms: Time To Be Greedy (NASDAQ:META) - Seeking Alpha",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1OWWxBWTZvNU1PeVkwY0I5dmJHaTBtbnY1eGh1X1hGcTdJZGQ4TmF1bjlKa2p1cWNkejlxcWlpSktodGFyUWNsWjEyMDZVUXR6N1F4bVlRTEdnTjZEYVRmTWJDNEFqNXBfczQ3Rk1FLU41MXBuUW9OY0wwZDNSUQ?oc=5",
       "source": "Seeking Alpha",
       "published": "Mon, 27 Jul 2026 21:33:44 GMT"
+    },
+    {
+      "title": "7 Red Days In A Row: Meta Platforms Stock Is Down 13% - Trefis",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaFVrVG1SVmNIZkQzOVIyUFZCeEo5UjA0VEhfOU1zb3I3YzhaQWVzdTZ1ajVfNEg4bUdKMWlfMEpNeUc1eXJXZmlnc3dXbVFDWkxDemV5Wk13c0Z6TUo2S0dNaURuaVFicG5fVW8zTnBoT0xnZVJKX2s1NnpYMWhLREpHUzdlcEhNZVFLTnV1a3BiQUpNdFk3eWR2d0tOM2ZyWG5ZMWU1WVo1S3JPX2NSem1n?oc=5",
+      "source": "Trefis",
+      "published": "Mon, 27 Jul 2026 08:47:39 GMT"
     },
     {
       "title": "Meta Stock Slides Ahead of Q2 Earnings as AI Spending, Ad Growth Stay in Focus - TradingKey",
@@ -47,6 +47,12 @@
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxON2lub1N5OUlRTFJ4ZmR4ZzBJVjNBamlDR1dNX2NZMTdXek0xU3JYb1NOMWVNNmpadEVaV080UnhHa1E0NGxxVnp5Q1FXQWFuVmxIVVQ0SXFRV0VzYUF2b3V5VGRJWmFRdlZaeURWODQ1REZ5RDJWM0NMRXNjMDRDZ0ZNbjNLWmdSRFY5Yml4UG5Iak90SjFkUEp6ODFuUEk?oc=5",
       "source": "Morningstar",
       "published": "Wed, 22 Jul 2026 11:03:56 GMT"
+    },
+    {
+      "title": "Meta Platforms, Inc. $META Shares Sold by Arrow Capital Management LLC - MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRDc3cXNET09hUzBqWTNqeGlxaHFDM0luM1lsUXpVdmRQTnEwc2hVamNLaWFBcUszY2lyVXk0MjF4SEFyaE9OQV83M1RnWmRkT3BGVlVkMjM5T2Iwd2NyMjdCTzlJWE5XZW4zNk9ZZWZnd2xvOHpWNWkyaktTd1pxb3BNZ3NwYTZ5RThLUVFKMGxST1F3S05hQkh2UGtRQ1BJMDZIUkxqZ1E3a1gyUnJ5LXFlMVV0dTM0NnRabmhGSjFiWlE1VFo0?oc=5",
+      "source": "MarketBeat",
+      "published": "Tue, 28 Jul 2026 07:45:13 GMT"
     },
     {
       "title": "Meta Platforms Stock Edges Higher Ahead of Earnings Test - Benzinga",
@@ -67,16 +73,16 @@
       "published": "Mon, 27 Jul 2026 17:31:00 GMT"
     },
     {
-      "title": "Meta Earnings Preview: Can 33% Ad Growth Outrun a $145 Billion Capex Bill? - tastylive",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbEtBRHBfTnk5Wk9NUkZJUFVHMWotb3phR2NNMFJ5YmVzVFdjREtRWnlLaE9yaENLMDFCakkyT3FMWlZ3bXpsZVJWam5lakdBQVNtTlFYcTg4WktfdG85cExRbnhGQjJjX0kxanJleE4tSnk5UjFDZWpUZGpOZExVWXpoY3F3Ujd0SDJHS3daS3EweFpYTmFfZkJhOEsxZ3ZRQlNlQ2tNTjg2bzhZUjFlbg?oc=5",
-      "source": "tastylive",
-      "published": "Mon, 27 Jul 2026 17:07:17 GMT"
-    },
-    {
       "title": "Meta Stock Is Down Nearly 10% in 2026. Should You Buy Before July 29 Q2 Earnings? - 24/7 Wall St.",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbGlzOFdVdHNkN1RWSkVob2NwUG16bG5JbzRzMTlka0Y2a09fSmlIdUl4Y3VuUThuLTBIOXVvZ1lsX19mc0VVclhpYTZtNUZjdTMzUndDYVQ5dmZpeHpER3gzRzBldEtibmEyenpNdnZuek1pMnlxVk9zWnFpaFgwZUF5YkozeHBlWXBwRVZDR2R6dzVKZDBscVV5ajlld3BVUWJmQzUtSkFvMDJTZExIUllxV0tKQVY2a0JBbS1wYw?oc=5",
       "source": "24/7 Wall St.",
       "published": "Sat, 25 Jul 2026 16:35:49 GMT"
+    },
+    {
+      "title": "Meta Earnings Preview: Can 33% Ad Growth Outrun a $145 Billion Capex Bill? - tastylive",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbEtBRHBfTnk5Wk9NUkZJUFVHMWotb3phR2NNMFJ5YmVzVFdjREtRWnlLaE9yaENLMDFCakkyT3FMWlZ3bXpsZVJWam5lakdBQVNtTlFYcTg4WktfdG85cExRbnhGQjJjX0kxanJleE4tSnk5UjFDZWpUZGpOZExVWXpoY3F3Ujd0SDJHS3daS3EweFpYTmFfZkJhOEsxZ3ZRQlNlQ2tNTjg2bzhZUjFlbg?oc=5",
+      "source": "tastylive",
+      "published": "Mon, 27 Jul 2026 17:07:17 GMT"
     },
     {
       "title": "Cathie Wood Just Poured $18 Million Into Meta Stock. Here’s Why. - Barchart.com",
@@ -85,16 +91,16 @@
       "published": "Sat, 25 Jul 2026 15:30:02 GMT"
     },
     {
-      "title": "Meta Platforms, Inc. $META Shares Sold by Westpac Banking Corp - MarketBeat",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMThHbmlTZ29lWTB4S0tOSF9uSGdWSzdCWFY5SXpJV245Tmg5bHlEZ1psZVE4VEtzeU9HS3VTa0prUjhZRGZXdEpfcEJvYkpLTEF6MmQ0d1h6dzlhWkVvTi05THlaMzNJYTh1MUl3bTJkWFdhSTdpQlc3Nnc0eUlCblJWMjN6SUNCUmZKU3AzOTF4VDJ2bzRfcDVWNTh1ZW0yUUI4QkQwNlVBV2dqU1BMQXFKSjFQWmJ3cG1Qbg?oc=5",
-      "source": "MarketBeat",
-      "published": "Mon, 27 Jul 2026 10:52:13 GMT"
-    },
-    {
       "title": "Ahead of Earnings, Is Meta Stock a Buy, a Sell, or Fairly Valued? - Morningstar",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeTZ0bmFSWHdSWjg1TzVXcjA1M1RFbFp6aVNydGVZdTdtOGpsanppMFJBUHE5Sm05NFJiNnJmRDJkVzlZMWJ5VnpiWEc0anJ6VVRfdHN6dXE1M2FXREdYX2tkNjhkUm55U01adVMwMHMxN2lvSlNoTWpiRTlQOVhjanRxZWRZb2U4aEl4c19WNkJSbllLeXc?oc=5",
       "source": "Morningstar",
       "published": "Wed, 22 Jul 2026 10:04:17 GMT"
+    },
+    {
+      "title": "Caxton Associates LLP Has $201.39 Million Position in Meta Platforms, Inc. $META - MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcXZKdTA4SzJGS2FlVFM2Wkh4Rko3cmZ3VldtNG44amVXTXBBRng3dEVJMHdVWnJPWGw2dEdSMUx1WVl2RUxwNTBzbXVxdVU3aFdGNHhEMUJwazJXYnBZMDVCZzFSWEhULWxWM18tNXI3M3hsMnZhVHZmdFBhMHZ0cnZyWTBZY0t1Zks1ZnNmbWFENlJlQnlQMkN5V2RubWpQMnJnem5VMjhCLXk5U1lLVXM0U1E3QktqbTRZRHpjWms0M0FORTk2Q1B0M2JnYm5RalE?oc=5",
+      "source": "MarketBeat",
+      "published": "Tue, 28 Jul 2026 07:45:17 GMT"
     },
     {
       "title": "Microsoft and Meta Platforms Are Negative in 2026. Here's My Favorite One to Buy Now. - Yahoo Finance",
@@ -109,12 +115,6 @@
       "published": "Mon, 27 Jul 2026 15:24:35 GMT"
     },
     {
-      "title": "Meta Earnings Put AI Spending and Ad Growth Back in Focus - MarketBeat",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOY210ZWY1eW1OVkhKN0hob2VjdWJFQmJpWHFfYTJPQ3RxSW82V3AwQ0EwNk1oNS1NeC1XQ1NtWG82cG5qcFFQUVZFNm1LUzNfR0hfMm1QZU9uUkJKd0ladUl3S1Nfdms0dzhFZ1ZJNTVpSERBLVdXbEZYZEJxYnhfam5DbXR3S0RLcGJvWXZvR01zTk5UbFFjNkRn?oc=5",
-      "source": "MarketBeat",
-      "published": "Mon, 27 Jul 2026 12:13:03 GMT"
-    },
-    {
       "title": "Meta’s Q2 Earnings: Strong Revenue Expected, But AI Spending Could Limit Stock Gains - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaTlLY044V3pQOUlpSnoxd1M0V3VmSW9nelEyNVBOSXJIZXpxc3MzVi00bDZUM081NDJmVkV2amNaYWhZVXB6OENtU196WGk0VEpDUGpLTnQzcGxYUEdxcnlzRHBlMXNBSlBWMkFwUGI1ZFBObVJDQlVMNGZfUm1mbEpnbmhXX1dTLVktOFM0dGdwdFRWc3lfZTNxS1Y?oc=5",
       "source": "Yahoo Finance",
@@ -127,10 +127,10 @@
       "published": "Fri, 17 Jul 2026 07:00:00 GMT"
     },
     {
-      "title": "More AI Fatigue? Why I'm Doubly Confident To Load Up on Meta Before Earnings on July 29 - 24/7 Wall St.",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaWVUX2RmSzFhSG1xSXE2dGVveXFYMUl1bDV5N0ZIX0o2dGxlSjZiQ3I3NWpBMzFCZmI1Tlo2UXc4VVFzZ0lGeTVxXzVTeHRMRlBoQjM4SVFaRkF3NWR2cFZSeG1ndW8tbnhJR1lub1FiYzNyTzBVMWpkb0lZdUZtVUdvcGtyVUd2YldKNnlyZnc2OTBGTDYxNGdhZmxPQ3hZLWhnTGxNeWo5SF9CUzhfUThydUpfREV5WWRyc21xV0ZqZ205YUpnUw?oc=5",
-      "source": "24/7 Wall St.",
-      "published": "Mon, 27 Jul 2026 14:56:14 GMT"
+      "title": "Meta Platforms (META) Stock Forecast & Analyst Ratings - Moomoo",
+      "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxONTdQajFFNHFBVUVLRHk2dDJrYVBBeHRQZ3ppN2tJNktTWlpMTG5xZ0NBdDNLNjFTMktUWU9UN0NnRHNyR1M3NVpCY1VhdjFRNkktcTVlbV9vcl83Qzd3bHZnNzhxR0RGSVVnbmsyOEVFdWpYXzF5Y3FkcjVvWG1ySGtYZ3VEQlc2VW53a3ctU25zYkpLMTY4WG1fdDBPX1VtVXdKT1FYWVNmZ1JkSlBRWDlyOHBCYk9BSk0waUVhUVFQWTNJUWtpMjQySDZBYVFtQ1lVZmtacU5aS3hIeVRKbTBRWlNXbFJNRlVuenRUMXVlS1RFdC01aXNYLXVUcG9FdEpKSnk1NzJody1kdWRxdjVQWUhuOFhBMHZJZXFwdzM4MXBuSkZaMm1JT3EyNDluckhNMVBkSnBOSnE3MkUwRnpR?oc=5",
+      "source": "Moomoo",
+      "published": "Fri, 24 Jul 2026 20:01:55 GMT"
     }
   ]
 }
