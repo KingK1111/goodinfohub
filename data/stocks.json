@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-28T21:19:57+09:00",
+  "updated_at": "2026-07-29T01:57:22+09:00",
   "disclaimer": "이 목록은 공개 시세 데이터(거래량, 변동률)를 기준으로 자동 정렬한 결과이며 특정 종목의 매수/매도를 추천하지 않습니다. 투자 판단과 책임은 본인에게 있습니다.",
   "criteria": {
     "min_price": 5.0,
@@ -11,246 +11,245 @@
   },
   "candidates": [
     {
-      "symbol": "RNG",
-      "name": "Ringcentral, Inc.",
-      "price": 53.7,
-      "change_percent": 11.16,
-      "volume": 4902662,
-      "avg_volume_3m": 1968278,
-      "relative_volume": 2.49,
-      "market_cap": 4503207424,
+      "symbol": "ITRI",
+      "name": "Itron, Inc.",
+      "price": 99.58,
+      "change_percent": 17.46,
+      "volume": 2634287,
+      "avg_volume_3m": 688513,
+      "relative_volume": 3.83,
+      "market_cap": 4415312384,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +17.5% 상승, 거래량 3개월 평균 대비 3.8배",
+      "score": 66.79
+    },
+    {
+      "symbol": "KNSA",
+      "name": "Kiniksa Pharmaceuticals Interna",
+      "price": 78.59,
+      "change_percent": 23.7,
+      "volume": 1683412,
+      "avg_volume_3m": 734042,
+      "relative_volume": 2.29,
+      "market_cap": 6046558208,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +23.7% 상승, 거래량 3개월 평균 대비 2.3배",
+      "score": 54.34
+    },
+    {
+      "symbol": "GLW",
+      "name": "Corning Incorporated",
+      "price": 121.11,
+      "change_percent": -15.52,
+      "volume": 31449499,
+      "avg_volume_3m": 14761736,
+      "relative_volume": 2.13,
+      "market_cap": 104231845888,
+      "exchange": "NYSE",
+      "sources": [
+        "most_actives"
+      ],
+      "reason": "장중 -15.5% 하락, 거래량 3개월 평균 대비 2.1배, 거래대금 상위 종목",
+      "score": 33.07
+    },
+    {
+      "symbol": "IQV",
+      "name": "IQVIA Holdings, Inc.",
+      "price": 241.48,
+      "change_percent": 13.25,
+      "volume": 3018415,
+      "avg_volume_3m": 1621059,
+      "relative_volume": 1.86,
+      "market_cap": 40303009792,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +11.2% 상승, 거래량 3개월 평균 대비 2.5배",
-      "score": 27.79
+      "reason": "장중 +13.3% 상승, 거래량 3개월 평균 대비 1.9배",
+      "score": 24.68
     },
     {
-      "symbol": "BMNR",
-      "name": "BitMine Immersion Technologies,",
-      "price": 17.92,
-      "change_percent": 13.49,
-      "volume": 61089710,
-      "avg_volume_3m": 37590309,
-      "relative_volume": 1.63,
-      "market_cap": 10809816064,
-      "exchange": "NYSE",
+      "symbol": "JBLU",
+      "name": "JetBlue Airways Corporation",
+      "price": 6.155,
+      "change_percent": 13.35,
+      "volume": 46564336,
+      "avg_volume_3m": 28434162,
+      "relative_volume": 1.64,
+      "market_cap": 2289776384,
+      "exchange": "NasdaqGS",
       "sources": [
         "day_gainers",
         "most_actives"
       ],
-      "reason": "장중 +13.5% 상승, 거래량 3개월 평균 대비 1.6배, 거래대금 상위 종목",
-      "score": 21.92
+      "reason": "장중 +13.4% 상승, 거래량 3개월 평균 대비 1.6배, 거래대금 상위 종목",
+      "score": 21.87
     },
     {
-      "symbol": "RHI",
-      "name": "Robert Half Inc.",
-      "price": 39.74,
-      "change_percent": 12.61,
-      "volume": 3510217,
-      "avg_volume_3m": 2282321,
-      "relative_volume": 1.54,
-      "market_cap": 4065147392,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +12.6% 상승, 거래량 3개월 평균 대비 1.5배",
-      "score": 19.39
-    },
-    {
-      "symbol": "JBS",
-      "name": "JBS N.V.",
-      "price": 13.55,
-      "change_percent": 10.34,
-      "volume": 11237456,
-      "avg_volume_3m": 7183609,
-      "relative_volume": 1.56,
-      "market_cap": 44566568960,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +10.3% 상승, 거래량 3개월 평균 대비 1.6배",
-      "score": 16.18
-    },
-    {
-      "symbol": "LW",
-      "name": "Lamb Weston Holdings, Inc.",
-      "price": 53.11,
-      "change_percent": 7.12,
-      "volume": 3783994,
-      "avg_volume_3m": 1669018,
-      "relative_volume": 2.27,
-      "market_cap": 7300258304,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +7.1% 상승, 거래량 3개월 평균 대비 2.3배",
-      "score": 16.14
-    },
-    {
-      "symbol": "VG",
-      "name": "Venture Global, Inc.",
-      "price": 12.82,
-      "change_percent": -10.41,
-      "volume": 19883533,
-      "avg_volume_3m": 16651411,
-      "relative_volume": 1.19,
-      "market_cap": 31849469952,
-      "exchange": "NYSE",
-      "sources": [
-        "most_actives"
-      ],
-      "reason": "장중 -10.4% 하락, 거래량 3개월 평균 대비 1.2배, 거래대금 상위 종목",
-      "score": 12.43
-    },
-    {
-      "symbol": "DJT",
-      "name": "Trump Media & Technology Group ",
-      "price": 9.56,
-      "change_percent": 11.68,
-      "volume": 4888587,
-      "avg_volume_3m": 4624626,
-      "relative_volume": 1.06,
-      "market_cap": 2647678720,
-      "exchange": "NasdaqGM",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +11.7% 상승, 거래량 3개월 평균 대비 1.1배",
-      "score": 12.35
-    },
-    {
-      "symbol": "INFY",
-      "name": "Infosys Limited",
-      "price": 11.7,
-      "change_percent": 5.31,
-      "volume": 47792484,
-      "avg_volume_3m": 21244985,
-      "relative_volume": 2.25,
-      "market_cap": 47386443776,
-      "exchange": "NYSE",
-      "sources": [
-        "most_actives"
-      ],
-      "reason": "장중 +5.3% 상승, 거래량 3개월 평균 대비 2.2배, 거래대금 상위 종목",
-      "score": 11.95
-    },
-    {
-      "symbol": "W",
-      "name": "Wayfair Inc.",
-      "price": 94.53,
-      "change_percent": 12.3,
-      "volume": 3689494,
-      "avg_volume_3m": 3966204,
-      "relative_volume": 0.93,
-      "market_cap": 12477628416,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +12.3% 상승, 거래량 3개월 평균 대비 0.9배",
-      "score": 11.44
-    },
-    {
-      "symbol": "ZBIO",
-      "name": "Zenas BioPharma, Inc.",
-      "price": 32.82,
-      "change_percent": 8.0,
-      "volume": 1131823,
-      "avg_volume_3m": 797811,
-      "relative_volume": 1.42,
-      "market_cap": 2072037376,
+      "symbol": "RGEN",
+      "name": "Repligen Corporation",
+      "price": 151.72,
+      "change_percent": 15.76,
+      "volume": 1437589,
+      "avg_volume_3m": 1214336,
+      "relative_volume": 1.18,
+      "market_cap": 8558182400,
       "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +15.8% 상승, 거래량 3개월 평균 대비 1.2배",
+      "score": 18.66
+    },
+    {
+      "symbol": "LBRT",
+      "name": "Liberty Energy Inc.",
+      "price": 18.04,
+      "change_percent": 7.0,
+      "volume": 8643178,
+      "avg_volume_3m": 3992924,
+      "relative_volume": 2.16,
+      "market_cap": 2943973376,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +7.0% 상승, 거래량 3개월 평균 대비 2.2배",
+      "score": 15.15
+    },
+    {
+      "symbol": "INCY",
+      "name": "Incyte Corporation",
+      "price": 130.07,
+      "change_percent": 9.42,
+      "volume": 2642902,
+      "avg_volume_3m": 1742421,
+      "relative_volume": 1.52,
+      "market_cap": 25985667072,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +9.4% 상승, 거래량 3개월 평균 대비 1.5배",
+      "score": 14.29
+    },
+    {
+      "symbol": "TRU",
+      "name": "TransUnion",
+      "price": 85.64,
+      "change_percent": 10.88,
+      "volume": 3003870,
+      "avg_volume_3m": 2374232,
+      "relative_volume": 1.27,
+      "market_cap": 16511391744,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +10.9% 상승, 거래량 3개월 평균 대비 1.3배",
+      "score": 13.76
+    },
+    {
+      "symbol": "UL",
+      "name": "Unilever PLC",
+      "price": 66.2814,
+      "change_percent": 8.0,
+      "volume": 5536257,
+      "avg_volume_3m": 4003849,
+      "relative_volume": 1.38,
+      "market_cap": 142717075456,
+      "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +8.0% 상승, 거래량 3개월 평균 대비 1.4배",
-      "score": 11.34
+      "score": 11.07
     },
     {
-      "symbol": "SHOP",
-      "name": "Shopify Inc.",
-      "price": 126.88,
-      "change_percent": 11.54,
-      "volume": 10181217,
-      "avg_volume_3m": 10373447,
-      "relative_volume": 0.98,
-      "market_cap": 164646420480,
+      "symbol": "NBIS",
+      "name": "Nebius Group N.V.",
+      "price": 171.33,
+      "change_percent": -8.81,
+      "volume": 18524258,
+      "avg_volume_3m": 18354893,
+      "relative_volume": 1.01,
+      "market_cap": 43500376064,
       "exchange": "NasdaqGS",
       "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +11.5% 상승, 거래량 3개월 평균 대비 1.0배",
-      "score": 11.33
-    },
-    {
-      "symbol": "IONQ",
-      "name": "IonQ, Inc.",
-      "price": 35.92,
-      "change_percent": 9.38,
-      "volume": 28154533,
-      "avg_volume_3m": 27515357,
-      "relative_volume": 1.02,
-      "market_cap": 13407855616,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers",
         "most_actives"
       ],
-      "reason": "장중 +9.4% 상승, 거래량 3개월 평균 대비 1.0배, 거래대금 상위 종목",
-      "score": 9.6
+      "reason": "장중 -8.8% 하락, 거래량 3개월 평균 대비 1.0배, 거래대금 상위 종목",
+      "score": 8.89
     },
     {
-      "symbol": "SAP",
-      "name": "SAP  SE",
-      "price": 171.01,
-      "change_percent": 6.88,
-      "volume": 4326072,
-      "avg_volume_3m": 3185129,
-      "relative_volume": 1.36,
-      "market_cap": 201609216000,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +6.9% 상승, 거래량 3개월 평균 대비 1.4배",
-      "score": 9.35
-    },
-    {
-      "symbol": "HUBS",
-      "name": "HubSpot, Inc.",
-      "price": 223.01,
-      "change_percent": 8.84,
-      "volume": 1949515,
-      "avg_volume_3m": 1909495,
-      "relative_volume": 1.02,
-      "market_cap": 11416039424,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +8.8% 상승, 거래량 3개월 평균 대비 1.0배",
-      "score": 9.03
-    },
-    {
-      "symbol": "VERX",
-      "name": "Vertex, Inc.",
-      "price": 12.64,
-      "change_percent": 6.49,
-      "volume": 2311661,
-      "avg_volume_3m": 1727760,
-      "relative_volume": 1.34,
-      "market_cap": 2045366016,
+      "symbol": "NVTS",
+      "name": "Navitas Semiconductor Corporati",
+      "price": 10.19,
+      "change_percent": -10.69,
+      "volume": 18160855,
+      "avg_volume_3m": 28207903,
+      "relative_volume": 0.64,
+      "market_cap": 2481826560,
       "exchange": "NasdaqGM",
       "sources": [
+        "most_actives"
+      ],
+      "reason": "장중 -10.7% 하락, 거래량 3개월 평균 대비 0.6배, 거래대금 상위 종목",
+      "score": 6.88
+    },
+    {
+      "symbol": "FDS",
+      "name": "FactSet Research Systems Inc.",
+      "price": 285.58,
+      "change_percent": 7.4,
+      "volume": 883447,
+      "avg_volume_3m": 953213,
+      "relative_volume": 0.93,
+      "market_cap": 10156807168,
+      "exchange": "NYSE",
+      "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +6.5% 상승, 거래량 3개월 평균 대비 1.3배",
-      "score": 8.68
+      "reason": "장중 +7.4% 상승, 거래량 3개월 평균 대비 0.9배",
+      "score": 6.86
+    },
+    {
+      "symbol": "SHW",
+      "name": "Sherwin-Williams Company (The)",
+      "price": 353.39,
+      "change_percent": 7.98,
+      "volume": 1914123,
+      "avg_volume_3m": 2365636,
+      "relative_volume": 0.81,
+      "market_cap": 87158562816,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +8.0% 상승, 거래량 3개월 평균 대비 0.8배",
+      "score": 6.46
+    },
+    {
+      "symbol": "ERIC",
+      "name": "Ericsson",
+      "price": 9.9601,
+      "change_percent": 3.0,
+      "volume": 23611918,
+      "avg_volume_3m": 11472665,
+      "relative_volume": 2.06,
+      "market_cap": 32705804288,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "most_actives"
+      ],
+      "reason": "장중 +3.0% 상승, 거래량 3개월 평균 대비 2.1배, 거래대금 상위 종목",
+      "score": 6.17
     }
   ]
 }
