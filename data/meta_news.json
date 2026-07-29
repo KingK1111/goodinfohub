@@ -1,17 +1,35 @@
 {
-  "updated_at": "2026-07-29T01:57:20+09:00",
+  "updated_at": "2026-07-29T17:30:29+09:00",
   "quote": {
     "symbol": "META",
-    "price": 594.91,
-    "previous_close": 595.74,
-    "change": -0.83,
-    "change_percent": -0.14,
+    "price": 593.41,
+    "previous_close": 597.37,
+    "change": -3.96,
+    "change_percent": -0.66,
     "currency": "USD",
     "day_high": 601.0,
     "day_low": 587.0,
-    "market_cap": 1510133339612.0923
+    "market_cap": 1506325704656.0923
   },
   "articles": [
+    {
+      "title": "9 Red Days In A Row: Meta Platforms Stock Is Down 13% - Trefis",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMzJ0a1ptNUZGWDhvdDZDQlRSY2dwV05tUzNJVWJwUFJpWDZ2NVVoeEJjZm42Mk1xZXpmdWE0dWh1akVXWml4RzdQd05SeGlMckdrOVFOYXV1ekIzZTVnMjZfMmNLT2FNN0o5YkVCaEpGdkJxaE5menNRSTVibHc1S1FnVk5VQ3lJLTdhMm9NZjhFWU5YeVl3Q1JobDZrYUpmLWp1OWlOZE9udUFfOVRINzVB?oc=5",
+      "source": "Trefis",
+      "published": "Wed, 29 Jul 2026 07:31:10 GMT"
+    },
+    {
+      "title": "Why Investors Should Wait For Meta’s Post Earnings Dip - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOVBsS1M4UjJpT3dOQVBWa1JTZGZyN1M0SDl6dzY0cFZQOHhDN3NqWUtGbkNwdk9HSmsxeTRNRmQtTC1feWdicjloeGpzWWZFLUhHZG1QQ2J6QjhaM1ZIR0xBY3hMWmhReEg0TkNscHM0WVJwS3VwNW9Od0FDandEdXRKYWRSd1lnX3pXRExIRUIyT3lCQ0Q5Um9fSzhPQQ?oc=5",
+      "source": "24/7 Wall St.",
+      "published": "Tue, 28 Jul 2026 18:45:26 GMT"
+    },
+    {
+      "title": "Should You Buy Meta Platforms Stock Before July 29? Wall Street Has a Clear Answer for Investors. - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUVRKOGs4SmhtbWpSR3A1Y1VNbkUtdk5jVVJTQ0NjZVpaV29HU1E5M25ENTA5alowNUdsLVBCdFVqTzBndWR2MFduMWdfU05ud3Y4TVZULUd2Y3Y2QXRrT0ZVT3RmWVZiV1pnRnItYlJOM2VKSjNFdlRFUTZ4d0pwVURmUEF2TzZqa3FpSjRjQ1BxUi1ERHlPbFhn?oc=5",
+      "source": "Yahoo Finance",
+      "published": "Tue, 28 Jul 2026 09:15:00 GMT"
+    },
     {
       "title": "Ahead of Meta Earnings, Here's What Barchart Data Says Comes Next for META Stock - Barchart.com",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcVJBUFBpVm5Qc0JSOExHNndIbnNFUEVYcDV4bEc3VlNoM0dnWkgyUlUtY05OdWJaTXpJYm45YkFoN1lzS0ptTUkyZnBwcUhQajBiSXd1czViMzVuRUo4Ni10MTdHQU5KNmlWRFRKa1lfc0MwWWdpeTBWMzN2NjBMSmhhYjRuRlhzaHBNNHpoc0ZvdVJFM0RVRnppcWlJV0RZaEZKczNOMVQwbVJVekFlazhYSUdSR3lRc1dEZXRrcVE?oc=5",
@@ -25,10 +43,10 @@
       "published": "Tue, 28 Jul 2026 15:57:00 GMT"
     },
     {
-      "title": "8 Red Days In A Row: Meta Platforms Stock Is Down 13% - Trefis",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTWtmU2pJQlRFT3d6TXVxdjIyMjBjd2VNR1VLeDI5YldRRFNtNXhzR2tvSkN0Smw5RXRFM3BxQkszZndfOWZKWWx5RnJia255NTlmbkhVNFY2WTVOTDlVV0FZRVZWRWtaUTFfUTJJY0ZxcnVRSEZUaEVUUXc1UHItOGlKcUJsOEZIWkM0Z2V3Y1dVUnlfcTJFTUppTE50TGNXc3VxaEU1aGN1c2FTRnRTWHdxMkNSZ2t4Rm9RbGJvQWpDREFU?oc=5",
-      "source": "Trefis",
-      "published": "Tue, 28 Jul 2026 09:22:10 GMT"
+      "title": "Meta Platforms, Inc. $META Shares Sold by Compound Planning Inc. - MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNX2lrMEF3bExSYXlGXzdEVVdnN09kcEFxdUJiaFVEV0xMSlNOMDFzcWotTmpVR1U0YS1vY3lwdHlzNTZ0MEE1d3NfemxhUUhMeWZ1MjJXTXJQWXRCVnRRcENlUC1QSHQwNE90VkZkS3hRd3pGNkoyMTJEekxqMEZwMTliQUNYZG40RXNsQmhVQS1IejMzT3pQWVZ3QXdjRVFXUV9MZEMza0gzZy1wMFZtNEtIbjUyd1QxY1FNTkRB?oc=5",
+      "source": "MarketBeat",
+      "published": "Wed, 29 Jul 2026 08:14:05 GMT"
     },
     {
       "title": "Should You Buy Meta Platforms Stock Before July 29? Wall Street Has a Clear Answer for Investors. - The Motley Fool",
@@ -37,28 +55,10 @@
       "published": "Tue, 28 Jul 2026 09:55:00 GMT"
     },
     {
-      "title": "Should You Buy Meta Platforms Stock Before July 29? Wall Street Has a Clear Answer for Investors. - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUVRKOGs4SmhtbWpSR3A1Y1VNbkUtdk5jVVJTQ0NjZVpaV29HU1E5M25ENTA5alowNUdsLVBCdFVqTzBndWR2MFduMWdfU05ud3Y4TVZULUd2Y3Y2QXRrT0ZVT3RmWVZiV1pnRnItYlJOM2VKSjNFdlRFUTZ4d0pwVURmUEF2TzZqa3FpSjRjQ1BxUi1ERHlPbFhn?oc=5",
-      "source": "Yahoo Finance",
-      "published": "Tue, 28 Jul 2026 09:15:00 GMT"
-    },
-    {
-      "title": "Moody’s says Meta stock faces risks from BlackRock AI venture - Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPakFLREljLU9FWVpkZmR5RGE2UmNJQXd0VW1wWG5meV9SUlV2RlM0b1RpWmphUExxYXJkdTBhdmdMcnFxUTUzSVJKYzBVaHJjU0VaUnhuLWhweXVXUEM0Q2NpSzV6SVhLaWRzcmtRNHd4MzhpSWJUNFhMb3dyZTFybkRzQzZmOUhLbUFDUTQ4cVhpZHota09YSzZTRTRGSEJMcHBMcjBielRyNU11NEVrMFZUbi1hajZEampEYnZRaw?oc=5",
-      "source": "Investing.com",
-      "published": "Tue, 28 Jul 2026 14:10:53 GMT"
-    },
-    {
-      "title": "Meta earnings setup: Options market prices in nearly 7% stock swing post-Q2 - Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOUR3RnZ0OWE2MkpPMjZkbm8zak9GZUdzcnVGSVpjekhRUWRKMEsxMzc2bnZ3cTlkY29mWFNFdmYtME9JWlp4Wnl2RHhpVlFwdzZ0THQ5TFVsWlFrcVNqYkpmUlRwUllIOVdIZGd0TTh0alFGdGtjMlRUdENZYUdOTnkxdmQtUGh2Zzk5Y0hQNlNUbmF0d0hLRXFoSGV3ejFSQThkcTIwQkhPd1Jqa3FuSA?oc=5",
-      "source": "Seeking Alpha",
-      "published": "Tue, 28 Jul 2026 16:01:06 GMT"
-    },
-    {
-      "title": "Why Is Meta Platforms Stock Gaining Tuesday? - Meta Platforms (NASDAQ:META) - Benzinga",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZ25KWkdQalhCZjFkNTQxZWZrTlpRTzgwUWRQal81SmMwbEVzVDl1Ry1yVTJ1bE5WVzh4WnI0TThNOTByZWR6SXlieWZUTFhmMktnX041WGJmdXd2dFVNbTd2NkdHQ0dPYkRtSmtqOEFTVGdwcVItWG42NGJIemYtTDVfN1ZILVdaTW5VTkhCVnd3Q2FvTTdsZ1RVNzR4bVE0NmotdFk1TWd4MHFUcmtBX2dOZ09MQmh6M1hyVGxxdURzUGc?oc=5",
+      "title": "Meta Platforms Q2 Preview: Key Items to Watch to Turn Stock Around After Earnings - Benzinga",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdXhzdVVXelN1NU0tSTluV3VwYmRQS2tDYllRRWhjZFM2eWV5LXhOcU5FX0ZaVTNZNjlaQUxsWUJybHZJaTdoZVUxcVRmYk4tZ0hkY3EzanVxcUVPTlgtdjR6NzF4TGM0RXN5c0dVOFlHTG1KWmFuWFhBWDRyM05RYmpVa1FpalJTV3I4cFdqLW9BMUhwN3lJQ0RIVl9fcktCd21DYUp1OEtWRmFUbnp0M0pkUGx4MTJrcUFkTVpHWHhxVVQ3NWc?oc=5",
       "source": "Benzinga",
-      "published": "Tue, 28 Jul 2026 11:10:39 GMT"
+      "published": "Tue, 28 Jul 2026 17:52:16 GMT"
     },
     {
       "title": "Meta Reports Earnings Wednesday. Here’s How Much Traders Expect Its Stock to Move - Investopedia",
@@ -67,46 +67,28 @@
       "published": "Mon, 27 Jul 2026 21:05:25 GMT"
     },
     {
-      "title": "Ahead of Earnings, Is Meta Stock a Buy, a Sell, or Fairly Valued? - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbC1OOEstaXFmVENOTW1SVUdtanhXYkRYcWx5c2NUOXVyTVpqcG54bHlKYXZUMkFocUtvXzZtblhoME0ycjVaeWNBSV9OX3FJTHd0TDJiOTh5cXdzdDI5Y1NqdHNXWGVVMkZyTWZIVDloR28yY2lZRC1xRnBfMndDbElSRXg3ZXZtLVh0Rm56VGpPdlQ4TlpqYndKSTdoYjA?oc=5",
-      "source": "Morningstar",
-      "published": "Wed, 22 Jul 2026 10:47:03 GMT"
-    },
-    {
-      "title": "Meta Platforms (NASDAQ:META) COO Sells $540,576.45 in Stock - MarketBeat",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdDhZY3RrM2VyQUh2TmhtSFB0ejlCV3RsaWVXVjVYR3ZBNTlDem1LeFRGMDV5M19XZVpYeW5qYVh1eHlNZERxSHFVWmpZd3k2aEZZb204UXNnbldXbFZFS3N4TEt6WEZqR2x0dUY1bXpuUGNPTWMzWlU0YV9QZ0t0bHA4VGVTUlpfbHVaU05WbXduYTFSaHJJYWVfaTNWWjFuR3laYUNkcDdWRVU?oc=5",
-      "source": "MarketBeat",
-      "published": "Tue, 28 Jul 2026 16:36:03 GMT"
-    },
-    {
       "title": "Meta Q2 Earnings Loom: Buy, Sell or Hold META Stock Ahead of Results? - TradingView",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRlc4OUxPNFpram90ZVVUNUd0ODdUeXUtXzREYUh3VFJ6VkpIMGwwb0VQRkhnWkZFRFVBSUxFRFRQQ2R1Rnd0TTlmV0c3aDVFTGt5a2hBRFI4eFRxbkp1czdSVDBzWVl4aF9jcXdRZ0Y4cVF6U0hLc3NNRUhXODY2eVpjbV9JTUpVbmVJaHJZUDAzdC1ZSVlqWVRndmpoUUY0eG82eGRNMTgwd2Q0TWplX3BEN2VuM3lPWXJPcmJKOA?oc=5",
       "source": "TradingView",
       "published": "Mon, 27 Jul 2026 16:25:00 GMT"
     },
     {
-      "title": "Dear Meta Platforms Stock Fans, Mark Your Calendars for July 29 - Barchart.com",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNkhpa2JKSm9ncjNZT3Z1N244bVdXNm1ESkJqS3Jhc3ltSzVhZzRFaGVTS3JxYU5hU0pDTjNzX2tQMDlONnM1QUNERWlRVFhGUW5vT1FPNXRVdGlNamNVeTYtY29FUEZXaEtPb0tUTmpFMmJvMEIwUEdNZmJjVmw3NkhRdWdvYmtSX2RHYlQ2RUtrcUZxdTIwUEpHQ2ZJVGJXeGNIZ0Q1QmlSQQ?oc=5",
-      "source": "Barchart.com",
-      "published": "Tue, 28 Jul 2026 14:32:16 GMT"
-    },
-    {
-      "title": "7 Red Days In A Row: Meta Platforms Stock Is Down 13% - Trefis",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaFVrVG1SVmNIZkQzOVIyUFZCeEo5UjA0VEhfOU1zb3I3YzhaQWVzdTZ1ajVfNEg4bUdKMWlfMEpNeUc1eXJXZmlnc3dXbVFDWkxDemV5Wk13c0Z6TUo2S0dNaURuaVFicG5fVW8zTnBoT0xnZVJKX2s1NnpYMWhLREpHUzdlcEhNZVFLTnV1a3BiQUpNdFk3eWR2d0tOM2ZyWG5ZMWU1WVo1S3JPX2NSem1n?oc=5",
+      "title": "Meta Platforms Stock In Shambles: Down 13% With 9-Day Losing Streak - Trefis",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOc3FmU3hqaGdIeXhkS2E5YjdTWWRaekw1SWc2Qk1xdE1nV2lpZ21MRy1UX3lYaFAyWGoxdmxxSm1jTHpBR0hsYm9SYjNCUl9mU2NFMlRiT3NYRzhqVXlFaDRVdDNfd1VGY3VIQ3VIdTVzRWhtV3BzNmZzdnJ0WWE5VWtKQU9INHVpTkc2UXJta3RoUllFT1VrSjBwSHZCck9UVVJnSnEzb0IyVm4yWnJMekJER1JtWlpkdy1LbU94VG9MXy1jZzdNWWxUblRjNWQy?oc=5",
       "source": "Trefis",
-      "published": "Mon, 27 Jul 2026 08:47:39 GMT"
+      "published": "Wed, 29 Jul 2026 07:59:15 GMT"
     },
     {
-      "title": "Ahead of Earnings, Is Meta Stock a Buy, a Sell, or Fairly Valued? - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxON2lub1N5OUlRTFJ4ZmR4ZzBJVjNBamlDR1dNX2NZMTdXek0xU3JYb1NOMWVNNmpadEVaV080UnhHa1E0NGxxVnp5Q1FXQWFuVmxIVVQ0SXFRV0VzYUF2b3V5VGRJWmFRdlZaeURWODQ1REZ5RDJWM0NMRXNjMDRDZ0ZNbjNLWmdSRFY5Yml4UG5Iak90SjFkUEp6ODFuUEk?oc=5",
-      "source": "Morningstar",
-      "published": "Wed, 22 Jul 2026 11:03:56 GMT"
+      "title": "Good News For Meta Stock Fans - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOVhJczlZTmdxVE9hai1XLXlGd1lhLWVuVkhsd2M1NTRKSjJsNzQ0TF9fclcxQ05XY0tSYmJscFd6UVoxUG1ZdEZZQmNJd2RxY2V0TlQ0R2ZNdjdNY1plM3lfR2N2anA5bEZyOG1BV21RY1AxMlFveWJuUERfYkJtVFk1UzE1eGZFcDlpek05WFZ0VEMw?oc=5",
+      "source": "Yahoo Finance",
+      "published": "Fri, 24 Jul 2026 23:59:43 GMT"
     },
     {
-      "title": "Meta Platforms: Time To Be Greedy (NASDAQ:META) - Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1OWWxBWTZvNU1PeVkwY0I5dmJHaTBtbnY1eGh1X1hGcTdJZGQ4TmF1bjlKa2p1cWNkejlxcWlpSktodGFyUWNsWjEyMDZVUXR6N1F4bVlRTEdnTjZEYVRmTWJDNEFqNXBfczQ3Rk1FLU41MXBuUW9OY0wwZDNSUQ?oc=5",
-      "source": "Seeking Alpha",
-      "published": "Mon, 27 Jul 2026 21:33:44 GMT"
+      "title": "Meta Platforms, Inc. $META Shares Sold by Cumberland Partners Ltd - MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMldSeHhaSVR2R256QjNEeTVZVFdHc21YX3pCcWZ5dklDenBPOHp3ZDhsYlhaOVJaaS0xZFBRUUhmWU5IQVRaU2JqU3g1MHNGbnRtS0hzYUs3a3BEalFESjZ6dVBOZGs5SC1fbS1IdXdCOGM4OXNBekstTG5OaEdPZGNJRl91ZENsZGNBYU5uQTJlVDhKcjZaS3FZaHpiaEY1al9IZ0F6NXAtZ1ctS1pqT1MxQU9kSTkzeGwtR0NUNDI?oc=5",
+      "source": "MarketBeat",
+      "published": "Wed, 29 Jul 2026 08:00:05 GMT"
     },
     {
       "title": "Is Meta Platforms' Stock a Buy Ahead of Its Q2 Earnings Report? - The Motley Fool",
@@ -115,22 +97,40 @@
       "published": "Mon, 27 Jul 2026 17:31:00 GMT"
     },
     {
-      "title": "Meta Platforms, Inc. $META Shares Sold by Mizuho Markets Americas LLC - MarketBeat",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMGlSRUEtbnJmME1sWmpCTGthUDhwT0ptam44dmRYWU9IcEpSaEpRdUNscWEycTZVZktMUVVOVWxTOUlvZkdXdEFXak8xTTdKZ242bHVxSXR4UXdMVWVmcGdRYjBWYVVhQ1c2eTNoUE9KMDY4VHoxV2I0U3BoTl9ENng1WTdpVVBHOEtYUGFWQU1JX2s1M0pKR2tYOHYwaUJHSkk3R1lTNEg0cnFxcTVTWmhNSHhIemx5RF9ZRFc4aU9HX3VyaHc?oc=5",
-      "source": "MarketBeat",
-      "published": "Tue, 28 Jul 2026 09:13:19 GMT"
+      "title": "7 Red Days In A Row: Meta Platforms Stock Is Down 13% - Trefis",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaFVrVG1SVmNIZkQzOVIyUFZCeEo5UjA0VEhfOU1zb3I3YzhaQWVzdTZ1ajVfNEg4bUdKMWlfMEpNeUc1eXJXZmlnc3dXbVFDWkxDemV5Wk13c0Z6TUo2S0dNaURuaVFicG5fVW8zTnBoT0xnZVJKX2s1NnpYMWhLREpHUzdlcEhNZVFLTnV1a3BiQUpNdFk3eWR2d0tOM2ZyWG5ZMWU1WVo1S3JPX2NSem1n?oc=5",
+      "source": "Trefis",
+      "published": "Mon, 27 Jul 2026 08:47:39 GMT"
     },
     {
-      "title": "Meta's stock falls 15% amid AI investments; pla... - Pluang",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5YSWpMeklHM1A0RUloMmpackt6b2J5NDFaNHlnYTlhV1ZpWC1wQlJHc1V5V2xWWl91WU1hUTVpSTZPOGF1RWxta1poVFRETDVCRGxTSXBzTnNORlZHX3cwdmlqQ1pUMTQ?oc=5",
-      "source": "Pluang",
-      "published": "Tue, 28 Jul 2026 11:04:16 GMT"
+      "title": "Gabelli Funds LLC Lowers Position in Meta Platforms, Inc. $META - MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLTZmUU1XV2MzUnRvV3N6V0FDeEFXVDVNdkdTNnd1dXBaaWFkZndCTGFPbnJHR2YyMGNOTHU3SkQ2bmRnTjBBNjhQem5QWnR1TXJidXg3VHRDek1PVFdfSGRBRUdVU3lJWHB1QVJJdzFieURPR0RVTG8tcmdoT0dJaExaYjZOdkd2OFQ2SGlTZmZNVE9GWUs1QVhiaDZwbWhxdV9qSmRkY0UycVI1YXlCWWstZXg2YW9WSml2MzRn?oc=5",
+      "source": "MarketBeat",
+      "published": "Wed, 29 Jul 2026 07:48:03 GMT"
     },
     {
-      "title": "Liberty One Investment Management LLC Has $4.27 Million Position in Meta Platforms, Inc. $META - MarketBeat",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNN09zRWw5WDNVcW5WVWpoT2VYaWIyOXJ4SG5tNEtDa1g4aXE0YXp0VmRIcTFtQXJUQWk1NC1MX1VIT3JRVDY1NTg1ZmJGMngtajdMMi04R2lzMERnbXY0LUc1UkFSM3hiOUUwbVN1bmIyUC1xb2loUXRaTHhlYkoxd1UxWkhZSWtVMmtXXzNQd3l5VE9obTZlQkdOZ2w3MUNvS2ZoTU5VTl9DTWdWazZ1S3VlNVhsdDJybXdzbGJEZldJd2lVV0ViUGhTbFotLW04ZVBVczBuVkN2bnZ1MmVBb2tza0E?oc=5",
+      "title": "8 Red Days In A Row: Meta Platforms Stock Is Down 13% - Trefis",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMFBDdGlrdXpfVmZqTGhiSFQxdzVhNXc1UWFCcGhTZ2ZuTU03ZmNHZGxMckgtQXhQUW1ETV9GRkV2QUFUSVhKZW1RSW0wRXdHbGNaYnh2TzhKYjkxNmZ0RlR5YjJCdE5faWd1OVNrVktBZE5KY2xaNG0ySl9ia1J3VjdnOE55UDZ2cF9YQThHVGpVb0s1WUE0QXE0MnNKX2pEUFdF?oc=5",
+      "source": "Trefis",
+      "published": "Tue, 28 Jul 2026 09:22:10 GMT"
+    },
+    {
+      "title": "Entropy Technologies LP Takes $14.54 Million Position in Meta Platforms, Inc. $META - MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNk5adnFOWGktMU1rOFZBb0NaOC1QT25NY2sxR3k1OV8ta1ZLSDRoMFo5ZzVqdkxibzk5SnpUanZGVERsV1I2RnBqUExRelc5TWliZVhIcFNTakUzeExENUtCMHJxeDBPSUFOY09rNzNxVThCZWkzd3d3anFPRlgzMmdkUkdmQjNqVHlsVUxZMl8xT2tqT2E1T1psV0dXWUxxN1VudFJtSUl4WHpXTUZzd0VYWXc0WE1ORG5IZ0w5ZUN5UTdlOThlRVhaaTdWZEQxaXJoY2JB?oc=5",
       "source": "MarketBeat",
-      "published": "Tue, 28 Jul 2026 09:45:26 GMT"
+      "published": "Wed, 29 Jul 2026 08:00:05 GMT"
+    },
+    {
+      "title": "Brooklands Fund Management Ltd Has $279,000 Holdings in Meta Platforms, Inc. $META - MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPT3VEQXNDUHpiN3YxX3NlOFY2YnB3SXJ5NXctN3haNDhIZm9DcWRXM016RGtRbndBSE1MMS1hTEtLMTZCWHlwaVE5aHM2TURmM25TWkpWbVRPMTlTWjVDQVJnb09yY3Y4QVVxMllmTW4tNFVsQWdrcmQtUVp3SjZ4SkluazlfUkZpMHc3bTVoMjNfNjZGckJmb1BfdThyUHBrVUNBMnBYQlZ6dnR3ZkZOVUhKTWVIV19NWTJjdkp4b3JRSFBmVXd3aFhfbmpEZ1JPR3VvbQ?oc=5",
+      "source": "MarketBeat",
+      "published": "Wed, 29 Jul 2026 08:14:05 GMT"
+    },
+    {
+      "title": "Dai ichi Life Insurance Company Ltd Grows Position in Meta Platforms, Inc. $META - MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQU1JqOThlVUlncFBRci1HazdOZXZnXzlUUng4Ml9yMjUzdmVtR0ZULURpM2x5d0pEX19sMDFOVnBiZ3pkbTRmaGNQQ25fTkdDVU9BX1MxaFhaQUdndHRobW1qYlhnQ2U4VGllaGRlcWdUNGZLck9WMzJKYUg4ai1iWTE1R0JXQ3hSUGFsaVd6cGJoek5tLTB0RFRxa1N2dTMxRWkzTWJlX0lGaEptOGVGTmZOdUVURXBvODNCc0dZNlhMV2VOaHExY2ZVNlRSQlZ5ck41RQ?oc=5",
+      "source": "MarketBeat",
+      "published": "Wed, 29 Jul 2026 08:00:05 GMT"
     }
   ]
 }
