@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-29T17:30:31+09:00",
+  "updated_at": "2026-07-29T21:34:54+09:00",
   "disclaimer": "이 목록은 공개 시세 데이터(거래량, 변동률)를 기준으로 자동 정렬한 결과이며 특정 종목의 매수/매도를 추천하지 않습니다. 투자 판단과 책임은 본인에게 있습니다.",
   "criteria": {
     "min_price": 5.0,
@@ -16,15 +16,15 @@
       "price": 107.02,
       "change_percent": 26.23,
       "volume": 6379061,
-      "avg_volume_3m": 784358,
-      "relative_volume": 8.13,
+      "avg_volume_3m": 772498,
+      "relative_volume": 8.26,
       "market_cap": 4745197056,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +26.2% 상승, 거래량 3개월 평균 대비 8.1배",
-      "score": 213.35
+      "reason": "장중 +26.2% 상승, 거래량 3개월 평균 대비 8.3배",
+      "score": 216.62
     },
     {
       "symbol": "KNSA",
@@ -32,15 +32,15 @@
       "price": 79.44,
       "change_percent": 25.03,
       "volume": 2838856,
-      "avg_volume_3m": 768561,
-      "relative_volume": 3.69,
+      "avg_volume_3m": 760242,
+      "relative_volume": 3.73,
       "market_cap": 6111955968,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +25.0% 상승, 거래량 3개월 평균 대비 3.7배",
-      "score": 92.47
+      "score": 93.48
     },
     {
       "symbol": "LCID",
@@ -48,8 +48,8 @@
       "price": 7.9,
       "change_percent": 21.54,
       "volume": 39606602,
-      "avg_volume_3m": 19445674,
-      "relative_volume": 2.04,
+      "avg_volume_3m": 19486157,
+      "relative_volume": 2.03,
       "market_cap": 3083028736,
       "exchange": "NasdaqGS",
       "sources": [
@@ -57,7 +57,7 @@
         "most_actives"
       ],
       "reason": "장중 +21.5% 상승, 거래량 3개월 평균 대비 2.0배, 거래대금 상위 종목",
-      "score": 43.87
+      "score": 43.78
     },
     {
       "symbol": "IQV",
@@ -65,7 +65,7 @@
       "price": 242.94,
       "change_percent": 13.94,
       "volume": 4675230,
-      "avg_volume_3m": 1677114,
+      "avg_volume_3m": 1678483,
       "relative_volume": 2.79,
       "market_cap": 39987924992,
       "exchange": "NYSE",
@@ -73,7 +73,7 @@
         "day_gainers"
       ],
       "reason": "장중 +13.9% 상승, 거래량 3개월 평균 대비 2.8배",
-      "score": 38.86
+      "score": 38.82
     },
     {
       "symbol": "GLW",
@@ -81,7 +81,7 @@
       "price": 126.01,
       "change_percent": -12.1,
       "volume": 44125982,
-      "avg_volume_3m": 15266582,
+      "avg_volume_3m": 15291529,
       "relative_volume": 2.89,
       "market_cap": 108322963456,
       "exchange": "NYSE",
@@ -89,7 +89,7 @@
         "most_actives"
       ],
       "reason": "장중 -12.1% 하락, 거래량 3개월 평균 대비 2.9배, 거래대금 상위 종목",
-      "score": 34.98
+      "score": 34.92
     },
     {
       "symbol": "CLS",
@@ -97,15 +97,15 @@
       "price": 350.2,
       "change_percent": 10.04,
       "volume": 7523007,
-      "avg_volume_3m": 2221238,
-      "relative_volume": 3.39,
+      "avg_volume_3m": 2205913,
+      "relative_volume": 3.41,
       "market_cap": 40263581696,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +10.0% 상승, 거래량 3개월 평균 대비 3.4배",
-      "score": 34.01
+      "score": 34.25
     },
     {
       "symbol": "JBLU",
@@ -113,8 +113,8 @@
       "price": 6.0,
       "change_percent": 10.5,
       "volume": 85524503,
-      "avg_volume_3m": 29372416,
-      "relative_volume": 2.91,
+      "avg_volume_3m": 29553373,
+      "relative_volume": 2.89,
       "market_cap": 2232113152,
       "exchange": "NasdaqGS",
       "sources": [
@@ -122,7 +122,7 @@
         "most_actives"
       ],
       "reason": "장중 +10.5% 상승, 거래량 3개월 평균 대비 2.9배, 거래대금 상위 종목",
-      "score": 30.56
+      "score": 30.38
     },
     {
       "symbol": "INCY",
@@ -130,15 +130,15 @@
       "price": 129.93,
       "change_percent": 9.3,
       "volume": 5838894,
-      "avg_volume_3m": 1809814,
-      "relative_volume": 3.23,
+      "avg_volume_3m": 1802718,
+      "relative_volume": 3.24,
       "market_cap": 25957695488,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +9.3% 상승, 거래량 3개월 평균 대비 3.2배",
-      "score": 30.02
+      "score": 30.14
     },
     {
       "symbol": "AMBP",
@@ -146,15 +146,15 @@
       "price": 5.21,
       "change_percent": 7.64,
       "volume": 8459430,
-      "avg_volume_3m": 2166243,
-      "relative_volume": 3.91,
+      "avg_volume_3m": 2171277,
+      "relative_volume": 3.9,
       "market_cap": 3114049792,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +7.6% 상승, 거래량 3개월 평균 대비 3.9배",
-      "score": 29.85
+      "score": 29.78
     },
     {
       "symbol": "UL",
@@ -162,15 +162,31 @@
       "price": 66.87,
       "change_percent": 8.96,
       "volume": 13675718,
-      "avg_volume_3m": 4159851,
-      "relative_volume": 3.29,
+      "avg_volume_3m": 4180001,
+      "relative_volume": 3.27,
       "market_cap": 143991177216,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +9.0% 상승, 거래량 3개월 평균 대비 3.3배",
-      "score": 29.46
+      "score": 29.32
+    },
+    {
+      "symbol": "IOND",
+      "name": "Ionic Digital Inc. Class A Common Stock",
+      "price": 62.9,
+      "change_percent": 25.8,
+      "volume": 1561606,
+      "avg_volume_3m": 1566500,
+      "relative_volume": 1.0,
+      "market_cap": null,
+      "exchange": "NasdaqGM",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +25.8% 상승, 거래량 3개월 평균 대비 1.0배",
+      "score": 25.72
     },
     {
       "symbol": "RGEN",
@@ -178,15 +194,15 @@
       "price": 145.34,
       "change_percent": 10.9,
       "volume": 2437089,
-      "avg_volume_3m": 1235201,
-      "relative_volume": 1.97,
+      "avg_volume_3m": 1241296,
+      "relative_volume": 1.96,
       "market_cap": 7110636544,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +10.9% 상승, 거래량 3개월 평균 대비 2.0배",
-      "score": 21.5
+      "score": 21.39
     },
     {
       "symbol": "TRU",
@@ -194,7 +210,7 @@
       "price": 83.8,
       "change_percent": 8.49,
       "volume": 6006838,
-      "avg_volume_3m": 2432825,
+      "avg_volume_3m": 2433285,
       "relative_volume": 2.47,
       "market_cap": 16056080384,
       "exchange": "NYSE",
@@ -210,15 +226,15 @@
       "price": 23.01,
       "change_percent": 7.67,
       "volume": 1427128,
-      "avg_volume_3m": 746777,
-      "relative_volume": 1.91,
+      "avg_volume_3m": 750154,
+      "relative_volume": 1.9,
       "market_cap": 2650082816,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +7.7% 상승, 거래량 3개월 평균 대비 1.9배",
-      "score": 14.67
+      "score": 14.6
     },
     {
       "symbol": "BOBS",
@@ -226,7 +242,7 @@
       "price": 17.0,
       "change_percent": 6.58,
       "volume": 2220688,
-      "avg_volume_3m": 1115040,
+      "avg_volume_3m": 1113550,
       "relative_volume": 1.99,
       "market_cap": 2220667392,
       "exchange": "NYSE",
@@ -234,23 +250,7 @@
         "day_gainers"
       ],
       "reason": "장중 +6.6% 상승, 거래량 3개월 평균 대비 2.0배",
-      "score": 13.11
-    },
-    {
-      "symbol": "SHW",
-      "name": "Sherwin-Williams Company (The)",
-      "price": 354.27,
-      "change_percent": 8.25,
-      "volume": 3745539,
-      "avg_volume_3m": 2387904,
-      "relative_volume": 1.57,
-      "market_cap": 87375593472,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +8.3% 상승, 거래량 3개월 평균 대비 1.6배",
-      "score": 12.94
+      "score": 13.13
     }
   ]
 }
