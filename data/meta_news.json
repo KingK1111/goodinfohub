@@ -1,34 +1,34 @@
 {
-  "updated_at": "2026-07-30T21:04:58+09:00",
+  "updated_at": "2026-07-31T01:20:38+09:00",
   "quote": {
     "symbol": "META",
-    "price": 585.61,
+    "price": 532.33,
     "previous_close": 542.49,
-    "change": 43.12,
-    "change_percent": 7.95,
+    "change": -10.16,
+    "change_percent": -1.87,
     "currency": "USD",
-    "day_high": 599.969970703125,
-    "day_low": 582.219970703125,
-    "market_cap": 1486526033871.505
+    "day_high": 538.9400024414062,
+    "day_low": 524.5189819335938,
+    "market_cap": 1351278920799.5776
   },
   "articles": [
     {
-      "title": "Meta Platforms Q2: The Market Sells, I Buy The Dip - Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdW5rd3h1XzQwZVdfWmNSM0IzY0ZraGxyZ1pTTnhYUHdyQ0Z0ODBxZjhvb0VOYXFKQTdaY2JWNGtzOGpjRVlHTXlFU0NZY1BNN1FEcERoRlVrX052aTVkeVMtc01IT1NKOHQ4elVnMkNqYnllcnl5Z3BlOWZubFV2VGRWSkZ5WGt1b0JCaldnRmV2UW5uOWUyZWx3?oc=5",
-      "source": "Seeking Alpha",
-      "published": "Wed, 29 Jul 2026 22:20:23 GMT"
+      "title": "Why Meta Stock Is Tumbling - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNX3hUYjVIUm9uZWxvSlR1YnY4M0hJOEhxUTMwV2VaY3dBTmkyZkhleldwclp1WV9lamlRbVVSS3lCUmVfN20wc0tQR1J4QXlYd2YwTGkwQUhFRG43aFYxYUlCeG5vTVROcnRMUGVZV2VlcHZpX0FNckFOOTZqSjJpanhmSmRyU2hp?oc=5",
+      "source": "Investor's Business Daily",
+      "published": "Thu, 30 Jul 2026 12:14:00 GMT"
     },
     {
-      "title": "Zuckerberg’s Bitter Complaints As Meta Stock Buckles - 24/7 Wall St.",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWjNXa0tpQlRxQWlwNzBQNjlSa3dZbS1vak1kOUEwVFZHSkdIeGx0S2hhRkU1OE9XOGppZHRfSGhLVVZkcFZIR0NBWW1PWHhrRmJ0R01VOGxxcW5udVp3cGZ0MUw5T2QycFhBOGwtYzRFbUxabU1YREQ2MzduaGFKTlJaX2duYnlST0psNnFQbW8yLUstMVlyTURrNA?oc=5",
-      "source": "24/7 Wall St.",
-      "published": "Wed, 29 Jul 2026 14:24:51 GMT"
+      "title": "Bank of America Has Lowered Expectations for Meta Platforms (NASDAQ:META) Stock Price - MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSTR0NG9fYUMwT1Y4Zm1wbkJtTW9UX0VVUnUwaWI0bzQtSDFCaS0xVnBNVlk0ekhUb1phZ19Gc3hqRjJRTEVCNktsc21KRUxoNC1WYUVoNFZ0cjBBalM2clVXTUhuYUttQmZNVWNWcWhVYzdmdG9vbFNTZHdfUnM2YkFSMUdKYW9iWG9MYzFCQmYzM2hQVnpRYWUtSENLUGdQSzdhS1FDZlY2RzNudzJDb3RIRkZkbHBnNEEtc0x5a2h1UUJmZllGdm9uZTR5YmRFQlE?oc=5",
+      "source": "MarketBeat",
+      "published": "Thu, 30 Jul 2026 12:42:30 GMT"
     },
     {
-      "title": "Meta Reports Second Quarter 2026 Results - Meta Investor Relations",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdng4QXNhRWdnc3ZqNjNLZFBoZFFZS0Q4MTA0ZEZoYUpPYnFNT1J1REQzRDlJVkdZZERQVjk5TkNDcmh5SElKdmpQUndFc3dpc0o2NFNtWjBhODROdlc0UzVfQTY3UjUxeVQtQTVNRHRtb3BsZklzUkJWdDUwcF9sdHdtRkxHT1RScnFxa2x2elRYcUZ4ZFN2RUw3UkhaNERnNGdxdjllOEVWVFBONzU1TUZfVldWYnQ5OS1hSTF0WQ?oc=5",
-      "source": "Meta Investor Relations",
-      "published": "Wed, 29 Jul 2026 20:07:27 GMT"
+      "title": "Meta stock sinks 10% on earnings miss, 'barely passable' quarter - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaURwbE5XV1N3QU1WdUc1OUNScEZ6bUhBSHR1SVB5bUN6d0JHdFJkeERYTmNEeER3c09SUk85emVhamFlbXVMVUR1YlhNblpSRmZkYzg3R293UnctdVhaU1RNZTFtbzhjTHZMYzVvMjBhMkxOOWRCWXhWNDJrSGJWNjVQd3ZlbEREbnIxdzh5MXRvTS00WFVEbmdFYTN5ZnJEWjZ5eWVWN2M0Y3BtRWlNVEFKaXk3dWEt?oc=5",
+      "source": "Yahoo Finance",
+      "published": "Thu, 30 Jul 2026 12:48:51 GMT"
     },
     {
       "title": "Meta Stock Drops 10% on Steeper AI Costs, Missed Forecast - WSJ",
@@ -37,16 +37,34 @@
       "published": "Wed, 29 Jul 2026 22:05:00 GMT"
     },
     {
+      "title": "Meta’s stock is falling hard. Here’s why the company is in Wall Street’s doghouse. - MarketWatch",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOT1V0TERPX1J2cDhwak1hc3JDajc1di1IekpLcFVQZS1rNkxzNHNiRmc5SEhDWG54Uldzb1N5dzZIMUFDbmdpMFBzMF9vbXBnMGFIek1xN3ozSlpyNmFXREdONUpKbEVfLXlsZzdUQl9tUVFkckZMN25MT0doVjdKcFpCRXZrZEJmbEpyczBrUU1qQ0ktU1psQ25pdGk0V1dHWWtEU0dCdGhybThOdmZEa2FkYlRiSWo3WVFpZA?oc=5",
+      "source": "MarketWatch",
+      "published": "Thu, 30 Jul 2026 14:09:00 GMT"
+    },
+    {
+      "title": "TD Cowen Issues Pessimistic Forecast for Meta Platforms (NASDAQ:META) Stock Price - MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYjV3M01BUEs3azA3Z0RkZm9GNzMyb21tdl9wZ1ZSeTRqTnN1WDctN3dETTFrQTZlWGMxZXNHYWMzLVQwM2xMZnBqRy1UZDZmckVQVlJZWEYwMkZjNTBMX2JQY2lZMm95ODVMQ2UyU1FPa0l4TnNldEFSWjFkTFVQM2w1XzBDY3ptNlVsdTZxTXdoWHcyUEluM2dNUnljZEhvS2Q1UzlkeXE1Sy1NekpDNVZ1Y1pRbkZhUEgxTnFCUkttQ3NGeGhQMktaWUg?oc=5",
+      "source": "MarketBeat",
+      "published": "Thu, 30 Jul 2026 15:40:00 GMT"
+    },
+    {
       "title": "Meta Stock Slides as AI Costs Rise: When Will the Payoff Arrive? - Moomoo",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9vNWhmaGpwZUo2NGJTcVFKdjBkZlZOTzZSZDRsdHR5QjFFQjM2TF9JeWNwelBuNnYzTllDQmlIbWZZOWRKektqY0ltcGkwSVNQWGlwd3NmcVotTU50WS1aZUdhZUs?oc=5",
       "source": "Moomoo",
       "published": "Thu, 30 Jul 2026 05:49:25 GMT"
     },
     {
-      "title": "Microsoft stock jumps 8%, Meta stock falls 9% on AI earnings - qz.com",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE51UHFaUEFGaFV1cU9aalhxUDBtcjQyZjdNbXBMcVZId04wa0RoMFg3aXExdE5HTGpGYzBkOFpQYWo1SmV5MzJBdGtPaWYyczQzTjczaTRLamxiUUNsR3ZpeTBaRW5jemJSZllfN25teVctdw?oc=5",
-      "source": "qz.com",
-      "published": "Thu, 30 Jul 2026 11:40:05 GMT"
+      "title": "Meta Platforms Falls 9% on Soft Guidance as Wall Street Slashes Price Targets - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNU0p3bDhfcmt1RVBEMkFZWU5tVWZyd09CMXplRjBZT01IRDhOQnJ5Wkp2UVh6VDJ5aF9wa00yaTdVM3g0QmhBdkd3ZXBNVjVMb0NqN2RWTWZrVUNqemNYd0QyNkhXVXlGUzEyNDV5Rk5WSnBwaGt1WTNuVWJOZlVua25iY2JyVHhwb092Q2hGOHR3RU1zeU9TUHpLSUZmZUZXVTBWSldWTi1SMDBwVVpZdUZBRUpzbVJLa3BOUw?oc=5",
+      "source": "24/7 Wall St.",
+      "published": "Thu, 30 Jul 2026 13:52:17 GMT"
+    },
+    {
+      "title": "Meta Platforms (META): Analysts Cut Price Targets After Q2 Miss - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQkRQclZvcUZUMTRDa0YyVENNNnlXQ0hFT2h3TFp1WHpJZ0lyQkhMdkQtQmRLQmU4dmpsZVRkZF9zXzFCRTluaHYwMkd3NXZRcTIzTmdTcExUMWlLXy1EWVpsdFR6Wl9YcVJXN1IyM0M3bF94ZXZzR0Q3UlA2cXZHRGpLUzdFNDEtb2ZsNl90X3Y3WUFMZGU4UzM1RUhiUnlUSVhXSEF1dnVsTGN5enNKS3hxc2xKX3QydzZKVEluR25MSkRBVFVqdGFTZk1SLXN1X1N3SklqN3FxZ3BSVUE?oc=5",
+      "source": "The Globe and Mail",
+      "published": "Thu, 30 Jul 2026 15:08:12 GMT"
     },
     {
       "title": "Meta Platforms Stock Slides 14% With A 10-Day Losing Spree - Trefis",
@@ -55,82 +73,64 @@
       "published": "Thu, 30 Jul 2026 11:20:52 GMT"
     },
     {
-      "title": "Prediction: Meta Stock Will Pop After Q2 Earnings. 3 Reasons Why - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPS1hvTlBya2d6NVdzY2NfeVEwRDF3VGdQZHpxdnNDdkZCRmdzZ2RSc0dqdEcyVlotNXFKUVdkZ3ZOMGtNbnljZTZnaFFobWh4OU1Bd3RvSUpIb1lURWNWWVJaNjB0ZHhkN3k1QUhxMWttQ0FjYkFkMFplN3EyS0psRG5rTUlqUGtSZWN3a1FSZHlnM0YyR0VSbQ?oc=5",
-      "source": "The Motley Fool",
-      "published": "Wed, 29 Jul 2026 16:34:00 GMT"
-    },
-    {
-      "title": "META Stock Tumbles 11% After-Hours — Soaring AI Costs Squeeze Profits And Soft Q3 Outlook Disappoints - finance.yahoo.com",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVU5HZlhfTTVvRHEtMzdrUFZjOWlDSl9sYjU5UVRfaEswTUhydUg4YTN1VC1abVhHb045NWFtSmVIdzJTSnFENzZkMGtPLXdSVFJUS0pRd0hmYTVpOUpadXlFTjQzLXJiQWUxNnJpZWpKM0JhOF9ndExMc081V0VYUTlMMXYzVVdBRzBTVjNUSDVvbzB1eTc0?oc=5",
-      "source": "finance.yahoo.com",
-      "published": "Wed, 29 Jul 2026 21:46:01 GMT"
-    },
-    {
-      "title": "AI Fears Send Meta Stock To Record Losing Streak Ahead Of Earnings - Investor's Business Daily",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNDZEY1U4cWlrcjJaU0Rod1pLR215UVdYUjhnZE5kQklHUUIxdGp6ZEdJOUk1OUZhelJLdjFNTnNzTVBpSjhSaXBZRngwTHBWVzU4Q3d6V0U5Zm1iY3Y5dGRLNXYxUml3U1YybjNTcC13RjBkVFpsSU1UcGcydjhaSkNnbi1aSWNfRW9Wd1VlRkJ4ZDQ?oc=5",
-      "source": "Investor's Business Daily",
-      "published": "Wed, 29 Jul 2026 15:13:00 GMT"
-    },
-    {
-      "title": "Meta misses on Q2 earnings, stock tumbles - finance.yahoo.com",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNN2NsT1M3T2YzbTIyNGdEXzh6U0d3N1ZtODQ3VnNNbEpUZkhWZlhFb2o1dWJkYkhyWk1wLVpfbXdmUnlNUXRWajR1T3ZwN2FMX2gtbDR5WnVZU0tsQUdveHBnQ0hEMnlHUll3dTFaOGNkZGhkeHVCS2VCLU9FT2Q4NnhRWTVOUUxxV1ZZRGgySQ?oc=5",
-      "source": "finance.yahoo.com",
-      "published": "Wed, 29 Jul 2026 20:19:52 GMT"
-    },
-    {
-      "title": "Meta shares drop as Q2 profit declines due to legal expenses and severance costs - finance.yahoo.com",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUmN5VVRIMmtQUWlnWVFZNVhfbEY5SzB3VUpIcjNJbTZtN095d050bmRMTXdiNlptbUFRRnhxVHpfaEw1Z0JRZ2dybnA2WWdzYkh6VDJ3RE8zRUN5aHM3V3Zhb2NEd1h2S0JNY0xZTEpnNHNLSlpYVUsyVjM2RWFBYzJRZHBmNkl4VjdZTmNubjMyU0VmM0E?oc=5",
-      "source": "finance.yahoo.com",
-      "published": "Wed, 29 Jul 2026 20:31:21 GMT"
-    },
-    {
-      "title": "Meta’s Zuckerberg Defends AI Bets to Skeptical Investors - Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRU16VGxwcmZaeTRwbzZ5VV9aU3FhZmZ6MDZadjZIWXJlRFJYdlN4Wl95ZThPQ1RvSUY2ZmxQQWs4b05tak80emdxYU4wb3lIZElzMnJLZkhVNWhZek5jb2lmODU3M0ViZlpRZUVtaU9XUUExM0FqSEFsRjEwTUtOQm5rSW1VLW90bUxyc0pRaGNRRTAtRHMwcFFiejlobXdIeExGXzNn?oc=5",
-      "source": "Bloomberg",
-      "published": "Wed, 29 Jul 2026 20:11:49 GMT"
-    },
-    {
-      "title": "I Was Wrong About Meta Earnings, But the Stock Is Still a Buy - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYnJpOWdKNnBrSkJwTmdicVQ0bDFBLVdOSGFfMkVEZ29nRTJ2bUFieEhqd1U0WG96V0oxdVp4UTVHd0l0bHA4MC1nZHVidUpWMDVISlJSVW5NRjRRN1ZDc0kwQzdyajA0bDVEZEVjTjM0eTRqMVFEQXdJVkdSRTRaMDNDUDk4NnhGc3FZMlVfVC1wQ0tlbG9IdQ?oc=5",
-      "source": "The Motley Fool",
-      "published": "Thu, 30 Jul 2026 07:45:00 GMT"
-    },
-    {
-      "title": "Patrick Moorhead Says Meta's Q2 Earnings Miss Was 'Mostly Self-Inflicted' — META Stock Heads For 11th Straight Decline - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOeGd1QUNTLURFV1lxdGcyaVBRczRSUldSMW5BVVVwc1NOWmFwbV9iTnBvMkpmSnQyX3dpcFBVeDljOTQwVmlxZUp2cXdPTmhYMmtUTEJha2lmVjFyVWF3YzVoTjNIX05nVUNkRE1jYmtJV0c5eHlkNmgwR3RhcThhOGVtSVJVekc5NG1FNkVtWkpEemQzSjJhNGs3cjlVSVo2ZzZiNGFmMUQ0cXhUMlQ5SmZFV1VVOXdKQUNsdmJ1NkhEeHRJSENhMTA1c1VlQ05xQXIwTDV5Zk1oTmJXWkNybFhMMmJmLXNPaG11UWp5XzRQOUJJRTdHTFhVeXZwdTlHenZDQVdR?oc=5",
-      "source": "TradingView",
-      "published": "Thu, 30 Jul 2026 11:12:52 GMT"
-    },
-    {
-      "title": "Zuckerberg Loses $15 Billion As Meta Shares Plunge Following Earnings Disappointment - 24/7 Wall St.",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQTZ5c01zUTRWUFJYRm0tajRYOWhWaEVSRjRUQlpBYllhQzNfaGxBaGo2ODFqOHAyVVJpVG95cE5uMG1mRXBhMzltNGdUM21IcVJWWmpQcUxFY09fdjYxak5qTmswaFBxdUd4X29TUTRGTV96dUlmVk44S29SVnFqMUJ4ZEI4MzRZQVlnNVpDUzJ0WXBTaW0takJBUTBicUdaVGEtZ2puTHFFdDJmTVdDaFhmRDJhU284ZkZXTXV5WlpJNVpOYmc?oc=5",
-      "source": "24/7 Wall St.",
-      "published": "Thu, 30 Jul 2026 01:35:16 GMT"
-    },
-    {
       "title": "Meta Q2 2026 earnings miss: legal charges, AI costs hurt profit - qz.com",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1aLVZKXzZBYnJrVEhqbTF3TnhCNWhTNlg5WEJqTWw1azNtb29Pb2ZrTmVfTFN2U1hrUkxEeTEyTG1RZUlDN2JienFOTHpKZ3NrY3NDNTQyZmdFTXZUWkdfZ3hyMlp3T1FzNXZFcTBqZzBnQ0p5d2d5Nk9ZSQ?oc=5",
       "source": "qz.com",
       "published": "Thu, 30 Jul 2026 11:23:45 GMT"
     },
     {
-      "title": "Wells Fargo cuts Meta stock price target on token costs, OpEx concerns - Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNndDSjU0dHJSbzd3eGNXSFE2dGNvaU9xYVo0S0pYVEFzX0o5V04yUi12SVNEdjNfU3JYanJoYk5XM0dRRWtDdk40SFVmNGZaM3dBRDNkdV9PcnVldXAxbWVrMTc1VmhqTlVyOHU5YTV4RDJlT2FLa05PQVZteDVmWnFTY1ZNbWZYT1hnRFFLbVIyZnpjVEZYeUo5a1QxN3Z0VHBPUWhsdzlMdUJ3U2tKc1htTXlGNW1Fcm4wS2gwYXhJRVR6TTZZbw?oc=5",
-      "source": "Investing.com",
-      "published": "Thu, 30 Jul 2026 11:25:03 GMT"
+      "title": "I Was Wrong About Meta Earnings, But the Stock Is Still a Buy - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSDB5Z09tWHluOE9aTENlbEw1VFAxdTFvMzFuVkNhSVozRVJNeHhsY0hXOWJCNDg1Vi1yWUp1c3BDcWpaVHBhUDhyY0JSVEMxdEliN2ZoMlM0eWIxZXR4dkRFWkt0Ty1LQV95eDZRRDJUMW9PSWVESHlNVzY0ckRFMThxNGNQVTNVYzZwQzFyOGxDOWZfRlRsNHpvdGY?oc=5",
+      "source": "Yahoo Finance",
+      "published": "Thu, 30 Jul 2026 07:05:00 GMT"
     },
     {
-      "title": "Meta Platforms, Inc. $META Stock Holdings Boosted by Insight Holdings Group LLC - MarketBeat",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOd1ZFbnBNUTFybDA3UWNwS0xOVU5udmc2Qk1YYnVrUHlFRHdrcUpzUzlYVXYyeVFXU2pJanZuaDNsTVhpYnRUT285TFpGUmdhdmgxb1lmOWNOTHpUMlMxSk5oNlhHTFhvNUJ5SHJGR3JjdWxRcWt1M0pGX3BEVTZwYzI1amE2UnhaQTZUeGJyX09ZOEhJYmJTSG1ZbEFZdnZsY3ZaM1g4Qk1maDhwU09xdXJmdzI2enZHQ1JJQW1aaUtYd25YQXg5cW55bUZ1a19RVkY0?oc=5",
+      "title": "Meta Platforms Q2: The Market Sells, I Buy The Dip - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdW5rd3h1XzQwZVdfWmNSM0IzY0ZraGxyZ1pTTnhYUHdyQ0Z0ODBxZjhvb0VOYXFKQTdaY2JWNGtzOGpjRVlHTXlFU0NZY1BNN1FEcERoRlVrX052aTVkeVMtc01IT1NKOHQ4elVnMkNqYnllcnl5Z3BlOWZubFV2VGRWSkZ5WGt1b0JCaldnRmV2UW5uOWUyZWx3?oc=5",
+      "source": "Seeking Alpha",
+      "published": "Wed, 29 Jul 2026 22:20:23 GMT"
+    },
+    {
+      "title": "Why Meta Platforms Stock Fell 10% Today - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOanlGalh0NUNNazdBSmZva1R4YWQtQUd5aEJIN1FIX0ZJdUhqVXBzcUFfLW40MFNCMjFoSWNBNDNQeEZ5aGh2Q2ZyajlQLU8ya284NU9VWjUzUTFjTThrSUNya0JaUUwxbmJsOEs2YzdGaWNhYXdvY3QwRGtnWHI5c09HZVlfLVE5VGVXLWxkLUJhTkpMWlFsSWNR?oc=5",
+      "source": "Yahoo Finance",
+      "published": "Thu, 30 Jul 2026 15:08:06 GMT"
+    },
+    {
+      "title": "Meta shares drop as Q2 profit declines due to legal expenses and severance costs - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUmN5VVRIMmtQUWlnWVFZNVhfbEY5SzB3VUpIcjNJbTZtN095d050bmRMTXdiNlptbUFRRnhxVHpfaEw1Z0JRZ2dybnA2WWdzYkh6VDJ3RE8zRUN5aHM3V3Zhb2NEd1h2S0JNY0xZTEpnNHNLSlpYVUsyVjM2RWFBYzJRZHBmNkl4VjdZTmNubjMyU0VmM0E?oc=5",
+      "source": "Yahoo Finance",
+      "published": "Wed, 29 Jul 2026 20:31:21 GMT"
+    },
+    {
+      "title": "Meta Platforms (NASDAQ:META) Shares Gap Down Following Weak Earnings - MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQODN2ZS1OdHRJdnBkMngzLWY1c1JPWC11dzV3azVCODhXTEtxSl9yWFdzZXRLMHRfeVpFZkkzWTBCRjlDMlM4b05lLWFPaWNVRTdIZnA1bVVWbnVCRnFRcDhOVHB4X1RlSl9NMUhMamFuOVVId2dxa25Mc2ZFT3JORWlVQ3UyVXJSWFh2ZFVTdVhmU0lqTlBMdEctTUhRNkxkV0NTeFZnOWRSR3hCeTIxNDJ5U3JVSDRiMnBv?oc=5",
       "source": "MarketBeat",
-      "published": "Thu, 30 Jul 2026 09:22:43 GMT"
+      "published": "Thu, 30 Jul 2026 14:30:54 GMT"
     },
     {
-      "title": "Why is Meta Platforms stock tumbling today? - Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdmZPQzkwR1NzQl9RVkRWdVdqMUdFZzRxNTM4YWhwUTZMdXZpbzlJME9WaXRfNmJDTjlCSE4yQlpqMnZWOXlOS3pSXy03ejZTUURYN29adFFhNFlWVmZJM2FSU2o1bGVvRnJmOWk3WDNTOWNJdS1ZLVoyQWhQNHlnVWlBZjU4azgyOW1VNmhFelpESVZaUVNHNGswTS1nckVHR0lINXNtTQ?oc=5",
+      "title": "Meta shares tumble 10% as Mark Zuckerberg’s AI spending spree stuns Wall Street - New York Post",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcW1VZ1pfTXNsdFRBcDMwcU1nM1dkeUZEbWxVTmFnRmpTUzhkeE10THdNaEFnWVJfT1VNQUlEc2I2QVowaG1jd2xXVmMwWWpVZTllX0pzNk9lUXctMHFYdlRHR2FnUHZEUWdfbExPUFdBTlM5MlpVdGNhbXhFQnlsTFZEUTVzbjRGZkVyT1hhV3NyYXNJdHA1T2NDMUlUOTRDanBzekJuaF9DbUcyUlQxR1pZUXkyMlNW?oc=5",
+      "source": "New York Post",
+      "published": "Wed, 29 Jul 2026 22:40:00 GMT"
+    },
+    {
+      "title": "Microsoft stock jumps 8%, Meta stock falls 9% on AI earnings - qz.com",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE51UHFaUEFGaFV1cU9aalhxUDBtcjQyZjdNbXBMcVZId04wa0RoMFg3aXExdE5HTGpGYzBkOFpQYWo1SmV5MzJBdGtPaWYyczQzTjczaTRLamxiUUNsR3ZpeTBaRW5jemJSZllfN25teVctdw?oc=5",
+      "source": "qz.com",
+      "published": "Thu, 30 Jul 2026 11:40:05 GMT"
+    },
+    {
+      "title": "Susquehanna cuts Meta stock price target to $650 on higher costs - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWjBhdy1GY3JXUXBfZWd6UXNkclFfZDluZW9nY25lZE5YTGphNkh0RnNIczlzUHZwUlF1RWpaenk5VmZHTHpVSmNBeHpIYTVlSk9hbDk3UnFRRlNvbGQ3R1IyejlvQVJjaVhsZVRHRk9GZG5ianFLbjJhOXNmaFBDZnhFWEpoRkZ0QVdFVFlLcFFraDgxV3Vzdm5DOUQ0Q1p1RVZXVE5Vbk9VWWZ6dWZGcUtoV0xoSEZfeWNkT25lLV8?oc=5",
       "source": "Investing.com",
-      "published": "Thu, 30 Jul 2026 09:42:56 GMT"
+      "published": "Thu, 30 Jul 2026 11:37:55 GMT"
+    },
+    {
+      "title": "Rosenblatt cuts Meta stock price target to $883 on valuation pressure - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNTJ6XzhYRXJRRjh4S2VWcEdacG13NWxzT3p2TTJVQmgxSWxnTm40ck1IVUtpNnU3NEFWNElzZ0JkQzEtd3FUbnNoMmpaWENzZVJ3M3ZabmNlRzdYTzdncnVQWFJYcGp1OThzTlZOQ1RDV2FuMmF4blM3VjlwaXVtT3BPVFZlWV9KSUV0OXhQM1VOVmctcGV6V1VKVGdfNEYyNEd2cWdJODhsV3FVOTlPd1I1NDVWUmFNVUh3TlhJRkIwRFY5bW5n?oc=5",
+      "source": "Investing.com",
+      "published": "Thu, 30 Jul 2026 12:28:31 GMT"
     }
   ]
 }
