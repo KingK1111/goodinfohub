@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-30T01:15:01+09:00",
+  "updated_at": "2026-07-30T16:59:33+09:00",
   "disclaimer": "이 목록은 공개 시세 데이터(거래량, 변동률)를 기준으로 자동 정렬한 결과이며 특정 종목의 매수/매도를 추천하지 않습니다. 투자 판단과 책임은 본인에게 있습니다.",
   "criteria": {
     "min_price": 5.0,
@@ -13,243 +13,243 @@
     {
       "symbol": "CBZ",
       "name": "CBIZ, Inc.",
-      "price": 54.67,
-      "change_percent": 17.07,
-      "volume": 10020404,
-      "avg_volume_3m": 789132,
-      "relative_volume": 12.7,
-      "market_cap": 2932976128,
+      "price": 54.9,
+      "change_percent": 17.56,
+      "volume": 15117537,
+      "avg_volume_3m": 1049935,
+      "relative_volume": 14.4,
+      "market_cap": 2979664896,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +17.1% 상승, 거래량 3개월 평균 대비 12.7배",
-      "score": 216.76
+      "reason": "장중 +17.6% 상승, 거래량 3개월 평균 대비 14.4배",
+      "score": 252.82
     },
     {
       "symbol": "MANH",
       "name": "Manhattan Associates, Inc.",
-      "price": 214.495,
-      "change_percent": 27.55,
-      "volume": 1300356,
-      "avg_volume_3m": 650409,
-      "relative_volume": 2.0,
-      "market_cap": 12690510848,
+      "price": 204.02,
+      "change_percent": 21.32,
+      "volume": 2837843,
+      "avg_volume_3m": 686214,
+      "relative_volume": 4.14,
+      "market_cap": 11894380544,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +27.5% 상승, 거래량 3개월 평균 대비 2.0배",
-      "score": 55.07
-    },
-    {
-      "symbol": "VFC",
-      "name": "V.F. Corporation",
-      "price": 14.945,
-      "change_percent": -18.11,
-      "volume": 15736182,
-      "avg_volume_3m": 7484096,
-      "relative_volume": 2.1,
-      "market_cap": 5863626240,
-      "exchange": "NYSE",
-      "sources": [
-        "most_actives"
-      ],
-      "reason": "장중 -18.1% 하락, 거래량 3개월 평균 대비 2.1배, 거래대금 상위 종목",
-      "score": 38.08
+      "reason": "장중 +21.3% 상승, 거래량 3개월 평균 대비 4.1배",
+      "score": 88.16
     },
     {
       "symbol": "AVTR",
       "name": "Avantor, Inc.",
-      "price": 14.175,
-      "change_percent": 14.13,
-      "volume": 21473267,
-      "avg_volume_3m": 10020863,
-      "relative_volume": 2.14,
-      "market_cap": 9678057472,
+      "price": 14.38,
+      "change_percent": 15.78,
+      "volume": 39792379,
+      "avg_volume_3m": 10549661,
+      "relative_volume": 3.77,
+      "market_cap": 9726040064,
       "exchange": "NYSE",
       "sources": [
         "day_gainers",
         "most_actives"
       ],
-      "reason": "장중 +14.1% 상승, 거래량 3개월 평균 대비 2.1배, 거래대금 상위 종목",
-      "score": 30.28
+      "reason": "장중 +15.8% 상승, 거래량 3개월 평균 대비 3.8배, 거래대금 상위 종목",
+      "score": 59.52
     },
     {
       "symbol": "GRMN",
       "name": "Garmin Ltd.",
-      "price": 300.99,
-      "change_percent": 18.66,
-      "volume": 1338250,
-      "avg_volume_3m": 845198,
-      "relative_volume": 1.58,
-      "market_cap": 58047787008,
+      "price": 294.83,
+      "change_percent": 16.23,
+      "volume": 3141680,
+      "avg_volume_3m": 890666,
+      "relative_volume": 3.53,
+      "market_cap": 56858714112,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +18.7% 상승, 거래량 3개월 평균 대비 1.6배",
-      "score": 29.55
-    },
-    {
-      "symbol": "NEO",
-      "name": "NeoGenomics, Inc.",
-      "price": 15.49,
-      "change_percent": 15.6,
-      "volume": 4197363,
-      "avg_volume_3m": 2570654,
-      "relative_volume": 1.63,
-      "market_cap": 2016980352,
-      "exchange": "NasdaqCM",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +15.6% 상승, 거래량 3개월 평균 대비 1.6배",
-      "score": 25.47
+      "reason": "장중 +16.2% 상승, 거래량 3개월 평균 대비 3.5배",
+      "score": 57.27
     },
     {
       "symbol": "CAKE",
       "name": "The Cheesecake Factory Incorpor",
-      "price": 100.04,
-      "change_percent": 12.39,
-      "volume": 2703400,
-      "avg_volume_3m": 1339893,
-      "relative_volume": 2.02,
-      "market_cap": 4970523648,
+      "price": 101.14,
+      "change_percent": 13.63,
+      "volume": 5376674,
+      "avg_volume_3m": 1405032,
+      "relative_volume": 3.83,
+      "market_cap": 5025177600,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +12.4% 상승, 거래량 3개월 평균 대비 2.0배",
-      "score": 25.0
-    },
-    {
-      "symbol": "GEHC",
-      "name": "GE HealthCare Technologies Inc.",
-      "price": 71.22,
-      "change_percent": 11.09,
-      "volume": 7890255,
-      "avg_volume_3m": 5434822,
-      "relative_volume": 1.45,
-      "market_cap": 32397391872,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +11.1% 상승, 거래량 3개월 평균 대비 1.5배",
-      "score": 16.1
-    },
-    {
-      "symbol": "SOFI",
-      "name": "SoFi Technologies, Inc.",
-      "price": 15.095,
-      "change_percent": -9.83,
-      "volume": 119057016,
-      "avg_volume_3m": 77903736,
-      "relative_volume": 1.53,
-      "market_cap": 19362979840,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "most_actives"
-      ],
-      "reason": "장중 -9.8% 하락, 거래량 3개월 평균 대비 1.5배, 거래대금 상위 종목",
-      "score": 15.02
+      "reason": "장중 +13.6% 상승, 거래량 3개월 평균 대비 3.8배",
+      "score": 52.15
     },
     {
       "symbol": "EXLS",
       "name": "ExlService Holdings, Inc.",
-      "price": 35.7,
-      "change_percent": 16.93,
-      "volume": 2255751,
-      "avg_volume_3m": 2622862,
-      "relative_volume": 0.86,
-      "market_cap": 5454350848,
+      "price": 35.99,
+      "change_percent": 17.88,
+      "volume": 7620699,
+      "avg_volume_3m": 2704104,
+      "relative_volume": 2.82,
+      "market_cap": 5456534016,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +16.9% 상승, 거래량 3개월 평균 대비 0.9배",
-      "score": 14.56
+      "reason": "장중 +17.9% 상승, 거래량 3개월 평균 대비 2.8배",
+      "score": 50.4
     },
     {
       "symbol": "EDU",
       "name": "New Oriental Education & Techno",
-      "price": 57.15,
-      "change_percent": 12.52,
-      "volume": 604682,
-      "avg_volume_3m": 605537,
-      "relative_volume": 1.0,
-      "market_cap": 9527598080,
+      "price": 58.58,
+      "change_percent": 15.34,
+      "volume": 1439152,
+      "avg_volume_3m": 624359,
+      "relative_volume": 2.31,
+      "market_cap": 9765996544,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +12.5% 상승, 거래량 3개월 평균 대비 1.0배",
-      "score": 12.5
+      "reason": "장중 +15.3% 상승, 거래량 3개월 평균 대비 2.3배",
+      "score": 35.35
     },
     {
-      "symbol": "TEVA",
-      "name": "Teva Pharmaceutical Industries ",
-      "price": 33.8,
-      "change_percent": 6.73,
-      "volume": 10092155,
-      "avg_volume_3m": 5929377,
-      "relative_volume": 1.7,
-      "market_cap": 39357632512,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +6.7% 상승, 거래량 3개월 평균 대비 1.7배",
-      "score": 11.45
-    },
-    {
-      "symbol": "NBIS",
-      "name": "Nebius Group N.V.",
-      "price": 147.25,
-      "change_percent": -13.22,
-      "volume": 15731733,
-      "avg_volume_3m": 18579495,
-      "relative_volume": 0.85,
-      "market_cap": 37386510336,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "most_actives"
-      ],
-      "reason": "장중 -13.2% 하락, 거래량 3개월 평균 대비 0.8배, 거래대금 상위 종목",
-      "score": 11.2
-    },
-    {
-      "symbol": "CHEF",
-      "name": "The Chefs' Warehouse, Inc.",
-      "price": 111.0801,
-      "change_percent": 10.88,
-      "volume": 512814,
-      "avg_volume_3m": 523481,
-      "relative_volume": 0.98,
-      "market_cap": 4529583104,
+      "symbol": "GEHC",
+      "name": "GE HealthCare Technologies Inc.",
+      "price": 71.9,
+      "change_percent": 12.15,
+      "volume": 15217194,
+      "avg_volume_3m": 5593448,
+      "relative_volume": 2.72,
+      "market_cap": 32476241920,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +10.9% 상승, 거래량 3개월 평균 대비 1.0배",
-      "score": 10.66
+      "reason": "장중 +12.2% 상승, 거래량 3개월 평균 대비 2.7배",
+      "score": 33.06
     },
     {
       "symbol": "CORZ",
       "name": "Core Scientific, Inc.",
-      "price": 18.485,
-      "change_percent": -10.89,
-      "volume": 12909495,
-      "avg_volume_3m": 13301083,
-      "relative_volume": 0.97,
-      "market_cap": 5907566080,
+      "price": 18.12,
+      "change_percent": -12.65,
+      "volume": 35231011,
+      "avg_volume_3m": 13659187,
+      "relative_volume": 2.58,
+      "market_cap": 5822689280,
       "exchange": "NasdaqGS",
       "sources": [
         "most_actives"
       ],
-      "reason": "장중 -10.9% 하락, 거래량 3개월 평균 대비 1.0배, 거래대금 상위 종목",
-      "score": 10.57
+      "reason": "장중 -12.7% 하락, 거래량 3개월 평균 대비 2.6배, 거래대금 상위 종목",
+      "score": 32.64
+    },
+    {
+      "symbol": "TEVA",
+      "name": "Teva Pharmaceutical Industries ",
+      "price": 34.71,
+      "change_percent": 9.6,
+      "volume": 16856573,
+      "avg_volume_3m": 6120183,
+      "relative_volume": 2.75,
+      "market_cap": 40417259520,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +9.6% 상승, 거래량 3개월 평균 대비 2.8배",
+      "score": 26.44
+    },
+    {
+      "symbol": "NBIS",
+      "name": "Nebius Group N.V.",
+      "price": 148.22,
+      "change_percent": -12.65,
+      "volume": 38183008,
+      "avg_volume_3m": 18916766,
+      "relative_volume": 2.02,
+      "market_cap": 37632790528,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "most_actives"
+      ],
+      "reason": "장중 -12.7% 하락, 거래량 3개월 평균 대비 2.0배, 거래대금 상위 종목",
+      "score": 25.54
+    },
+    {
+      "symbol": "SOFI",
+      "name": "SoFi Technologies, Inc.",
+      "price": 15.25,
+      "change_percent": -8.9,
+      "volume": 190825010,
+      "avg_volume_3m": 79763490,
+      "relative_volume": 2.39,
+      "market_cap": 19561803776,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "most_actives"
+      ],
+      "reason": "장중 -8.9% 하락, 거래량 3개월 평균 대비 2.4배, 거래대금 상위 종목",
+      "score": 21.29
+    },
+    {
+      "symbol": "GKOS",
+      "name": "Glaukos Corporation",
+      "price": 161.66,
+      "change_percent": 6.83,
+      "volume": 3105009,
+      "avg_volume_3m": 1030117,
+      "relative_volume": 3.01,
+      "market_cap": 9494924288,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +6.8% 상승, 거래량 3개월 평균 대비 3.0배",
+      "score": 20.58
+    },
+    {
+      "symbol": "CIFR",
+      "name": "Cipher Digital Inc.",
+      "price": 17.69,
+      "change_percent": -13.37,
+      "volume": 38260199,
+      "avg_volume_3m": 26021041,
+      "relative_volume": 1.47,
+      "market_cap": 7236080128,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "most_actives"
+      ],
+      "reason": "장중 -13.4% 하락, 거래량 3개월 평균 대비 1.5배, 거래대금 상위 종목",
+      "score": 19.66
+    },
+    {
+      "symbol": "IREN",
+      "name": "IREN LIMITED",
+      "price": 29.31,
+      "change_percent": -13.62,
+      "volume": 69575723,
+      "avg_volume_3m": 48464243,
+      "relative_volume": 1.44,
+      "market_cap": 10474769408,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "most_actives"
+      ],
+      "reason": "장중 -13.6% 하락, 거래량 3개월 평균 대비 1.4배, 거래대금 상위 종목",
+      "score": 19.55
     }
   ]
 }
