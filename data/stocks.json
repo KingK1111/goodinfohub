@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31T18:37:40+09:00",
+  "updated_at": "2026-07-31T21:29:23+09:00",
   "disclaimer": "이 목록은 공개 시세 데이터(거래량, 변동률)를 기준으로 자동 정렬한 결과이며 특정 종목의 매수/매도를 추천하지 않습니다. 투자 판단과 책임은 본인에게 있습니다.",
   "criteria": {
     "min_price": 5.0,
@@ -16,15 +16,15 @@
       "price": 162.76,
       "change_percent": 29.45,
       "volume": 9443308,
-      "avg_volume_3m": 673306,
-      "relative_volume": 14.03,
+      "avg_volume_3m": 814759,
+      "relative_volume": 11.59,
       "market_cap": 5727994880,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +29.5% 상승, 거래량 3개월 평균 대비 14.0배",
-      "score": 413.07
+      "reason": "장중 +29.5% 상승, 거래량 3개월 평균 대비 11.6배",
+      "score": 341.36
     },
     {
       "symbol": "BHC",
@@ -32,15 +32,15 @@
       "price": 6.03,
       "change_percent": 28.85,
       "volume": 18171431,
-      "avg_volume_3m": 2231750,
-      "relative_volume": 8.14,
+      "avg_volume_3m": 2496559,
+      "relative_volume": 7.28,
       "market_cap": 2252058112,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +28.8% 상승, 거래량 3개월 평균 대비 8.1배",
-      "score": 234.87
+      "reason": "장중 +28.8% 상승, 거래량 3개월 평균 대비 7.3배",
+      "score": 209.96
     },
     {
       "symbol": "CORT",
@@ -48,15 +48,15 @@
       "price": 118.32,
       "change_percent": 27.29,
       "volume": 4453546,
-      "avg_volume_3m": 1154581,
-      "relative_volume": 3.86,
+      "avg_volume_3m": 1208498,
+      "relative_volume": 3.69,
       "market_cap": 12790202368,
       "exchange": "NasdaqCM",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +27.3% 상승, 거래량 3개월 평균 대비 3.9배",
-      "score": 105.28
+      "reason": "장중 +27.3% 상승, 거래량 3개월 평균 대비 3.7배",
+      "score": 100.58
     },
     {
       "symbol": "BE",
@@ -64,8 +64,8 @@
       "price": 207.12,
       "change_percent": 26.49,
       "volume": 34920034,
-      "avg_volume_3m": 13287198,
-      "relative_volume": 2.63,
+      "avg_volume_3m": 13639501,
+      "relative_volume": 2.56,
       "market_cap": 61002506240,
       "exchange": "NYSE",
       "sources": [
@@ -73,7 +73,7 @@
         "most_actives"
       ],
       "reason": "장중 +26.5% 상승, 거래량 3개월 평균 대비 2.6배, 거래대금 상위 종목",
-      "score": 69.61
+      "score": 67.81
     },
     {
       "symbol": "NBIS",
@@ -81,8 +81,8 @@
       "price": 188.43,
       "change_percent": 27.13,
       "volume": 40759900,
-      "avg_volume_3m": 19028862,
-      "relative_volume": 2.14,
+      "avg_volume_3m": 19400359,
+      "relative_volume": 2.1,
       "market_cap": 47842033664,
       "exchange": "NasdaqGS",
       "sources": [
@@ -90,7 +90,7 @@
         "most_actives"
       ],
       "reason": "장중 +27.1% 상승, 거래량 3개월 평균 대비 2.1배, 거래대금 상위 종목",
-      "score": 58.11
+      "score": 57.0
     },
     {
       "symbol": "SIMO",
@@ -98,15 +98,15 @@
       "price": 255.1,
       "change_percent": 21.66,
       "volume": 2587376,
-      "avg_volume_3m": 1010878,
-      "relative_volume": 2.56,
+      "avg_volume_3m": 1036517,
+      "relative_volume": 2.5,
       "market_cap": 8649888768,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +21.7% 상승, 거래량 3개월 평균 대비 2.6배",
-      "score": 55.44
+      "reason": "장중 +21.7% 상승, 거래량 3개월 평균 대비 2.5배",
+      "score": 54.07
     },
     {
       "symbol": "NEOG",
@@ -114,15 +114,15 @@
       "price": 11.53,
       "change_percent": 22.66,
       "volume": 4591301,
-      "avg_volume_3m": 2170565,
-      "relative_volume": 2.12,
+      "avg_volume_3m": 2212346,
+      "relative_volume": 2.08,
       "market_cap": 2509769984,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +22.7% 상승, 거래량 3개월 평균 대비 2.1배",
-      "score": 47.93
+      "score": 47.03
     },
     {
       "symbol": "IREN",
@@ -130,8 +130,8 @@
       "price": 38.26,
       "change_percent": 30.54,
       "volume": 71480522,
-      "avg_volume_3m": 48791655,
-      "relative_volume": 1.47,
+      "avg_volume_3m": 49176783,
+      "relative_volume": 1.45,
       "market_cap": 13673308160,
       "exchange": "NasdaqGS",
       "sources": [
@@ -139,23 +139,7 @@
         "most_actives"
       ],
       "reason": "장중 +30.5% 상승, 거래량 3개월 평균 대비 1.5배, 거래대금 상위 종목",
-      "score": 44.74
-    },
-    {
-      "symbol": "AXTI",
-      "name": "AXT Inc",
-      "price": 46.94,
-      "change_percent": 26.97,
-      "volume": 15365666,
-      "avg_volume_3m": 9404193,
-      "relative_volume": 1.63,
-      "market_cap": 3070964224,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +27.0% 상승, 거래량 3개월 평균 대비 1.6배",
-      "score": 44.06
+      "score": 44.38
     },
     {
       "symbol": "SNDK",
@@ -163,15 +147,31 @@
       "price": 1279.96,
       "change_percent": 25.99,
       "volume": 23236972,
-      "avg_volume_3m": 13733696,
-      "relative_volume": 1.69,
+      "avg_volume_3m": 13899448,
+      "relative_volume": 1.67,
       "market_cap": 189548969984,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +26.0% 상승, 거래량 3개월 평균 대비 1.7배",
-      "score": 43.98
+      "score": 43.46
+    },
+    {
+      "symbol": "AXTI",
+      "name": "AXT Inc",
+      "price": 46.94,
+      "change_percent": 26.97,
+      "volume": 15365666,
+      "avg_volume_3m": 9545616,
+      "relative_volume": 1.61,
+      "market_cap": 3070964224,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +27.0% 상승, 거래량 3개월 평균 대비 1.6배",
+      "score": 43.41
     },
     {
       "symbol": "MSFT",
@@ -179,16 +179,16 @@
       "price": 451.1,
       "change_percent": 15.51,
       "volume": 109342280,
-      "avg_volume_3m": 38702957,
-      "relative_volume": 2.83,
+      "avg_volume_3m": 39852511,
+      "relative_volume": 2.74,
       "market_cap": 3349663711232,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers",
         "most_actives"
       ],
-      "reason": "장중 +15.5% 상승, 거래량 3개월 평균 대비 2.8배, 거래대금 상위 종목",
-      "score": 43.81
+      "reason": "장중 +15.5% 상승, 거래량 3개월 평균 대비 2.7배, 거래대금 상위 종목",
+      "score": 42.55
     },
     {
       "symbol": "CIFR",
@@ -196,8 +196,8 @@
       "price": 22.655,
       "change_percent": 28.1,
       "volume": 36121123,
-      "avg_volume_3m": 26173963,
-      "relative_volume": 1.38,
+      "avg_volume_3m": 26336345,
+      "relative_volume": 1.37,
       "market_cap": 9267009536,
       "exchange": "NasdaqGS",
       "sources": [
@@ -205,7 +205,7 @@
         "most_actives"
       ],
       "reason": "장중 +28.1% 상승, 거래량 3개월 평균 대비 1.4배, 거래대금 상위 종목",
-      "score": 38.78
+      "score": 38.54
     },
     {
       "symbol": "BTDR",
@@ -213,31 +213,15 @@
       "price": 11.1,
       "change_percent": 24.72,
       "volume": 15283983,
-      "avg_volume_3m": 9982465,
-      "relative_volume": 1.53,
+      "avg_volume_3m": 10068422,
+      "relative_volume": 1.52,
       "market_cap": 2700781568,
       "exchange": "NasdaqCM",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +24.7% 상승, 거래량 3개월 평균 대비 1.5배",
-      "score": 37.85
-    },
-    {
-      "symbol": "WHD",
-      "name": "Cactus, Inc. Class A Common Sto",
-      "price": 62.0,
-      "change_percent": 18.5,
-      "volume": 1518535,
-      "avg_volume_3m": 767247,
-      "relative_volume": 1.98,
-      "market_cap": 4971122176,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +18.5% 상승, 거래량 3개월 평균 대비 2.0배",
-      "score": 36.62
+      "score": 37.52
     },
     {
       "symbol": "FRVO",
@@ -245,15 +229,31 @@
       "price": 22.3,
       "change_percent": 30.56,
       "volume": 4792992,
-      "avg_volume_3m": 4009307,
-      "relative_volume": 1.2,
+      "avg_volume_3m": 4024474,
+      "relative_volume": 1.19,
       "market_cap": 6570582528,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +30.6% 상승, 거래량 3개월 평균 대비 1.2배",
-      "score": 36.54
+      "score": 36.4
+    },
+    {
+      "symbol": "WHD",
+      "name": "Cactus, Inc. Class A Common Sto",
+      "price": 62.0,
+      "change_percent": 18.5,
+      "volume": 1518535,
+      "avg_volume_3m": 782011,
+      "relative_volume": 1.94,
+      "market_cap": 4971122176,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +18.5% 상승, 거래량 3개월 평균 대비 1.9배",
+      "score": 35.93
     }
   ]
 }
