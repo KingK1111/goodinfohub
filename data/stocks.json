@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-01T02:03:28+09:00",
+  "updated_at": "2026-08-01T16:58:06+09:00",
   "disclaimer": "이 목록은 공개 시세 데이터(거래량, 변동률)를 기준으로 자동 정렬한 결과이며 특정 종목의 매수/매도를 추천하지 않습니다. 투자 판단과 책임은 본인에게 있습니다.",
   "criteria": {
     "min_price": 5.0,
@@ -13,245 +13,245 @@
     {
       "symbol": "RBLX",
       "name": "Roblox Corporation",
-      "price": 34.76,
-      "change_percent": -28.58,
-      "volume": 42286299,
-      "avg_volume_3m": 11508764,
-      "relative_volume": 3.67,
-      "market_cap": 24887420928,
+      "price": 35.6,
+      "change_percent": -26.85,
+      "volume": 60912137,
+      "avg_volume_3m": 12334476,
+      "relative_volume": 4.94,
+      "market_cap": 25431781376,
       "exchange": "NYSE",
       "sources": [
         "most_actives"
       ],
-      "reason": "장중 -28.6% 하락, 거래량 3개월 평균 대비 3.7배, 거래대금 상위 종목",
-      "score": 105.01
+      "reason": "장중 -26.9% 하락, 거래량 3개월 평균 대비 4.9배, 거래대금 상위 종목",
+      "score": 132.62
     },
     {
       "symbol": "RDDT",
       "name": "Reddit, Inc.",
-      "price": 139.0888,
-      "change_percent": -21.88,
-      "volume": 20645961,
-      "avg_volume_3m": 4995120,
-      "relative_volume": 4.13,
-      "market_cap": 26775853056,
+      "price": 140.67,
+      "change_percent": -20.99,
+      "volume": 29053014,
+      "avg_volume_3m": 5393426,
+      "relative_volume": 5.39,
+      "market_cap": 27080247296,
       "exchange": "NYSE",
       "sources": [
         "most_actives"
       ],
-      "reason": "장중 -21.9% 하락, 거래량 3개월 평균 대비 4.1배, 거래대금 상위 종목",
-      "score": 90.43
-    },
-    {
-      "symbol": "AXTI",
-      "name": "AXT Inc",
-      "price": 61.63,
-      "change_percent": 31.3,
-      "volume": 22059519,
-      "avg_volume_3m": 9545616,
-      "relative_volume": 2.31,
-      "market_cap": 4032030976,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers",
-        "most_actives"
-      ],
-      "reason": "장중 +31.3% 상승, 거래량 3개월 평균 대비 2.3배, 거래대금 상위 종목",
-      "score": 72.32
+      "reason": "장중 -21.0% 하락, 거래량 3개월 평균 대비 5.4배, 거래대금 상위 종목",
+      "score": 113.07
     },
     {
       "symbol": "BSBR",
       "name": "Banco Santander Brasil SA",
-      "price": 5.66,
-      "change_percent": 12.08,
-      "volume": 9018845,
-      "avg_volume_3m": 1540953,
-      "relative_volume": 5.85,
-      "market_cap": 21189701632,
+      "price": 5.67,
+      "change_percent": 12.28,
+      "volume": 12535652,
+      "avg_volume_3m": 1716606,
+      "relative_volume": 7.3,
+      "market_cap": 21227141120,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +12.1% 상승, 거래량 3개월 평균 대비 5.9배",
-      "score": 70.7
+      "reason": "장중 +12.3% 상승, 거래량 3개월 평균 대비 7.3배",
+      "score": 89.66
     },
     {
-      "symbol": "WU",
-      "name": "Western Union Company (The)",
-      "price": 6.515,
-      "change_percent": -15.28,
-      "volume": 33790380,
-      "avg_volume_3m": 8292064,
-      "relative_volume": 4.08,
-      "market_cap": 2035514624,
+      "symbol": "ITGR",
+      "name": "Integer Holdings Corporation",
+      "price": 121.21,
+      "change_percent": 20.18,
+      "volume": 2355408,
+      "avg_volume_3m": 531492,
+      "relative_volume": 4.43,
+      "market_cap": 4115666176,
       "exchange": "NYSE",
       "sources": [
-        "most_actives"
+        "day_gainers"
       ],
-      "reason": "장중 -15.3% 하락, 거래량 3개월 평균 대비 4.1배, 거래대금 상위 종목",
-      "score": 62.26
+      "reason": "장중 +20.2% 상승, 거래량 3개월 평균 대비 4.4배",
+      "score": 89.42
     },
     {
-      "symbol": "AMBA",
-      "name": "Ambarella, Inc.",
-      "price": 87.16,
-      "change_percent": 17.64,
-      "volume": 4904422,
-      "avg_volume_3m": 1675611,
-      "relative_volume": 2.93,
-      "market_cap": 3823550976,
+      "symbol": "AXTI",
+      "name": "AXT Inc",
+      "price": 60.43,
+      "change_percent": 28.74,
+      "volume": 29509839,
+      "avg_volume_3m": 9869246,
+      "relative_volume": 2.99,
+      "market_cap": 3953522944,
       "exchange": "NasdaqGS",
       "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +17.6% 상승, 거래량 3개월 평균 대비 2.9배",
-      "score": 51.63
-    },
-    {
-      "symbol": "TU",
-      "name": "Telus Corporation",
-      "price": 9.415,
-      "change_percent": -12.58,
-      "volume": 22812833,
-      "avg_volume_3m": 6115048,
-      "relative_volume": 3.73,
-      "market_cap": 14700099584,
-      "exchange": "NYSE",
-      "sources": [
+        "day_gainers",
         "most_actives"
       ],
-      "reason": "장중 -12.6% 하락, 거래량 3개월 평균 대비 3.7배, 거래대금 상위 종목",
-      "score": 46.94
+      "reason": "장중 +28.7% 상승, 거래량 3개월 평균 대비 3.0배, 거래대금 상위 종목",
+      "score": 85.93
     },
     {
       "symbol": "BHC",
       "name": "Bausch Health Companies Inc.",
-      "price": 6.63,
-      "change_percent": 9.95,
-      "volume": 10066396,
-      "avg_volume_3m": 2496559,
-      "relative_volume": 4.03,
-      "market_cap": 2476143616,
+      "price": 6.89,
+      "change_percent": 14.26,
+      "volume": 16939823,
+      "avg_volume_3m": 2819073,
+      "relative_volume": 6.01,
+      "market_cap": 2576794880,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +10.0% 상승, 거래량 3개월 평균 대비 4.0배",
-      "score": 40.12
+      "reason": "장중 +14.3% 상승, 거래량 3개월 평균 대비 6.0배",
+      "score": 85.7
     },
     {
-      "symbol": "NWL",
-      "name": "Newell Brands Inc.",
-      "price": 5.755,
-      "change_percent": 11.96,
-      "volume": 32889869,
-      "avg_volume_3m": 10670748,
-      "relative_volume": 3.08,
-      "market_cap": 2445459456,
+      "symbol": "AMBA",
+      "name": "Ambarella, Inc.",
+      "price": 86.0,
+      "change_percent": 16.07,
+      "volume": 9037920,
+      "avg_volume_3m": 1794693,
+      "relative_volume": 5.04,
+      "market_cap": 3772663808,
       "exchange": "NasdaqGS",
       "sources": [
-        "day_gainers",
-        "most_actives"
+        "day_gainers"
       ],
-      "reason": "장중 +12.0% 상승, 거래량 3개월 평균 대비 3.1배, 거래대금 상위 종목",
-      "score": 36.88
+      "reason": "장중 +16.1% 상승, 거래량 3개월 평균 대비 5.0배",
+      "score": 80.95
     },
     {
-      "symbol": "AMZN",
-      "name": "Amazon.com, Inc.",
-      "price": 271.355,
-      "change_percent": 15.23,
-      "volume": 83440223,
-      "avg_volume_3m": 48180779,
-      "relative_volume": 1.73,
-      "market_cap": 2918995722240,
-      "exchange": "NasdaqGS",
+      "symbol": "TU",
+      "name": "Telus Corporation",
+      "price": 9.56,
+      "change_percent": -11.23,
+      "volume": 32516441,
+      "avg_volume_3m": 6538357,
+      "relative_volume": 4.97,
+      "market_cap": 14926495744,
+      "exchange": "NYSE",
       "sources": [
-        "day_gainers",
         "most_actives"
       ],
-      "reason": "장중 +15.2% 상승, 거래량 3개월 평균 대비 1.7배, 거래대금 상위 종목",
-      "score": 26.37
+      "reason": "장중 -11.2% 하락, 거래량 3개월 평균 대비 5.0배, 거래대금 상위 종목",
+      "score": 55.87
     },
     {
       "symbol": "CDNA",
       "name": "CareDx, Inc.",
-      "price": 43.79,
-      "change_percent": 14.93,
-      "volume": 1273510,
-      "avg_volume_3m": 904717,
-      "relative_volume": 1.41,
-      "market_cap": 2262168576,
+      "price": 43.71,
+      "change_percent": 14.72,
+      "volume": 2748247,
+      "avg_volume_3m": 934466,
+      "relative_volume": 2.94,
+      "market_cap": 2261302784,
       "exchange": "NasdaqGM",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +14.9% 상승, 거래량 3개월 평균 대비 1.4배",
-      "score": 21.02
+      "reason": "장중 +14.7% 상승, 거래량 3개월 평균 대비 2.9배",
+      "score": 43.3
     },
     {
-      "symbol": "SPSC",
-      "name": "SPS Commerce, Inc.",
-      "price": 73.765,
-      "change_percent": 12.05,
-      "volume": 853601,
-      "avg_volume_3m": 655190,
-      "relative_volume": 1.3,
-      "market_cap": 2708112640,
+      "symbol": "AMZN",
+      "name": "Amazon.com, Inc.",
+      "price": 271.58,
+      "change_percent": 15.32,
+      "volume": 125921078,
+      "avg_volume_3m": 49476960,
+      "relative_volume": 2.55,
+      "market_cap": 2921415835648,
       "exchange": "NasdaqGS",
       "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +12.1% 상승, 거래량 3개월 평균 대비 1.3배",
-      "score": 15.7
-    },
-    {
-      "symbol": "ARX",
-      "name": "Accelerant Holdings",
-      "price": 11.81,
-      "change_percent": 5.45,
-      "volume": 4793389,
-      "avg_volume_3m": 1923854,
-      "relative_volume": 2.49,
-      "market_cap": 2576957952,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +5.4% 상승, 거래량 3개월 평균 대비 2.5배",
-      "score": 13.57
-    },
-    {
-      "symbol": "NVO",
-      "name": "Novo Nordisk A/S",
-      "price": 46.9169,
-      "change_percent": -9.09,
-      "volume": 17820453,
-      "avg_volume_3m": 12513146,
-      "relative_volume": 1.42,
-      "market_cap": 207461646336,
-      "exchange": "NYSE",
-      "sources": [
+        "day_gainers",
         "most_actives"
       ],
-      "reason": "장중 -9.1% 하락, 거래량 3개월 평균 대비 1.4배, 거래대금 상위 종목",
-      "score": 12.95
+      "reason": "장중 +15.3% 상승, 거래량 3개월 평균 대비 2.5배, 거래대금 상위 종목",
+      "score": 38.99
+    },
+    {
+      "symbol": "NWL",
+      "name": "Newell Brands Inc.",
+      "price": 5.6,
+      "change_percent": 8.95,
+      "volume": 44327039,
+      "avg_volume_3m": 11205077,
+      "relative_volume": 3.96,
+      "market_cap": 2379595520,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers",
+        "most_actives"
+      ],
+      "reason": "장중 +8.9% 상승, 거래량 3개월 평균 대비 4.0배, 거래대금 상위 종목",
+      "score": 35.4
     },
     {
       "symbol": "DXCM",
       "name": "DexCom, Inc.",
-      "price": 82.525,
-      "change_percent": 10.71,
-      "volume": 6413346,
-      "avg_volume_3m": 5691222,
-      "relative_volume": 1.13,
-      "market_cap": 31844169728,
+      "price": 83.45,
+      "change_percent": 11.95,
+      "volume": 11764839,
+      "avg_volume_3m": 5791055,
+      "relative_volume": 2.03,
+      "market_cap": 31490754560,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +10.7% 상승, 거래량 3개월 평균 대비 1.1배",
-      "score": 12.07
+      "reason": "장중 +12.0% 상승, 거래량 3개월 평균 대비 2.0배",
+      "score": 24.28
+    },
+    {
+      "symbol": "SPSC",
+      "name": "SPS Commerce, Inc.",
+      "price": 73.39,
+      "change_percent": 11.48,
+      "volume": 1402471,
+      "avg_volume_3m": 667246,
+      "relative_volume": 2.1,
+      "market_cap": 2642052864,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +11.5% 상승, 거래량 3개월 평균 대비 2.1배",
+      "score": 24.14
+    },
+    {
+      "symbol": "DLB",
+      "name": "Dolby Laboratories",
+      "price": 58.81,
+      "change_percent": 13.58,
+      "volume": 1378051,
+      "avg_volume_3m": 949382,
+      "relative_volume": 1.45,
+      "market_cap": 5508661760,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +13.6% 상승, 거래량 3개월 평균 대비 1.5배",
+      "score": 19.71
+    },
+    {
+      "symbol": "ARX",
+      "name": "Accelerant Holdings",
+      "price": 11.88,
+      "change_percent": 6.07,
+      "volume": 6264167,
+      "avg_volume_3m": 1996053,
+      "relative_volume": 3.14,
+      "market_cap": 2592231936,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +6.1% 상승, 거래량 3개월 평균 대비 3.1배",
+      "score": 19.05
     }
   ]
 }
