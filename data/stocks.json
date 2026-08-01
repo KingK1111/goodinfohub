@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-01T20:08:36+09:00",
+  "updated_at": "2026-08-02T00:06:25+09:00",
   "disclaimer": "이 목록은 공개 시세 데이터(거래량, 변동률)를 기준으로 자동 정렬한 결과이며 특정 종목의 매수/매도를 추천하지 않습니다. 투자 판단과 책임은 본인에게 있습니다.",
   "criteria": {
     "min_price": 5.0,
@@ -16,15 +16,15 @@
       "price": 35.6,
       "change_percent": -26.85,
       "volume": 60912137,
-      "avg_volume_3m": 12334476,
-      "relative_volume": 4.94,
+      "avg_volume_3m": 11672066,
+      "relative_volume": 5.22,
       "market_cap": 25431781376,
       "exchange": "NYSE",
       "sources": [
         "most_actives"
       ],
-      "reason": "장중 -26.9% 하락, 거래량 3개월 평균 대비 4.9배, 거래대금 상위 종목",
-      "score": 132.62
+      "reason": "장중 -26.9% 하락, 거래량 3개월 평균 대비 5.2배, 거래대금 상위 종목",
+      "score": 140.14
     },
     {
       "symbol": "RDDT",
@@ -32,31 +32,15 @@
       "price": 140.67,
       "change_percent": -20.99,
       "volume": 29053014,
-      "avg_volume_3m": 5393426,
-      "relative_volume": 5.39,
+      "avg_volume_3m": 5250543,
+      "relative_volume": 5.53,
       "market_cap": 27080247296,
       "exchange": "NYSE",
       "sources": [
         "most_actives"
       ],
-      "reason": "장중 -21.0% 하락, 거래량 3개월 평균 대비 5.4배, 거래대금 상위 종목",
-      "score": 113.07
-    },
-    {
-      "symbol": "BSBR",
-      "name": "Banco Santander Brasil SA",
-      "price": 5.67,
-      "change_percent": 12.28,
-      "volume": 12535652,
-      "avg_volume_3m": 1716606,
-      "relative_volume": 7.3,
-      "market_cap": 21227141120,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +12.3% 상승, 거래량 3개월 평균 대비 7.3배",
-      "score": 89.66
+      "reason": "장중 -21.0% 하락, 거래량 3개월 평균 대비 5.5배, 거래대금 상위 종목",
+      "score": 116.14
     },
     {
       "symbol": "ITGR",
@@ -64,15 +48,31 @@
       "price": 121.21,
       "change_percent": 20.18,
       "volume": 2355408,
-      "avg_volume_3m": 531492,
-      "relative_volume": 4.43,
+      "avg_volume_3m": 523361,
+      "relative_volume": 4.5,
       "market_cap": 4115666176,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +20.2% 상승, 거래량 3개월 평균 대비 4.4배",
-      "score": 89.42
+      "reason": "장중 +20.2% 상승, 거래량 3개월 평균 대비 4.5배",
+      "score": 90.81
+    },
+    {
+      "symbol": "BSBR",
+      "name": "Banco Santander Brasil SA",
+      "price": 5.67,
+      "change_percent": 12.28,
+      "volume": 12535652,
+      "avg_volume_3m": 1730845,
+      "relative_volume": 7.24,
+      "market_cap": 21227141120,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +12.3% 상승, 거래량 3개월 평균 대비 7.2배",
+      "score": 88.92
     },
     {
       "symbol": "AXTI",
@@ -80,8 +80,8 @@
       "price": 60.43,
       "change_percent": 28.74,
       "volume": 29509839,
-      "avg_volume_3m": 9869246,
-      "relative_volume": 2.99,
+      "avg_volume_3m": 9705877,
+      "relative_volume": 3.04,
       "market_cap": 3953522944,
       "exchange": "NasdaqGS",
       "sources": [
@@ -89,7 +89,7 @@
         "most_actives"
       ],
       "reason": "장중 +28.7% 상승, 거래량 3개월 평균 대비 3.0배, 거래대금 상위 종목",
-      "score": 85.93
+      "score": 87.38
     },
     {
       "symbol": "BHC",
@@ -97,15 +97,15 @@
       "price": 6.89,
       "change_percent": 14.26,
       "volume": 16939823,
-      "avg_volume_3m": 2819073,
-      "relative_volume": 6.01,
+      "avg_volume_3m": 2813769,
+      "relative_volume": 6.02,
       "market_cap": 2576794880,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +14.3% 상승, 거래량 3개월 평균 대비 6.0배",
-      "score": 85.7
+      "score": 85.86
     },
     {
       "symbol": "AMBA",
@@ -113,15 +113,15 @@
       "price": 86.0,
       "change_percent": 16.07,
       "volume": 9037920,
-      "avg_volume_3m": 1794693,
-      "relative_volume": 5.04,
+      "avg_volume_3m": 1813527,
+      "relative_volume": 4.98,
       "market_cap": 3772663808,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +16.1% 상승, 거래량 3개월 평균 대비 5.0배",
-      "score": 80.95
+      "score": 80.11
     },
     {
       "symbol": "TU",
@@ -129,15 +129,15 @@
       "price": 9.56,
       "change_percent": -11.23,
       "volume": 32516441,
-      "avg_volume_3m": 6538357,
-      "relative_volume": 4.97,
+      "avg_volume_3m": 6590738,
+      "relative_volume": 4.93,
       "market_cap": 14926495744,
       "exchange": "NYSE",
       "sources": [
         "most_actives"
       ],
-      "reason": "장중 -11.2% 하락, 거래량 3개월 평균 대비 5.0배, 거래대금 상위 종목",
-      "score": 55.87
+      "reason": "장중 -11.2% 하락, 거래량 3개월 평균 대비 4.9배, 거래대금 상위 종목",
+      "score": 55.43
     },
     {
       "symbol": "CDNA",
@@ -145,7 +145,7 @@
       "price": 43.71,
       "change_percent": 14.72,
       "volume": 2748247,
-      "avg_volume_3m": 934466,
+      "avg_volume_3m": 935611,
       "relative_volume": 2.94,
       "market_cap": 2261302784,
       "exchange": "NasdaqGM",
@@ -153,7 +153,7 @@
         "day_gainers"
       ],
       "reason": "장중 +14.7% 상승, 거래량 3개월 평균 대비 2.9배",
-      "score": 43.3
+      "score": 43.25
     },
     {
       "symbol": "AMZN",
@@ -161,7 +161,7 @@
       "price": 271.58,
       "change_percent": 15.32,
       "volume": 125921078,
-      "avg_volume_3m": 49476960,
+      "avg_volume_3m": 49455214,
       "relative_volume": 2.55,
       "market_cap": 2921415835648,
       "exchange": "NasdaqGS",
@@ -170,7 +170,7 @@
         "most_actives"
       ],
       "reason": "장중 +15.3% 상승, 거래량 3개월 평균 대비 2.5배, 거래대금 상위 종목",
-      "score": 38.99
+      "score": 39.01
     },
     {
       "symbol": "NWL",
@@ -178,8 +178,8 @@
       "price": 5.6,
       "change_percent": 8.95,
       "volume": 44327039,
-      "avg_volume_3m": 11205077,
-      "relative_volume": 3.96,
+      "avg_volume_3m": 11156567,
+      "relative_volume": 3.97,
       "market_cap": 2379595520,
       "exchange": "NasdaqGS",
       "sources": [
@@ -187,7 +187,7 @@
         "most_actives"
       ],
       "reason": "장중 +8.9% 상승, 거래량 3개월 평균 대비 4.0배, 거래대금 상위 종목",
-      "score": 35.4
+      "score": 35.56
     },
     {
       "symbol": "DXCM",
@@ -195,15 +195,15 @@
       "price": 83.45,
       "change_percent": 11.95,
       "volume": 11764839,
-      "avg_volume_3m": 5791055,
-      "relative_volume": 2.03,
+      "avg_volume_3m": 5714088,
+      "relative_volume": 2.06,
       "market_cap": 31490754560,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +12.0% 상승, 거래량 3개월 평균 대비 2.0배",
-      "score": 24.28
+      "reason": "장중 +12.0% 상승, 거래량 3개월 평균 대비 2.1배",
+      "score": 24.61
     },
     {
       "symbol": "SPSC",
@@ -211,15 +211,15 @@
       "price": 73.39,
       "change_percent": 11.48,
       "volume": 1402471,
-      "avg_volume_3m": 667246,
-      "relative_volume": 2.1,
+      "avg_volume_3m": 662819,
+      "relative_volume": 2.12,
       "market_cap": 2642052864,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +11.5% 상승, 거래량 3개월 평균 대비 2.1배",
-      "score": 24.14
+      "score": 24.3
     },
     {
       "symbol": "DLB",
@@ -227,15 +227,15 @@
       "price": 58.81,
       "change_percent": 13.58,
       "volume": 1378051,
-      "avg_volume_3m": 949382,
-      "relative_volume": 1.45,
+      "avg_volume_3m": 930222,
+      "relative_volume": 1.48,
       "market_cap": 5508661760,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +13.6% 상승, 거래량 3개월 평균 대비 1.5배",
-      "score": 19.71
+      "score": 20.11
     },
     {
       "symbol": "ARX",
@@ -243,15 +243,15 @@
       "price": 11.88,
       "change_percent": 6.07,
       "volume": 6264167,
-      "avg_volume_3m": 1996053,
-      "relative_volume": 3.14,
+      "avg_volume_3m": 2014188,
+      "relative_volume": 3.11,
       "market_cap": 2592231936,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +6.1% 상승, 거래량 3개월 평균 대비 3.1배",
-      "score": 19.05
+      "score": 18.88
     }
   ]
 }
