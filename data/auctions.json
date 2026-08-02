@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-01T02:03:25+09:00",
-  "last_attempt_at": "2026-08-02T17:01:34+09:00",
+  "updated_at": "2026-08-02T19:54:25+09:00",
+  "last_attempt_at": "2026-08-02T19:54:25+09:00",
   "districts": [
     "성동구",
     "중구",
@@ -34,30 +34,6 @@
       "status": "유찰 2회"
     },
     {
-      "district": "중구",
-      "case_no": "서울중앙지방법원 2025타경104206",
-      "item_no": "1",
-      "address": "서울특별시 중구 인현동2가 190-1 [건물 3층9내 철근콘크리트조 슬래브지붕5층 점포및아파트 1층448.17㎡ 2층448.17㎡ 3층448.17㎡ 4층448.17㎡ 5층448.17㎡ 지하실299.74㎡ 옥탑50.5㎡ 내3층9호 3층39.50㎡ 지하실299.74㎡ 내 3층59.50㎡]",
-      "remarks": "대지사용권이 없으므로 건물만 매각, 최저매각가격은 건물만의 평가액임",
-      "appraisal_amount": "71,000,000",
-      "court_and_date": "경매1계 2026.08.04",
-      "usage": "연립주택,다세대,빌라",
-      "min_sale_price": "71,000,000 (100%)",
-      "status": "신건"
-    },
-    {
-      "district": "동대문구",
-      "case_no": "서울북부지방법원 2025타경761",
-      "item_no": "1",
-      "address": "서울특별시 동대문구 휘경동 369 휘경 제이스카이 아파트 12층1201호 [집합건물 철근콘크리트구조 84.43㎡]",
-      "remarks": "",
-      "appraisal_amount": "665,000,000",
-      "court_and_date": "경매1계 2026.08.11",
-      "usage": "아파트",
-      "min_sale_price": "665,000,000 (100%)",
-      "status": "신건"
-    },
-    {
       "district": "동대문구",
       "case_no": "서울북부지방법원 2025타경12464",
       "item_no": "1",
@@ -86,7 +62,7 @@
       "case_no": "서울동부지방법원 2025타경52202 2025타경52129 (중복)",
       "item_no": "1",
       "address": "서울특별시 광진구 구의동 587-58 1층101호 [집합건물 철근콘크리트구조 207.13㎡]",
-      "remarks": "선행사건 2025타경52129(중복)의 현황조사서 및 감정평가서 원용",
+      "remarks": "선행사건 2025타경52129(중복)의 현황조사서 및 감정평가서 원용 2026.07.31.자 파르네빌아파트 입주자 대표회의가 제출한 신고서에 따르면 2026년 6월까지 공용부분에 대한 관리비 16,992,930원(연체료 제외)이 미납된 상태로 위 금액은 매수인이 승계함",
       "appraisal_amount": "1,720,000,000",
       "court_and_date": "경매4계 2026.08.03",
       "usage": "아파트",
@@ -142,11 +118,5 @@
       "status": "유찰 1회"
     }
   ],
-  "errors": [
-    "성동구: HTTPConnectionPool(host='localhost', port=53979): Read timed out. (read timeout=120)",
-    "중구: HTTPConnectionPool(host='localhost', port=53979): Read timed out. (read timeout=120)",
-    "동대문구: HTTPConnectionPool(host='localhost', port=53979): Read timed out. (read timeout=120)",
-    "광진구: HTTPConnectionPool(host='localhost', port=53979): Read timed out. (read timeout=120)",
-    "송파구: HTTPConnectionPool(host='localhost', port=53979): Read timed out. (read timeout=120)"
-  ]
+  "errors": []
 }
