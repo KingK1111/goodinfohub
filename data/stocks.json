@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03T23:18:50+09:00",
+  "updated_at": "2026-08-04T02:47:24+09:00",
   "disclaimer": "이 목록은 공개 시세 데이터(거래량, 변동률)를 기준으로 자동 정렬한 결과이며 특정 종목의 매수/매도를 추천하지 않습니다. 투자 판단과 책임은 본인에게 있습니다.",
   "criteria": {
     "min_price": 5.0,
@@ -11,247 +11,248 @@
   },
   "candidates": [
     {
-      "symbol": "FERG",
-      "name": "Ferguson Enterprises Inc.",
-      "price": 254.745,
-      "change_percent": 8.71,
-      "volume": 3715682,
-      "avg_volume_3m": 1379224,
-      "relative_volume": 2.69,
-      "market_cap": 49404690432,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +8.7% 상승, 거래량 3개월 평균 대비 2.7배",
-      "score": 23.47
-    },
-    {
-      "symbol": "CNH",
-      "name": "CNH Industrial N.V.",
-      "price": 11.755,
-      "change_percent": 14.68,
-      "volume": 11302286,
-      "avg_volume_3m": 11951470,
-      "relative_volume": 0.95,
-      "market_cap": 14575619072,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers",
-        "most_actives"
-      ],
-      "reason": "장중 +14.7% 상승, 거래량 3개월 평균 대비 0.9배, 거래대금 상위 종목",
-      "score": 13.89
-    },
-    {
       "symbol": "GME",
       "name": "GameStop Corporation",
-      "price": 19.415,
-      "change_percent": -10.61,
-      "volume": 7849935,
+      "price": 18.915,
+      "change_percent": -12.91,
+      "volume": 30482044,
       "avg_volume_3m": 6068235,
-      "relative_volume": 1.29,
-      "market_cap": 8711341056,
+      "relative_volume": 5.02,
+      "market_cap": 8486995456,
       "exchange": "NYSE",
       "sources": [
         "most_actives"
       ],
-      "reason": "장중 -10.6% 하락, 거래량 3개월 평균 대비 1.3배, 거래대금 상위 종목",
-      "score": 13.73
+      "reason": "장중 -12.9% 하락, 거래량 3개월 평균 대비 5.0배, 거래대금 상위 종목",
+      "score": 64.87
     },
     {
-      "symbol": "LIND",
-      "name": "Lindblad Expeditions Holdings I",
-      "price": 33.954,
-      "change_percent": 14.79,
-      "volume": 361693,
-      "avg_volume_3m": 892325,
-      "relative_volume": 0.41,
-      "market_cap": 2227382272,
-      "exchange": "NasdaqCM",
+      "symbol": "FERG",
+      "name": "Ferguson Enterprises Inc.",
+      "price": 253.365,
+      "change_percent": 8.12,
+      "volume": 8020969,
+      "avg_volume_3m": 1379224,
+      "relative_volume": 5.82,
+      "market_cap": 49137057792,
+      "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +14.8% 상승, 거래량 3개월 평균 대비 0.4배",
-      "score": 5.99
-    },
-    {
-      "symbol": "FSLR",
-      "name": "First Solar, Inc.",
-      "price": 234.58,
-      "change_percent": 11.14,
-      "volume": 1201826,
-      "avg_volume_3m": 2392474,
-      "relative_volume": 0.5,
-      "market_cap": 25210263552,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +11.1% 상승, 거래량 3개월 평균 대비 0.5배",
-      "score": 5.59
-    },
-    {
-      "symbol": "CDNA",
-      "name": "CareDx, Inc.",
-      "price": 47.2907,
-      "change_percent": 8.2,
-      "volume": 610840,
-      "avg_volume_3m": 935611,
-      "relative_volume": 0.65,
-      "market_cap": 2446547712,
-      "exchange": "NasdaqGM",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +8.2% 상승, 거래량 3개월 평균 대비 0.7배",
-      "score": 5.35
-    },
-    {
-      "symbol": "FTAI",
-      "name": "FTAI Aviation Ltd.",
-      "price": 228.535,
-      "change_percent": 10.94,
-      "volume": 577943,
-      "avg_volume_3m": 1314450,
-      "relative_volume": 0.44,
-      "market_cap": 23453501440,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +10.9% 상승, 거래량 3개월 평균 대비 0.4배",
-      "score": 4.81
-    },
-    {
-      "symbol": "NWL",
-      "name": "Newell Brands Inc.",
-      "price": 6.34,
-      "change_percent": 13.21,
-      "volume": 3659456,
-      "avg_volume_3m": 11156567,
-      "relative_volume": 0.33,
-      "market_cap": 2694042112,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +13.2% 상승, 거래량 3개월 평균 대비 0.3배",
-      "score": 4.33
-    },
-    {
-      "symbol": "CRWV",
-      "name": "CoreWeave, Inc.",
-      "price": 79.4701,
-      "change_percent": 10.73,
-      "volume": 11629940,
-      "avg_volume_3m": 29006961,
-      "relative_volume": 0.4,
-      "market_cap": 43356532736,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers",
-        "most_actives"
-      ],
-      "reason": "장중 +10.7% 상승, 거래량 3개월 평균 대비 0.4배, 거래대금 상위 종목",
-      "score": 4.3
-    },
-    {
-      "symbol": "ALNY",
-      "name": "Alnylam Pharmaceuticals, Inc.",
-      "price": 218.29,
-      "change_percent": 6.21,
-      "volume": 923064,
-      "avg_volume_3m": 1468819,
-      "relative_volume": 0.63,
-      "market_cap": 29209192448,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +6.2% 상승, 거래량 3개월 평균 대비 0.6배",
-      "score": 3.9
-    },
-    {
-      "symbol": "KC",
-      "name": "Kingsoft Cloud Holdings Limited",
-      "price": 11.82,
-      "change_percent": 6.01,
-      "volume": 825480,
-      "avg_volume_3m": 1503140,
-      "relative_volume": 0.55,
-      "market_cap": 3538549248,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +6.0% 상승, 거래량 3개월 평균 대비 0.5배",
-      "score": 3.3
-    },
-    {
-      "symbol": "MMYT",
-      "name": "MakeMyTrip Limited",
-      "price": 63.27,
-      "change_percent": 11.1,
-      "volume": 308694,
-      "avg_volume_3m": 1043370,
-      "relative_volume": 0.3,
-      "market_cap": 5951091712,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +11.1% 상승, 거래량 3개월 평균 대비 0.3배",
-      "score": 3.28
+      "reason": "장중 +8.1% 상승, 거래량 3개월 평균 대비 5.8배",
+      "score": 47.24
     },
     {
       "symbol": "AXTI",
       "name": "AXT Inc",
-      "price": 64.39,
-      "change_percent": 6.55,
-      "volume": 4615468,
+      "price": 70.22,
+      "change_percent": 16.18,
+      "volume": 11938141,
       "avg_volume_3m": 9705877,
-      "relative_volume": 0.48,
-      "market_cap": 4212598784,
+      "relative_volume": 1.23,
+      "market_cap": 4594016256,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +6.6% 상승, 거래량 3개월 평균 대비 0.5배",
-      "score": 3.12
+      "reason": "장중 +16.2% 상승, 거래량 3개월 평균 대비 1.2배",
+      "score": 19.91
     },
     {
-      "symbol": "ALM",
-      "name": "Almonty Industries Inc.",
-      "price": 12.195,
-      "change_percent": 10.26,
-      "volume": 1685053,
-      "avg_volume_3m": 5705387,
-      "relative_volume": 0.3,
-      "market_cap": 3460231936,
-      "exchange": "NasdaqCM",
+      "symbol": "KC",
+      "name": "Kingsoft Cloud Holdings Limited",
+      "price": 12.145,
+      "change_percent": 8.92,
+      "volume": 3220201,
+      "avg_volume_3m": 1503140,
+      "relative_volume": 2.14,
+      "market_cap": 3635844608,
+      "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +10.3% 상승, 거래량 3개월 평균 대비 0.3배",
-      "score": 3.03
+      "reason": "장중 +8.9% 상승, 거래량 3개월 평균 대비 2.1배",
+      "score": 19.12
     },
     {
-      "symbol": "NBIS",
-      "name": "Nebius Group N.V.",
-      "price": 204.99,
-      "change_percent": 7.66,
-      "volume": 7628439,
-      "avg_volume_3m": 19561533,
-      "relative_volume": 0.39,
-      "market_cap": 52046589952,
+      "symbol": "CDNA",
+      "name": "CareDx, Inc.",
+      "price": 47.98,
+      "change_percent": 9.77,
+      "volume": 1808839,
+      "avg_volume_3m": 935611,
+      "relative_volume": 1.93,
+      "market_cap": 2482208000,
+      "exchange": "NasdaqGM",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +9.8% 상승, 거래량 3개월 평균 대비 1.9배",
+      "score": 18.89
+    },
+    {
+      "symbol": "NWL",
+      "name": "Newell Brands Inc.",
+      "price": 6.375,
+      "change_percent": 13.84,
+      "volume": 14328484,
+      "avg_volume_3m": 11156567,
+      "relative_volume": 1.28,
+      "market_cap": 2708914688,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +13.8% 상승, 거래량 3개월 평균 대비 1.3배",
+      "score": 17.77
+    },
+    {
+      "symbol": "CNH",
+      "name": "CNH Industrial N.V.",
+      "price": 11.105,
+      "change_percent": 8.34,
+      "volume": 25390495,
+      "avg_volume_3m": 11951470,
+      "relative_volume": 2.12,
+      "market_cap": 13769651200,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers",
+        "most_actives"
+      ],
+      "reason": "장중 +8.3% 상승, 거래량 3개월 평균 대비 2.1배, 거래대금 상위 종목",
+      "score": 17.72
+    },
+    {
+      "symbol": "FSLR",
+      "name": "First Solar, Inc.",
+      "price": 238.855,
+      "change_percent": 13.19,
+      "volume": 2882124,
+      "avg_volume_3m": 2392474,
+      "relative_volume": 1.2,
+      "market_cap": 25669697536,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +13.2% 상승, 거래량 3개월 평균 대비 1.2배",
+      "score": 15.88
+    },
+    {
+      "symbol": "CRWV",
+      "name": "CoreWeave, Inc.",
+      "price": 83.555,
+      "change_percent": 16.42,
+      "volume": 27429045,
+      "avg_volume_3m": 29006961,
+      "relative_volume": 0.95,
+      "market_cap": 45585133568,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers",
         "most_actives"
       ],
-      "reason": "장중 +7.7% 상승, 거래량 3개월 평균 대비 0.4배, 거래대금 상위 종목",
-      "score": 2.99
+      "reason": "장중 +16.4% 상승, 거래량 3개월 평균 대비 0.9배, 거래대금 상위 종목",
+      "score": 15.53
+    },
+    {
+      "symbol": "NBIS",
+      "name": "Nebius Group N.V.",
+      "price": 220.155,
+      "change_percent": 15.62,
+      "volume": 18082523,
+      "avg_volume_3m": 19561533,
+      "relative_volume": 0.92,
+      "market_cap": 55896956928,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers",
+        "most_actives"
+      ],
+      "reason": "장중 +15.6% 상승, 거래량 3개월 평균 대비 0.9배, 거래대금 상위 종목",
+      "score": 14.44
+    },
+    {
+      "symbol": "BFLY",
+      "name": "Butterfly Network, Inc.",
+      "price": 8.18,
+      "change_percent": 15.05,
+      "volume": 7137750,
+      "avg_volume_3m": 7927583,
+      "relative_volume": 0.9,
+      "market_cap": 2178212864,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +15.0% 상승, 거래량 3개월 평균 대비 0.9배",
+      "score": 13.55
+    },
+    {
+      "symbol": "RDDT",
+      "name": "Reddit, Inc.",
+      "price": 154.11,
+      "change_percent": 9.55,
+      "volume": 7168628,
+      "avg_volume_3m": 5250543,
+      "relative_volume": 1.37,
+      "market_cap": 29667567616,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +9.6% 상승, 거래량 3개월 평균 대비 1.4배",
+      "score": 13.05
+    },
+    {
+      "symbol": "CORZ",
+      "name": "Core Scientific, Inc.",
+      "price": 22.805,
+      "change_percent": 10.06,
+      "volume": 16537617,
+      "avg_volume_3m": 13776898,
+      "relative_volume": 1.2,
+      "market_cap": 7328168960,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers",
+        "most_actives"
+      ],
+      "reason": "장중 +10.1% 상승, 거래량 3개월 평균 대비 1.2배, 거래대금 상위 종목",
+      "score": 12.08
+    },
+    {
+      "symbol": "ALM",
+      "name": "Almonty Industries Inc.",
+      "price": 12.675,
+      "change_percent": 14.6,
+      "volume": 4672496,
+      "avg_volume_3m": 5705387,
+      "relative_volume": 0.82,
+      "market_cap": 3596428032,
+      "exchange": "NasdaqCM",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +14.6% 상승, 거래량 3개월 평균 대비 0.8배",
+      "score": 11.96
+    },
+    {
+      "symbol": "ELVN",
+      "name": "Enliven Therapeutics, Inc.",
+      "price": 58.91,
+      "change_percent": 7.46,
+      "volume": 1758218,
+      "avg_volume_3m": 1310425,
+      "relative_volume": 1.34,
+      "market_cap": 4208429056,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +7.5% 상승, 거래량 3개월 평균 대비 1.3배",
+      "score": 10.01
     }
   ]
 }
