@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-04T17:13:11+09:00",
+  "updated_at": "2026-08-04T21:27:15+09:00",
   "disclaimer": "이 목록은 공개 시세 데이터(거래량, 변동률)를 기준으로 자동 정렬한 결과이며 특정 종목의 매수/매도를 추천하지 않습니다. 투자 판단과 책임은 본인에게 있습니다.",
   "criteria": {
     "min_price": 5.0,
@@ -16,15 +16,15 @@
       "price": 19.06,
       "change_percent": -12.25,
       "volume": 41598573,
-      "avg_volume_3m": 6068235,
-      "relative_volume": 6.86,
+      "avg_volume_3m": 5509049,
+      "relative_volume": 7.55,
       "market_cap": 8552055296,
       "exchange": "NYSE",
       "sources": [
         "most_actives"
       ],
-      "reason": "장중 -12.2% 하락, 거래량 3개월 평균 대비 6.9배, 거래대금 상위 종목",
-      "score": 83.95
+      "reason": "장중 -12.2% 하락, 거래량 3개월 평균 대비 7.6배, 거래대금 상위 종목",
+      "score": 92.48
     },
     {
       "symbol": "NWL",
@@ -32,7 +32,7 @@
       "price": 6.36,
       "change_percent": 13.57,
       "volume": 26143924,
-      "avg_volume_3m": 11156567,
+      "avg_volume_3m": 11150467,
       "relative_volume": 2.34,
       "market_cap": 2708723968,
       "exchange": "NasdaqGS",
@@ -40,23 +40,7 @@
         "day_gainers"
       ],
       "reason": "장중 +13.6% 상승, 거래량 3개월 평균 대비 2.3배",
-      "score": 31.8
-    },
-    {
-      "symbol": "CDNA",
-      "name": "CareDx, Inc.",
-      "price": 47.85,
-      "change_percent": 9.47,
-      "volume": 2926861,
-      "avg_volume_3m": 935611,
-      "relative_volume": 3.13,
-      "market_cap": 2475482624,
-      "exchange": "NasdaqGM",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +9.5% 상승, 거래량 3개월 평균 대비 3.1배",
-      "score": 29.63
+      "score": 31.82
     },
     {
       "symbol": "CRWV",
@@ -64,7 +48,7 @@
       "price": 85.76,
       "change_percent": 19.49,
       "volume": 44007925,
-      "avg_volume_3m": 29006961,
+      "avg_volume_3m": 28987447,
       "relative_volume": 1.52,
       "market_cap": 46788116480,
       "exchange": "NasdaqGS",
@@ -73,7 +57,23 @@
         "most_actives"
       ],
       "reason": "장중 +19.5% 상승, 거래량 3개월 평균 대비 1.5배, 거래대금 상위 종목",
-      "score": 29.57
+      "score": 29.59
+    },
+    {
+      "symbol": "CDNA",
+      "name": "CareDx, Inc.",
+      "price": 47.85,
+      "change_percent": 9.47,
+      "volume": 2926861,
+      "avg_volume_3m": 939795,
+      "relative_volume": 3.11,
+      "market_cap": 2475482624,
+      "exchange": "NasdaqGM",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +9.5% 상승, 거래량 3개월 평균 대비 3.1배",
+      "score": 29.5
     },
     {
       "symbol": "LIND",
@@ -81,15 +81,15 @@
       "price": 33.12,
       "change_percent": 11.97,
       "volume": 1959850,
-      "avg_volume_3m": 892325,
-      "relative_volume": 2.2,
+      "avg_volume_3m": 893963,
+      "relative_volume": 2.19,
       "market_cap": 2172672000,
       "exchange": "NasdaqCM",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +12.0% 상승, 거래량 3개월 평균 대비 2.2배",
-      "score": 26.28
+      "score": 26.24
     },
     {
       "symbol": "BFLY",
@@ -97,7 +97,7 @@
       "price": 8.22,
       "change_percent": 15.61,
       "volume": 12291629,
-      "avg_volume_3m": 7927583,
+      "avg_volume_3m": 7917857,
       "relative_volume": 1.55,
       "market_cap": 2188864256,
       "exchange": "NYSE",
@@ -105,23 +105,7 @@
         "day_gainers"
       ],
       "reason": "장중 +15.6% 상승, 거래량 3개월 평균 대비 1.6배",
-      "score": 24.21
-    },
-    {
-      "symbol": "ALM",
-      "name": "Almonty Industries Inc.",
-      "price": 12.56,
-      "change_percent": 13.56,
-      "volume": 10171022,
-      "avg_volume_3m": 5705387,
-      "relative_volume": 1.78,
-      "market_cap": 3563797760,
-      "exchange": "NasdaqCM",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +13.6% 상승, 거래량 3개월 평균 대비 1.8배",
-      "score": 24.18
+      "score": 24.24
     },
     {
       "symbol": "AXTI",
@@ -129,10 +113,26 @@
       "price": 68.67,
       "change_percent": 13.64,
       "volume": 17162031,
-      "avg_volume_3m": 9705877,
+      "avg_volume_3m": 9673337,
       "relative_volume": 1.77,
       "market_cap": 4492610048,
       "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +13.6% 상승, 거래량 3개월 평균 대비 1.8배",
+      "score": 24.19
+    },
+    {
+      "symbol": "ALM",
+      "name": "Almonty Industries Inc.",
+      "price": 12.56,
+      "change_percent": 13.56,
+      "volume": 10171022,
+      "avg_volume_3m": 5721888,
+      "relative_volume": 1.78,
+      "market_cap": 3563797760,
+      "exchange": "NasdaqCM",
       "sources": [
         "day_gainers"
       ],
@@ -145,15 +145,15 @@
       "price": 232.73,
       "change_percent": 10.28,
       "volume": 5054094,
-      "avg_volume_3m": 2392474,
-      "relative_volume": 2.11,
+      "avg_volume_3m": 2383701,
+      "relative_volume": 2.12,
       "market_cap": 25011443712,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +10.3% 상승, 거래량 3개월 평균 대비 2.1배",
-      "score": 21.72
+      "score": 21.8
     },
     {
       "symbol": "RDDT",
@@ -161,7 +161,7 @@
       "price": 154.71,
       "change_percent": 9.98,
       "volume": 9898775,
-      "avg_volume_3m": 5250543,
+      "avg_volume_3m": 5236749,
       "relative_volume": 1.89,
       "market_cap": 29765664768,
       "exchange": "NYSE",
@@ -169,7 +169,7 @@
         "day_gainers"
       ],
       "reason": "장중 +10.0% 상승, 거래량 3개월 평균 대비 1.9배",
-      "score": 18.82
+      "score": 18.87
     },
     {
       "symbol": "TWST",
@@ -177,15 +177,15 @@
       "price": 101.06,
       "change_percent": 10.39,
       "volume": 2935714,
-      "avg_volume_3m": 1721169,
-      "relative_volume": 1.71,
+      "avg_volume_3m": 1707159,
+      "relative_volume": 1.72,
       "market_cap": 6293138432,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +10.4% 상승, 거래량 3개월 평균 대비 1.7배",
-      "score": 17.72
+      "score": 17.86
     },
     {
       "symbol": "CORZ",
@@ -193,7 +193,7 @@
       "price": 22.83,
       "change_percent": 10.18,
       "volume": 23676542,
-      "avg_volume_3m": 13776898,
+      "avg_volume_3m": 13736722,
       "relative_volume": 1.72,
       "market_cap": 7336202240,
       "exchange": "NasdaqGS",
@@ -201,7 +201,7 @@
         "day_gainers"
       ],
       "reason": "장중 +10.2% 상승, 거래량 3개월 평균 대비 1.7배",
-      "score": 17.5
+      "score": 17.55
     },
     {
       "symbol": "CNH",
@@ -209,15 +209,15 @@
       "price": 10.8,
       "change_percent": 5.37,
       "volume": 38080449,
-      "avg_volume_3m": 11951470,
-      "relative_volume": 3.19,
+      "avg_volume_3m": 11882413,
+      "relative_volume": 3.2,
       "market_cap": 13391466496,
       "exchange": "NYSE",
       "sources": [
         "most_actives"
       ],
       "reason": "장중 +5.4% 상승, 거래량 3개월 평균 대비 3.2배, 거래대금 상위 종목",
-      "score": 17.1
+      "score": 17.2
     },
     {
       "symbol": "AAOI",
@@ -225,7 +225,7 @@
       "price": 110.21,
       "change_percent": 16.85,
       "volume": 11928510,
-      "avg_volume_3m": 11770654,
+      "avg_volume_3m": 11796732,
       "relative_volume": 1.01,
       "market_cap": 8843555840,
       "exchange": "NasdaqGM",
@@ -233,7 +233,7 @@
         "day_gainers"
       ],
       "reason": "장중 +16.8% 상승, 거래량 3개월 평균 대비 1.0배",
-      "score": 17.07
+      "score": 17.04
     },
     {
       "symbol": "FTAI",
@@ -241,7 +241,7 @@
       "price": 225.15,
       "change_percent": 9.3,
       "volume": 2176493,
-      "avg_volume_3m": 1314450,
+      "avg_volume_3m": 1312301,
       "relative_volume": 1.66,
       "market_cap": 23124500480,
       "exchange": "NasdaqGS",
@@ -249,7 +249,7 @@
         "day_gainers"
       ],
       "reason": "장중 +9.3% 상승, 거래량 3개월 평균 대비 1.7배",
-      "score": 15.39
+      "score": 15.42
     }
   ]
 }
