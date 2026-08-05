@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T17:27:21+09:00",
+  "updated_at": "2026-08-05T21:40:13+09:00",
   "disclaimer": "이 목록은 공개 시세 데이터(거래량, 변동률)를 기준으로 자동 정렬한 결과이며 특정 종목의 매수/매도를 추천하지 않습니다. 투자 판단과 책임은 본인에게 있습니다.",
   "criteria": {
     "min_price": 5.0,
@@ -11,29 +11,13 @@
   },
   "candidates": [
     {
-      "symbol": "PAY",
-      "name": "Paymentus Holdings, Inc.",
-      "price": 44.6,
-      "change_percent": 29.2,
-      "volume": 4597086,
-      "avg_volume_3m": 1092040,
-      "relative_volume": 4.21,
-      "market_cap": 5610204160,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +29.2% 상승, 거래량 3개월 평균 대비 4.2배",
-      "score": 122.92
-    },
-    {
       "symbol": "PLTR",
       "name": "Palantir Technologies Inc.",
       "price": 162.66,
       "change_percent": 29.45,
       "volume": 172005673,
-      "avg_volume_3m": 41366303,
-      "relative_volume": 4.16,
+      "avg_volume_3m": 40573175,
+      "relative_volume": 4.24,
       "market_cap": 389946769408,
       "exchange": "NasdaqGS",
       "sources": [
@@ -41,7 +25,23 @@
         "most_actives"
       ],
       "reason": "장중 +29.5% 상승, 거래량 3개월 평균 대비 4.2배, 거래대금 상위 종목",
-      "score": 122.48
+      "score": 124.87
+    },
+    {
+      "symbol": "PAY",
+      "name": "Paymentus Holdings, Inc.",
+      "price": 44.6,
+      "change_percent": 29.2,
+      "volume": 4597086,
+      "avg_volume_3m": 1081767,
+      "relative_volume": 4.25,
+      "market_cap": 5610204160,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +29.2% 상승, 거래량 3개월 평균 대비 4.2배",
+      "score": 124.09
     },
     {
       "symbol": "W",
@@ -49,7 +49,7 @@
       "price": 116.08,
       "change_percent": 29.97,
       "volume": 13523585,
-      "avg_volume_3m": 3751767,
+      "avg_volume_3m": 3756322,
       "relative_volume": 3.6,
       "market_cap": 15322153984,
       "exchange": "NYSE",
@@ -57,7 +57,7 @@
         "day_gainers"
       ],
       "reason": "장중 +30.0% 상승, 거래량 3개월 평균 대비 3.6배",
-      "score": 108.05
+      "score": 107.91
     },
     {
       "symbol": "ZBRA",
@@ -65,15 +65,15 @@
       "price": 368.83,
       "change_percent": 26.47,
       "volume": 2600505,
-      "avg_volume_3m": 976108,
-      "relative_volume": 2.66,
+      "avg_volume_3m": 980447,
+      "relative_volume": 2.65,
       "market_cap": 17568622592,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +26.5% 상승, 거래량 3개월 평균 대비 2.7배",
-      "score": 70.51
+      "score": 70.2
     },
     {
       "symbol": "EWTX",
@@ -81,15 +81,15 @@
       "price": 44.705,
       "change_percent": 16.48,
       "volume": 4181724,
-      "avg_volume_3m": 1427916,
-      "relative_volume": 2.93,
+      "avg_volume_3m": 1368531,
+      "relative_volume": 3.06,
       "market_cap": 4809945600,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +16.5% 상승, 거래량 3개월 평균 대비 2.9배",
-      "score": 48.26
+      "reason": "장중 +16.5% 상승, 거래량 3개월 평균 대비 3.1배",
+      "score": 50.36
     },
     {
       "symbol": "IT",
@@ -97,15 +97,15 @@
       "price": 185.79,
       "change_percent": 22.61,
       "volume": 3353039,
-      "avg_volume_3m": 1596759,
-      "relative_volume": 2.1,
+      "avg_volume_3m": 1574237,
+      "relative_volume": 2.13,
       "market_cap": 11732448256,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +22.6% 상승, 거래량 3개월 평균 대비 2.1배",
-      "score": 47.48
+      "score": 48.16
     },
     {
       "symbol": "TDW",
@@ -113,15 +113,15 @@
       "price": 84.19,
       "change_percent": 17.78,
       "volume": 1812643,
-      "avg_volume_3m": 746441,
-      "relative_volume": 2.43,
+      "avg_volume_3m": 739824,
+      "relative_volume": 2.45,
       "market_cap": 4186823680,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +17.8% 상승, 거래량 3개월 평균 대비 2.4배",
-      "score": 43.18
+      "reason": "장중 +17.8% 상승, 거래량 3개월 평균 대비 2.5배",
+      "score": 43.57
     },
     {
       "symbol": "WU",
@@ -129,8 +129,8 @@
       "price": 7.31,
       "change_percent": 11.6,
       "volume": 33619981,
-      "avg_volume_3m": 9295545,
-      "relative_volume": 3.62,
+      "avg_volume_3m": 9351101,
+      "relative_volume": 3.6,
       "market_cap": 2279835392,
       "exchange": "NYSE",
       "sources": [
@@ -138,7 +138,7 @@
         "most_actives"
       ],
       "reason": "장중 +11.6% 상승, 거래량 3개월 평균 대비 3.6배, 거래대금 상위 종목",
-      "score": 41.97
+      "score": 41.72
     },
     {
       "symbol": "WLK",
@@ -146,15 +146,15 @@
       "price": 80.63,
       "change_percent": 15.37,
       "volume": 3009220,
-      "avg_volume_3m": 1145682,
-      "relative_volume": 2.63,
+      "avg_volume_3m": 1134957,
+      "relative_volume": 2.65,
       "market_cap": 10330552320,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +15.4% 상승, 거래량 3개월 평균 대비 2.6배",
-      "score": 40.36
+      "reason": "장중 +15.4% 상승, 거래량 3개월 평균 대비 2.7배",
+      "score": 40.74
     },
     {
       "symbol": "AYA",
@@ -162,15 +162,15 @@
       "price": 22.9,
       "change_percent": 12.59,
       "volume": 1541952,
-      "avg_volume_3m": 515656,
-      "relative_volume": 2.99,
+      "avg_volume_3m": 520152,
+      "relative_volume": 2.96,
       "market_cap": 3282708992,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +12.6% 상승, 거래량 3개월 평균 대비 3.0배",
-      "score": 37.64
+      "score": 37.31
     },
     {
       "symbol": "GENI",
@@ -178,7 +178,7 @@
       "price": 8.08,
       "change_percent": 14.29,
       "volume": 16840471,
-      "avg_volume_3m": 6524029,
+      "avg_volume_3m": 6534081,
       "relative_volume": 2.58,
       "market_cap": 2160098816,
       "exchange": "NYSE",
@@ -186,7 +186,7 @@
         "day_gainers"
       ],
       "reason": "장중 +14.3% 상승, 거래량 3개월 평균 대비 2.6배",
-      "score": 36.88
+      "score": 36.82
     },
     {
       "symbol": "CIFR",
@@ -194,15 +194,15 @@
       "price": 20.38,
       "change_percent": -15.65,
       "volume": 58994705,
-      "avg_volume_3m": 26700548,
-      "relative_volume": 2.21,
+      "avg_volume_3m": 26094675,
+      "relative_volume": 2.26,
       "market_cap": 8336421888,
       "exchange": "NasdaqGS",
       "sources": [
         "most_actives"
       ],
-      "reason": "장중 -15.6% 하락, 거래량 3개월 평균 대비 2.2배, 거래대금 상위 종목",
-      "score": 34.57
+      "reason": "장중 -15.6% 하락, 거래량 3개월 평균 대비 2.3배, 거래대금 상위 종목",
+      "score": 35.37
     },
     {
       "symbol": "AAOI",
@@ -210,15 +210,15 @@
       "price": 131.63,
       "change_percent": 19.44,
       "volume": 20335284,
-      "avg_volume_3m": 11800180,
-      "relative_volume": 1.72,
+      "avg_volume_3m": 11862740,
+      "relative_volume": 1.71,
       "market_cap": 10562356224,
       "exchange": "NasdaqGM",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +19.4% 상승, 거래량 3개월 평균 대비 1.7배",
-      "score": 33.49
+      "score": 33.32
     },
     {
       "symbol": "WIX",
@@ -226,15 +226,15 @@
       "price": 66.78,
       "change_percent": 17.49,
       "volume": 3516917,
-      "avg_volume_3m": 1852287,
-      "relative_volume": 1.9,
+      "avg_volume_3m": 1866747,
+      "relative_volume": 1.88,
       "market_cap": 2794710272,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +17.5% 상승, 거래량 3개월 평균 대비 1.9배",
-      "score": 33.2
+      "score": 32.95
     },
     {
       "symbol": "BRSL",
@@ -242,15 +242,15 @@
       "price": 11.3,
       "change_percent": 11.77,
       "volume": 4401490,
-      "avg_volume_3m": 1636511,
-      "relative_volume": 2.69,
+      "avg_volume_3m": 1648508,
+      "relative_volume": 2.67,
       "market_cap": 2075673856,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +11.8% 상승, 거래량 3개월 평균 대비 2.7배",
-      "score": 31.66
+      "score": 31.43
     }
   ]
 }
