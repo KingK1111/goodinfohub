@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T21:01:56+09:00",
+  "updated_at": "2026-08-08T08:49:50+09:00",
   "disclaimer": "이 목록은 공개 시세 데이터(거래량, 변동률)를 기준으로 자동 정렬한 결과이며 특정 종목의 매수/매도를 추천하지 않습니다. 투자 판단과 책임은 본인에게 있습니다.",
   "criteria": {
     "min_price": 5.0,
@@ -11,248 +11,248 @@
   },
   "candidates": [
     {
-      "symbol": "IOVA",
-      "name": "Iovance Biotherapeutics, Inc.",
-      "price": 6.21,
-      "change_percent": 43.09,
-      "volume": 72531624,
-      "avg_volume_3m": 14746100,
-      "relative_volume": 4.92,
-      "market_cap": 2772780032,
+      "symbol": "DOCS",
+      "name": "Doximity, Inc.",
+      "price": 27.4,
+      "change_percent": 32.62,
+      "volume": 63610166,
+      "avg_volume_3m": 4156210,
+      "relative_volume": 15.3,
+      "market_cap": 4925246976,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers",
+        "most_actives"
+      ],
+      "reason": "장중 +32.6% 상승, 거래량 3개월 평균 대비 15.3배, 거래대금 상위 종목",
+      "score": 499.3
+    },
+    {
+      "symbol": "TTD",
+      "name": "The Trade Desk, Inc.",
+      "price": 13.8,
+      "change_percent": -21.9,
+      "volume": 132937406,
+      "avg_volume_3m": 18837988,
+      "relative_volume": 7.06,
+      "market_cap": 6487495168,
       "exchange": "NasdaqGM",
       "sources": [
-        "day_gainers",
         "most_actives"
       ],
-      "reason": "장중 +43.1% 상승, 거래량 3개월 평균 대비 4.9배, 거래대금 상위 종목",
-      "score": 211.93
+      "reason": "장중 -21.9% 하락, 거래량 3개월 평균 대비 7.1배, 거래대금 상위 종목",
+      "score": 154.56
     },
     {
-      "symbol": "CHYM",
-      "name": "Chime Financial, Inc.",
-      "price": 31.25,
-      "change_percent": 20.56,
-      "volume": 34791532,
-      "avg_volume_3m": 5283054,
-      "relative_volume": 6.59,
-      "market_cap": 11906847744,
-      "exchange": "NasdaqGS",
+      "symbol": "DV",
+      "name": "DoubleVerify Holdings, Inc.",
+      "price": 13.21,
+      "change_percent": 12.81,
+      "volume": 37173865,
+      "avg_volume_3m": 3085866,
+      "relative_volume": 12.05,
+      "market_cap": 2027261952,
+      "exchange": "NYSE",
       "sources": [
         "day_gainers",
         "most_actives"
       ],
-      "reason": "장중 +20.6% 상승, 거래량 3개월 평균 대비 6.6배, 거래대금 상위 종목",
-      "score": 135.42
+      "reason": "장중 +12.8% 상승, 거래량 3개월 평균 대비 12.0배, 거래대금 상위 종목",
+      "score": 154.31
     },
     {
-      "symbol": "INSM",
-      "name": "Insmed Incorporated",
-      "price": 132.55,
-      "change_percent": 33.86,
-      "volume": 12029853,
-      "avg_volume_3m": 3852152,
-      "relative_volume": 3.12,
-      "market_cap": 28946468864,
+      "symbol": "TEAM",
+      "name": "Atlassian Corporation",
+      "price": 149.07,
+      "change_percent": 35.31,
+      "volume": 20000013,
+      "avg_volume_3m": 4959923,
+      "relative_volume": 4.03,
+      "market_cap": 37829177344,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +33.9% 상승, 거래량 3개월 평균 대비 3.1배",
-      "score": 105.75
+      "reason": "장중 +35.3% 상승, 거래량 3개월 평균 대비 4.0배",
+      "score": 142.38
     },
     {
-      "symbol": "PAYC",
-      "name": "Paycom Software, Inc.",
-      "price": 215.97,
-      "change_percent": 23.55,
-      "volume": 3654979,
-      "avg_volume_3m": 946077,
-      "relative_volume": 3.86,
-      "market_cap": 10070053888,
+      "symbol": "FIGS",
+      "name": "FIGS, Inc.",
+      "price": 14.26,
+      "change_percent": 26.87,
+      "volume": 11252405,
+      "avg_volume_3m": 3271591,
+      "relative_volume": 3.44,
+      "market_cap": 2382093824,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +23.6% 상승, 거래량 3개월 평균 대비 3.9배",
-      "score": 90.99
+      "reason": "장중 +26.9% 상승, 거래량 3개월 평균 대비 3.4배",
+      "score": 92.41
+    },
+    {
+      "symbol": "TWLO",
+      "name": "Twilio Inc.",
+      "price": 241.28,
+      "change_percent": 24.89,
+      "volume": 8119504,
+      "avg_volume_3m": 2291825,
+      "relative_volume": 3.54,
+      "market_cap": 36619997184,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +24.9% 상승, 거래량 3개월 평균 대비 3.5배",
+      "score": 88.17
+    },
+    {
+      "symbol": "HALO",
+      "name": "Halozyme Therapeutics, Inc.",
+      "price": 103.12,
+      "change_percent": 20.24,
+      "volume": 7529972,
+      "avg_volume_3m": 1899537,
+      "relative_volume": 3.96,
+      "market_cap": 12231372800,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +20.2% 상승, 거래량 3개월 평균 대비 4.0배",
+      "score": 80.24
+    },
+    {
+      "symbol": "BTG",
+      "name": "B2Gold Corp",
+      "price": 5.03,
+      "change_percent": 22.98,
+      "volume": 69156894,
+      "avg_volume_3m": 21574438,
+      "relative_volume": 3.21,
+      "market_cap": 6702061056,
+      "exchange": "NYSE American",
+      "sources": [
+        "day_gainers",
+        "most_actives"
+      ],
+      "reason": "장중 +23.0% 상승, 거래량 3개월 평균 대비 3.2배, 거래대금 상위 종목",
+      "score": 73.67
+    },
+    {
+      "symbol": "ABNB",
+      "name": "Airbnb, Inc.",
+      "price": 178.07,
+      "change_percent": 17.43,
+      "volume": 15503237,
+      "avg_volume_3m": 3797249,
+      "relative_volume": 4.08,
+      "market_cap": 105685417984,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +17.4% 상승, 거래량 3개월 평균 대비 4.1배",
+      "score": 71.16
     },
     {
       "symbol": "CELH",
       "name": "Celsius Holdings, Inc.",
-      "price": 23.77,
-      "change_percent": -18.46,
-      "volume": 43275897,
+      "price": 27.77,
+      "change_percent": 16.83,
+      "volume": 32286836,
       "avg_volume_3m": 9241900,
-      "relative_volume": 4.68,
-      "market_cap": 6076571136,
+      "relative_volume": 3.49,
+      "market_cap": 7099132928,
       "exchange": "NasdaqCM",
       "sources": [
-        "most_actives"
-      ],
-      "reason": "장중 -18.5% 하락, 거래량 3개월 평균 대비 4.7배, 거래대금 상위 종목",
-      "score": 86.42
-    },
-    {
-      "symbol": "U",
-      "name": "Unity Software Inc.",
-      "price": 40.81,
-      "change_percent": 15.05,
-      "volume": 40981371,
-      "avg_volume_3m": 8507166,
-      "relative_volume": 4.82,
-      "market_cap": 17960030208,
-      "exchange": "NYSE",
-      "sources": [
         "day_gainers",
         "most_actives"
       ],
-      "reason": "장중 +15.1% 상승, 거래량 3개월 평균 대비 4.8배, 거래대금 상위 종목",
-      "score": 72.52
+      "reason": "장중 +16.8% 상승, 거래량 3개월 평균 대비 3.5배, 거래대금 상위 종목",
+      "score": 58.79
     },
     {
-      "symbol": "CAI",
-      "name": "Caris Life Sciences, Inc.",
-      "price": 20.0,
-      "change_percent": 21.58,
-      "volume": 11266725,
-      "avg_volume_3m": 3395786,
-      "relative_volume": 3.32,
-      "market_cap": 5653614080,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +21.6% 상승, 거래량 3개월 평균 대비 3.3배",
-      "score": 71.6
-    },
-    {
-      "symbol": "SITM",
-      "name": "SiTime Corporation",
-      "price": 687.5,
-      "change_percent": 26.58,
-      "volume": 1395945,
-      "avg_volume_3m": 584354,
-      "relative_volume": 2.39,
-      "market_cap": 20594419712,
+      "symbol": "FIVN",
+      "name": "Five9, Inc.",
+      "price": 33.99,
+      "change_percent": 19.81,
+      "volume": 7800131,
+      "avg_volume_3m": 3117889,
+      "relative_volume": 2.5,
+      "market_cap": 2602409984,
       "exchange": "NasdaqGM",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +26.6% 상승, 거래량 3개월 평균 대비 2.4배",
-      "score": 63.5
+      "reason": "장중 +19.8% 상승, 거래량 3개월 평균 대비 2.5배",
+      "score": 49.56
     },
     {
-      "symbol": "MGNI",
-      "name": "Magnite, Inc.",
-      "price": 24.32,
-      "change_percent": 17.66,
-      "volume": 9799202,
-      "avg_volume_3m": 2827686,
-      "relative_volume": 3.47,
-      "market_cap": 3488075520,
+      "symbol": "NTRA",
+      "name": "Natera, Inc.",
+      "price": 322.1,
+      "change_percent": 21.37,
+      "volume": 3360266,
+      "avg_volume_3m": 1481516,
+      "relative_volume": 2.27,
+      "market_cap": 46129672192,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +17.7% 상승, 거래량 3개월 평균 대비 3.5배",
-      "score": 61.19
+      "reason": "장중 +21.4% 상승, 거래량 3개월 평균 대비 2.3배",
+      "score": 48.48
     },
     {
-      "symbol": "FA",
-      "name": "First Advantage Corporation",
-      "price": 24.12,
-      "change_percent": 17.32,
-      "volume": 4725674,
-      "avg_volume_3m": 1722645,
-      "relative_volume": 2.74,
-      "market_cap": 4137473536,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +17.3% 상승, 거래량 3개월 평균 대비 2.7배",
-      "score": 47.5
-    },
-    {
-      "symbol": "PTON",
-      "name": "Peloton Interactive, Inc.",
-      "price": 5.505,
-      "change_percent": -15.57,
-      "volume": 30770321,
-      "avg_volume_3m": 11340671,
-      "relative_volume": 2.71,
-      "market_cap": 2383620608,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "most_actives"
-      ],
-      "reason": "장중 -15.6% 하락, 거래량 3개월 평균 대비 2.7배, 거래대금 상위 종목",
-      "score": 42.24
-    },
-    {
-      "symbol": "FIG",
-      "name": "Figma, Inc.",
-      "price": 23.97,
-      "change_percent": -14.85,
-      "volume": 52085393,
-      "avg_volume_3m": 21932438,
-      "relative_volume": 2.37,
-      "market_cap": 12776246272,
-      "exchange": "NYSE",
-      "sources": [
-        "most_actives"
-      ],
-      "reason": "장중 -14.8% 하락, 거래량 3개월 평균 대비 2.4배, 거래대금 상위 종목",
-      "score": 35.26
-    },
-    {
-      "symbol": "SOUN",
-      "name": "SoundHound AI, Inc.",
-      "price": 7.08,
-      "change_percent": 10.11,
-      "volume": 88361647,
-      "avg_volume_3m": 29443410,
-      "relative_volume": 3.0,
-      "market_cap": 3084573184,
-      "exchange": "NasdaqGM",
-      "sources": [
-        "day_gainers",
-        "most_actives"
-      ],
-      "reason": "장중 +10.1% 상승, 거래량 3개월 평균 대비 3.0배, 거래대금 상위 종목",
-      "score": 30.34
-    },
-    {
-      "symbol": "FTDR",
-      "name": "frontdoor, inc.",
-      "price": 89.92,
-      "change_percent": 17.73,
-      "volume": 888718,
-      "avg_volume_3m": 573084,
-      "relative_volume": 1.55,
-      "market_cap": 6315524096,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +17.7% 상승, 거래량 3개월 평균 대비 1.6배",
-      "score": 27.49
-    },
-    {
-      "symbol": "AVNT",
-      "name": "Avient Corporation",
-      "price": 42.65,
-      "change_percent": 12.47,
-      "volume": 1919933,
-      "avg_volume_3m": 874018,
-      "relative_volume": 2.2,
-      "market_cap": 3911438848,
+      "symbol": "FLR",
+      "name": "Fluor Corporation",
+      "price": 57.0,
+      "change_percent": 16.92,
+      "volume": 7381881,
+      "avg_volume_3m": 2717759,
+      "relative_volume": 2.72,
+      "market_cap": 7961183744,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +12.5% 상승, 거래량 3개월 평균 대비 2.2배",
-      "score": 27.4
+      "reason": "장중 +16.9% 상승, 거래량 3개월 평균 대비 2.7배",
+      "score": 45.97
+    },
+    {
+      "symbol": "ROAD",
+      "name": "Construction Partners, Inc.",
+      "price": 119.74,
+      "change_percent": 19.55,
+      "volume": 1962160,
+      "avg_volume_3m": 886657,
+      "relative_volume": 2.21,
+      "market_cap": 6769469952,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +19.5% 상승, 거래량 3개월 평균 대비 2.2배",
+      "score": 43.26
+    },
+    {
+      "symbol": "CART",
+      "name": "Maplebear Inc.",
+      "price": 50.17,
+      "change_percent": 11.41,
+      "volume": 14022663,
+      "avg_volume_3m": 4119210,
+      "relative_volume": 3.4,
+      "market_cap": 11791444992,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +11.4% 상승, 거래량 3개월 평균 대비 3.4배",
+      "score": 38.86
     }
   ]
 }
