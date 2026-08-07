@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T10:44:18+09:00",
+  "updated_at": "2026-08-07T15:19:49+09:00",
   "disclaimer": "이 목록은 공개 시세 데이터(거래량, 변동률)를 기준으로 자동 정렬한 결과이며 특정 종목의 매수/매도를 추천하지 않습니다. 투자 판단과 책임은 본인에게 있습니다.",
   "criteria": {
     "min_price": 5.0,
@@ -33,16 +33,16 @@
       "price": 31.25,
       "change_percent": 20.56,
       "volume": 34791532,
-      "avg_volume_3m": 5450140,
-      "relative_volume": 6.38,
+      "avg_volume_3m": 5531519,
+      "relative_volume": 6.29,
       "market_cap": 11906847744,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers",
         "most_actives"
       ],
-      "reason": "장중 +20.6% 상승, 거래량 3개월 평균 대비 6.4배, 거래대금 상위 종목",
-      "score": 131.27
+      "reason": "장중 +20.6% 상승, 거래량 3개월 평균 대비 6.3배, 거래대금 상위 종목",
+      "score": 129.34
     },
     {
       "symbol": "INSM",
@@ -50,15 +50,15 @@
       "price": 132.55,
       "change_percent": 33.86,
       "volume": 12029853,
-      "avg_volume_3m": 4016588,
-      "relative_volume": 3.0,
-      "market_cap": 28730537984,
+      "avg_volume_3m": 4035251,
+      "relative_volume": 2.98,
+      "market_cap": 28946468864,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +33.9% 상승, 거래량 3개월 평균 대비 3.0배",
-      "score": 101.42
+      "score": 100.95
     },
     {
       "symbol": "PAYC",
@@ -100,7 +100,7 @@
       "volume": 11266725,
       "avg_volume_3m": 3473222,
       "relative_volume": 3.24,
-      "market_cap": 5653614080,
+      "market_cap": 5651904000,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
@@ -116,7 +116,7 @@
       "volume": 40981371,
       "avg_volume_3m": 9153835,
       "relative_volume": 4.48,
-      "market_cap": 17814994944,
+      "market_cap": 17960030208,
       "exchange": "NYSE",
       "sources": [
         "day_gainers",
@@ -133,7 +133,7 @@
       "volume": 1395945,
       "avg_volume_3m": 594843,
       "relative_volume": 2.35,
-      "market_cap": 20594419712,
+      "market_cap": 20673837056,
       "exchange": "NasdaqGM",
       "sources": [
         "day_gainers"
@@ -147,15 +147,15 @@
       "price": 24.32,
       "change_percent": 17.66,
       "volume": 9799202,
-      "avg_volume_3m": 2883450,
+      "avg_volume_3m": 2884390,
       "relative_volume": 3.4,
-      "market_cap": 3482989056,
+      "market_cap": 3488075520,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +17.7% 상승, 거래량 3개월 평균 대비 3.4배",
-      "score": 60.01
+      "score": 59.99
     },
     {
       "symbol": "FA",
@@ -179,15 +179,15 @@
       "price": 5.505,
       "change_percent": -15.57,
       "volume": 30770321,
-      "avg_volume_3m": 11814320,
-      "relative_volume": 2.6,
+      "avg_volume_3m": 11795120,
+      "relative_volume": 2.61,
       "market_cap": 2383620608,
       "exchange": "NasdaqGS",
       "sources": [
         "most_actives"
       ],
       "reason": "장중 -15.6% 하락, 거래량 3개월 평균 대비 2.6배, 거래대금 상위 종목",
-      "score": 40.55
+      "score": 40.61
     },
     {
       "symbol": "FIG",
@@ -197,7 +197,7 @@
       "volume": 52085393,
       "avg_volume_3m": 22338916,
       "relative_volume": 2.33,
-      "market_cap": 12665186304,
+      "market_cap": 12776246272,
       "exchange": "NYSE",
       "sources": [
         "most_actives"
