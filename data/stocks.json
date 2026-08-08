@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T08:49:50+09:00",
+  "updated_at": "2026-08-08T14:37:40+09:00",
   "disclaimer": "이 목록은 공개 시세 데이터(거래량, 변동률)를 기준으로 자동 정렬한 결과이며 특정 종목의 매수/매도를 추천하지 않습니다. 투자 판단과 책임은 본인에게 있습니다.",
   "criteria": {
     "min_price": 5.0,
@@ -16,49 +16,16 @@
       "price": 27.4,
       "change_percent": 32.62,
       "volume": 63610166,
-      "avg_volume_3m": 4156210,
-      "relative_volume": 15.3,
-      "market_cap": 4925246976,
+      "avg_volume_3m": 5447995,
+      "relative_volume": 11.68,
+      "market_cap": 4883939840,
       "exchange": "NYSE",
       "sources": [
         "day_gainers",
         "most_actives"
       ],
-      "reason": "장중 +32.6% 상승, 거래량 3개월 평균 대비 15.3배, 거래대금 상위 종목",
-      "score": 499.3
-    },
-    {
-      "symbol": "TTD",
-      "name": "The Trade Desk, Inc.",
-      "price": 13.8,
-      "change_percent": -21.9,
-      "volume": 132937406,
-      "avg_volume_3m": 18837988,
-      "relative_volume": 7.06,
-      "market_cap": 6487495168,
-      "exchange": "NasdaqGM",
-      "sources": [
-        "most_actives"
-      ],
-      "reason": "장중 -21.9% 하락, 거래량 3개월 평균 대비 7.1배, 거래대금 상위 종목",
-      "score": 154.56
-    },
-    {
-      "symbol": "DV",
-      "name": "DoubleVerify Holdings, Inc.",
-      "price": 13.21,
-      "change_percent": 12.81,
-      "volume": 37173865,
-      "avg_volume_3m": 3085866,
-      "relative_volume": 12.05,
-      "market_cap": 2027261952,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers",
-        "most_actives"
-      ],
-      "reason": "장중 +12.8% 상승, 거래량 3개월 평균 대비 12.0배, 거래대금 상위 종목",
-      "score": 154.31
+      "reason": "장중 +32.6% 상승, 거래량 3개월 평균 대비 11.7배, 거래대금 상위 종목",
+      "score": 380.91
     },
     {
       "symbol": "TEAM",
@@ -66,15 +33,48 @@
       "price": 149.07,
       "change_percent": 35.31,
       "volume": 20000013,
-      "avg_volume_3m": 4959923,
-      "relative_volume": 4.03,
+      "avg_volume_3m": 5115614,
+      "relative_volume": 3.91,
       "market_cap": 37829177344,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +35.3% 상승, 거래량 3개월 평균 대비 4.0배",
-      "score": 142.38
+      "reason": "장중 +35.3% 상승, 거래량 3개월 평균 대비 3.9배",
+      "score": 138.04
+    },
+    {
+      "symbol": "TTD",
+      "name": "The Trade Desk, Inc.",
+      "price": 13.8,
+      "change_percent": -21.9,
+      "volume": 132937406,
+      "avg_volume_3m": 21508375,
+      "relative_volume": 6.18,
+      "market_cap": 6487495168,
+      "exchange": "NasdaqGM",
+      "sources": [
+        "most_actives"
+      ],
+      "reason": "장중 -21.9% 하락, 거래량 3개월 평균 대비 6.2배, 거래대금 상위 종목",
+      "score": 135.37
+    },
+    {
+      "symbol": "DV",
+      "name": "DoubleVerify Holdings, Inc.",
+      "price": 13.21,
+      "change_percent": 12.81,
+      "volume": 37173865,
+      "avg_volume_3m": 3655772,
+      "relative_volume": 10.17,
+      "market_cap": 2027261952,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers",
+        "most_actives"
+      ],
+      "reason": "장중 +12.8% 상승, 거래량 3개월 평균 대비 10.2배, 거래대금 상위 종목",
+      "score": 130.25
     },
     {
       "symbol": "FIGS",
@@ -82,15 +82,15 @@
       "price": 14.26,
       "change_percent": 26.87,
       "volume": 11252405,
-      "avg_volume_3m": 3271591,
-      "relative_volume": 3.44,
-      "market_cap": 2382093824,
+      "avg_volume_3m": 3282187,
+      "relative_volume": 3.43,
+      "market_cap": 2369159936,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +26.9% 상승, 거래량 3개월 평균 대비 3.4배",
-      "score": 92.41
+      "score": 92.11
     },
     {
       "symbol": "TWLO",
@@ -98,15 +98,15 @@
       "price": 241.28,
       "change_percent": 24.89,
       "volume": 8119504,
-      "avg_volume_3m": 2291825,
-      "relative_volume": 3.54,
+      "avg_volume_3m": 2428708,
+      "relative_volume": 3.34,
       "market_cap": 36619997184,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +24.9% 상승, 거래량 3개월 평균 대비 3.5배",
-      "score": 88.17
+      "reason": "장중 +24.9% 상승, 거래량 3개월 평균 대비 3.3배",
+      "score": 83.2
     },
     {
       "symbol": "HALO",
@@ -114,15 +114,15 @@
       "price": 103.12,
       "change_percent": 20.24,
       "volume": 7529972,
-      "avg_volume_3m": 1899537,
-      "relative_volume": 3.96,
+      "avg_volume_3m": 1993520,
+      "relative_volume": 3.78,
       "market_cap": 12231372800,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +20.2% 상승, 거래량 3개월 평균 대비 4.0배",
-      "score": 80.24
+      "reason": "장중 +20.2% 상승, 거래량 3개월 평균 대비 3.8배",
+      "score": 76.46
     },
     {
       "symbol": "BTG",
@@ -130,16 +130,16 @@
       "price": 5.03,
       "change_percent": 22.98,
       "volume": 69156894,
-      "avg_volume_3m": 21574438,
-      "relative_volume": 3.21,
-      "market_cap": 6702061056,
+      "avg_volume_3m": 22613690,
+      "relative_volume": 3.06,
+      "market_cap": 6644985856,
       "exchange": "NYSE American",
       "sources": [
         "day_gainers",
         "most_actives"
       ],
-      "reason": "장중 +23.0% 상승, 거래량 3개월 평균 대비 3.2배, 거래대금 상위 종목",
-      "score": 73.67
+      "reason": "장중 +23.0% 상승, 거래량 3개월 평균 대비 3.1배, 거래대금 상위 종목",
+      "score": 70.29
     },
     {
       "symbol": "ABNB",
@@ -147,15 +147,15 @@
       "price": 178.07,
       "change_percent": 17.43,
       "volume": 15503237,
-      "avg_volume_3m": 3797249,
-      "relative_volume": 4.08,
-      "market_cap": 105685417984,
+      "avg_volume_3m": 3964301,
+      "relative_volume": 3.91,
+      "market_cap": 106625769472,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +17.4% 상승, 거래량 3개월 평균 대비 4.1배",
-      "score": 71.16
+      "reason": "장중 +17.4% 상승, 거래량 3개월 평균 대비 3.9배",
+      "score": 68.16
     },
     {
       "symbol": "CELH",
@@ -163,32 +163,16 @@
       "price": 27.77,
       "change_percent": 16.83,
       "volume": 32286836,
-      "avg_volume_3m": 9241900,
-      "relative_volume": 3.49,
-      "market_cap": 7099132928,
+      "avg_volume_3m": 10173911,
+      "relative_volume": 3.17,
+      "market_cap": 7026783232,
       "exchange": "NasdaqCM",
       "sources": [
         "day_gainers",
         "most_actives"
       ],
-      "reason": "장중 +16.8% 상승, 거래량 3개월 평균 대비 3.5배, 거래대금 상위 종목",
-      "score": 58.79
-    },
-    {
-      "symbol": "FIVN",
-      "name": "Five9, Inc.",
-      "price": 33.99,
-      "change_percent": 19.81,
-      "volume": 7800131,
-      "avg_volume_3m": 3117889,
-      "relative_volume": 2.5,
-      "market_cap": 2602409984,
-      "exchange": "NasdaqGM",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +19.8% 상승, 거래량 3개월 평균 대비 2.5배",
-      "score": 49.56
+      "reason": "장중 +16.8% 상승, 거래량 3개월 평균 대비 3.2배, 거래대금 상위 종목",
+      "score": 53.4
     },
     {
       "symbol": "NTRA",
@@ -196,15 +180,31 @@
       "price": 322.1,
       "change_percent": 21.37,
       "volume": 3360266,
-      "avg_volume_3m": 1481516,
-      "relative_volume": 2.27,
-      "market_cap": 46129672192,
+      "avg_volume_3m": 1475993,
+      "relative_volume": 2.28,
+      "market_cap": 46428839936,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +21.4% 상승, 거래량 3개월 평균 대비 2.3배",
-      "score": 48.48
+      "score": 48.66
+    },
+    {
+      "symbol": "FIVN",
+      "name": "Five9, Inc.",
+      "price": 33.99,
+      "change_percent": 19.81,
+      "volume": 7800131,
+      "avg_volume_3m": 3204350,
+      "relative_volume": 2.43,
+      "market_cap": 2539852800,
+      "exchange": "NasdaqGM",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +19.8% 상승, 거래량 3개월 평균 대비 2.4배",
+      "score": 48.22
     },
     {
       "symbol": "FLR",
@@ -212,15 +212,15 @@
       "price": 57.0,
       "change_percent": 16.92,
       "volume": 7381881,
-      "avg_volume_3m": 2717759,
-      "relative_volume": 2.72,
+      "avg_volume_3m": 2697567,
+      "relative_volume": 2.74,
       "market_cap": 7961183744,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +16.9% 상승, 거래량 3개월 평균 대비 2.7배",
-      "score": 45.97
+      "score": 46.31
     },
     {
       "symbol": "ROAD",
@@ -228,15 +228,15 @@
       "price": 119.74,
       "change_percent": 19.55,
       "volume": 1962160,
-      "avg_volume_3m": 886657,
-      "relative_volume": 2.21,
+      "avg_volume_3m": 898840,
+      "relative_volume": 2.18,
       "market_cap": 6769469952,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +19.5% 상승, 거래량 3개월 평균 대비 2.2배",
-      "score": 43.26
+      "score": 42.67
     },
     {
       "symbol": "CART",
@@ -244,15 +244,15 @@
       "price": 50.17,
       "change_percent": 11.41,
       "volume": 14022663,
-      "avg_volume_3m": 4119210,
-      "relative_volume": 3.4,
+      "avg_volume_3m": 4247046,
+      "relative_volume": 3.3,
       "market_cap": 11791444992,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +11.4% 상승, 거래량 3개월 평균 대비 3.4배",
-      "score": 38.86
+      "reason": "장중 +11.4% 상승, 거래량 3개월 평균 대비 3.3배",
+      "score": 37.69
     }
   ]
 }
