@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T20:30:05+09:00",
+  "updated_at": "2026-08-10T08:31:45+09:00",
   "disclaimer": "이 목록은 공개 시세 데이터(거래량, 변동률)를 기준으로 자동 정렬한 결과이며 특정 종목의 매수/매도를 추천하지 않습니다. 투자 판단과 책임은 본인에게 있습니다.",
   "criteria": {
     "min_price": 5.0,
@@ -32,32 +32,32 @@
       "name": "Atlassian Corporation",
       "price": 149.07,
       "change_percent": 35.31,
-      "volume": 20000013,
+      "volume": 20086002,
       "avg_volume_3m": 5115614,
-      "relative_volume": 3.91,
+      "relative_volume": 3.93,
       "market_cap": 37829177344,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +35.3% 상승, 거래량 3개월 평균 대비 3.9배",
-      "score": 138.04
+      "score": 138.64
     },
     {
       "symbol": "TTD",
       "name": "The Trade Desk, Inc.",
       "price": 13.8,
       "change_percent": -21.9,
-      "volume": 132937406,
+      "volume": 133339609,
       "avg_volume_3m": 21508375,
-      "relative_volume": 6.18,
+      "relative_volume": 6.2,
       "market_cap": 6487495168,
       "exchange": "NasdaqGM",
       "sources": [
         "most_actives"
       ],
       "reason": "장중 -21.9% 하락, 거래량 3개월 평균 대비 6.2배, 거래대금 상위 종목",
-      "score": 135.37
+      "score": 135.78
     },
     {
       "symbol": "DV",
@@ -113,16 +113,16 @@
       "name": "Halozyme Therapeutics, Inc.",
       "price": 103.12,
       "change_percent": 20.24,
-      "volume": 7529972,
+      "volume": 7691625,
       "avg_volume_3m": 1993520,
-      "relative_volume": 3.78,
+      "relative_volume": 3.86,
       "market_cap": 12231372800,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +20.2% 상승, 거래량 3개월 평균 대비 3.8배",
-      "score": 76.46
+      "reason": "장중 +20.2% 상승, 거래량 3개월 평균 대비 3.9배",
+      "score": 78.1
     },
     {
       "symbol": "BTG",
@@ -146,65 +146,65 @@
       "name": "Airbnb, Inc.",
       "price": 178.07,
       "change_percent": 17.43,
-      "volume": 15503237,
+      "volume": 15914961,
       "avg_volume_3m": 3964301,
-      "relative_volume": 3.91,
+      "relative_volume": 4.01,
       "market_cap": 106625769472,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +17.4% 상승, 거래량 3개월 평균 대비 3.9배",
-      "score": 68.16
+      "reason": "장중 +17.4% 상승, 거래량 3개월 평균 대비 4.0배",
+      "score": 69.97
     },
     {
       "symbol": "CELH",
       "name": "Celsius Holdings, Inc.",
       "price": 27.77,
       "change_percent": 16.83,
-      "volume": 32286836,
+      "volume": 33655336,
       "avg_volume_3m": 10173911,
-      "relative_volume": 3.17,
+      "relative_volume": 3.31,
       "market_cap": 7026783232,
       "exchange": "NasdaqCM",
       "sources": [
         "day_gainers",
         "most_actives"
       ],
-      "reason": "장중 +16.8% 상승, 거래량 3개월 평균 대비 3.2배, 거래대금 상위 종목",
-      "score": 53.4
+      "reason": "장중 +16.8% 상승, 거래량 3개월 평균 대비 3.3배, 거래대금 상위 종목",
+      "score": 55.67
     },
     {
       "symbol": "NTRA",
       "name": "Natera, Inc.",
       "price": 322.1,
       "change_percent": 21.37,
-      "volume": 3360266,
+      "volume": 3386988,
       "avg_volume_3m": 1475993,
-      "relative_volume": 2.28,
+      "relative_volume": 2.29,
       "market_cap": 46428839936,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +21.4% 상승, 거래량 3개월 평균 대비 2.3배",
-      "score": 48.66
+      "score": 49.05
     },
     {
       "symbol": "FIVN",
       "name": "Five9, Inc.",
       "price": 33.99,
       "change_percent": 19.81,
-      "volume": 7800131,
+      "volume": 7892001,
       "avg_volume_3m": 3204350,
-      "relative_volume": 2.43,
+      "relative_volume": 2.46,
       "market_cap": 2539852800,
       "exchange": "NasdaqGM",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +19.8% 상승, 거래량 3개월 평균 대비 2.4배",
-      "score": 48.22
+      "reason": "장중 +19.8% 상승, 거래량 3개월 평균 대비 2.5배",
+      "score": 48.79
     },
     {
       "symbol": "FLR",
@@ -227,32 +227,32 @@
       "name": "Construction Partners, Inc.",
       "price": 119.74,
       "change_percent": 19.55,
-      "volume": 1962160,
+      "volume": 1971113,
       "avg_volume_3m": 898840,
-      "relative_volume": 2.18,
+      "relative_volume": 2.19,
       "market_cap": 6769469952,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +19.5% 상승, 거래량 3개월 평균 대비 2.2배",
-      "score": 42.67
+      "score": 42.87
     },
     {
       "symbol": "CART",
       "name": "Maplebear Inc.",
       "price": 50.17,
       "change_percent": 11.41,
-      "volume": 14022663,
+      "volume": 14314048,
       "avg_volume_3m": 4247046,
-      "relative_volume": 3.3,
+      "relative_volume": 3.37,
       "market_cap": 11791444992,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +11.4% 상승, 거래량 3개월 평균 대비 3.3배",
-      "score": 37.69
+      "reason": "장중 +11.4% 상승, 거래량 3개월 평균 대비 3.4배",
+      "score": 38.47
     }
   ]
 }
