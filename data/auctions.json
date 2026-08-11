@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-10T20:47:51+09:00",
-  "last_attempt_at": "2026-08-11T08:51:07+09:00",
+  "updated_at": "2026-08-11T14:50:09+09:00",
+  "last_attempt_at": "2026-08-11T14:50:09+09:00",
   "districts": [
     "성동구",
     "중구",
@@ -95,6 +95,18 @@
     },
     {
       "district": "동대문구",
+      "case_no": "서울북부지방법원 2025타경12640",
+      "item_no": "1",
+      "address": "서울특별시 동대문구 이문동 327-7 세진빌딩 14층1401호 [집합건물 철근콘크리트구조 15.79㎡]",
+      "remarks": "",
+      "appraisal_amount": "309,000,000",
+      "court_and_date": "경매7계 2026.08.25",
+      "usage": "아파트",
+      "min_sale_price": "247,200,000 (80%)",
+      "status": "유찰 1회"
+    },
+    {
+      "district": "동대문구",
       "case_no": "서울북부지방법원 2025타경12667",
       "item_no": "1",
       "address": "서울특별시 동대문구 이문동 327-7 세진빌딩 14층1403호 [집합건물 철근콘크리트구조 11.48㎡]",
@@ -131,27 +143,27 @@
     },
     {
       "district": "동대문구",
-      "case_no": "서울북부지방법원 2025타경13913",
+      "case_no": "서울북부지방법원 2025타경13608",
       "item_no": "1",
-      "address": "서울특별시 동대문구 장안동 372-5 장안뉴씨티 6층 602호 [집합건물 철근콘크리트구조 17.63㎡]",
+      "address": "서울특별시 동대문구 장안동 416-1 에스아이팰리스장안센텀 12층1203호 [집합건물 철근콘크리트구조 13.88㎡]",
       "remarks": "",
-      "appraisal_amount": "95,000,000",
-      "court_and_date": "경매4계 2026.08.19",
-      "usage": "연립주택,다세대,빌라",
-      "min_sale_price": "95,000,000 (100%)",
-      "status": "신건"
+      "appraisal_amount": "231,000,000",
+      "court_and_date": "경매5계 2026.08.25",
+      "usage": "아파트",
+      "min_sale_price": "147,840,000 (64%)",
+      "status": "유찰 2회"
     },
     {
-      "district": "광진구",
-      "case_no": "서울동부지방법원 2025타경51136",
+      "district": "동대문구",
+      "case_no": "서울북부지방법원 2025타경13673",
       "item_no": "1",
-      "address": "서울특별시 광진구 광장동 554-7 광장현대아파트 503동 9층901호 [집합건물 철근콘크리트조 84.53㎡]",
+      "address": "서울특별시 동대문구 답십리동 530-15 현대썬앤빌청계 제5층 제528호 [집합건물 철근콘크리트구조 14.21㎡]",
       "remarks": "",
-      "appraisal_amount": "1,750,000,000",
-      "court_and_date": "경매3계 2026.08.24",
-      "usage": "아파트",
-      "min_sale_price": "1,750,000,000 (100%)",
-      "status": "신건"
+      "appraisal_amount": "112,000,000",
+      "court_and_date": "경매7계 2026.08.25",
+      "usage": "연립주택,다세대,빌라",
+      "min_sale_price": "71,680,000 (64%)",
+      "status": "유찰 2회"
     },
     {
       "district": "송파구",
@@ -167,18 +179,6 @@
     },
     {
       "district": "송파구",
-      "case_no": "서울동부지방법원 2025타경51300",
-      "item_no": "1",
-      "address": "서울특별시 송파구 신천동 7-18 롯데캐슬골드 35층101-3501호 [집합건물 철골철근콘크리트구조 243.40㎡ 매각대상: 을구9번 전세권설정등기(전세권자 정병모)]",
-      "remarks": "-매각대상: 을구 순위번호 9번 전세권임에 주의(전세권 근저당권 실행) -존속기간: 2018.9.28.부터2026.10.9.까지 -최저매각가격: 전세권 존속기간(을 고려한 전세권에 대한 평가액임",
-      "appraisal_amount": "2,730,000,000",
-      "court_and_date": "경매2계 2026.08.10",
-      "usage": "아파트",
-      "min_sale_price": "2,730,000,000 (100%)",
-      "status": "신건"
-    },
-    {
-      "district": "송파구",
       "case_no": "서울동부지방법원 2025타경51733",
       "item_no": "1",
       "address": "서울특별시 송파구 방이동 39-2 신동아타워 16층1607호 [집합건물 철근콘크리트조 58.38㎡]",
@@ -188,37 +188,7 @@
       "usage": "아파트",
       "min_sale_price": "803,000,000 (100%)",
       "status": "신건"
-    },
-    {
-      "district": "송파구",
-      "case_no": "서울동부지방법원 2025타경51785",
-      "item_no": "1",
-      "address": "서울특별시 송파구 방이동 39-2 신동아타워 11층1106호 [집합건물 철근콘크리트조 50.40㎡]",
-      "remarks": "집합건축물대장(표제부/전유부,갑)상 위반건축물 표시 있음.",
-      "appraisal_amount": "685,000,000",
-      "court_and_date": "경매2계 2026.08.10",
-      "usage": "아파트",
-      "min_sale_price": "548,000,000 (80%)",
-      "status": "유찰 1회"
-    },
-    {
-      "district": "송파구",
-      "case_no": "서울동부지방법원 2025타경51930",
-      "item_no": "1",
-      "address": "서울특별시 송파구 가락동 913 헬리오시티 409동 16층1601호 [집합건물 철근콘크리트구조 59.96㎡]",
-      "remarks": "매수인에게 대항할 수 있는 을구 순위 1번 주택임차권 등기(배당에서 보증금이 전액 변제되지 아니하면 전액을 매수인이 인수함)",
-      "appraisal_amount": "2,550,000,000",
-      "court_and_date": "경매2계 2026.08.10",
-      "usage": "아파트",
-      "min_sale_price": "2,040,000,000 (80%)",
-      "status": "유찰 1회"
     }
   ],
-  "errors": [
-    "성동구: HTTPConnectionPool(host='localhost', port=53667): Read timed out. (read timeout=120)",
-    "중구: HTTPConnectionPool(host='localhost', port=53667): Read timed out. (read timeout=120)",
-    "동대문구: HTTPConnectionPool(host='localhost', port=53667): Read timed out. (read timeout=120)",
-    "광진구: HTTPConnectionPool(host='localhost', port=53667): Read timed out. (read timeout=120)",
-    "송파구: HTTPConnectionPool(host='localhost', port=53667): Read timed out. (read timeout=120)"
-  ]
+  "errors": []
 }
