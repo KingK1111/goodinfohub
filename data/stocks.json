@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T20:45:38+09:00",
+  "updated_at": "2026-08-12T08:55:46+09:00",
   "disclaimer": "이 목록은 공개 시세 데이터(거래량, 변동률)를 기준으로 자동 정렬한 결과이며 특정 종목의 매수/매도를 추천하지 않습니다. 투자 판단과 책임은 본인에게 있습니다.",
   "criteria": {
     "min_price": 5.0,
@@ -11,246 +11,247 @@
   },
   "candidates": [
     {
-      "symbol": "ABCL",
-      "name": "AbCellera Biologics Inc.",
-      "price": 9.34,
-      "change_percent": 34.78,
-      "volume": 45715210,
-      "avg_volume_3m": 7705141,
-      "relative_volume": 5.93,
-      "market_cap": 2852206080,
+      "symbol": "NIQ",
+      "name": "NIQ Global Intelligence plc",
+      "price": 16.58,
+      "change_percent": 41.95,
+      "volume": 9820305,
+      "avg_volume_3m": 1573233,
+      "relative_volume": 6.24,
+      "market_cap": 4893360640,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +42.0% 상승, 거래량 3개월 평균 대비 6.2배",
+      "score": 261.87
+    },
+    {
+      "symbol": "RNW",
+      "name": "ReNew Energy Global plc",
+      "price": 6.85,
+      "change_percent": 11.75,
+      "volume": 23647730,
+      "avg_volume_3m": 1344551,
+      "relative_volume": 17.59,
+      "market_cap": 2496158464,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers",
         "most_actives"
       ],
-      "reason": "장중 +34.8% 상승, 거래량 3개월 평균 대비 5.9배, 거래대금 상위 종목",
-      "score": 206.33
+      "reason": "장중 +11.7% 상승, 거래량 3개월 평균 대비 17.6배, 거래대금 상위 종목",
+      "score": 206.58
     },
     {
-      "symbol": "NESR",
-      "name": "National Energy Services Reunit",
-      "price": 35.79,
-      "change_percent": 23.33,
-      "volume": 8829991,
-      "avg_volume_3m": 2222333,
-      "relative_volume": 3.97,
-      "market_cap": 3609323264,
+      "symbol": "ONON",
+      "name": "On Holding AG",
+      "price": 30.91,
+      "change_percent": -20.29,
+      "volume": 42211459,
+      "avg_volume_3m": 5323758,
+      "relative_volume": 7.93,
+      "market_cap": 10303221760,
+      "exchange": "NYSE",
+      "sources": [
+        "most_actives"
+      ],
+      "reason": "장중 -20.3% 하락, 거래량 3개월 평균 대비 7.9배, 거래대금 상위 종목",
+      "score": 160.91
+    },
+    {
+      "symbol": "NN",
+      "name": "NextNav Inc.",
+      "price": 17.83,
+      "change_percent": 15.55,
+      "volume": 10897100,
+      "avg_volume_3m": 2624641,
+      "relative_volume": 4.15,
+      "market_cap": 2432670720,
       "exchange": "NasdaqCM",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +23.3% 상승, 거래량 3개월 평균 대비 4.0배",
-      "score": 92.69
+      "reason": "장중 +15.6% 상승, 거래량 3개월 평균 대비 4.2배",
+      "score": 64.58
     },
     {
-      "symbol": "BTDR",
-      "name": "Bitdeer Technologies Group",
-      "price": 8.695,
-      "change_percent": -20.08,
-      "volume": 31524273,
-      "avg_volume_3m": 11064358,
+      "symbol": "FRMI",
+      "name": "Fermi Inc.",
+      "price": 7.12,
+      "change_percent": 21.09,
+      "volume": 48888459,
+      "avg_volume_3m": 18990072,
+      "relative_volume": 2.57,
+      "market_cap": 4543153152,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers",
+        "most_actives"
+      ],
+      "reason": "장중 +21.1% 상승, 거래량 3개월 평균 대비 2.6배, 거래대금 상위 종목",
+      "score": 54.29
+    },
+    {
+      "symbol": "SE",
+      "name": "Sea Limited",
+      "price": 131.51,
+      "change_percent": 14.56,
+      "volume": 14714158,
+      "avg_volume_3m": 4443301,
+      "relative_volume": 3.31,
+      "market_cap": 80547840000,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +14.6% 상승, 거래량 3개월 평균 대비 3.3배",
+      "score": 48.2
+    },
+    {
+      "symbol": "ZLAB",
+      "name": "Zai Lab Limited",
+      "price": 26.0,
+      "change_percent": 10.31,
+      "volume": 3778183,
+      "avg_volume_3m": 881625,
+      "relative_volume": 4.29,
+      "market_cap": 2918921728,
+      "exchange": "NasdaqGM",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +10.3% 상승, 거래량 3개월 평균 대비 4.3배",
+      "score": 44.18
+    },
+    {
+      "symbol": "TME",
+      "name": "Tencent Music Entertainment Gro",
+      "price": 8.72,
+      "change_percent": -11.92,
+      "volume": 27459585,
+      "avg_volume_3m": 9628869,
       "relative_volume": 2.85,
-      "market_cap": 2115612032,
+      "market_cap": 14277028864,
+      "exchange": "NYSE",
+      "sources": [
+        "most_actives"
+      ],
+      "reason": "장중 -11.9% 하락, 거래량 3개월 평균 대비 2.9배, 거래대금 상위 종목",
+      "score": 33.99
+    },
+    {
+      "symbol": "P",
+      "name": "Everpure, Inc.",
+      "price": 109.38,
+      "change_percent": 11.63,
+      "volume": 5487922,
+      "avg_volume_3m": 3231393,
+      "relative_volume": 1.7,
+      "market_cap": 36358451200,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +11.6% 상승, 거래량 3개월 평균 대비 1.7배",
+      "score": 19.76
+    },
+    {
+      "symbol": "RIOT",
+      "name": "Riot Platforms, Inc.",
+      "price": 20.24,
+      "change_percent": 4.33,
+      "volume": 76064000,
+      "avg_volume_3m": 16774035,
+      "relative_volume": 4.53,
+      "market_cap": 7653780992,
       "exchange": "NasdaqCM",
       "sources": [
         "most_actives"
       ],
-      "reason": "장중 -20.1% 하락, 거래량 3개월 평균 대비 2.8배, 거래대금 상위 종목",
-      "score": 57.22
-    },
-    {
-      "symbol": "FSLY",
-      "name": "Fastly, Inc.",
-      "price": 27.75,
-      "change_percent": 20.86,
-      "volume": 14265952,
-      "avg_volume_3m": 6417156,
-      "relative_volume": 2.22,
-      "market_cap": 4420575232,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +20.9% 상승, 거래량 3개월 평균 대비 2.2배",
-      "score": 46.38
-    },
-    {
-      "symbol": "CLMT",
-      "name": "Calumet, Inc",
-      "price": 45.47,
-      "change_percent": 15.17,
-      "volume": 2666733,
-      "avg_volume_3m": 1022212,
-      "relative_volume": 2.61,
-      "market_cap": 3996732672,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +15.2% 상승, 거래량 3개월 평균 대비 2.6배",
-      "score": 39.58
+      "reason": "장중 +4.3% 상승, 거래량 3개월 평균 대비 4.5배, 거래대금 상위 종목",
+      "score": 19.63
     },
     {
       "symbol": "ACHR",
       "name": "Archer Aviation Inc.",
-      "price": 6.26,
-      "change_percent": 11.99,
-      "volume": 123374378,
+      "price": 6.79,
+      "change_percent": 8.47,
+      "volume": 87198792,
       "avg_volume_3m": 43443474,
-      "relative_volume": 2.84,
-      "market_cap": 4775534592,
+      "relative_volume": 2.01,
+      "market_cap": 5179852800,
       "exchange": "NYSE",
       "sources": [
         "day_gainers",
         "most_actives"
       ],
-      "reason": "장중 +12.0% 상승, 거래량 3개월 평균 대비 2.8배, 거래대금 상위 종목",
-      "score": 34.04
+      "reason": "장중 +8.5% 상승, 거래량 3개월 평균 대비 2.0배, 거래대금 상위 종목",
+      "score": 16.99
     },
     {
-      "symbol": "BSP",
-      "name": "Bending Spoons S.p.A.",
-      "price": 51.43,
-      "change_percent": 15.7,
-      "volume": 6893714,
-      "avg_volume_3m": 3272253,
-      "relative_volume": 2.11,
-      "market_cap": 32669329408,
-      "exchange": "NasdaqGS",
+      "symbol": "SEZL",
+      "name": "Sezzle Inc.",
+      "price": 128.27,
+      "change_percent": 8.7,
+      "volume": 1184902,
+      "avg_volume_3m": 693216,
+      "relative_volume": 1.71,
+      "market_cap": 4319494656,
+      "exchange": "NasdaqCM",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +15.7% 상승, 거래량 3개월 평균 대비 2.1배",
-      "score": 33.08
+      "reason": "장중 +8.7% 상승, 거래량 3개월 평균 대비 1.7배",
+      "score": 14.88
     },
     {
-      "symbol": "HP",
-      "name": "Helmerich & Payne, Inc.",
-      "price": 41.87,
-      "change_percent": 12.86,
-      "volume": 2949603,
-      "avg_volume_3m": 1213572,
-      "relative_volume": 2.43,
-      "market_cap": 4184443392,
+      "symbol": "ARMK",
+      "name": "Aramark",
+      "price": 60.47,
+      "change_percent": 8.54,
+      "volume": 4784603,
+      "avg_volume_3m": 2805874,
+      "relative_volume": 1.71,
+      "market_cap": 15900803072,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +12.9% 상승, 거래량 3개월 평균 대비 2.4배",
-      "score": 31.25
+      "reason": "장중 +8.5% 상승, 거래량 3개월 평균 대비 1.7배",
+      "score": 14.57
     },
     {
-      "symbol": "LFST",
-      "name": "LifeStance Health Group, Inc.",
-      "price": 11.9,
-      "change_percent": 9.78,
-      "volume": 10515485,
-      "avg_volume_3m": 3726566,
-      "relative_volume": 2.82,
-      "market_cap": 4546461696,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +9.8% 상승, 거래량 3개월 평균 대비 2.8배",
-      "score": 27.59
-    },
-    {
-      "symbol": "TXG",
-      "name": "10x Genomics, Inc.",
-      "price": 58.57,
-      "change_percent": 12.57,
-      "volume": 5773650,
-      "avg_volume_3m": 3220000,
-      "relative_volume": 1.79,
-      "market_cap": 7631153664,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +12.6% 상승, 거래량 3개월 평균 대비 1.8배",
-      "score": 22.54
-    },
-    {
-      "symbol": "BMRN",
-      "name": "BioMarin Pharmaceutical Inc.",
-      "price": 68.88,
-      "change_percent": 7.95,
-      "volume": 5002776,
-      "avg_volume_3m": 2130008,
-      "relative_volume": 2.35,
-      "market_cap": 13333359616,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +7.9% 상승, 거래량 3개월 평균 대비 2.3배",
-      "score": 18.66
-    },
-    {
-      "symbol": "ERO",
-      "name": "Ero Copper Corp.",
-      "price": 36.54,
-      "change_percent": 6.5,
-      "volume": 3535764,
-      "avg_volume_3m": 1235633,
-      "relative_volume": 2.86,
-      "market_cap": 3811218176,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +6.5% 상승, 거래량 3개월 평균 대비 2.9배",
-      "score": 18.6
-    },
-    {
-      "symbol": "DDOG",
-      "name": "Datadog, Inc.",
-      "price": 260.78,
-      "change_percent": 11.48,
-      "volume": 8413479,
-      "avg_volume_3m": 5334700,
-      "relative_volume": 1.58,
-      "market_cap": 93639581696,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +11.5% 상승, 거래량 3개월 평균 대비 1.6배",
-      "score": 18.1
-    },
-    {
-      "symbol": "B",
-      "name": "Barrick Mining Corporation",
-      "price": 40.88,
-      "change_percent": -6.41,
-      "volume": 28971948,
-      "avg_volume_3m": 11122638,
-      "relative_volume": 2.6,
-      "market_cap": 68659531776,
-      "exchange": "NYSE",
-      "sources": [
-        "most_actives"
-      ],
-      "reason": "장중 -6.4% 하락, 거래량 3개월 평균 대비 2.6배, 거래대금 상위 종목",
-      "score": 16.7
-    },
-    {
-      "symbol": "VAL",
-      "name": "Valaris Limited",
-      "price": 85.55,
-      "change_percent": 8.59,
-      "volume": 1737793,
-      "avg_volume_3m": 946229,
+      "symbol": "KKR",
+      "name": "KKR & Co. Inc.",
+      "price": 110.97,
+      "change_percent": 6.88,
+      "volume": 8309737,
+      "avg_volume_3m": 4518322,
       "relative_volume": 1.84,
-      "market_cap": 5940233728,
+      "market_cap": 102490841088,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +8.6% 상승, 거래량 3개월 평균 대비 1.8배",
-      "score": 15.78
+      "reason": "장중 +6.9% 상승, 거래량 3개월 평균 대비 1.8배",
+      "score": 12.65
+    },
+    {
+      "symbol": "AEHR",
+      "name": "Aehr Test Systems",
+      "price": 117.18,
+      "change_percent": 10.34,
+      "volume": 2518602,
+      "avg_volume_3m": 2498883,
+      "relative_volume": 1.01,
+      "market_cap": 3822464256,
+      "exchange": "NasdaqCM",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +10.3% 상승, 거래량 3개월 평균 대비 1.0배",
+      "score": 10.42
     }
   ]
 }
