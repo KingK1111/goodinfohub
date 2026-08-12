@@ -1,136 +1,15 @@
 {
-  "updated_at": "2026-08-12T20:46:03+09:00",
+  "updated_at": "2026-08-13T08:41:03+09:00",
   "quote": {
     "symbol": "META",
-    "price": 599.12,
+    "price": 578.85,
     "previous_close": 599.81,
-    "change": -0.69,
-    "change_percent": -0.11,
+    "change": -20.96,
+    "change_percent": -3.49,
     "currency": "USD",
-    "day_high": 612.4299926757812,
-    "day_low": 593.4000244140625,
-    "market_cap": 1526261917083.005
+    "day_high": 604.4990234375,
+    "day_low": 578.25,
+    "market_cap": 1474623916146.274
   },
-  "articles": [
-    {
-      "title": "The Options Market Prices A Swing Of Hundreds Of Dollars In Meta Stock - Trefis",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZlNRSXNKcXlRNUxiaWtoaVJ3bV9vZlViUjFkOEJaZHgtME05Zmdyd1V4TzFKSDliejNNYU9JWTAyLUlVclVFSHg5R3ZMSXBrLUdYSkJMaFdXODNDVU45bjcxajRWczlvcXJCWmhTWEN5ZkJpWGVjbDVmbzR5dGFIYzN5bnUyWVNSSlNQUFdybEhRSDBKR2pISnljbGpxOWZRckhJRTVFLTJoY3ZYYlMzelFVbEhZZ25XTThXRmFMSHFoMUliSF93S0ZHcw?oc=5",
-      "source": "Trefis",
-      "published": "Tue, 11 Aug 2026 18:05:54 GMT"
-    },
-    {
-      "title": "Is Meta Platforms Stock a Smart Buy Ahead of Q1 2026 Earnings? Unpacking AI Growth and Investment Potential - tradingkey.com",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMlYyMkRLUVNZRDVqdzMtdjlUTWJpV0lOT2hqY3MxSVZabmMtb3p2Vm1HZUs5UTRpQ2hBTXF6dkJsbExraUVESnNPYi1icjlBZGhhVUhRanMtLWk4UExraUZGRks3MWRFV2VXTGg1M3djbzhwWElkV0N1T2JPVjlSN0tITTl6VVZOYjI0VkktNnQ1ekRkOGUxSURQZFB5OUFMUXNyQVlneFBVY0ZEcWFCWWJQeWp6cTFhaWVXdk9OWWtvanA2QldXcE13?oc=5",
-      "source": "tradingkey.com",
-      "published": "Tue, 11 Aug 2026 21:33:13 GMT"
-    },
-    {
-      "title": "Meta Platforms, Inc. $META Shares Purchased by Haven Capital Group Inc. - MarketBeat",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPY2VFZFJLLUM1NVhhOE5LNUR4VU1Yd096dnA5X0VXVHF4RHNjeTFrZTNFR2dRcTcxRDFFT185OWc2b0g4VkNFTWlaMDVEakVvR1Zsam5RdDdFdnU5cXJsclZLZW9LT0MtRUYyNGtvVks1R0Z1STEwbl9CNkxjRjNzcl95UGZzVi1qVU5ZUlFTUVpzQTE2WTlWTDUxa1o1ZXppQ2VCbFQwMEJ5dXRBSVdVVHdSblp0OVV3a1Q3NWxqNTBOOTc1SUJR?oc=5",
-      "source": "MarketBeat",
-      "published": "Wed, 12 Aug 2026 10:39:53 GMT"
-    },
-    {
-      "title": "Rep. Julia Letlow bought Meta stock after signing an NDA with the company, records show - WWNO",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTTduSTZYblV1U01YekdkUDNiQnNENFhUNUF0NHhWT0gtamdoSWNEN1lueFR5eDd5RWFnd2NPUzhYVkZFT01rUXJOZUtUV25WLW9wZWVNaHVXSndCUWd3R3lSX1JQZF81bFNISVdGaWNzMHpDWDZ3eUt1RGJfLW9ackdJcHBJNHR0NVhsdGg1b3ZFbmU0bXpiZFdHbUsyMy1NX2doMmZSVFlhNDFCMDE4Mjk2NGo2U1JlNUlNdzZ4WDc0TTR3U2NLY0UxT19GemNaZXlj?oc=5",
-      "source": "WWNO",
-      "published": "Mon, 10 Aug 2026 21:57:00 GMT"
-    },
-    {
-      "title": "After Earnings, Is Meta Stock a Buy, a Sell, or Fairly Valued? - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbDNMOXlVblg3Rl93amZGRmUtV0xCbWtrSXVvdGhRby0wX2RxS2dzcS1MbmpzRkNqQlRBZ0J4ejRDWmJYcUFuaVV0VDJ3ejVKM2M0MXlwbnFWMk84NGotbHYyd1VaRzQzd1dIZm4tTWYxZ1E2RmprVDJ4VjlWbGU5TmRsNkF6T3hGd2hzRVRLVzk3b2FHZEpNcDMzN0RqUkx3NFE?oc=5",
-      "source": "Morningstar",
-      "published": "Thu, 06 Aug 2026 08:41:46 GMT"
-    },
-    {
-      "title": "Meta's Open-Source Crusade Is Also A Fight For Control - Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNX29HZlNFSHo3NF93ajVUMGFNUV9Cbk5ZWUhZVXNqYndOeGdHeGZjeVJfZXpqbGxhQXJsVjBSbnBnTGlWVll3UGJVaFhieVAySkQ5MTVvd3lfNTJ4VmJnRklWYlBRSjdla1VacG1pdkZMWFdJZFFnM0FMSVZyMEE5eUlLMC03SVhmWDdMN3FKdW5DSXNBekF0QXJn?oc=5",
-      "source": "Seeking Alpha",
-      "published": "Wed, 12 Aug 2026 07:24:17 GMT"
-    },
-    {
-      "title": "Meta Stock Rises as $1 Billion AI Strategy Unfolds - Yahoo Finance UK",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQ2F6Wjd6MlRJTFZwTmloUVlmaXpvZnp2TnhpTFlrdVBWQ2w1ZUtCRE4zT3pCMUdha0pFM2kxMnFOcWhCUkFKc0VkNlRsSXFkWWZUNFBfU2tvSlBxVHk0MUFTbTJKa2IzejhYM3lBemJ5MWlNR3ZTamFDRFJQZUN2cg?oc=5",
-      "source": "Yahoo Finance UK",
-      "published": "Mon, 10 Aug 2026 19:34:27 GMT"
-    },
-    {
-      "title": "Meta Stock Jumps 2.3% as Open-Weight AI Strategy Returns - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUDZIeTBrRGUtWE05WS05YV9sQTNCTzE3VTFLSFNld28wSVJFdTlESjRBSEtvMHdaMXpwbm5kc0h2Y2xyMG9sY2U1UVA3d09JVW43THJ2ZzRXRnRzbDk4Q3d3NWxETUZHS2RXeTczRXBDeGRxRktuRTd4OU5mZEFNUWR6OEZoWnBKVjBfMGtwdXctN3R0cHp6RTJxZGxlQmZROWRCVlRocDQwNGhPYXBxUm5SaWMxZw?oc=5",
-      "source": "TradingView",
-      "published": "Tue, 11 Aug 2026 19:03:00 GMT"
-    },
-    {
-      "title": "Meta Stock Climbs On Open-Source Model Launch; Zuckerberg Criticizes AI Rivals - Investor's Business Daily",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSjlpUS1vQTRaMU96cGlOX0JjVjBoSDJJcnlTdlJEUzJXMzd6OGZaSGJCQUZsZlBsbzhKc3Y3SHVVNzRjT3F2Q2NtSVRMYlptR0tvdDYyWkFiaE83NG1yYXlyTlNyT01yS3U4UFVWRWNVd2VrbEphLWZRM1RDeVVLLXA5eTRsQTg?oc=5",
-      "source": "Investor's Business Daily",
-      "published": "Mon, 10 Aug 2026 12:45:00 GMT"
-    },
-    {
-      "title": "Meta Stock Slides as AI Costs Rise: When Will the Payoff Arrive? - moomoo.com",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUkJuTldBZmFiaFl1M0Z5RnZZLVotZmhRSG80RG41M2EtZ1c2dXFpMTFTd0RHVGtJbWlDNFpqSWFIeldPMVNaUjhHM25uWVJxdmVhaGo5S2pBcGdhenFHTU9CcHBEWWFwMDVSanh1NmJlWDZOS2hvdmtCcE1WanpuVEVsMDdRM0ZqS29vZWp4VUQ3NmxTVWQ1UktaWk0zUFdNal9GSFhn?oc=5",
-      "source": "moomoo.com",
-      "published": "Sun, 09 Aug 2026 11:37:00 GMT"
-    },
-    {
-      "title": "What's Going On With Meta Platforms Stock Monday? - Benzinga",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVlZzLW1YbG5YTDh4cERLVXB5YVRPRFBMQW9id1FqSHB1VWNZMEQtelZUdDJheXQ1ajUwb0lZczA1UmZIYVhPMEU2WVpEakIzcEczR3VQNnp3N0tQeVQtMFNiN0ZwWURqUENfelF6S0hlTzZFMVM0ODQ4OUtHNll6M3RyMThCcXRhTWRqRnZQUGRZR3c2eUd1VlJ6VTlaWUlzcU5NMXJMV2NxSENBcWhz?oc=5",
-      "source": "Benzinga",
-      "published": "Mon, 10 Aug 2026 16:14:05 GMT"
-    },
-    {
-      "title": "Meta's stock drops on disappointing guidance, dwindling free cash flow - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBpV01kYzlERkIwM0ZfUXBQTTQyS2FmaFZHRFpoUGFwMHpidjQxX1JzTmRpa3o5bUViMFM2eGk4UldVUE5NcGZ5TGZXRUlCX1JyVmc4bF8xY3haNkpnaG1xRDhhRUNHOEdGY0REUUY2UUVFN03SAXhBVV95cUxPUGJIU0dqamJ2M1gxbW9yQXFhOG9tQV9VTmdMbUxub1RvLUR0MGJGdlMzWUtaTWMzOWtVdFZZcS16azhZY21Gb01zXzlZZ2IteFhjNFpLSWFBS2IwS0ltQWt4VEstckItdUg3SF9LM0YyVGRndjdaWHM?oc=5",
-      "source": "CNBC",
-      "published": "Wed, 29 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Meta’s Muse Glimmer Release Reframes Its AI Spending Bet - MarketBeat",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWnhPT0p5Y1FaVVVRZ056b1Bnc0ZjcWpSYkpxcFM2WWt6UmdDYU5zTi10b3pCcFlFbXd0WmNRU0F6bEFUM3Rua2xGSUs4T2VkT21WdG9iRzdKZ0ZJa2RQZ2dycDRqR2U1SV9EcW1rT1pScEhxeU9hTmxqR2k2eXpSNWx0Unp0ZFg4MWpDS0ZNWWpKYk5rRDZn?oc=5",
-      "source": "MarketBeat",
-      "published": "Tue, 11 Aug 2026 13:58:49 GMT"
-    },
-    {
-      "title": "Meta Platforms: The Most Disrespected Name In Big Tech (NASDAQ:META) - Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVXgxa3VncFNRenQtUVFOYnlzRXF3d0U1TndESDc1M21BNTB3dm1ua3VIcWRJZlZ2YmJLYkxWb3VzSXloQjRzSmp1YklWS2pIMFpoZ2liTWYyZTdCQ0hPS0dOcmdoaE5keTJUVm9ITG0wT2tValpLM1ZzX0tScGxpVVhFakRCRm1KU0FlbUN4Y3JSQnhZVkpRcjln?oc=5",
-      "source": "Seeking Alpha",
-      "published": "Tue, 11 Aug 2026 19:00:54 GMT"
-    },
-    {
-      "title": "META Stock Returns To Familiar Ground - Trefis",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQnB5MlBBTzRHaThIdG93SEN2N3hvS0Q2b2w5LXI5d2JPbzJIWXpIZmYtam1veC10UVVFYjBVYnI0Y0xaN2lYc1ppQ0FqRnA5aGJEaTFYTElUeU50UERrSnNfeUphUlpzR1Y1TnJVV1JhOGNiVkNiQi1qcUN1NTdkbDN4ckp6MkFudFp1aTFXWlliQzBCTUxvZUFGWDh6aTQ?oc=5",
-      "source": "Trefis",
-      "published": "Fri, 07 Aug 2026 20:55:07 GMT"
-    },
-    {
-      "title": "Annex Advisory Services LLC Has $62.06 Million Stock Position in Meta Platforms, Inc. $META - MarketBeat",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPYThwdWFFNVFYZHV5NlZSV3NKcWN4RFl2SG5Pa3hoQ01BVS1fcno2SFVocUdvcm4za2NfVUdMZVgteDI3M1FnWmcxR21RMGcta0dwRGJLNHFtNzl2TlRFc2VtV2I2eWZJWFNwMkM2bWl1N2t6TXZBTExQQVBLcE1vdnpmSVdsOFl0QVVMMElmUXBuZThWSDlFekx2aTRneHdfQjl4a1hrWG1RNWhEaTZZY2liaU0wc2lvcl9TeVpUYy10T2tRTktjdmgwcjJJVC1jSzVWVmNHTUgyaDhzeHpsYw?oc=5",
-      "source": "MarketBeat",
-      "published": "Wed, 12 Aug 2026 08:05:16 GMT"
-    },
-    {
-      "title": "Butensky & Cohen Financial Security Inc. Purchases 1,795 Shares of Meta Platforms, Inc. $META - MarketBeat",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTzVoMmx4V0ZIV2tMbWl6OWN6TG9ha1BIMFdXSnVQcXVjdVNXNWRKTmRXNWRGMW1hbnB0NjVfQ3VKSkJ5bGZIbjlhTVFieU1hMDc2VTl2cklXQXc0VXczOGEzT3U5ZFE4eUVjTmFmMl9zUEZ1Q1dWRmhJQ0hsNmpuZENlN19PaHlYQXRWejhFV19rbTNuM25Na0NZZmwtckJuekZXdnVkU0poME1fNHAzdzhfUldKbFMzSFlqSVZ4bk1idFQ2b1YzelczN2RQQkpKUUp6djd5bmhKQW40QnJIMg?oc=5",
-      "source": "MarketBeat",
-      "published": "Wed, 12 Aug 2026 08:05:16 GMT"
-    },
-    {
-      "title": "Heck Capital Advisors LLC Sells 3,195 Shares of Meta Platforms, Inc. $META - MarketBeat",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOVZ4YXFKZklJWkxJUU1rc2dPQTF1YlJvVjhYWHdUTFp4bFJxSE5mdWw3MWpLNDRERzZWeTkxaG1Bbmc5ckU0X2tQYkNYdmhxM3UwSDl0aWNzOTZJTlVGU0NKU0x4UTNhaDEyYVkxSU1OOGE0bUlKTk5VaHhLdzJuSkZvME9wNWY4eGJESFRGakE3ME1BaWY0UmhnWnRmQjJkSmZrNG04eEdxNThvdXpmczhodFFoSlV6Mm5wZUExcmlEc2trbnRzNVVTdw?oc=5",
-      "source": "MarketBeat",
-      "published": "Wed, 12 Aug 2026 11:24:39 GMT"
-    },
-    {
-      "title": "Tema ETFs LLC Grows Holdings in Meta Platforms, Inc. $META - MarketBeat",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORE96M2lNNG9uWnE5dXRsVnZiZjF4WUhIYkdMXzlOVVpRZFJhVzZSUi1oa0xvVllkbm1fRWxyeWxfUmZmNWVtelhBWmdfQmhEZENIVmhjVE9sVlREQlNMOTlUdjEwRzVmUXZnQWI3YkpBVi16dm9GMnZnZ1dtc3VLdzVBNmZpSzhtOGRyRVFFdkVjTkZKSXd6UnJhM0pqc0M4bnk5THF2MW82c2RBY0RjQXQtU2t2SUE?oc=5",
-      "source": "MarketBeat",
-      "published": "Wed, 12 Aug 2026 10:39:52 GMT"
-    },
-    {
-      "title": "Meta Apologizes to Indian Lawmakers After Safe Harbor Threats Endanger Country Operations - TIKR.com",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAwZGxHWEN6NENTVmlpTktWblMtNU5xaVNNOWI4ckd4TzBfYnNQWTNmcFFoVzRuQmZOb1owNlhqUFA1aVZnV0VpVlZhTjdpeGhBUUpOUzhYTzFMU1gtQXB3VExlMDNoMmJFV3Y5LS1UdzhqR1k0eklHSlNzWmw?oc=5",
-      "source": "TIKR.com",
-      "published": "Mon, 10 Aug 2026 13:25:16 GMT"
-    }
-  ]
+  "articles": []
 }
