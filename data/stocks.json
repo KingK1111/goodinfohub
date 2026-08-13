@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T15:27:53+09:00",
+  "updated_at": "2026-08-13T21:02:02+09:00",
   "disclaimer": "이 목록은 공개 시세 데이터(거래량, 변동률)를 기준으로 자동 정렬한 결과이며 특정 종목의 매수/매도를 추천하지 않습니다. 투자 판단과 책임은 본인에게 있습니다.",
   "criteria": {
     "min_price": 5.0,
@@ -18,7 +18,7 @@
       "volume": 62364592,
       "avg_volume_3m": 20605559,
       "relative_volume": 3.03,
-      "market_cap": 70464880640,
+      "market_cap": 65810415616,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers",
@@ -83,15 +83,15 @@
       "price": 54.18,
       "change_percent": 16.09,
       "volume": 7520437,
-      "avg_volume_3m": 2244966,
-      "relative_volume": 3.35,
+      "avg_volume_3m": 2341793,
+      "relative_volume": 3.21,
       "market_cap": 6867868160,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +16.1% 상승, 거래량 3개월 평균 대비 3.3배",
-      "score": 53.91
+      "reason": "장중 +16.1% 상승, 거래량 3개월 평균 대비 3.2배",
+      "score": 51.68
     },
     {
       "symbol": "ATRO",
@@ -115,15 +115,15 @@
       "price": 69.47,
       "change_percent": 14.24,
       "volume": 10593662,
-      "avg_volume_3m": 3391174,
-      "relative_volume": 3.12,
+      "avg_volume_3m": 3528012,
+      "relative_volume": 3.0,
       "market_cap": 8114526720,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +14.2% 상승, 거래량 3개월 평균 대비 3.1배",
-      "score": 44.49
+      "reason": "장중 +14.2% 상승, 거래량 3개월 평균 대비 3.0배",
+      "score": 42.76
     },
     {
       "symbol": "QNT",
@@ -195,15 +195,15 @@
       "price": 245.89,
       "change_percent": 11.07,
       "volume": 2464959,
-      "avg_volume_3m": 1044561,
-      "relative_volume": 2.36,
+      "avg_volume_3m": 1057403,
+      "relative_volume": 2.33,
       "market_cap": 10545679360,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +11.1% 상승, 거래량 3개월 평균 대비 2.4배",
-      "score": 26.13
+      "reason": "장중 +11.1% 상승, 거래량 3개월 평균 대비 2.3배",
+      "score": 25.81
     },
     {
       "symbol": "FIGR",
@@ -222,6 +222,22 @@
       "score": 20.58
     },
     {
+      "symbol": "AXIA",
+      "name": "AXIA Energia",
+      "price": 10.22,
+      "change_percent": -2.39,
+      "volume": 21163323,
+      "avg_volume_3m": 2498908,
+      "relative_volume": 8.47,
+      "market_cap": 23290886144,
+      "exchange": "NYSE",
+      "sources": [
+        "most_actives"
+      ],
+      "reason": "장중 -2.4% 하락, 거래량 3개월 평균 대비 8.5배, 거래대금 상위 종목",
+      "score": 20.22
+    },
+    {
       "symbol": "RUM",
       "name": "RUM Group Inc.",
       "price": 7.55,
@@ -236,22 +252,6 @@
       ],
       "reason": "장중 +9.1% 상승, 거래량 3개월 평균 대비 2.0배",
       "score": 18.34
-    },
-    {
-      "symbol": "KTB",
-      "name": "Kontoor Brands, Inc.",
-      "price": 81.6,
-      "change_percent": 8.86,
-      "volume": 1467927,
-      "avg_volume_3m": 802751,
-      "relative_volume": 1.83,
-      "market_cap": 4510224384,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +8.9% 상승, 거래량 3개월 평균 대비 1.8배",
-      "score": 16.2
     }
   ]
 }

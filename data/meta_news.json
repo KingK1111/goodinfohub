@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-08-13T15:27:50+09:00",
+  "updated_at": "2026-08-13T21:01:59+09:00",
   "quote": {
     "symbol": "META",
     "price": 578.85,
-    "previous_close": 599.81,
-    "change": -20.96,
-    "change_percent": -3.49,
+    "previous_close": 578.58,
+    "change": 0.27,
+    "change_percent": 0.05,
     "currency": "USD",
     "day_high": 604.5,
     "day_low": 578.2100219726562,
@@ -19,9 +19,9 @@
       "published": "Thu, 13 Aug 2026 02:26:56 GMT"
     },
     {
-      "title": "What's Going On with the Drop in Meta Stock? - Benzinga",
+      "title": "What's Going On with the Drop in Meta Stock? - benzinga.com",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObWpQdTNLQ19tZTg2UlRYWWxJdzl2TGFnbGoxV1lvU2dVT0xlUFd0emdMdUxlZTlnX0RSTlRDVTdfWGFRNklnSmY4Nk96dWtGNVZZVG5RQVN5cldlZXpkdS1tbXQ0OWRWVHJMcXhwZHRITWFwS3E3N3pySkUtclFPVHFPTW5oTVVESE4xRHRKNDZJLU85N3lqZ1JCUHg3ZDhlN0FaZmJn?oc=5",
-      "source": "Benzinga",
+      "source": "benzinga.com",
       "published": "Wed, 12 Aug 2026 18:59:57 GMT"
     },
     {
@@ -31,10 +31,16 @@
       "published": "Wed, 12 Aug 2026 16:33:52 GMT"
     },
     {
-      "title": "Meta Platforms Stock (META) Opinions on Post-Earnings AI Capex and Technical Support Levels - Quiver Quantitative",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdWFIb2htV1lGVVpoYUhfTFZqUExCMUJpZkFMdXE0SnFvbWpjTzZsaGpySGIzQ29RbGRmamFJUlhaZC1JbG1zYjA0bnkxbmQwTHlmUFpZRGozUEQ5b3lWV0ZmcmE2ak5vdHpHYUdXeHo5b0ZDeG0zS1c1ZzVzcjBjWkczdlZ3WnAzNDNmQ19CMUotOE55b3E0NklSMFloTnVtTndhOW5lQUNpa0MwU0NtOS1uZURZbDktbXQtV1JjU2dNQnBoSTlJ?oc=5",
-      "source": "Quiver Quantitative",
-      "published": "Wed, 12 Aug 2026 14:09:00 GMT"
+      "title": "Rep. Julia Letlow bought Meta stock after signing an NDA with the company, records show - wwno.org",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTTduSTZYblV1U01YekdkUDNiQnNENFhUNUF0NHhWT0gtamdoSWNEN1lueFR5eDd5RWFnd2NPUzhYVkZFT01rUXJOZUtUV25WLW9wZWVNaHVXSndCUWd3R3lSX1JQZF81bFNISVdGaWNzMHpDWDZ3eUt1RGJfLW9ackdJcHBJNHR0NVhsdGg1b3ZFbmU0bXpiZFdHbUsyMy1NX2doMmZSVFlhNDFCMDE4Mjk2NGo2U1JlNUlNdzZ4WDc0TTR3U2NLY0UxT19GemNaZXlj?oc=5",
+      "source": "wwno.org",
+      "published": "Mon, 10 Aug 2026 21:57:00 GMT"
+    },
+    {
+      "title": "The Options Market Prices A Swing Of Hundreds Of Dollars In Meta Stock - trefis.com",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZlNRSXNKcXlRNUxiaWtoaVJ3bV9vZlViUjFkOEJaZHgtME05Zmdyd1V4TzFKSDliejNNYU9JWTAyLUlVclVFSHg5R3ZMSXBrLUdYSkJMaFdXODNDVU45bjcxajRWczlvcXJCWmhTWEN5ZkJpWGVjbDVmbzR5dGFIYzN5bnUyWVNSSlNQUFdybEhRSDBKR2pISnljbGpxOWZRckhJRTVFLTJoY3ZYYlMzelFVbEhZZ25XTThXRmFMSHFoMUliSF93S0ZHcw?oc=5",
+      "source": "trefis.com",
+      "published": "Tue, 11 Aug 2026 18:05:54 GMT"
     },
     {
       "title": "Meta Platforms (NASDAQ:META) Shares Down 3.4% - Should You Sell? - MarketBeat",
@@ -43,22 +49,10 @@
       "published": "Wed, 12 Aug 2026 21:58:36 GMT"
     },
     {
-      "title": "Rep. Julia Letlow bought Meta stock after signing an NDA with the company, records show - WWNO",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTTduSTZYblV1U01YekdkUDNiQnNENFhUNUF0NHhWT0gtamdoSWNEN1lueFR5eDd5RWFnd2NPUzhYVkZFT01rUXJOZUtUV25WLW9wZWVNaHVXSndCUWd3R3lSX1JQZF81bFNISVdGaWNzMHpDWDZ3eUt1RGJfLW9ackdJcHBJNHR0NVhsdGg1b3ZFbmU0bXpiZFdHbUsyMy1NX2doMmZSVFlhNDFCMDE4Mjk2NGo2U1JlNUlNdzZ4WDc0TTR3U2NLY0UxT19GemNaZXlj?oc=5",
-      "source": "WWNO",
-      "published": "Mon, 10 Aug 2026 21:57:00 GMT"
-    },
-    {
-      "title": "The Options Market Prices A Swing Of Hundreds Of Dollars In Meta Stock - Trefis",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZlNRSXNKcXlRNUxiaWtoaVJ3bV9vZlViUjFkOEJaZHgtME05Zmdyd1V4TzFKSDliejNNYU9JWTAyLUlVclVFSHg5R3ZMSXBrLUdYSkJMaFdXODNDVU45bjcxajRWczlvcXJCWmhTWEN5ZkJpWGVjbDVmbzR5dGFIYzN5bnUyWVNSSlNQUFdybEhRSDBKR2pISnljbGpxOWZRckhJRTVFLTJoY3ZYYlMzelFVbEhZZ25XTThXRmFMSHFoMUliSF93S0ZHcw?oc=5",
-      "source": "Trefis",
-      "published": "Tue, 11 Aug 2026 18:05:54 GMT"
-    },
-    {
-      "title": "After Earnings, Is Meta Stock a Buy, a Sell, or Fairly Valued? - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbDNMOXlVblg3Rl93amZGRmUtV0xCbWtrSXVvdGhRby0wX2RxS2dzcS1MbmpzRkNqQlRBZ0J4ejRDWmJYcUFuaVV0VDJ3ejVKM2M0MXlwbnFWMk84NGotbHYyd1VaRzQzd1dIZm4tTWYxZ1E2RmprVDJ4VjlWbGU5TmRsNkF6T3hGd2hzRVRLVzk3b2FHZEpNcDMzN0RqUkx3NFE?oc=5",
-      "source": "Morningstar",
-      "published": "Thu, 06 Aug 2026 08:41:46 GMT"
+      "title": "Meta Platforms Stock (META) Opinions on Post-Earnings AI Capex and Technical Support Levels - Quiver Quantitative",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdWFIb2htV1lGVVpoYUhfTFZqUExCMUJpZkFMdXE0SnFvbWpjTzZsaGpySGIzQ29RbGRmamFJUlhaZC1JbG1zYjA0bnkxbmQwTHlmUFpZRGozUEQ5b3lWV0ZmcmE2ak5vdHpHYUdXeHo5b0ZDeG0zS1c1ZzVzcjBjWkczdlZ3WnAzNDNmQ19CMUotOE55b3E0NklSMFloTnVtTndhOW5lQUNpa0MwU0NtOS1uZURZbDktbXQtV1JjU2dNQnBoSTlJ?oc=5",
+      "source": "Quiver Quantitative",
+      "published": "Wed, 12 Aug 2026 14:09:00 GMT"
     },
     {
       "title": "Meta Stock Rises as $1 Billion AI Strategy Unfolds - Yahoo Finance UK",
@@ -67,16 +61,16 @@
       "published": "Mon, 10 Aug 2026 19:34:27 GMT"
     },
     {
+      "title": "After Earnings, Is Meta Stock a Buy, a Sell, or Fairly Valued? - global.morningstar.com",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbDNMOXlVblg3Rl93amZGRmUtV0xCbWtrSXVvdGhRby0wX2RxS2dzcS1MbmpzRkNqQlRBZ0J4ejRDWmJYcUFuaVV0VDJ3ejVKM2M0MXlwbnFWMk84NGotbHYyd1VaRzQzd1dIZm4tTWYxZ1E2RmprVDJ4VjlWbGU5TmRsNkF6T3hGd2hzRVRLVzk3b2FHZEpNcDMzN0RqUkx3NFE?oc=5",
+      "source": "global.morningstar.com",
+      "published": "Thu, 06 Aug 2026 08:41:46 GMT"
+    },
+    {
       "title": "Meta Stock Climbs On Open-Source Model Launch; Zuckerberg Criticizes AI Rivals - Investor's Business Daily",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSjlpUS1vQTRaMU96cGlOX0JjVjBoSDJJcnlTdlJEUzJXMzd6OGZaSGJCQUZsZlBsbzhKc3Y3SHVVNzRjT3F2Q2NtSVRMYlptR0tvdDYyWkFiaE83NG1yYXlyTlNyT01yS3U4UFVWRWNVd2VrbEphLWZRM1RDeVVLLXA5eTRsQTg?oc=5",
       "source": "Investor's Business Daily",
       "published": "Mon, 10 Aug 2026 12:45:00 GMT"
-    },
-    {
-      "title": "Meta Platforms (META) COO Javier Olivan sells 1,692 shares under 10b5-1 plan - Stock Titan",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNTdrTGxOMVU3YVg5VG5TcnJKOFdheE1peFhndTNRaUY5VlF4bjZ0cE5YVk9Cek5Qd0ZEZE92LTlvdjVOc0dFNzVjSHlzdlRhTzRwQzlFS01uZHlHN0NDSUlaYlgxd0FMUDZ6ckE3SnpuUTZEdGJCVVZuVVJyclI4MDlzTTR6Y2NoMlpDNDAzOWRWaUREdGRjWERJNUhRTk55RWZyMDNDMXFsR3lUSXdLRTRB?oc=5",
-      "source": "Stock Titan",
-      "published": "Thu, 13 Aug 2026 00:52:22 GMT"
     },
     {
       "title": "Meta Stock Slides as AI Costs Rise: When Will the Payoff Arrive? - Moomoo",
@@ -85,10 +79,10 @@
       "published": "Sun, 09 Aug 2026 11:37:00 GMT"
     },
     {
-      "title": "The Market Shaved 10% Off Meta Over a Month: One Analyst Targets 87% Returns Over The Next Year - 24/7 Wall St.",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRVJ6Y3VlQWNlOUJsVURtYWpSWkdKT3VlNjNkQmVhaWxJS1BrY3RZODFTV0UxN2RXMjVZX0t3cU9maW8zSkJWVnBPX3MxLUJYbnhqTDMxRFdUWVJZM0xMTFg4TURsTkx4UHhtNmwwbVg1YnRQNW41N1F6MEs0QkZYaElRdGJ1YUF1WEtISWwzdENPVDF5OUZKU2tXNVR6Yno2b0l1aUJfc0RPUzFicHE2aFA3dGlndk0yWGQtS0UwMjVlWTBpV2FLdWhuQ3V0UlNYanc?oc=5",
-      "source": "24/7 Wall St.",
-      "published": "Wed, 12 Aug 2026 13:11:21 GMT"
+      "title": "Meta Platforms (META) COO Javier Olivan sells 1,692 shares under 10b5-1 plan - Stock Titan",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNTdrTGxOMVU3YVg5VG5TcnJKOFdheE1peFhndTNRaUY5VlF4bjZ0cE5YVk9Cek5Qd0ZEZE92LTlvdjVOc0dFNzVjSHlzdlRhTzRwQzlFS01uZHlHN0NDSUlaYlgxd0FMUDZ6ckE3SnpuUTZEdGJCVVZuVVJyclI4MDlzTTR6Y2NoMlpDNDAzOWRWaUREdGRjWERJNUhRTk55RWZyMDNDMXFsR3lUSXdLRTRB?oc=5",
+      "source": "Stock Titan",
+      "published": "Thu, 13 Aug 2026 00:52:22 GMT"
     },
     {
       "title": "Meta Platforms (NASDAQ:META) COO Javier Olivan Sells 434 Shares - MarketBeat",
@@ -97,16 +91,10 @@
       "published": "Thu, 13 Aug 2026 03:19:42 GMT"
     },
     {
-      "title": "What's Going On With Meta Platforms Stock Monday? - Benzinga",
+      "title": "What's Going On With Meta Platforms Stock Monday? - benzinga.com",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVlZzLW1YbG5YTDh4cERLVXB5YVRPRFBMQW9id1FqSHB1VWNZMEQtelZUdDJheXQ1ajUwb0lZczA1UmZIYVhPMEU2WVpEakIzcEczR3VQNnp3N0tQeVQtMFNiN0ZwWURqUENfelF6S0hlTzZFMVM0ODQ4OUtHNll6M3RyMThCcXRhTWRqRnZQUGRZR3c2eUd1VlJ6VTlaWUlzcU5NMXJMV2NxSENBcWhz?oc=5",
-      "source": "Benzinga",
+      "source": "benzinga.com",
       "published": "Mon, 10 Aug 2026 16:14:05 GMT"
-    },
-    {
-      "title": "Meta Platforms (NASDAQ:META) COO Javier Olivan Sells 1,258 Shares - MarketBeat",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZm9JVVhGUVVUU0Z2S0pkQVdrUDA2VjJldFUydWlucXRMQ3JQUlh0cU9ONDZoRTVUQmhyWUtnblhRZ3N5aWF5Q3RMYS1iT2dTVTNsUTh3Tno0aG5XVEd0TXMwZDdlSlk1T2lJWDJmMGlDdF9OaUtxVkpRRG9BeHQ5TVc4RFg5U3JPMWtPU2stTk1rZWFwa1JRRzVxemMweHFuVDkzbF8zdk82X2dNLW5EZG9iWklBUQ?oc=5",
-      "source": "MarketBeat",
-      "published": "Thu, 13 Aug 2026 01:13:13 GMT"
     },
     {
       "title": "Meta’s Muse Glimmer Release Reframes Its AI Spending Bet - MarketBeat",
@@ -115,22 +103,34 @@
       "published": "Tue, 11 Aug 2026 13:58:49 GMT"
     },
     {
-      "title": "Meta Platforms, Inc. $META Shares Purchased by Haven Capital Group Inc. - MarketBeat",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPY2VFZFJLLUM1NVhhOE5LNUR4VU1Yd096dnA5X0VXVHF4RHNjeTFrZTNFR2dRcTcxRDFFT185OWc2b0g4VkNFTWlaMDVEakVvR1Zsam5RdDdFdnU5cXJsclZLZW9LT0MtRUYyNGtvVks1R0Z1STEwbl9CNkxjRjNzcl95UGZzVi1qVU5ZUlFTUVpzQTE2WTlWTDUxa1o1ZXppQ2VCbFQwMEJ5dXRBSVdVVHdSblp0OVV3a1Q3NWxqNTBOOTc1SUJR?oc=5",
+      "title": "Allen Mooney & Barnes Investment Advisors LLC Sells 1,249 Shares of Meta Platforms, Inc. $META - MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPcnp3RTJwMkprc3Q2ODdrSDBOMmpBaUdEbWpMTnNoS0loSG9fa094blhFbm1PQ1J4d2NWVzFSaURFSlhjRVZoMndNN1FuZXhVTWNqZlRjNXI3V3U2MmdTWE9hTWNHbG0weTQ3VVk5d3RCUExrVjRfaUVINEo1ODN3azlRbjhDbWJTWjd4TFNLTWVCRXlaM3h6bDNOX2RsMmw5NV9yMGxpTk54SDI5VjlsQW1DT0lwTGV1TVBkZXZxNlEzWHIzWVQ2RDZvRjBQd3g0MXRUMHZVeVVhOFZqN0VBZUVKOA?oc=5",
       "source": "MarketBeat",
-      "published": "Wed, 12 Aug 2026 10:39:53 GMT"
+      "published": "Thu, 13 Aug 2026 07:12:05 GMT"
     },
     {
-      "title": "Alphabet, Amazon, Meta Platforms, and Microsoft: One of These Stocks Looks Like It Has the Least Upside Over the Next 12 Months, but There's a Catch - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORERfSzU4VW5FNzdUQWVFLVNEQjdIUC1BaHVwZ1NFdFlCaUJvOW1aSTJVam1jdDRSUzJKMWhnRDYyS1h3MVJ6OElfeTJ4c0g5Q0lXVlpXR3RpQUFxSDdKNTZORDNpSVoyQURkVHpzLXFwQmVLcGRmWkl1dTRiOFlpQ0lZX21HbnJiRFJfWXB3VzFKdDl3UDFr?oc=5",
-      "source": "The Motley Fool",
-      "published": "Wed, 12 Aug 2026 20:21:00 GMT"
+      "title": "Meta Platforms (NASDAQ:META) COO Javier Olivan Sells 1,258 Shares - MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZm9JVVhGUVVUU0Z2S0pkQVdrUDA2VjJldFUydWlucXRMQ3JQUlh0cU9ONDZoRTVUQmhyWUtnblhRZ3N5aWF5Q3RMYS1iT2dTVTNsUTh3Tno0aG5XVEd0TXMwZDdlSlk1T2lJWDJmMGlDdF9OaUtxVkpRRG9BeHQ5TVc4RFg5U3JPMWtPU2stTk1rZWFwa1JRRzVxemMweHFuVDkzbF8zdk82X2dNLW5EZG9iWklBUQ?oc=5",
+      "source": "MarketBeat",
+      "published": "Thu, 13 Aug 2026 01:13:13 GMT"
+    },
+    {
+      "title": "Meta's stock drops on disappointing guidance, dwindling free cash flow - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBpV01kYzlERkIwM0ZfUXBQTTQyS2FmaFZHRFpoUGFwMHpidjQxX1JzTmRpa3o5bUViMFM2eGk4UldVUE5NcGZ5TGZXRUlCX1JyVmc4bF8xY3haNkpnaG1xRDhhRUNHOEdGY0REUUY2UUVFN03SAXhBVV95cUxPUGJIU0dqamJ2M1gxbW9yQXFhOG9tQV9VTmdMbUxub1RvLUR0MGJGdlMzWUtaTWMzOWtVdFZZcS16azhZY21Gb01zXzlZZ2IteFhjNFpLSWFBS2IwS0ltQWt4VEstckItdUg3SF9LM0YyVGRndjdaWHM?oc=5",
+      "source": "CNBC",
+      "published": "Wed, 29 Jul 2026 07:00:00 GMT"
     },
     {
       "title": "Meta Apologizes to Indian Lawmakers After Safe Harbor Threats Endanger Country Operations - TIKR.com",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAwZGxHWEN6NENTVmlpTktWblMtNU5xaVNNOWI4ckd4TzBfYnNQWTNmcFFoVzRuQmZOb1owNlhqUFA1aVZnV0VpVlZhTjdpeGhBUUpOUzhYTzFMU1gtQXB3VExlMDNoMmJFV3Y5LS1UdzhqR1k0eklHSlNzWmw?oc=5",
       "source": "TIKR.com",
       "published": "Mon, 10 Aug 2026 13:25:16 GMT"
+    },
+    {
+      "title": "Alphabet, Amazon, Meta Platforms, and Microsoft: One of These Stocks Looks Like It Has the Least Upside Over the Next 12 Months, but There's a Catch - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORERfSzU4VW5FNzdUQWVFLVNEQjdIUC1BaHVwZ1NFdFlCaUJvOW1aSTJVam1jdDRSUzJKMWhnRDYyS1h3MVJ6OElfeTJ4c0g5Q0lXVlpXR3RpQUFxSDdKNTZORDNpSVoyQURkVHpzLXFwQmVLcGRmWkl1dTRiOFlpQ0lZX21HbnJiRFJfWXB3VzFKdDl3UDFr?oc=5",
+      "source": "The Motley Fool",
+      "published": "Wed, 12 Aug 2026 20:21:00 GMT"
     }
   ]
 }
