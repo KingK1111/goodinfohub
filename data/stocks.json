@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T15:26:05+09:00",
+  "updated_at": "2026-08-14T20:44:37+09:00",
   "disclaimer": "이 목록은 공개 시세 데이터(거래량, 변동률)를 기준으로 자동 정렬한 결과이며 특정 종목의 매수/매도를 추천하지 않습니다. 투자 판단과 책임은 본인에게 있습니다.",
   "criteria": {
     "min_price": 5.0,
@@ -33,15 +33,15 @@
       "price": 10.8,
       "change_percent": -29.18,
       "volume": 36528830,
-      "avg_volume_3m": 1952962,
-      "relative_volume": 18.7,
+      "avg_volume_3m": 2437561,
+      "relative_volume": 14.99,
       "market_cap": 2693950208,
       "exchange": "NasdaqGS",
       "sources": [
         "most_actives"
       ],
-      "reason": "장중 -29.2% 하락, 거래량 3개월 평균 대비 18.7배, 거래대금 상위 종목",
-      "score": 545.8
+      "reason": "장중 -29.2% 하락, 거래량 3개월 평균 대비 15.0배, 거래대금 상위 종목",
+      "score": 437.29
     },
     {
       "symbol": "AVAH",
@@ -113,7 +113,7 @@
       "price": 80.06,
       "change_percent": 16.45,
       "volume": 4582290,
-      "avg_volume_3m": 1723146,
+      "avg_volume_3m": 1719811,
       "relative_volume": 2.66,
       "market_cap": 3350471936,
       "exchange": "NasdaqGS",
@@ -121,7 +121,7 @@
         "day_gainers"
       ],
       "reason": "장중 +16.5% 상승, 거래량 3개월 평균 대비 2.7배",
-      "score": 43.75
+      "score": 43.83
     },
     {
       "symbol": "MH",
@@ -140,22 +140,6 @@
       "score": 40.37
     },
     {
-      "symbol": "STUB",
-      "name": "StubHub Holdings, Inc.",
-      "price": 7.68,
-      "change_percent": -10.07,
-      "volume": 22441287,
-      "avg_volume_3m": 7068467,
-      "relative_volume": 3.17,
-      "market_cap": 2934450688,
-      "exchange": "NYSE",
-      "sources": [
-        "most_actives"
-      ],
-      "reason": "장중 -10.1% 하락, 거래량 3개월 평균 대비 3.2배, 거래대금 상위 종목",
-      "score": 31.97
-    },
-    {
       "symbol": "BIRK",
       "name": "Birkenstock Holding plc",
       "price": 41.0,
@@ -170,6 +154,22 @@
       ],
       "reason": "장중 +11.6% 상승, 거래량 3개월 평균 대비 2.3배",
       "score": 27.01
+    },
+    {
+      "symbol": "JD",
+      "name": "JD.com, Inc.",
+      "price": 29.3,
+      "change_percent": -7.31,
+      "volume": 31973597,
+      "avg_volume_3m": 8795056,
+      "relative_volume": 3.64,
+      "market_cap": 39569649664,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "most_actives"
+      ],
+      "reason": "장중 -7.3% 하락, 거래량 3개월 평균 대비 3.6배, 거래대금 상위 종목",
+      "score": 26.57
     },
     {
       "symbol": "BLSH",
@@ -195,13 +195,29 @@
       "volume": 3420175,
       "avg_volume_3m": 1993530,
       "relative_volume": 1.72,
-      "market_cap": 12311876608,
+      "market_cap": 11993319424,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +14.5% 상승, 거래량 3개월 평균 대비 1.7배",
       "score": 24.81
+    },
+    {
+      "symbol": "FRMI",
+      "name": "Fermi Inc.",
+      "price": 6.6,
+      "change_percent": -13.16,
+      "volume": 33384131,
+      "avg_volume_3m": 19519551,
+      "relative_volume": 1.71,
+      "market_cap": 4211350016,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "most_actives"
+      ],
+      "reason": "장중 -13.2% 하락, 거래량 3개월 평균 대비 1.7배, 거래대금 상위 종목",
+      "score": 22.5
     },
     {
       "symbol": "ESTC",
@@ -211,29 +227,13 @@
       "volume": 4102409,
       "avg_volume_3m": 2107314,
       "relative_volume": 1.95,
-      "market_cap": 8942958592,
+      "market_cap": 9011769344,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +11.5% 상승, 거래량 3개월 평균 대비 1.9배",
       "score": 22.38
-    },
-    {
-      "symbol": "FRMI",
-      "name": "Fermi Inc.",
-      "price": 6.6,
-      "change_percent": -13.16,
-      "volume": 33384131,
-      "avg_volume_3m": 19872588,
-      "relative_volume": 1.68,
-      "market_cap": 4211350016,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "most_actives"
-      ],
-      "reason": "장중 -13.2% 하락, 거래량 3개월 평균 대비 1.7배, 거래대금 상위 종목",
-      "score": 22.1
     },
     {
       "symbol": "SNDK",
