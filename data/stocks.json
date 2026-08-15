@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T14:18:40+09:00",
+  "updated_at": "2026-08-15T20:37:14+09:00",
   "disclaimer": "이 목록은 공개 시세 데이터(거래량, 변동률)를 기준으로 자동 정렬한 결과이며 특정 종목의 매수/매도를 추천하지 않습니다. 투자 판단과 책임은 본인에게 있습니다.",
   "criteria": {
     "min_price": 5.0,
@@ -146,15 +146,15 @@
       "price": 126.12,
       "change_percent": 11.05,
       "volume": 1577625,
-      "avg_volume_3m": 1251229,
-      "relative_volume": 1.26,
+      "avg_volume_3m": 1231462,
+      "relative_volume": 1.28,
       "market_cap": 3435830016,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +11.1% 상승, 거래량 3개월 평균 대비 1.3배",
-      "score": 13.93
+      "score": 14.16
     },
     {
       "symbol": "EROC",
