@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T20:41:37+09:00",
+  "updated_at": "2026-08-18T08:38:38+09:00",
   "disclaimer": "이 목록은 공개 시세 데이터(거래량, 변동률)를 기준으로 자동 정렬한 결과이며 특정 종목의 매수/매도를 추천하지 않습니다. 투자 판단과 책임은 본인에게 있습니다.",
   "criteria": {
     "min_price": 5.0,
@@ -11,248 +11,245 @@
   },
   "candidates": [
     {
-      "symbol": "HTFL",
-      "name": "Heartflow, Inc.",
-      "price": 42.08,
-      "change_percent": 35.7,
-      "volume": 9913524,
-      "avg_volume_3m": 1601729,
-      "relative_volume": 6.19,
-      "market_cap": 3659008768,
+      "symbol": "FIGR",
+      "name": "Figure Technology Solutions, In",
+      "price": 35.755,
+      "change_percent": 13.76,
+      "volume": 8933920,
+      "avg_volume_3m": 3761203,
+      "relative_volume": 2.38,
+      "market_cap": 7995864576,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +35.7% 상승, 거래량 3개월 평균 대비 6.2배",
-      "score": 220.95
+      "reason": "장중 +13.8% 상승, 거래량 3개월 평균 대비 2.4배",
+      "score": 32.69
     },
     {
-      "symbol": "RDDT",
-      "name": "Reddit, Inc.",
-      "price": 178.09,
-      "change_percent": 12.63,
-      "volume": 20415353,
-      "avg_volume_3m": 5447222,
-      "relative_volume": 3.75,
-      "market_cap": 34263894016,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers",
-        "most_actives"
-      ],
-      "reason": "장중 +12.6% 상승, 거래량 3개월 평균 대비 3.7배, 거래대금 상위 종목",
-      "score": 47.33
-    },
-    {
-      "symbol": "AVAH",
-      "name": "Aveanna Healthcare Holdings Inc",
-      "price": 12.32,
-      "change_percent": 9.12,
-      "volume": 7334205,
-      "avg_volume_3m": 2269330,
-      "relative_volume": 3.23,
-      "market_cap": 2682744064,
+      "symbol": "CBRS",
+      "name": "Cerebras Systems Inc.",
+      "price": 251.98,
+      "change_percent": 15.07,
+      "volume": 14717242,
+      "avg_volume_3m": 6896412,
+      "relative_volume": 2.13,
+      "market_cap": 59861389312,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +9.1% 상승, 거래량 3개월 평균 대비 3.2배",
-      "score": 29.48
+      "reason": "장중 +15.1% 상승, 거래량 3개월 평균 대비 2.1배",
+      "score": 32.16
     },
     {
-      "symbol": "VERA",
-      "name": "Vera Therapeutics, Inc.",
-      "price": 31.63,
-      "change_percent": 9.48,
-      "volume": 5875763,
-      "avg_volume_3m": 1946909,
-      "relative_volume": 3.02,
-      "market_cap": 2279363328,
+      "symbol": "HTHT",
+      "name": "H World Group Limited",
+      "price": 46.61,
+      "change_percent": 11.29,
+      "volume": 4508121,
+      "avg_volume_3m": 1925766,
+      "relative_volume": 2.34,
+      "market_cap": 14333684736,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +11.3% 상승, 거래량 3개월 평균 대비 2.3배",
+      "score": 26.44
+    },
+    {
+      "symbol": "OCUL",
+      "name": "Ocular Therapeutix, Inc.",
+      "price": 10.65,
+      "change_percent": 6.08,
+      "volume": 11146653,
+      "avg_volume_3m": 2570538,
+      "relative_volume": 4.34,
+      "market_cap": 2338908928,
       "exchange": "NasdaqGM",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +9.5% 상승, 거래량 3개월 평균 대비 3.0배",
-      "score": 28.62
+      "reason": "장중 +6.1% 상승, 거래량 3개월 평균 대비 4.3배",
+      "score": 26.35
     },
     {
-      "symbol": "AAOI",
-      "name": "Applied Optoelectronics, Inc.",
-      "price": 150.28,
-      "change_percent": 15.53,
-      "volume": 18774955,
-      "avg_volume_3m": 12105664,
-      "relative_volume": 1.55,
-      "market_cap": 12709065728,
+      "symbol": "AXTI",
+      "name": "AXT Inc",
+      "price": 95.97,
+      "change_percent": 17.55,
+      "volume": 15238161,
+      "avg_volume_3m": 10289529,
+      "relative_volume": 1.48,
+      "market_cap": 6293061120,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +17.6% 상승, 거래량 3개월 평균 대비 1.5배",
+      "score": 25.99
+    },
+    {
+      "symbol": "RUM",
+      "name": "RUM Group Inc.",
+      "price": 8.24,
+      "change_percent": 10.46,
+      "volume": 5414483,
+      "avg_volume_3m": 3386640,
+      "relative_volume": 1.6,
+      "market_cap": 4085476096,
       "exchange": "NasdaqGM",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +15.5% 상승, 거래량 3개월 평균 대비 1.6배",
-      "score": 24.08
+      "reason": "장중 +10.5% 상승, 거래량 3개월 평균 대비 1.6배",
+      "score": 16.72
     },
     {
-      "symbol": "DIOD",
-      "name": "Diodes Incorporated",
-      "price": 103.48,
-      "change_percent": 6.47,
-      "volume": 2219200,
-      "avg_volume_3m": 655491,
-      "relative_volume": 3.39,
-      "market_cap": 4765430272,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +6.5% 상승, 거래량 3개월 평균 대비 3.4배",
-      "score": 21.91
-    },
-    {
-      "symbol": "NU",
-      "name": "Nu Holdings Ltd.",
-      "price": 15.23,
-      "change_percent": 9.33,
-      "volume": 156272681,
-      "avg_volume_3m": 75497477,
-      "relative_volume": 2.07,
-      "market_cap": 73571385344,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers",
-        "most_actives"
-      ],
-      "reason": "장중 +9.3% 상승, 거래량 3개월 평균 대비 2.1배, 거래대금 상위 종목",
-      "score": 19.32
-    },
-    {
-      "symbol": "LFTO",
-      "name": "Liftoff Mobile, Inc.",
-      "price": 21.61,
-      "change_percent": 7.73,
-      "volume": 2387784,
-      "avg_volume_3m": 1144230,
-      "relative_volume": 2.09,
-      "market_cap": 3659232768,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +7.7% 상승, 거래량 3개월 평균 대비 2.1배",
-      "score": 16.12
-    },
-    {
-      "symbol": "WING",
-      "name": "Wingstop Inc.",
-      "price": 126.12,
-      "change_percent": 10.73,
-      "volume": 1581512,
-      "avg_volume_3m": 1231462,
-      "relative_volume": 1.28,
-      "market_cap": 3435830016,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +10.7% 상승, 거래량 3개월 평균 대비 1.3배",
-      "score": 13.78
-    },
-    {
-      "symbol": "NBIS",
-      "name": "Nebius Group N.V.",
-      "price": 277.68,
-      "change_percent": 8.88,
-      "volume": 29024669,
-      "avg_volume_3m": 20812900,
-      "relative_volume": 1.39,
-      "market_cap": 75488755712,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers",
-        "most_actives"
-      ],
-      "reason": "장중 +8.9% 상승, 거래량 3개월 평균 대비 1.4배, 거래대금 상위 종목",
-      "score": 12.38
-    },
-    {
-      "symbol": "EROC",
-      "name": "ERock, Inc.",
-      "price": 16.72,
-      "change_percent": 6.77,
-      "volume": 4806777,
-      "avg_volume_3m": 2665834,
+      "symbol": "ALM",
+      "name": "Almonty Industries Inc.",
+      "price": 16.36,
+      "change_percent": 8.42,
+      "volume": 10934217,
+      "avg_volume_3m": 6059448,
       "relative_volume": 1.8,
-      "market_cap": 4569586176,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +6.8% 상승, 거래량 3개월 평균 대비 1.8배",
-      "score": 12.2
-    },
-    {
-      "symbol": "LUNR",
-      "name": "Intuitive Machines, Inc.",
-      "price": 19.01,
-      "change_percent": 8.26,
-      "volume": 18909475,
-      "avg_volume_3m": 13195724,
-      "relative_volume": 1.43,
-      "market_cap": 3050198272,
-      "exchange": "NasdaqGM",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +8.3% 상승, 거래량 3개월 평균 대비 1.4배",
-      "score": 11.83
-    },
-    {
-      "symbol": "AEHR",
-      "name": "Aehr Test Systems",
-      "price": 134.06,
-      "change_percent": 8.73,
-      "volume": 3314996,
-      "avg_volume_3m": 2511788,
-      "relative_volume": 1.32,
-      "market_cap": 4373097472,
+      "market_cap": 4719544832,
       "exchange": "NasdaqCM",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +8.7% 상승, 거래량 3개월 평균 대비 1.3배",
-      "score": 11.52
+      "reason": "장중 +8.4% 상승, 거래량 3개월 평균 대비 1.8배",
+      "score": 15.19
     },
     {
       "symbol": "SNDK",
       "name": "Sandisk Corporation",
-      "price": 1641.11,
-      "change_percent": 7.39,
-      "volume": 21000329,
+      "price": 1786.85,
+      "change_percent": 8.88,
+      "volume": 17676423,
       "avg_volume_3m": 13668727,
-      "relative_volume": 1.54,
-      "market_cap": 239602057216,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers",
-        "most_actives"
-      ],
-      "reason": "장중 +7.4% 상승, 거래량 3개월 평균 대비 1.5배, 거래대금 상위 종목",
-      "score": 11.36
-    },
-    {
-      "symbol": "CPRT",
-      "name": "Copart, Inc.",
-      "price": 31.61,
-      "change_percent": 7.55,
-      "volume": 17358448,
-      "avg_volume_3m": 12306925,
-      "relative_volume": 1.41,
-      "market_cap": 29264900096,
+      "relative_volume": 1.29,
+      "market_cap": 260880089088,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +7.6% 상승, 거래량 3개월 평균 대비 1.4배",
-      "score": 10.65
+      "reason": "장중 +8.9% 상승, 거래량 3개월 평균 대비 1.3배",
+      "score": 11.48
+    },
+    {
+      "symbol": "COHR",
+      "name": "Coherent Corp.",
+      "price": 351.22,
+      "change_percent": 7.79,
+      "volume": 8437882,
+      "avg_volume_3m": 6005472,
+      "relative_volume": 1.41,
+      "market_cap": 68712443904,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +7.8% 상승, 거래량 3개월 평균 대비 1.4배",
+      "score": 10.95
+    },
+    {
+      "symbol": "LUNR",
+      "name": "Intuitive Machines, Inc.",
+      "price": 20.38,
+      "change_percent": 7.21,
+      "volume": 19920748,
+      "avg_volume_3m": 13195724,
+      "relative_volume": 1.51,
+      "market_cap": 3270017792,
+      "exchange": "NasdaqGM",
+      "sources": [
+        "day_gainers",
+        "most_actives"
+      ],
+      "reason": "장중 +7.2% 상승, 거래량 3개월 평균 대비 1.5배, 거래대금 상위 종목",
+      "score": 10.88
+    },
+    {
+      "symbol": "SMTC",
+      "name": "Semtech Corporation",
+      "price": 154.22,
+      "change_percent": 9.88,
+      "volume": 3733416,
+      "avg_volume_3m": 3457261,
+      "relative_volume": 1.08,
+      "market_cap": 14365772800,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +9.9% 상승, 거래량 3개월 평균 대비 1.1배",
+      "score": 10.67
+    },
+    {
+      "symbol": "VIST",
+      "name": "Vista Energy S.A.B. de C.V.",
+      "price": 72.16,
+      "change_percent": 5.64,
+      "volume": 1620569,
+      "avg_volume_3m": 887814,
+      "relative_volume": 1.83,
+      "market_cap": 7985760768,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +5.6% 상승, 거래량 3개월 평균 대비 1.8배",
+      "score": 10.29
+    },
+    {
+      "symbol": "NKE",
+      "name": "Nike, Inc.",
+      "price": 39.09,
+      "change_percent": -4.03,
+      "volume": 58242477,
+      "avg_volume_3m": 23496911,
+      "relative_volume": 2.48,
+      "market_cap": 57989967872,
+      "exchange": "NYSE",
+      "sources": [
+        "most_actives"
+      ],
+      "reason": "장중 -4.0% 하락, 거래량 3개월 평균 대비 2.5배, 거래대금 상위 종목",
+      "score": 9.98
+    },
+    {
+      "symbol": "PGEN",
+      "name": "Precigen, Inc.",
+      "price": 6.55,
+      "change_percent": 7.38,
+      "volume": 6275645,
+      "avg_volume_3m": 5230830,
+      "relative_volume": 1.2,
+      "market_cap": 2345130752,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +7.4% 상승, 거래량 3개월 평균 대비 1.2배",
+      "score": 8.85
+    },
+    {
+      "symbol": "AEHR",
+      "name": "Aehr Test Systems",
+      "price": 145.61,
+      "change_percent": 8.62,
+      "volume": 2490519,
+      "avg_volume_3m": 2511788,
+      "relative_volume": 0.99,
+      "market_cap": 4749863936,
+      "exchange": "NasdaqCM",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +8.6% 상승, 거래량 3개월 평균 대비 1.0배",
+      "score": 8.54
     }
   ]
 }
