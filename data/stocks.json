@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T08:38:38+09:00",
+  "updated_at": "2026-08-18T14:22:09+09:00",
   "disclaimer": "이 목록은 공개 시세 데이터(거래량, 변동률)를 기준으로 자동 정렬한 결과이며 특정 종목의 매수/매도를 추천하지 않습니다. 투자 판단과 책임은 본인에게 있습니다.",
   "criteria": {
     "min_price": 5.0,
@@ -16,15 +16,15 @@
       "price": 35.755,
       "change_percent": 13.76,
       "volume": 8933920,
-      "avg_volume_3m": 3761203,
+      "avg_volume_3m": 3756647,
       "relative_volume": 2.38,
-      "market_cap": 7995864576,
+      "market_cap": 8022630912,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +13.8% 상승, 거래량 3개월 평균 대비 2.4배",
-      "score": 32.69
+      "score": 32.73
     },
     {
       "symbol": "CBRS",
@@ -80,7 +80,7 @@
       "price": 95.97,
       "change_percent": 17.55,
       "volume": 15238161,
-      "avg_volume_3m": 10289529,
+      "avg_volume_3m": 10265032,
       "relative_volume": 1.48,
       "market_cap": 6293061120,
       "exchange": "NasdaqGS",
@@ -88,7 +88,7 @@
         "day_gainers"
       ],
       "reason": "장중 +17.6% 상승, 거래량 3개월 평균 대비 1.5배",
-      "score": 25.99
+      "score": 26.06
     },
     {
       "symbol": "RUM",
@@ -96,15 +96,15 @@
       "price": 8.24,
       "change_percent": 10.46,
       "volume": 5414483,
-      "avg_volume_3m": 3386640,
-      "relative_volume": 1.6,
+      "avg_volume_3m": 3400318,
+      "relative_volume": 1.59,
       "market_cap": 4085476096,
       "exchange": "NasdaqGM",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +10.5% 상승, 거래량 3개월 평균 대비 1.6배",
-      "score": 16.72
+      "score": 16.65
     },
     {
       "symbol": "ALM",
@@ -114,7 +114,7 @@
       "volume": 10934217,
       "avg_volume_3m": 6059448,
       "relative_volume": 1.8,
-      "market_cap": 4719544832,
+      "market_cap": 4642016768,
       "exchange": "NasdaqCM",
       "sources": [
         "day_gainers"
@@ -144,15 +144,15 @@
       "price": 351.22,
       "change_percent": 7.79,
       "volume": 8437882,
-      "avg_volume_3m": 6005472,
+      "avg_volume_3m": 5999954,
       "relative_volume": 1.41,
-      "market_cap": 68712443904,
+      "market_cap": 68780195840,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +7.8% 상승, 거래량 3개월 평균 대비 1.4배",
-      "score": 10.95
+      "score": 10.96
     },
     {
       "symbol": "LUNR",
@@ -165,10 +165,9 @@
       "market_cap": 3270017792,
       "exchange": "NasdaqGM",
       "sources": [
-        "day_gainers",
-        "most_actives"
+        "day_gainers"
       ],
-      "reason": "장중 +7.2% 상승, 거래량 3개월 평균 대비 1.5배, 거래대금 상위 종목",
+      "reason": "장중 +7.2% 상승, 거래량 3개월 평균 대비 1.5배",
       "score": 10.88
     },
     {
@@ -177,7 +176,7 @@
       "price": 154.22,
       "change_percent": 9.88,
       "volume": 3733416,
-      "avg_volume_3m": 3457261,
+      "avg_volume_3m": 3458832,
       "relative_volume": 1.08,
       "market_cap": 14365772800,
       "exchange": "NasdaqGS",
@@ -195,7 +194,7 @@
       "volume": 1620569,
       "avg_volume_3m": 887814,
       "relative_volume": 1.83,
-      "market_cap": 7985760768,
+      "market_cap": 7982152704,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
@@ -225,9 +224,9 @@
       "price": 6.55,
       "change_percent": 7.38,
       "volume": 6275645,
-      "avg_volume_3m": 5230830,
+      "avg_volume_3m": 5231698,
       "relative_volume": 1.2,
-      "market_cap": 2345130752,
+      "market_cap": 2335147008,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
