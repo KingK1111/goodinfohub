@@ -1,22 +1,88 @@
 {
-  "updated_at": "2026-08-18T20:41:06+09:00",
+  "updated_at": "2026-08-19T08:37:52+09:00",
   "quote": {
     "symbol": "META",
-    "price": 568.97,
+    "price": 543.67,
     "previous_close": 568.25,
-    "change": 0.72,
-    "change_percent": 0.13,
+    "change": -24.58,
+    "change_percent": -4.33,
     "currency": "USD",
-    "day_high": 590.239990234375,
-    "day_low": 564.75,
-    "market_cap": 1449454616838.25
+    "day_high": 560.6599731445312,
+    "day_low": 543.2100219726562,
+    "market_cap": 1385002665809.2666
   },
   "articles": [
+    {
+      "title": "Meta Platforms (META) Heads To Trial, Is The Stock 44% Undervalued? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaDcwTG8xV2czdTMyMzQ1OTJ4M185LXpPYlFvQkdxSlNsS1NBVHdsMVM1VE94NDdoN3NPb1h0NUNTZEJBdXBZdFNJcGw0QTdrZHBYcjBZU1FQeVMtSmZMajhrRkNTNEQ0djdUa2V2MVJ1a1NxRHg3ZExhY0Viemgwekh2Smw5MV9aTGZ0R0xJR0RER3kzd1I3Y2JadGY?oc=5",
+      "source": "Yahoo Finance",
+      "published": "Tue, 18 Aug 2026 18:16:43 GMT"
+    },
+    {
+      "title": "Meta Stock: The Market Is Punishing AI Spending. Here’s Why I’m Still Bullish - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOXhXX0ZLbnBOVjNKRmNDSU1pam9uUk82TzVOMFBNbWJ6R0hGa2pGdm1TRmxtdjFPdDBteEloVjMweWo1c0xJZElWTzVLMHcxTDBnUFRMU1JfZzVPMDJZTDNSYjBrNF9FQ1RMRk1GTUlBYUtEelJBWFQtR1lUYnRGLUhuWkhaMDZ4V24zM1lVblNuQ19KaU9ieFZuWUFBUzFoQ3NyQmJlWFpRQnNuY3NEaXNUUXJaWG1v?oc=5",
+      "source": "24/7 Wall St.",
+      "published": "Tue, 18 Aug 2026 16:30:03 GMT"
+    },
+    {
+      "title": "Meta stock sinks as landmark social media addiction trial gets underway. What's at stake for the tech giant? - fastcompany.com",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZkdGc19TZUdvNlR3ZURQOGxldHNwdEE2a01UZHdOWEV6eEpHZmZnU2F1OUJoNmYtYW1kem9naTFNbWRlX0doZy1vdnZlSTE3LWNRaDdmSVRVcWVMRHIydl9kMk83eHg3bkJLMkQ4SzQwcWRXanMzcXJvc2s4MjR0c3RLQ2dzSGhpYVhKX2s4TWxIYkRMWXNsUERBMER1Z0Eybnc?oc=5",
+      "source": "fastcompany.com",
+      "published": "Tue, 18 Aug 2026 12:29:24 GMT"
+    },
+    {
+      "title": "Meta Platforms (META) Stock Forecast & Analyst Ratings - Moomoo",
+      "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxORzViWlBnanZXZlBNY1R2aFdQRnJkbDN6QkZ0SEVlZzY5QjZ3NEF5cEFNUTUxVk5nWkp1YjllSllwTEg0a01hV0FUSXVmcWp2V1AyVUNyS0hFZG5tQXhmOU4zZUhFcndjUnpPdm1FcTJEYndhdW92MVgxNmxWODl0MWRLMjdPSl9xY0dmZERiSkJWYzhLNVdoM3ZjeE9EWngxM08tZTVlak84SERGbkl1bXlPVHI3MnlrRXdsZ0M1VENCUEpUSk5XUHd2OERVVXYtRm91NE5WcTFSV1oxMWRua1ZKRkJxeDNQS0s2QnItbGxobGZlOE96TEJxRFBpenFQN2NKVHFKX1ktcF8waGFGbUFyN3ZPYU5XOVliMUd1eWJDYlg4ZHdtWDh5R1p0UmkzMmhVZ3c1dG9wV1p1dWs0Z3Q4dWh3LW11MHUwR3FYWm1SemVFS1llTXRfQQ?oc=5",
+      "source": "Moomoo",
+      "published": "Tue, 18 Aug 2026 16:09:57 GMT"
+    },
     {
       "title": "Why Meta Platforms Stock Is Falling Today - The Motley Fool",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8zSmEzRVdlclFVVURZMVhJRHRPc3lRYzJTTjBpZXF6Z29XdllHYngwalNPZk90WjRVYWlJclJHQ2JxMVVnY2wxeVlwdVFmMFZXQjRObFU0SmVkWmFNcmJYd04tQ3dYWno3ZUhpTV9rQkZCalNXMlhjb2FVeXZkbWs?oc=5",
       "source": "The Motley Fool",
       "published": "Mon, 17 Aug 2026 19:48:00 GMT"
+    },
+    {
+      "title": "What's Going On With Meta Platforms Stock Tuesday? - benzinga.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMEhPUVdrVlFkeXlrbkhkNjAtS2ZNX05Vd01UbzE2M1ZsN2JYTGR0aHByR21oYTdvZEFqeXhKYUt2RUU2N2N5UW1qclNmTHA4ZXV2akcwUjF6YXZMVzU0c2gtSXZXUVA4cnZHRkdnS3hKZDV1TWNYR212WkJFRGY5d0tyUWtyU1hBTUtHb0luenAyc0tvZ1RmdmhfZEM0VlBYd1puUDdHc09GT3VyS1Qwdw?oc=5",
+      "source": "benzinga.com",
+      "published": "Tue, 18 Aug 2026 15:43:57 GMT"
+    },
+    {
+      "title": "Meta stock battered by threat that is hurting the social media giant - thestreet.com",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBSVzFjb2VzaW40ODdaWkROVkRtZEw0VlUza050TG5QSjJEcDI3eHVHcDBKdlFlZEdxNE9iMW0tQkRGbVZLMmMzQjdfdk8za0pUM3dfTGlrRXF2WEw4WGFpUURvd1U3RmUyODFhUVVXeDU?oc=5",
+      "source": "thestreet.com",
+      "published": "Tue, 18 Aug 2026 12:36:30 GMT"
+    },
+    {
+      "title": "Meta Stock Sinks 3.8% as Legal and AI Costs Collide - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONDdvRF8zS2NVbjhKX2dkSF95SzVJMmVlaXRxWlBqdXdnNkY2UWc1cEctTm82NXJERUhEZWVGa19DWkFScmN2WGNaaWl0LUxKREhwMjlkZVRqckFEMi1PemE4cENJc1c1YTVsX1VNbTNGVTFJQXBWeXlFMEZGNUhyRENNSXdLVVlVQVItUHMxdkgwY01xdG83aE1vQS1tLS1oN29kb1lPOUh1ZHktSGFv?oc=5",
+      "source": "TradingView",
+      "published": "Tue, 18 Aug 2026 20:19:21 GMT"
+    },
+    {
+      "title": "Meta Stock: The Market Is Punishing AI Spending. Here’s Why I’m Still Bullish - AOL.com",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xdjZtdmVITEtiZ1NTZVZUdFVVMHk0T2dvUlcwNjZPc253STdEUHJGNFZNZWxvZDM3VU1WYnRnNUszOXh3RHlEYVJTT0tCbGd1STZVM0p1b3hkNDZDT3BtYkViSGNYRlAwS3A1VmQyUEdPN193XzVpOTBtODdtYnc?oc=5",
+      "source": "AOL.com",
+      "published": "Tue, 18 Aug 2026 16:57:52 GMT"
+    },
+    {
+      "title": "Meta’s $1.4 Trillion Trial Kicks Off and It’s a Big Risk for the Stock - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4wdVBSY2R0UWFYdXE3RTdNOXdjUWFXa2Y2NzBoOHN0UEo1REVhMHJXck9SMW9GMnplbVNhWENOVm5TeVcybGxHaF8wTWQ4dHFENDBIX0dKRy1WYzl0Z2xuTmQ1R0haS3pRSllLUlZxTmxidw?oc=5",
+      "source": "Barron's",
+      "published": "Tue, 18 Aug 2026 16:21:00 GMT"
+    },
+    {
+      "title": "Meta (NASDAQ: META) insider lines up another multimillion-dollar stock sale - Stock Titan",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOS1yYkNWTWhiV05GMHpLNnFsQTNhbUt0NTEyUV9YUTNCcTdCUVI1S0JBVEZ5NmhRNnozSkJLUGVvR0VCYU1OQ25kbngyOERyY0swcDlvdUk1UUpDeTdIbk9VZnB2ZGhxZ0l2dXlldGtjRTl0QXQ5UDBRYmMxTUtGLWJxbVRjeHQ0TUFuQ1RCU3VFYTRFUHM5SU5wdw?oc=5",
+      "source": "Stock Titan",
+      "published": "Tue, 18 Aug 2026 21:13:06 GMT"
+    },
+    {
+      "title": "Meta Platforms stock down 27% YTD but poised fo... - Pluang",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQXJDNS0tOHhmT0ZIOWJKNWI4aFhkUXNZVVBRb0NTSXhKUzljLWVHc25QRnVNckRjLTZXVFdFWUxPTXZvVVlSZE9iTTVSdHg0VlRPeUR1SndXaGJqczREaGFxMVZvb2xGekE3WERtdkFYVzZOYTRRZ0tKdDM3eXdsUWVn?oc=5",
+      "source": "Pluang",
+      "published": "Tue, 18 Aug 2026 13:44:21 GMT"
     },
     {
       "title": "Should You Buy Meta Platforms Stock Below $600 Before Mark Zuckerberg Unveils Its AI Cloud Business? Here's My Honest Take - Yahoo Finance",
@@ -25,112 +91,46 @@
       "published": "Sun, 16 Aug 2026 16:40:00 GMT"
     },
     {
-      "title": "Meta stock battered by threat that is hurting the social media giant - thestreet.com",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBSVzFjb2VzaW40ODdaWkROVkRtZEw0VlUza050TG5QSjJEcDI3eHVHcDBKdlFlZEdxNE9iMW0tQkRGbVZLMmMzQjdfdk8za0pUM3dfTGlrRXF2WEw4WGFpUURvd1U3RmUyODFhUVVXeDU?oc=5",
-      "source": "thestreet.com",
-      "published": "Mon, 17 Aug 2026 22:03:00 GMT"
-    },
-    {
-      "title": "What's Going On With Meta Platforms Stock Monday? - Benzinga",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdXR3N2Q3RU1pOFpzaXZtREdjT2phTzUzUlQ1TUk4cmhPSm5xUTgwQ0VMSld2OS14VVhKTzJpUjBvRTllVGhUX0gwNExXTDFsSlJvTmR6MF9VZVZWYkVsdmZnbzk2Y0RnVDl3dktVTmowTVdXdE5OUHZ1Tk42WDFFTXE0ODk0TjhLR3V3YXR1TnBkRGJZNVlCcVV1WFdRRTFiTjBaTQ?oc=5",
-      "source": "Benzinga",
-      "published": "Mon, 17 Aug 2026 18:16:23 GMT"
-    },
-    {
-      "title": "Meta Platforms, Inc. $META Shares Bought by Park National Corp OH - MarketBeat",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZkMzdmR2elF5U2NfY0xIaXkyRmFvR0I5X1JxOW0tWl9LRUF1d2s2YUlIMkxmVzdKb2JCVS04YkU0UnlBZUlPZ2MxRENmWF9nTU1CTmY5bThsMk56RWxSOHdqWnE1UW9sWkVVRmlCZm5VOGRjVFVJRjFRWlRfV0FrdmV3Nm5FdFZmS094X2d4RlVlVUhmdEhiWmVJVlpiNnlYSGhoejdudWZYc0otbFRNSXg2LVRmSEZWdW5Xb09xSVU?oc=5",
-      "source": "MarketBeat",
-      "published": "Tue, 18 Aug 2026 09:17:16 GMT"
-    },
-    {
-      "title": "Meta Platforms Stock (META) Opinions on Regulatory Challenges and AI Initiatives - Quiver Quantitative",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWGFWWWRJbzNOa2NPeWpzcDJBSDJ5clJGbHVrc0t6d3hqNFFyblZZX19uZVk2VjJYNXU5SGsza0U4aU9CcW00RnlLUXVyNW43OUg3QWlZcnJqb3M5TDVLaDNkTGN6MW9RczdldjVFU1BwYmt3aEJacTVyd2FkMGtfVGFuY1k2QW80LU4tc05HUC1XVGZJUTdkV0pfdmp2N0hqVmVDX2tXSzlfbEl5VHZoWFppQndTWTRB?oc=5",
-      "source": "Quiver Quantitative",
-      "published": "Mon, 17 Aug 2026 17:36:00 GMT"
-    },
-    {
-      "title": "Why Meta Platforms Stock Is Falling Today - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOLXF4ck0wRzFjdndVVUV3WGctSVRKaEM4WGhCRzY2VGhJRnRpdlhkZHhaamFSd0dEcWxERHZxWThWX0pWV1RObFozWm9PVktmZjcyTG5XRTRneDloR2lGRXNZZ0xFTzZDWVp6aTBhbEM0eUdNaDc0N280U3NISF9SM0cyREtGQy1CSnViQTVWbi11VzJhZVZZSmFJZjBqZDY3RjJMcXZvT2dkc3IwaXQ2S3lWNXo4RE9PZkZPLWVzS2JXZG9v?oc=5",
-      "source": "The Globe and Mail",
-      "published": "Mon, 17 Aug 2026 19:30:18 GMT"
-    },
-    {
-      "title": "Meta Platforms Inc Stock (META) Moved Down by 3.63% on Aug 17: Facts Behind the Movement - TradingKey",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUkdPWmtiS2hDNjBOeEJEdEhNcFZaY25mc3loZlFuNzA3OGoxc3NYRnMtWjE0Y0pMR0tKY3ZJaV81NWJrMVhzRGhBSGJhejZ1TWhXcGJlRzVaTXoyLXBpbGdoX0JPeU5ycXVpeEpzX2ZsNVNCR3NvMVEzRzlMcW1yRy1MMTJlUFJCYkVR?oc=5",
-      "source": "TradingKey",
-      "published": "Mon, 17 Aug 2026 17:15:28 GMT"
-    },
-    {
-      "title": "Meta Platforms (META) Stock Dropped, So What Is Driving Attention Now? - simplywall.st",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdVpyQW0wZElOMXMyb0o4RHFHUzNJc2tBakoyLUU2NjJsLV9HQW1jclk2X3hwcXpFbkdaWnpTbkYtTTJZLUcxZXRJSHpCQ2pWWkQ3Q2QydjhEX2RLZmRKc3NEUWxJaVlxYnRZak9OWVdiOXd5bHBnZExyYnZCclQ0ems3R0hiV2RFUnlzd3lULVREZHNlc2RETkM5ek44MkVHd1NfVXdlUXN1TzI2a3g5VW5ndHNDVUJLSnVoX1VpRU1qRUdwVHRfTzJB0gHPAUFVX3lxTFBUR1JUcmM5NVNsTklFZm9laUttRGtOZExfT0JaQUNpZERzMlhkdHhMOW4tZGNVbXpVVHMzbWJja0Z4ZGVCbE1wWllfU200MXlrem5COGdrNlFnX0NtNmp5WWdKX01icHFvazN4aHhyQjRuQ3ZQYTBoNEJrLVdIZVBtdFdJQVozUXF4UFlFdm93cjFXM251NzFNZXNya00tM3VJQnZsdUtVUmhuTHUtWWthN2RtUWdLZ19xUXI3ZnBnUUVKNURKMVZ0NEgzRHcycw?oc=5",
-      "source": "simplywall.st",
-      "published": "Thu, 13 Aug 2026 02:26:56 GMT"
-    },
-    {
-      "title": "Meta Platforms Drops 4%, Pinterest Falls 4% as Social Media Legal Risk Resurfaces - 247wallst.com",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOeDUyaG1kRWEwNklLdUNqQTRyemJtWmJtbVYxc25iRVRlTldUMGMtNWhnZElVNHRjZFFHVGo0Q19PZTRkSDN2YUxOb3NCRkVTLUU4YklrV0pIeWJzcHBGeEFpTENJQi1mZTVJTHN2MGRiZHpXemJXSmMtYy1TSW9kUlJHTHpWWXVKb2YybHJSOEpXQk5jdWxneTFoeTJtV1ZEbldxREY5dUNvSnRGWEZBUmktRzdGd3RXbEFzTFV6NA?oc=5",
-      "source": "247wallst.com",
-      "published": "Mon, 17 Aug 2026 19:30:04 GMT"
-    },
-    {
-      "title": "Alphabet vs. Meta Platforms: Which Is the Better AI Advertising Stock to Own for the Next 5 Years? - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQM0htYV91QS1zQlp6djlwYXhNODRwOFlwSExCdTRZdEU2eWNkTmtYbHNxSEgyWVJ5endicDJxSk5BRzhSUnA2dklXT2c0eU5XLWdtNGdlOGNyMnhGNEJidmlKT0w5THg2X09sRS1PMGlJb0RWT0NKb2FVZUI2MjBwZXY3X2ZYTmV6SGxhWTRFQXVyUHJTZ0tj?oc=5",
+      "title": "Why Meta Platforms Stock Crashed Today - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQV1ZZWGlObzdjMXFvQVB1a2s4V19rWU9ZaXlHckRoNHl1TWtHZHdPUzBCUTFLUWNlVkRDWW5fTmd1RkY3STVERmVocnZTVldGMzJ2VXJhTXZEMTBnZ05nRy1IbXd2QkxkUVpEZFk5bnltMWdGUkN2U0l2WHltVjR6T21Sa1ZIQXVH?oc=5",
       "source": "The Motley Fool",
-      "published": "Tue, 18 Aug 2026 11:29:22 GMT"
+      "published": "Tue, 18 Aug 2026 18:28:00 GMT"
     },
     {
-      "title": "WealthBridge Investment Counsel Inc. Increases Stock Position in Meta Platforms, Inc. $META - MarketBeat",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOTVN3SEhpOWY1X2N1MmxpNDJJWkplMnlNTHZveXh0dVFtRGoyeUljSllyNDFGeDR0VHNXcENYZXBNRlNwQ0hLOTRxeHYxbTZsZUJOVm9faVZJYmVqUm1KWWdSeGpJb0dvZmtpLTFqWGtldHd1LVlkYlU5b1o0bXNJU2VoZlRWU2prdlVIbGlWU0xnV0p0RHhGY3BKVVhhdC1YNVpMVlRBLVBiYW5TQ2s2eDhWYkt2c25pT2xsOHFvMXJ3Y3ZYTFRVQm1zSGUxRXMtZUk5eDFDQ1F2b2k2MjZteTVR?oc=5",
-      "source": "MarketBeat",
-      "published": "Tue, 18 Aug 2026 08:58:26 GMT"
+      "title": "Why Meta Platforms Stock Crashed Today - AOL.com",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMXg2X0tINEVaUmx2dkZhcXNiMFl1ZHlBSjZhSnVfUkZXT3p4RmY4S0Nfc3l4R05VOHlfV1lWVUlHTnBhc3pCMW1KMTlGc1JyaERVLUF3T2JaUWpGWUVRU2NuNEdJM1E5MDVIWVlXbHl3M2JKSDF1OEZDdTVGQWM3eWhn?oc=5",
+      "source": "AOL.com",
+      "published": "Tue, 18 Aug 2026 18:03:37 GMT"
+    },
+    {
+      "title": "Meta Platforms Falls 4% on Trial Risk With Costs Up 55%, Free Cash Flow Down to $784M - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQc3JiMEQzVmJVaUR2QVU4eDBFVjV0Y3V6czJlbXUwVHM3NjVSUDMtT3BZazloamdNU2QySUtDeWU4S2Vwb3NaNHZLWVRUNXlkRlV1NzN5TndTM1NCNHRvZWdMMmVsSkd4S0I2QVBLUDNucDNDMXo0LVNfN2U3N2ZYbkFHajNjUmVfcUdzYU9Rczd0NGRoMW1HRUt2a0k2WF9hSVFQRFR0VmZXZ3FkWjJUUS1wQ2xKUjh1emVJS1pBVGxyRm8?oc=5",
+      "source": "24/7 Wall St.",
+      "published": "Tue, 18 Aug 2026 15:31:20 GMT"
+    },
+    {
+      "title": "Big Investors Send Conflicting Signal on Meta Platforms Stock - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaGV0R2NRdEpBQ0ZxQi16ekpTZmRPeDBaS1JhTlM3bHlaa3lvNXNYcEUzcHNEeEVHWUI5MXNUVWVOSlMyQWIyS3FhZ05qVVBnVDh2bjF5bkN5SHhjbmI0dkhfcHBCVmNmQTFWTlJhaWd5dUNsS3RNV0xOYVJuVGtrRlRUQy0zUGFPNmFMSWVMdzZnNXBfSW9RWUFscm4tSE5OcHBkNlRBbHphS2REOUVrMFNERVlISUF2T2hZOTlR?oc=5",
+      "source": "TradingView",
+      "published": "Tue, 18 Aug 2026 20:46:06 GMT"
+    },
+    {
+      "title": "Meta (NASDAQ: META) officer lines up multimillion stock sale plan - Stock Titan",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZGRlTjY2ZkVkSWhHN2NxZ0t6eDVidDJJUG4zMnlEVTBxejFJRG5WeUM2QU9MVUFYdERNWURHSzVMZkFWTUFKV2pqeGI1RWZPSHBTZFZBNTV6WGFkZjJ3OTg5MWlJckhOa2o1aGFtNFlueXYzV01yYXlJQjYzYkRNbFJ5b05CUk1EX0VJWDVYLXQtME0yU2lYSEFkQQ?oc=5",
+      "source": "Stock Titan",
+      "published": "Tue, 18 Aug 2026 21:15:04 GMT"
+    },
+    {
+      "title": "RDDT vs. META: Which Digital Advertising Stock Has an Edge Right Now? - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQ1FIblBUX2JRMklhMVB4M0cwS2RyX1B4RzVqdkVXMEFpaWQyOW94aXViWVhBV2J3dE95MmZyb3VTb054SWZ2OWtGS1o3aWNURjQyM25ZYTJLMVVXU29hNG5ENHJCeDF6azRIdkh6ZFhtVjBRR0djTVhVUHFDVXluMGRWT3BNcWlWTWxVUFllWThuMGJhbnhtdHhXREkxYW84Z0RhSHJORDdvTmRaQVBjWmVhbE5MdV9RQW1DZUdHdw?oc=5",
+      "source": "TradingView",
+      "published": "Tue, 18 Aug 2026 17:32:00 GMT"
     },
     {
       "title": "Meta (META) Stock Could Be 37% Undervalued On Teen Safety Ruling - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNa25zY3VXc3JnRjA3eldwTVBGVFFFUk1fdnZOdExmOHlubjVjcnAzWGRfRDlUdzhpWVNxaU5NcW5ERUltcmlJS2l3QWVPN3BUYUxkMFY2dEhwcXVkMV9mQzA2UWNaWnY0RURMNzZyaDlLMTRVeHhXdENwTVRUSHhQU2hieHd1cVhHSGVzTWI2NXlCYTA?oc=5",
       "source": "Yahoo Finance",
       "published": "Fri, 14 Aug 2026 07:12:23 GMT"
-    },
-    {
-      "title": "Meta Sheds Billions as $1.4 Trillion Trial Opens - Benzinga",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ1VxQUdNSWo3YkRBNXFsak1rQV9xSzZFamxiM0hDX2JLc3gxTWdRSUpyYzNkWGRnUjliTUFBeldfYlZpRjVsY3YyTXltV1F6ZjhiaS0tY0dyQThQS3JjQmlGOTRjSGZmdDctWXNRQms3WXdxbTQyNDgtaEFJdWRSZTVSUDNKOTdxYVFENmdXeU5ibGtoQXAwdzZTNXpNeHdBVjFKV3c0ZDRrZVZr?oc=5",
-      "source": "Benzinga",
-      "published": "Mon, 17 Aug 2026 18:12:51 GMT"
-    },
-    {
-      "title": "Meta Platforms, Inc. $META Shares Purchased by Independent Financial Group LLC - MarketBeat",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQlN3eHYxaDJaUzZmbjM1ZmI3X3dEZGZvdHNNZGtZNExlQlFjc2VkOG1zZ2R4ZjFKSm4ySXVCUWpleGxvVFBHbVNjSWI5eHBzMGtHYmtRQktrRFBDSW9raW0tTUdyZy1JdW9xdmdzVXpVMWkzNDJMYUVZdTlDdnhCdXc3LWhYYUlZcjUtWTNaY1BKNGo3M1ZmOUY4bnJvaHZ4dWpjZy1helJCeE9xZmJSekd6cks0bEpUbUdlMjhOOENSTklNWG5sR2l1eEptcjdrSVE?oc=5",
-      "source": "MarketBeat",
-      "published": "Tue, 18 Aug 2026 07:43:55 GMT"
-    },
-    {
-      "title": "Bill Ackman Bets Big on Magnificent 7 Stocks, But Only Loves 3 of Them - Benzinga",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOYm1LMzdSc1I4LWRhTXFYZjgzNTd6N2YtUFBOdXJURDJtbnlzRm9MZEVSdHJtTzg2RGVHY2FCaXI0YUZ1UXlJcDdDakstbXR3cXVLS3ZRUGhUR3I5dEpGSy0yOEI1d01ORUtaeDhQeGlFcnVpZ2RfX1ladFYtVkZpUENHVXdHUUp2S3otczAtOWxuMHZPbl9uZllmZEh3eUFlZHhXa1RmUFM2QU9JMHN6YU1FRVlfaThXNUZpbHpjTGI5RWFlUzBOM0x1aW85Vjg?oc=5",
-      "source": "Benzinga",
-      "published": "Mon, 17 Aug 2026 16:30:36 GMT"
-    },
-    {
-      "title": "Waddell & Associates LLC Grows Stake in Meta Platforms, Inc. $META - MarketBeat",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUjYwMTcwaWtEUXlJdWh2SzhCeW9DWk9KSTJsTGdtSG1fS0RXSzNKbFRjN2c2TVM1UW56MDVOVkF6cDFuT25aWEhueUxTelBTVXlLaVNJdUJqS0o1MmdyMTUwTkhSWUpQcnlJRF9fWGRLSXo5NWJVNUx3YzZUM0JRVVk4VTFyNmRHTm5QZmJhdGVTUWF0OHhIWnl3MWVNam1EOGJHOFNuV0laODE3dkdFeEg3cW16dnF2blhLOUZMcw?oc=5",
-      "source": "MarketBeat",
-      "published": "Tue, 18 Aug 2026 09:30:41 GMT"
-    },
-    {
-      "title": "Meta Platforms (NASDAQ:META) Shares Down 3.5% - Time to Sell? - MarketBeat",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMVlfSVVtb1ZjNUNxdTZlanhNOEl2Q3RHRUs0a0tMN2xNTFhCT1cxcm1mMHg5S2xsT1EzRVVhQjBkZnlrQ0JuSjlYc2w0RzRqNlBhazktcDlKaEZRTi1xMjJEVmFoRzV5T2hVUHZaMVVseFJvbzdwLXppejRSZDFfUTBmdGJ2c0JVU1Ewd0NCcWVaNGl5MnRncEpJaWlxbWpNNWl4bWYxREtnVnc?oc=5",
-      "source": "MarketBeat",
-      "published": "Mon, 17 Aug 2026 21:32:28 GMT"
-    },
-    {
-      "title": "Tompkins Financial Corp Boosts Stake in Meta Platforms, Inc. $META - MarketBeat",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMTQ4cXkwd2tSWmEzaWlWb3E2aE5jN0VjR202OTNYb0dJUllVTE54UG1jZFhTNGVFNWhzZXlqdVh6Y1VMX1VlZG9HMXBKTkhWdlhXc2NZVG4tV2lORGp2VUZCNUl5djl3YUVVOWJJXy0zQmRjWUJYZk1OVVlaYUpfZE5kMTNKeVpoeXFUUnhpVWstejduQzBWeUlIOWNtTnRsZi1kYVBaam1VSHhwWEVxam90ZXhsbkFFRnZ5OXFiQ3lLZw?oc=5",
-      "source": "MarketBeat",
-      "published": "Tue, 18 Aug 2026 09:17:15 GMT"
-    },
-    {
-      "title": "Matrix Asset Advisors Inc. NY Boosts Stake in Meta Platforms, Inc. $META - MarketBeat",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcjFsYlhITVExa1BjSnJncjl0aVhrLXBjWjkxQ2xNM2p0UExfbllQbGJUT2g5dFFzd0FYNHN0QmxOZzZEcV9hUUM3NWtaVEdEbnoxYmMwTFNzcV92UGw0QmVENHdUb0YwRXV3bEhOakV5cXlJV09ZSDlXTlpEWnVEQkFhV0xHNzR3aDQ5a0hmRUdhcml4ck5fV3pzcF8tRnZEcDJ4WVdXQzl5SktBNDVfUVpZNkIzWS1vQUZYWkgycnJjaTRzZnI2NQ?oc=5",
-      "source": "MarketBeat",
-      "published": "Tue, 18 Aug 2026 09:04:26 GMT"
     }
   ]
 }
