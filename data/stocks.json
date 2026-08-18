@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T14:22:09+09:00",
+  "updated_at": "2026-08-18T20:41:08+09:00",
   "disclaimer": "이 목록은 공개 시세 데이터(거래량, 변동률)를 기준으로 자동 정렬한 결과이며 특정 종목의 매수/매도를 추천하지 않습니다. 투자 판단과 책임은 본인에게 있습니다.",
   "criteria": {
     "min_price": 5.0,
@@ -10,22 +10,6 @@
     ]
   },
   "candidates": [
-    {
-      "symbol": "FIGR",
-      "name": "Figure Technology Solutions, In",
-      "price": 35.755,
-      "change_percent": 13.76,
-      "volume": 8933920,
-      "avg_volume_3m": 3756647,
-      "relative_volume": 2.38,
-      "market_cap": 8022630912,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +13.8% 상승, 거래량 3개월 평균 대비 2.4배",
-      "score": 32.73
-    },
     {
       "symbol": "CBRS",
       "name": "Cerebras Systems Inc.",
@@ -41,6 +25,22 @@
       ],
       "reason": "장중 +15.1% 상승, 거래량 3개월 평균 대비 2.1배",
       "score": 32.16
+    },
+    {
+      "symbol": "FIGR",
+      "name": "Figure Technology Solutions, In",
+      "price": 35.755,
+      "change_percent": 13.76,
+      "volume": 8933920,
+      "avg_volume_3m": 3846574,
+      "relative_volume": 2.32,
+      "market_cap": 8022630912,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +13.8% 상승, 거래량 3개월 평균 대비 2.3배",
+      "score": 31.96
     },
     {
       "symbol": "HTHT",
@@ -59,36 +59,36 @@
       "score": 26.44
     },
     {
-      "symbol": "OCUL",
-      "name": "Ocular Therapeutix, Inc.",
-      "price": 10.65,
-      "change_percent": 6.08,
-      "volume": 11146653,
-      "avg_volume_3m": 2570538,
-      "relative_volume": 4.34,
-      "market_cap": 2338908928,
-      "exchange": "NasdaqGM",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +6.1% 상승, 거래량 3개월 평균 대비 4.3배",
-      "score": 26.35
-    },
-    {
       "symbol": "AXTI",
       "name": "AXT Inc",
       "price": 95.97,
       "change_percent": 17.55,
       "volume": 15238161,
-      "avg_volume_3m": 10265032,
-      "relative_volume": 1.48,
+      "avg_volume_3m": 10346148,
+      "relative_volume": 1.47,
       "market_cap": 6293061120,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +17.6% 상승, 거래량 3개월 평균 대비 1.5배",
-      "score": 26.06
+      "score": 25.85
+    },
+    {
+      "symbol": "OCUL",
+      "name": "Ocular Therapeutix, Inc.",
+      "price": 10.65,
+      "change_percent": 6.08,
+      "volume": 11146653,
+      "avg_volume_3m": 2702256,
+      "relative_volume": 4.12,
+      "market_cap": 2338908928,
+      "exchange": "NasdaqGM",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +6.1% 상승, 거래량 3개월 평균 대비 4.1배",
+      "score": 25.06
     },
     {
       "symbol": "RUM",
@@ -96,15 +96,15 @@
       "price": 8.24,
       "change_percent": 10.46,
       "volume": 5414483,
-      "avg_volume_3m": 3400318,
-      "relative_volume": 1.59,
+      "avg_volume_3m": 3433085,
+      "relative_volume": 1.58,
       "market_cap": 4085476096,
       "exchange": "NasdaqGM",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +10.5% 상승, 거래량 3개월 평균 대비 1.6배",
-      "score": 16.65
+      "score": 16.49
     },
     {
       "symbol": "ALM",
@@ -114,7 +114,7 @@
       "volume": 10934217,
       "avg_volume_3m": 6059448,
       "relative_volume": 1.8,
-      "market_cap": 4642016768,
+      "market_cap": 4719544832,
       "exchange": "NasdaqCM",
       "sources": [
         "day_gainers"
@@ -165,9 +165,10 @@
       "market_cap": 3270017792,
       "exchange": "NasdaqGM",
       "sources": [
-        "day_gainers"
+        "day_gainers",
+        "most_actives"
       ],
-      "reason": "장중 +7.2% 상승, 거래량 3개월 평균 대비 1.5배",
+      "reason": "장중 +7.2% 상승, 거래량 3개월 평균 대비 1.5배, 거래대금 상위 종목",
       "score": 10.88
     },
     {
@@ -192,7 +193,7 @@
       "price": 72.16,
       "change_percent": 5.64,
       "volume": 1620569,
-      "avg_volume_3m": 887814,
+      "avg_volume_3m": 883643,
       "relative_volume": 1.83,
       "market_cap": 7982152704,
       "exchange": "NYSE",
@@ -200,7 +201,7 @@
         "day_gainers"
       ],
       "reason": "장중 +5.6% 상승, 거래량 3개월 평균 대비 1.8배",
-      "score": 10.29
+      "score": 10.34
     },
     {
       "symbol": "NKE",
@@ -226,7 +227,7 @@
       "volume": 6275645,
       "avg_volume_3m": 5231698,
       "relative_volume": 1.2,
-      "market_cap": 2335147008,
+      "market_cap": 2345130752,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
@@ -240,15 +241,15 @@
       "price": 145.61,
       "change_percent": 8.62,
       "volume": 2490519,
-      "avg_volume_3m": 2511788,
-      "relative_volume": 0.99,
+      "avg_volume_3m": 2488103,
+      "relative_volume": 1.0,
       "market_cap": 4749863936,
       "exchange": "NasdaqCM",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +8.6% 상승, 거래량 3개월 평균 대비 1.0배",
-      "score": 8.54
+      "score": 8.62
     }
   ]
 }
