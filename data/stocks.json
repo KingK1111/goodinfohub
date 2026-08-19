@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T20:41:20+09:00",
+  "updated_at": "2026-08-20T08:22:37+09:00",
   "disclaimer": "이 목록은 공개 시세 데이터(거래량, 변동률)를 기준으로 자동 정렬한 결과이며 특정 종목의 매수/매도를 추천하지 않습니다. 투자 판단과 책임은 본인에게 있습니다.",
   "criteria": {
     "min_price": 5.0,
@@ -11,246 +11,248 @@
   },
   "candidates": [
     {
+      "symbol": "MRNA",
+      "name": "Moderna, Inc.",
+      "price": 174.38,
+      "change_percent": 176.97,
+      "volume": 185077360,
+      "avg_volume_3m": 6881288,
+      "relative_volume": 26.9,
+      "market_cap": 69618761728,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers",
+        "most_actives"
+      ],
+      "reason": "장중 +177.0% 상승, 거래량 3개월 평균 대비 26.9배, 거래대금 상위 종목",
+      "score": 4759.73
+    },
+    {
+      "symbol": "BNTX",
+      "name": "BioNTech SE",
+      "price": 113.12,
+      "change_percent": 21.96,
+      "volume": 8611799,
+      "avg_volume_3m": 944698,
+      "relative_volume": 9.12,
+      "market_cap": 28416239616,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +22.0% 상승, 거래량 3개월 평균 대비 9.1배",
+      "score": 200.21
+    },
+    {
+      "symbol": "TEM",
+      "name": "Tempus AI, Inc.",
+      "price": 61.25,
+      "change_percent": 24.09,
+      "volume": 21786052,
+      "avg_volume_3m": 5880758,
+      "relative_volume": 3.7,
+      "market_cap": 11051628544,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +24.1% 상승, 거래량 3개월 평균 대비 3.7배",
+      "score": 89.24
+    },
+    {
+      "symbol": "EL",
+      "name": "Estee Lauder Companies, Inc. (T",
+      "price": 98.01,
+      "change_percent": 16.3,
+      "volume": 12611290,
+      "avg_volume_3m": 3127041,
+      "relative_volume": 4.03,
+      "market_cap": 35459518464,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +16.3% 상승, 거래량 3개월 평균 대비 4.0배",
+      "score": 65.76
+    },
+    {
+      "symbol": "TWST",
+      "name": "Twist Bioscience Corporation",
+      "price": 142.39,
+      "change_percent": 22.64,
+      "volume": 3495111,
+      "avg_volume_3m": 1776385,
+      "relative_volume": 1.97,
+      "market_cap": 8928910336,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +22.6% 상승, 거래량 3개월 평균 대비 2.0배",
+      "score": 44.55
+    },
+    {
+      "symbol": "MRK",
+      "name": "Merck & Company, Inc.",
+      "price": 152.2,
+      "change_percent": 12.6,
+      "volume": 32545675,
+      "avg_volume_3m": 10253262,
+      "relative_volume": 3.17,
+      "market_cap": 375503519744,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers",
+        "most_actives"
+      ],
+      "reason": "장중 +12.6% 상승, 거래량 3개월 평균 대비 3.2배, 거래대금 상위 종목",
+      "score": 39.99
+    },
+    {
       "symbol": "AMLX",
       "name": "Amylyx Pharmaceuticals, Inc.",
-      "price": 35.11,
-      "change_percent": 63.84,
-      "volume": 23606658,
-      "avg_volume_3m": 2029092,
-      "relative_volume": 11.63,
-      "market_cap": 3912063232,
+      "price": 38.6,
+      "change_percent": 9.94,
+      "volume": 8198401,
+      "avg_volume_3m": 2043522,
+      "relative_volume": 4.01,
+      "market_cap": 4300929536,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +9.9% 상승, 거래량 3개월 평균 대비 4.0배",
+      "score": 39.88
+    },
+    {
+      "symbol": "WPM",
+      "name": "Wheaton Precious Metals Corp",
+      "price": 147.43,
+      "change_percent": 11.1,
+      "volume": 6568982,
+      "avg_volume_3m": 1954559,
+      "relative_volume": 3.36,
+      "market_cap": 66956800000,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +11.1% 상승, 거래량 3개월 평균 대비 3.4배",
+      "score": 37.31
+    },
+    {
+      "symbol": "KC",
+      "name": "Kingsoft Cloud Holdings Limited",
+      "price": 12.37,
+      "change_percent": 14.11,
+      "volume": 3359135,
+      "avg_volume_3m": 1546454,
+      "relative_volume": 2.17,
+      "market_cap": 3703202816,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +14.1% 상승, 거래량 3개월 평균 대비 2.2배",
+      "score": 30.66
+    },
+    {
+      "symbol": "CRSP",
+      "name": "CRISPR Therapeutics AG",
+      "price": 59.81,
+      "change_percent": 12.91,
+      "volume": 3825719,
+      "avg_volume_3m": 1617969,
+      "relative_volume": 2.36,
+      "market_cap": 5783187968,
+      "exchange": "NasdaqGM",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +12.9% 상승, 거래량 3개월 평균 대비 2.4배",
+      "score": 30.53
+    },
+    {
+      "symbol": "MSTR",
+      "name": "Strategy Inc",
+      "price": 104.25,
+      "change_percent": 12.68,
+      "volume": 47292344,
+      "avg_volume_3m": 20334574,
+      "relative_volume": 2.33,
+      "market_cap": 41416613888,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers",
         "most_actives"
       ],
-      "reason": "장중 +63.8% 상승, 거래량 3개월 평균 대비 11.6배, 거래대금 상위 종목",
-      "score": 742.67
+      "reason": "장중 +12.7% 상승, 거래량 3개월 평균 대비 2.3배, 거래대금 상위 종목",
+      "score": 29.49
     },
     {
-      "symbol": "KLAR",
-      "name": "Klarna Group plc",
-      "price": 15.06,
-      "change_percent": -22.81,
-      "volume": 34414868,
-      "avg_volume_3m": 5067127,
-      "relative_volume": 6.79,
-      "market_cap": 5694389248,
+      "symbol": "HL",
+      "name": "Hecla Mining Company",
+      "price": 20.54,
+      "change_percent": 14.43,
+      "volume": 65429689,
+      "avg_volume_3m": 33281024,
+      "relative_volume": 1.97,
+      "market_cap": 13776433152,
       "exchange": "NYSE",
-      "sources": [
-        "most_actives"
-      ],
-      "reason": "장중 -22.8% 하락, 거래량 3개월 평균 대비 6.8배, 거래대금 상위 종목",
-      "score": 154.91
-    },
-    {
-      "symbol": "UGI",
-      "name": "UGI Corporation",
-      "price": 38.39,
-      "change_percent": 9.4,
-      "volume": 12024592,
-      "avg_volume_3m": 1754296,
-      "relative_volume": 6.85,
-      "market_cap": 8234461184,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +9.4% 상승, 거래량 3개월 평균 대비 6.9배",
-      "score": 64.46
-    },
-    {
-      "symbol": "HAE",
-      "name": "Haemonetics Corporation",
-      "price": 104.65,
-      "change_percent": 15.93,
-      "volume": 2304602,
-      "avg_volume_3m": 882340,
-      "relative_volume": 2.61,
-      "market_cap": 4761266688,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +15.9% 상승, 거래량 3개월 평균 대비 2.6배",
-      "score": 41.61
-    },
-    {
-      "symbol": "AUR",
-      "name": "Aurora Innovation, Inc.",
-      "price": 6.15,
-      "change_percent": -11.76,
-      "volume": 77051926,
-      "avg_volume_3m": 27942587,
-      "relative_volume": 2.76,
-      "market_cap": 12325555200,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "most_actives"
-      ],
-      "reason": "장중 -11.8% 하락, 거래량 3개월 평균 대비 2.8배, 거래대금 상위 종목",
-      "score": 32.44
-    },
-    {
-      "symbol": "CIFR",
-      "name": "Cipher Digital Inc.",
-      "price": 16.095,
-      "change_percent": -13.0,
-      "volume": 53141494,
-      "avg_volume_3m": 28060833,
-      "relative_volume": 1.89,
-      "market_cap": 6679919104,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "most_actives"
-      ],
-      "reason": "장중 -13.0% 하락, 거래량 3개월 평균 대비 1.9배, 거래대금 상위 종목",
-      "score": 24.62
-    },
-    {
-      "symbol": "HTFL",
-      "name": "Heartflow, Inc.",
-      "price": 45.23,
-      "change_percent": 7.84,
-      "volume": 4167395,
-      "avg_volume_3m": 1677748,
-      "relative_volume": 2.48,
-      "market_cap": 3932912384,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +7.8% 상승, 거래량 3개월 평균 대비 2.5배",
-      "score": 19.49
-    },
-    {
-      "symbol": "CCC",
-      "name": "CCC Intelligent Solutions Holdi",
-      "price": 7.14,
-      "change_percent": 6.73,
-      "volume": 28260760,
-      "avg_volume_3m": 10292346,
-      "relative_volume": 2.75,
-      "market_cap": 4205422080,
-      "exchange": "NasdaqGS",
       "sources": [
         "day_gainers",
         "most_actives"
       ],
-      "reason": "장중 +6.7% 상승, 거래량 3개월 평균 대비 2.7배, 거래대금 상위 종목",
-      "score": 18.47
+      "reason": "장중 +14.4% 상승, 거래량 3개월 평균 대비 2.0배, 거래대금 상위 종목",
+      "score": 28.37
     },
     {
-      "symbol": "WULF",
-      "name": "TeraWulf Inc.",
-      "price": 15.62,
-      "change_percent": -11.25,
-      "volume": 48265512,
-      "avg_volume_3m": 32420996,
-      "relative_volume": 1.49,
-      "market_cap": 7793890816,
+      "symbol": "PPC",
+      "name": "Pilgrim's Pride Corporation",
+      "price": 31.28,
+      "change_percent": 9.79,
+      "volume": 4268135,
+      "avg_volume_3m": 1572264,
+      "relative_volume": 2.71,
+      "market_cap": 7448034816,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +9.8% 상승, 거래량 3개월 평균 대비 2.7배",
+      "score": 26.58
+    },
+    {
+      "symbol": "HYMC",
+      "name": "Hycroft Mining Holding Corporat",
+      "price": 27.9,
+      "change_percent": 15.34,
+      "volume": 3011666,
+      "avg_volume_3m": 1962911,
+      "relative_volume": 1.53,
+      "market_cap": 2599768832,
       "exchange": "NasdaqCM",
       "sources": [
-        "most_actives"
-      ],
-      "reason": "장중 -11.2% 하락, 거래량 3개월 평균 대비 1.5배, 거래대금 상위 종목",
-      "score": 16.75
-    },
-    {
-      "symbol": "CLBT",
-      "name": "Cellebrite DI Ltd.",
-      "price": 11.0,
-      "change_percent": 5.36,
-      "volume": 7664797,
-      "avg_volume_3m": 2648546,
-      "relative_volume": 2.89,
-      "market_cap": 2758645248,
-      "exchange": "NasdaqGS",
-      "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +5.4% 상승, 거래량 3개월 평균 대비 2.9배",
-      "score": 15.52
+      "reason": "장중 +15.3% 상승, 거래량 3개월 평균 대비 1.5배",
+      "score": 23.53
     },
     {
-      "symbol": "CRWV",
-      "name": "CoreWeave, Inc.",
-      "price": 93.17,
-      "change_percent": -12.1,
-      "volume": 36876919,
-      "avg_volume_3m": 30071866,
-      "relative_volume": 1.23,
-      "market_cap": 51386662912,
+      "symbol": "NBIS",
+      "name": "Nebius Group N.V.",
+      "price": 223.9,
+      "change_percent": -9.87,
+      "volume": 49444471,
+      "avg_volume_3m": 20886353,
+      "relative_volume": 2.37,
+      "market_cap": 56847802368,
       "exchange": "NasdaqGS",
       "sources": [
         "most_actives"
       ],
-      "reason": "장중 -12.1% 하락, 거래량 3개월 평균 대비 1.2배, 거래대금 상위 종목",
-      "score": 14.84
-    },
-    {
-      "symbol": "TRGP",
-      "name": "Targa Resources, Inc.",
-      "price": 297.77,
-      "change_percent": 7.13,
-      "volume": 2173891,
-      "avg_volume_3m": 1213891,
-      "relative_volume": 1.79,
-      "market_cap": 63851122688,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +7.1% 상승, 거래량 3개월 평균 대비 1.8배",
-      "score": 12.78
-    },
-    {
-      "symbol": "SAN",
-      "name": "Banco Santander, S.A. Sponsored",
-      "price": 14.24,
-      "change_percent": -2.4,
-      "volume": 50846900,
-      "avg_volume_3m": 10945222,
-      "relative_volume": 4.65,
-      "market_cap": 202871357440,
-      "exchange": "NYSE",
-      "sources": [
-        "most_actives"
-      ],
-      "reason": "장중 -2.4% 하락, 거래량 3개월 평균 대비 4.6배, 거래대금 상위 종목",
-      "score": 11.14
-    },
-    {
-      "symbol": "RBA",
-      "name": "RB Global, Inc.",
-      "price": 85.76,
-      "change_percent": 4.45,
-      "volume": 2855134,
-      "avg_volume_3m": 1368077,
-      "relative_volume": 2.09,
-      "market_cap": 15882752000,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +4.4% 상승, 거래량 3개월 평균 대비 2.1배",
-      "score": 9.28
-    },
-    {
-      "symbol": "BBWI",
-      "name": "Bath & Body Works, Inc.",
-      "price": 20.04,
-      "change_percent": 6.54,
-      "volume": 7384278,
-      "avg_volume_3m": 5712082,
-      "relative_volume": 1.29,
-      "market_cap": 4039298816,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +6.5% 상승, 거래량 3개월 평균 대비 1.3배",
-      "score": 8.45
+      "reason": "장중 -9.9% 하락, 거래량 3개월 평균 대비 2.4배, 거래대금 상위 종목",
+      "score": 23.37
     }
   ]
 }
