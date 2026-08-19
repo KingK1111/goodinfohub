@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T08:37:55+09:00",
+  "updated_at": "2026-08-19T14:23:05+09:00",
   "disclaimer": "이 목록은 공개 시세 데이터(거래량, 변동률)를 기준으로 자동 정렬한 결과이며 특정 종목의 매수/매도를 추천하지 않습니다. 투자 판단과 책임은 본인에게 있습니다.",
   "criteria": {
     "min_price": 5.0,
@@ -15,17 +15,17 @@
       "name": "Amylyx Pharmaceuticals, Inc.",
       "price": 35.11,
       "change_percent": 63.84,
-      "volume": 23599890,
-      "avg_volume_3m": 1675200,
-      "relative_volume": 14.09,
+      "volume": 23606658,
+      "avg_volume_3m": 2043522,
+      "relative_volume": 11.55,
       "market_cap": 3912063232,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers",
         "most_actives"
       ],
-      "reason": "장중 +63.8% 상승, 거래량 3개월 평균 대비 14.1배, 거래대금 상위 종목",
-      "score": 899.31
+      "reason": "장중 +63.8% 상승, 거래량 3개월 평균 대비 11.6배, 거래대금 상위 종목",
+      "score": 737.43
     },
     {
       "symbol": "KLAR",
@@ -33,15 +33,15 @@
       "price": 15.06,
       "change_percent": -22.81,
       "volume": 34414868,
-      "avg_volume_3m": 4613754,
-      "relative_volume": 7.46,
+      "avg_volume_3m": 5067127,
+      "relative_volume": 6.79,
       "market_cap": 5694389248,
       "exchange": "NYSE",
       "sources": [
         "most_actives"
       ],
-      "reason": "장중 -22.8% 하락, 거래량 3개월 평균 대비 7.5배, 거래대금 상위 종목",
-      "score": 170.14
+      "reason": "장중 -22.8% 하락, 거래량 3개월 평균 대비 6.8배, 거래대금 상위 종목",
+      "score": 154.91
     },
     {
       "symbol": "UGI",
@@ -49,15 +49,15 @@
       "price": 38.39,
       "change_percent": 9.4,
       "volume": 12024592,
-      "avg_volume_3m": 1574801,
-      "relative_volume": 7.64,
+      "avg_volume_3m": 1754296,
+      "relative_volume": 6.85,
       "market_cap": 8234461184,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +9.4% 상승, 거래량 3개월 평균 대비 7.6배",
-      "score": 71.81
+      "reason": "장중 +9.4% 상승, 거래량 3개월 평균 대비 6.9배",
+      "score": 64.46
     },
     {
       "symbol": "HAE",
@@ -65,15 +65,15 @@
       "price": 104.65,
       "change_percent": 15.93,
       "volume": 2304602,
-      "avg_volume_3m": 854916,
-      "relative_volume": 2.7,
+      "avg_volume_3m": 882340,
+      "relative_volume": 2.61,
       "market_cap": 4761266688,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +15.9% 상승, 거래량 3개월 평균 대비 2.7배",
-      "score": 42.94
+      "reason": "장중 +15.9% 상승, 거래량 3개월 평균 대비 2.6배",
+      "score": 41.61
     },
     {
       "symbol": "AUR",
@@ -81,15 +81,15 @@
       "price": 6.15,
       "change_percent": -11.76,
       "volume": 77051926,
-      "avg_volume_3m": 27190422,
-      "relative_volume": 2.83,
+      "avg_volume_3m": 27942587,
+      "relative_volume": 2.76,
       "market_cap": 12325555200,
       "exchange": "NasdaqGS",
       "sources": [
         "most_actives"
       ],
       "reason": "장중 -11.8% 하락, 거래량 3개월 평균 대비 2.8배, 거래대금 상위 종목",
-      "score": 33.34
+      "score": 32.44
     },
     {
       "symbol": "CIFR",
@@ -97,15 +97,15 @@
       "price": 16.095,
       "change_percent": -13.0,
       "volume": 53141494,
-      "avg_volume_3m": 27652617,
-      "relative_volume": 1.92,
+      "avg_volume_3m": 28060833,
+      "relative_volume": 1.89,
       "market_cap": 6679919104,
       "exchange": "NasdaqGS",
       "sources": [
         "most_actives"
       ],
       "reason": "장중 -13.0% 하락, 거래량 3개월 평균 대비 1.9배, 거래대금 상위 종목",
-      "score": 24.98
+      "score": 24.62
     },
     {
       "symbol": "HTFL",
@@ -113,32 +113,32 @@
       "price": 45.23,
       "change_percent": 7.84,
       "volume": 4167395,
-      "avg_volume_3m": 1647361,
-      "relative_volume": 2.53,
+      "avg_volume_3m": 1687384,
+      "relative_volume": 2.47,
       "market_cap": 3932912384,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +7.8% 상승, 거래량 3개월 평균 대비 2.5배",
-      "score": 19.84
+      "score": 19.37
     },
     {
       "symbol": "CCC",
       "name": "CCC Intelligent Solutions Holdi",
       "price": 7.14,
       "change_percent": 6.73,
-      "volume": 28259508,
-      "avg_volume_3m": 10027345,
-      "relative_volume": 2.82,
+      "volume": 28260760,
+      "avg_volume_3m": 10292346,
+      "relative_volume": 2.75,
       "market_cap": 4205422080,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers",
         "most_actives"
       ],
-      "reason": "장중 +6.7% 상승, 거래량 3개월 평균 대비 2.8배, 거래대금 상위 종목",
-      "score": 18.96
+      "reason": "장중 +6.7% 상승, 거래량 3개월 평균 대비 2.7배, 거래대금 상위 종목",
+      "score": 18.47
     },
     {
       "symbol": "WULF",
@@ -146,15 +146,15 @@
       "price": 15.62,
       "change_percent": -11.25,
       "volume": 48265512,
-      "avg_volume_3m": 32005377,
-      "relative_volume": 1.51,
+      "avg_volume_3m": 32420996,
+      "relative_volume": 1.49,
       "market_cap": 7793890816,
       "exchange": "NasdaqCM",
       "sources": [
         "most_actives"
       ],
-      "reason": "장중 -11.3% 하락, 거래량 3개월 평균 대비 1.5배, 거래대금 상위 종목",
-      "score": 16.97
+      "reason": "장중 -11.2% 하락, 거래량 3개월 평균 대비 1.5배, 거래대금 상위 종목",
+      "score": 16.75
     },
     {
       "symbol": "CLBT",
@@ -162,15 +162,15 @@
       "price": 11.0,
       "change_percent": 5.36,
       "volume": 7664797,
-      "avg_volume_3m": 2570037,
-      "relative_volume": 2.98,
+      "avg_volume_3m": 2651768,
+      "relative_volume": 2.89,
       "market_cap": 2758645248,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +5.4% 상승, 거래량 3개월 평균 대비 3.0배",
-      "score": 16.0
+      "reason": "장중 +5.4% 상승, 거래량 3개월 평균 대비 2.9배",
+      "score": 15.5
     },
     {
       "symbol": "CRWV",
@@ -178,7 +178,7 @@
       "price": 93.17,
       "change_percent": -12.1,
       "volume": 36876919,
-      "avg_volume_3m": 29941825,
+      "avg_volume_3m": 30071866,
       "relative_volume": 1.23,
       "market_cap": 51386662912,
       "exchange": "NasdaqGS",
@@ -186,7 +186,7 @@
         "most_actives"
       ],
       "reason": "장중 -12.1% 하락, 거래량 3개월 평균 대비 1.2배, 거래대금 상위 종목",
-      "score": 14.91
+      "score": 14.84
     },
     {
       "symbol": "TRGP",
@@ -194,15 +194,15 @@
       "price": 297.77,
       "change_percent": 7.13,
       "volume": 2173891,
-      "avg_volume_3m": 1196503,
-      "relative_volume": 1.82,
+      "avg_volume_3m": 1217025,
+      "relative_volume": 1.79,
       "market_cap": 63851122688,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +7.1% 상승, 거래량 3개월 평균 대비 1.8배",
-      "score": 12.96
+      "score": 12.74
     },
     {
       "symbol": "SAN",
@@ -210,15 +210,15 @@
       "price": 14.24,
       "change_percent": -2.4,
       "volume": 50846900,
-      "avg_volume_3m": 10301643,
-      "relative_volume": 4.94,
+      "avg_volume_3m": 10945222,
+      "relative_volume": 4.65,
       "market_cap": 202871357440,
       "exchange": "NYSE",
       "sources": [
         "most_actives"
       ],
-      "reason": "장중 -2.4% 하락, 거래량 3개월 평균 대비 4.9배, 거래대금 상위 종목",
-      "score": 11.84
+      "reason": "장중 -2.4% 하락, 거래량 3개월 평균 대비 4.6배, 거래대금 상위 종목",
+      "score": 11.14
     },
     {
       "symbol": "RBA",
@@ -226,15 +226,15 @@
       "price": 85.76,
       "change_percent": 4.45,
       "volume": 2855134,
-      "avg_volume_3m": 1337675,
-      "relative_volume": 2.13,
-      "market_cap": 15882752000,
+      "avg_volume_3m": 1368077,
+      "relative_volume": 2.09,
+      "market_cap": 15977088000,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +4.4% 상승, 거래량 3개월 평균 대비 2.1배",
-      "score": 9.49
+      "score": 9.28
     },
     {
       "symbol": "BBWI",
@@ -242,15 +242,15 @@
       "price": 20.04,
       "change_percent": 6.54,
       "volume": 7384278,
-      "avg_volume_3m": 5662770,
-      "relative_volume": 1.3,
+      "avg_volume_3m": 5712082,
+      "relative_volume": 1.29,
       "market_cap": 4039298816,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +6.5% 상승, 거래량 3개월 평균 대비 1.3배",
-      "score": 8.53
+      "score": 8.45
     }
   ]
 }
