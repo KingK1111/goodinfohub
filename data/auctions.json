@@ -1,6 +1,6 @@
 {
   "updated_at": "2026-08-21T14:26:46+09:00",
-  "last_attempt_at": "2026-08-21T14:26:46+09:00",
+  "last_attempt_at": "2026-08-21T20:41:40+09:00",
   "districts": [
     "성동구",
     "중구",
@@ -310,5 +310,11 @@
       "status": "신건"
     }
   ],
-  "errors": []
+  "errors": [
+    "성동구: HTTPConnectionPool(host='localhost', port=37825): Read timed out. (read timeout=120)",
+    "중구: HTTPConnectionPool(host='localhost', port=37825): Read timed out. (read timeout=120)",
+    "동대문구: HTTPConnectionPool(host='localhost', port=37825): Read timed out. (read timeout=120)",
+    "광진구: HTTPConnectionPool(host='localhost', port=37825): Read timed out. (read timeout=120)",
+    "송파구: HTTPConnectionPool(host='localhost', port=37825): Read timed out. (read timeout=120)"
+  ]
 }
