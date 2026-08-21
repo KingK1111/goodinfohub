@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-20T20:26:50+09:00",
-  "last_attempt_at": "2026-08-21T08:42:00+09:00",
+  "updated_at": "2026-08-21T14:26:46+09:00",
+  "last_attempt_at": "2026-08-21T14:26:46+09:00",
   "districts": [
     "성동구",
     "중구",
@@ -55,18 +55,6 @@
       "court_and_date": "경매2계 2026.09.03",
       "usage": "아파트",
       "min_sale_price": "2,486,000,000 (100%)",
-      "status": "신건"
-    },
-    {
-      "district": "중구",
-      "case_no": "서울중앙지방법원 2025타경103577",
-      "item_no": "1",
-      "address": "서울특별시 중구 중림동 355 브라운스톤 서울 20층102-2002호 [집합건물 철근콘크리트구조 112.527㎡]",
-      "remarks": "",
-      "appraisal_amount": "1,690,000,000",
-      "court_and_date": "경매7계 2026.08.20",
-      "usage": "오피스텔",
-      "min_sale_price": "1,690,000,000 (100%)",
       "status": "신건"
     },
     {
@@ -322,11 +310,5 @@
       "status": "신건"
     }
   ],
-  "errors": [
-    "성동구: HTTPConnectionPool(host='localhost', port=52603): Read timed out. (read timeout=120)",
-    "중구: HTTPConnectionPool(host='localhost', port=52603): Read timed out. (read timeout=120)",
-    "동대문구: HTTPConnectionPool(host='localhost', port=52603): Read timed out. (read timeout=120)",
-    "광진구: HTTPConnectionPool(host='localhost', port=52603): Read timed out. (read timeout=120)",
-    "송파구: HTTPConnectionPool(host='localhost', port=52603): Read timed out. (read timeout=120)"
-  ]
+  "errors": []
 }
