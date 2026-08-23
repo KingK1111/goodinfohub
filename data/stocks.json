@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T20:21:43+09:00",
+  "updated_at": "2026-08-24T08:21:00+09:00",
   "disclaimer": "이 목록은 공개 시세 데이터(거래량, 변동률)를 기준으로 자동 정렬한 결과이며 특정 종목의 매수/매도를 추천하지 않습니다. 투자 판단과 책임은 본인에게 있습니다.",
   "criteria": {
     "min_price": 5.0,
@@ -15,7 +15,7 @@
       "name": "IQM Quantum Computers Oyj",
       "price": 11.11,
       "change_percent": 14.77,
-      "volume": 2663546,
+      "volume": 2667157,
       "avg_volume_3m": 578309,
       "relative_volume": 4.61,
       "market_cap": 5266454016,
@@ -24,24 +24,24 @@
         "day_gainers"
       ],
       "reason": "장중 +14.8% 상승, 거래량 3개월 평균 대비 4.6배",
-      "score": 68.04
+      "score": 68.13
     },
     {
       "symbol": "MRNA",
       "name": "Moderna, Inc.",
       "price": 145.13,
       "change_percent": 8.86,
-      "volume": 86743104,
+      "volume": 87316065,
       "avg_volume_3m": 12883224,
-      "relative_volume": 6.73,
+      "relative_volume": 6.78,
       "market_cap": 57941106688,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers",
         "most_actives"
       ],
-      "reason": "장중 +8.9% 상승, 거래량 3개월 평균 대비 6.7배, 거래대금 상위 종목",
-      "score": 59.64
+      "reason": "장중 +8.9% 상승, 거래량 3개월 평균 대비 6.8배, 거래대금 상위 종목",
+      "score": 60.04
     },
     {
       "symbol": "ERO",
@@ -64,25 +64,25 @@
       "name": "SELLAS Life Sciences Group, Inc",
       "price": 15.46,
       "change_percent": 15.37,
-      "volume": 15056913,
+      "volume": 15242068,
       "avg_volume_3m": 8718251,
-      "relative_volume": 1.73,
+      "relative_volume": 1.75,
       "market_cap": 3122080768,
       "exchange": "NasdaqCM",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +15.4% 상승, 거래량 3개월 평균 대비 1.7배",
-      "score": 26.55
+      "score": 26.88
     },
     {
       "symbol": "HOOD",
       "name": "Robinhood Markets, Inc.",
       "price": 108.13,
       "change_percent": 13.7,
-      "volume": 49572416,
+      "volume": 50460153,
       "avg_volume_3m": 26470448,
-      "relative_volume": 1.87,
+      "relative_volume": 1.91,
       "market_cap": 97217765376,
       "exchange": "NasdaqGS",
       "sources": [
@@ -90,7 +90,7 @@
         "most_actives"
       ],
       "reason": "장중 +13.7% 상승, 거래량 3개월 평균 대비 1.9배, 거래대금 상위 종목",
-      "score": 25.66
+      "score": 26.12
     },
     {
       "symbol": "BABA",
@@ -109,36 +109,36 @@
       "score": 22.52
     },
     {
+      "symbol": "COIN",
+      "name": "Coinbase Global, Inc.",
+      "price": 186.49,
+      "change_percent": 8.2,
+      "volume": 22736001,
+      "avg_volume_3m": 8499250,
+      "relative_volume": 2.68,
+      "market_cap": 49202950144,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +8.2% 상승, 거래량 3개월 평균 대비 2.7배",
+      "score": 21.95
+    },
+    {
       "symbol": "TEM",
       "name": "Tempus AI, Inc.",
       "price": 72.69,
       "change_percent": 9.06,
-      "volume": 15877153,
+      "volume": 15973080,
       "avg_volume_3m": 6624264,
-      "relative_volume": 2.4,
+      "relative_volume": 2.41,
       "market_cap": 13115802624,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +9.1% 상승, 거래량 3개월 평균 대비 2.4배",
-      "score": 21.72
-    },
-    {
-      "symbol": "COIN",
-      "name": "Coinbase Global, Inc.",
-      "price": 186.49,
-      "change_percent": 8.2,
-      "volume": 22495437,
-      "avg_volume_3m": 8499250,
-      "relative_volume": 2.65,
-      "market_cap": 49202950144,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +8.2% 상승, 거래량 3개월 평균 대비 2.6배",
-      "score": 21.71
+      "score": 21.85
     },
     {
       "symbol": "VIRT",
@@ -161,33 +161,33 @@
       "name": "Bitdeer Technologies Group",
       "price": 11.37,
       "change_percent": 9.01,
-      "volume": 27887873,
+      "volume": 28235127,
       "avg_volume_3m": 12457820,
-      "relative_volume": 2.24,
+      "relative_volume": 2.27,
       "market_cap": 3090163968,
       "exchange": "NasdaqCM",
       "sources": [
         "day_gainers",
         "most_actives"
       ],
-      "reason": "장중 +9.0% 상승, 거래량 3개월 평균 대비 2.2배, 거래대금 상위 종목",
-      "score": 20.18
+      "reason": "장중 +9.0% 상승, 거래량 3개월 평균 대비 2.3배, 거래대금 상위 종목",
+      "score": 20.43
     },
     {
       "symbol": "USAR",
       "name": "USA Rare Earth, Inc.",
       "price": 19.26,
       "change_percent": 12.57,
-      "volume": 21118640,
+      "volume": 21586974,
       "avg_volume_3m": 13453504,
-      "relative_volume": 1.57,
+      "relative_volume": 1.6,
       "market_cap": 4713309184,
       "exchange": "NasdaqGM",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +12.6% 상승, 거래량 3개월 평균 대비 1.6배",
-      "score": 19.73
+      "score": 20.16
     },
     {
       "symbol": "CVI",
@@ -226,32 +226,32 @@
       "name": "TG Therapeutics, Inc.",
       "price": 54.27,
       "change_percent": 7.34,
-      "volume": 5384894,
+      "volume": 5558340,
       "avg_volume_3m": 2454251,
-      "relative_volume": 2.19,
+      "relative_volume": 2.26,
       "market_cap": 8307846144,
       "exchange": "NasdaqCM",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +7.3% 상승, 거래량 3개월 평균 대비 2.2배",
-      "score": 16.1
+      "reason": "장중 +7.3% 상승, 거래량 3개월 평균 대비 2.3배",
+      "score": 16.62
     },
     {
-      "symbol": "CNH",
-      "name": "CNH Industrial N.V.",
-      "price": 11.87,
-      "change_percent": 8.4,
-      "volume": 23938645,
-      "avg_volume_3m": 12737412,
-      "relative_volume": 1.88,
-      "market_cap": 19088844800,
-      "exchange": "NYSE",
+      "symbol": "CIFR",
+      "name": "Cipher Digital Inc.",
+      "price": 15.765,
+      "change_percent": -8.4,
+      "volume": 55321985,
+      "avg_volume_3m": 29297970,
+      "relative_volume": 1.89,
+      "market_cap": 6542959616,
+      "exchange": "NasdaqGS",
       "sources": [
-        "day_gainers"
+        "most_actives"
       ],
-      "reason": "장중 +8.4% 상승, 거래량 3개월 평균 대비 1.9배",
-      "score": 15.79
+      "reason": "장중 -8.4% 하락, 거래량 3개월 평균 대비 1.9배, 거래대금 상위 종목",
+      "score": 15.85
     }
   ]
 }
