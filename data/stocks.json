@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T14:25:59+09:00",
+  "updated_at": "2026-08-25T20:48:20+09:00",
   "disclaimer": "이 목록은 공개 시세 데이터(거래량, 변동률)를 기준으로 자동 정렬한 결과이며 특정 종목의 매수/매도를 추천하지 않습니다. 투자 판단과 책임은 본인에게 있습니다.",
   "criteria": {
     "min_price": 5.0,
@@ -179,7 +179,7 @@
       "volume": 2574133,
       "avg_volume_3m": 1061830,
       "relative_volume": 2.42,
-      "market_cap": 7029220352,
+      "market_cap": 7022013952,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
@@ -220,22 +220,6 @@
       "score": 8.1
     },
     {
-      "symbol": "RUM",
-      "name": "RUM Group Inc.",
-      "price": 9.36,
-      "change_percent": 3.43,
-      "volume": 8264332,
-      "avg_volume_3m": 3537023,
-      "relative_volume": 2.34,
-      "market_cap": 4640783360,
-      "exchange": "NasdaqGM",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +3.4% 상승, 거래량 3개월 평균 대비 2.3배",
-      "score": 8.0
-    },
-    {
       "symbol": "WBS",
       "name": "Webster Financial Corporation",
       "price": 77.57,
@@ -250,6 +234,22 @@
       ],
       "reason": "장중 -0.5% 하락, 거래량 3개월 평균 대비 15.4배, 거래대금 상위 종목",
       "score": 7.89
+    },
+    {
+      "symbol": "SGHC",
+      "name": "Super Group (SGHC) Limited",
+      "price": 13.99,
+      "change_percent": 5.11,
+      "volume": 4298829,
+      "avg_volume_3m": 2961239,
+      "relative_volume": 1.45,
+      "market_cap": 7107994112,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +5.1% 상승, 거래량 3개월 평균 대비 1.5배",
+      "score": 7.42
     }
   ]
 }
