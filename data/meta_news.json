@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-08-26T14:42:11+09:00",
+  "updated_at": "2026-08-26T20:45:41+09:00",
   "quote": {
     "symbol": "META",
     "price": 570.05,
-    "previous_close": 560.2,
-    "change": 9.85,
-    "change_percent": 1.76,
+    "previous_close": 567.76,
+    "change": 2.29,
+    "change_percent": 0.4,
     "currency": "USD",
     "day_high": 570.7999877929688,
     "day_low": 561.4000244140625,
@@ -13,16 +13,16 @@
   },
   "articles": [
     {
-      "title": "Is Meta Stock Actually the Cheapest Mega-Cap Tech Bet? - Trefis",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNlVQbHFJSkt4bGh1Rnc5aGJYNzlJT1RRVGIwWXZNSV9uTV9wbzFreEpUSVk4cDFMbTF2RnZLand0MTVqQmV1TkxpVFlncjBYWFRPaEMxYnZoN2JISzNGbElBR0JkenZ0ajhFUG5OZXlfekktZmwxcTE0aE5lUUZETDAxbFRkYmMyRTBteGRYcDZ6ejNIQ0w3R05pNVVQSlNvMFlTckZ3?oc=5",
-      "source": "Trefis",
-      "published": "Mon, 24 Aug 2026 23:28:11 GMT"
-    },
-    {
       "title": "Jim Cramer Cites Overblown Meta Stock Trial Risk: Is This A Sell Signal? - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcnhQZTU4eE15QXNKbURiSnQ0cmNkT0tDR3Z4OW1oT3BHd0t5ams5WUtwUWxBQnhURER4MXEzR3YxMVFTTDBkWVBPWlJ3S1ZhajRpanM4dlltU3VnXzQtRUpTM0hoc2lWR0l5X256NlgtUW5hUmlGb2VnamNsU3B0WU1abmlFTGVkYzZpcW9RTEU4VE1idGxIdnV0TFU?oc=5",
       "source": "Yahoo Finance",
       "published": "Mon, 24 Aug 2026 22:42:01 GMT"
+    },
+    {
+      "title": "Is Meta Stock Actually the Cheapest Mega-Cap Tech Bet? - Trefis",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZ3FKM1hzREJmclBNd1FITDg3aEo4Mi0xRi0tOWt5X2t4Z3JONGh2cU56Smxrb3QyYXE3UG1UQTlSdmg1ZTZNWEJDVm9XNEVCMFB2NS1HSkM2LUFyRGh3Q1pRRHQtWEFQQmYyWGxGcHdKZDM2MnNUSjkwdU85cnBleHN0ek81Q2ZVMmlJMk5MWlQ3NUtsOFVwV3pLTExVX1BiMFhqSC1HbzRJa01LYnU0VkZBNHA?oc=5",
+      "source": "Trefis",
+      "published": "Mon, 24 Aug 2026 23:28:11 GMT"
     },
     {
       "title": "Why Meta’s stock could see a 50% rally, thanks to an overlooked AI wild card - MarketWatch",
@@ -31,16 +31,16 @@
       "published": "Tue, 25 Aug 2026 21:01:00 GMT"
     },
     {
-      "title": "Meta Stock Faces Litigation Pressure: Why Expert Says It's Worse Than Tobacco - Meta Platforms (NASDAQ:ME - Benzinga",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeTFSdDJrdlhzX2pQN1hyRlIxY3FRT0dVNXdwd0I0NVg4WVVBU0RCWVB3THEwM2Z4Tmt1Ym82dURZWXJxWHRGR25adVlXcE9id1ZjMS10QVVJc3J4R3BWaFJ1QUgwdXFGb3Y3UVRjcDNyZm1aMTJodlhHb2pyTFgza1JuWHUzelRRdWpSdkphdl9sbE5Ka2I2bTJiVTQ5T3ducE16a3Nmdm9lZ09uRkM4RXVYS0NFdTJaY3dLLUNBQlExVHM?oc=5",
-      "source": "Benzinga",
-      "published": "Mon, 24 Aug 2026 14:45:41 GMT"
-    },
-    {
       "title": "Meta Stock Rises Even as Ex-Worker Reveals Only 0.2% of Teens Used Safety Features - TipRanks",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUjlxS0ZhUTlZbzl2T3AwY2stT2thTnV1WV9hVGdwMXBGc3NTOWc2TmdROEt1d1Z4OHIwNjZvZVZHWkcyLVRyZ2VnTWxkRWdCV0s0QVhTaE9qdVBRNS1DR3c3VEo4d3pJX0k4OFVDT20zMTZmTVVKMG1GREdISFRsUk4yU3BhM1pTZjRGM0pIejlrWHoxWS1fS1VfM1hLa1JRY0drRUJ5dUtIcmd0c3gxOQ?oc=5",
       "source": "TipRanks",
       "published": "Tue, 25 Aug 2026 19:11:56 GMT"
+    },
+    {
+      "title": "Meta Stock Faces Litigation Pressure: Why Expert Says It's Worse Than Tobacco - Meta Platforms (NASDAQ:ME - Benzinga",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeTFSdDJrdlhzX2pQN1hyRlIxY3FRT0dVNXdwd0I0NVg4WVVBU0RCWVB3THEwM2Z4Tmt1Ym82dURZWXJxWHRGR25adVlXcE9id1ZjMS10QVVJc3J4R3BWaFJ1QUgwdXFGb3Y3UVRjcDNyZm1aMTJodlhHb2pyTFgza1JuWHUzelRRdWpSdkphdl9sbE5Ka2I2bTJiVTQ5T3ducE16a3Nmdm9lZ09uRkM4RXVYS0NFdTJaY3dLLUNBQlExVHM?oc=5",
+      "source": "Benzinga",
+      "published": "Mon, 24 Aug 2026 14:45:41 GMT"
     },
     {
       "title": "Two Legendary Investors Just Bought Meta Platforms Stock. Is It Time for You to Buy? - The Motley Fool",
@@ -55,34 +55,22 @@
       "published": "Mon, 24 Aug 2026 15:41:46 GMT"
     },
     {
+      "title": "Meta Stock Leads 3 Founder Led Tech Picks For Long Term Investors - simplywall.st",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUkxZcFEzMVdNOHlYQzNrYWh0UWZfajBCT2s1dEhJRkVvalA2LVU0V3VmTmRxaWY5YVoyNEtTbDlLVmMzdUVVN2t2LTJKOW5rakxpY3l6dHFfR3VwZHZoZXdER2dPWV9PamtQQUxyLTZOLUxqbzJtRHl3S2E2VTFfSnFrVU5FOGs0d0lmcVRoWU13Znhsa3BPZHg0WFpLem9FMDZlWmxhZDFBUC11elhmanY2NWh0Q0FZMmdHVUg1SEpEQnJWMVVoaFNn0gHPAUFVX3lxTE9McWhCMFZORm52VE9iVzRTdUFaOTE5dDUySHliTVUweHhnWVFyZ2QxaGQ2cEtnSDZsZXVHclJSalBuS0tWZGdaZTNnX1ZlUnFsRmNuWlFUTzV1MkVDSU5hNHM0ZjBCVkVsa1ROMnBvaG1QaDJnZkNlOTczbW1DNzl1Nmt4V0ozRlRyRUxXalpMaEZZQkhFSnkwajBGcEp1QmlOWkxQbmU3SklkdFQ1T3lxT1dpMjU4ek1XNmgySEQyZVlOZnFqZmJpbmw1M2lJNA?oc=5",
+      "source": "simplywall.st",
+      "published": "Wed, 26 Aug 2026 08:15:22 GMT"
+    },
+    {
+      "title": "Jim Cramer sends a strong message to Meta stock investors - thestreet.com",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWmVJUGxLc280VEZ1THhsS29vTnhyWWZjYm4wZDNlRkE0bXprTGNqVExrT2NLcl9fZEZYb29FcklqbWhaT2xFSGdoMEFjRjZVN2UxTDMwME9xdG1QcnpMWEI0Z0d4NVV4TGppbkE3M1h4Vk9FRTNOeFM1QVRuXzZjM1RsZHNSdUwtaWFVMWxHRmJxdzVTQ2tFNmx0dTM1NVFLUWc?oc=5",
+      "source": "thestreet.com",
+      "published": "Wed, 26 Aug 2026 11:07:00 GMT"
+    },
+    {
       "title": "Meta Platforms Stock Drops 17% YTD: Should You Buy, Sell or Hold it? - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRVhBMndiRlR5bnVsVllRSUVENHVLd24tZzBPR1ZnVW81clBRMWJ5WTFwM1NEbXJ6bVEwQTlEczRrVVRaaTFnclNKZFdrWVRxOWN2dHVTSnBYUEZkdXVRbTg0c1RVZGx0Zlc0b2R4NXRYNzRySS0zM0s4LWphbVlldmFfUEhyRU5HajNSUDYtWWVxbWlHY21Fb3hR?oc=5",
       "source": "Yahoo Finance",
       "published": "Fri, 21 Aug 2026 15:46:00 GMT"
-    },
-    {
-      "title": "The Future Is for Everyone, But Is META Stock for You? This Week’s Pro Survey. - TheStreet Pro",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUzl3RzFEVFVZa3dZUkVTWDFEV3V6eHlRWDlOZEtmV1R4aXMwNS02RTg5Mk5mTWt3Szl5TC1jSVp2TnFkSlRPSExaek1aMFpZUERVdVBPYXlfZnRHMVZla0V0UXVrc0NRbWYxWnpoMUk0aWQwLW9sb1AtckFmZVhTT0xTSld1UEt3T29xc2I0RHlOY2hmVWoybDh6aHBlYUNKNmlfVm1GTnJ5WnlFV0VaRjNB?oc=5",
-      "source": "TheStreet Pro",
-      "published": "Tue, 25 Aug 2026 14:32:00 GMT"
-    },
-    {
-      "title": "Why Meta Stock Is Up Today - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZHpFUE1CcVRMd3pvdW5tYWVQY0IwYWNsY1dnVXF1dDgtdU1DNnc5anBaVFl1WmR2ajdRamVWdUQta0pyb2s3NzBLR2wzVWdfWkdLOG5uNVZwRFF6Z2RpRlU3QUNZV3EtMzB4TkY2M0ZEeExtaHZuZ2RZWS1iMVRBUWI3OXdGX3A2dG1oNnNycw?oc=5",
-      "source": "TradingView",
-      "published": "Tue, 25 Aug 2026 14:41:32 GMT"
-    },
-    {
-      "title": "Is Meta Stock Actually the Cheapest Mega-Cap Tech Bet? - Trefis",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZ3FKM1hzREJmclBNd1FITDg3aEo4Mi0xRi0tOWt5X2t4Z3JONGh2cU56Smxrb3QyYXE3UG1UQTlSdmg1ZTZNWEJDVm9XNEVCMFB2NS1HSkM2LUFyRGh3Q1pRRHQtWEFQQmYyWGxGcHdKZDM2MnNUSjkwdU85cnBleHN0ek81Q2ZVMmlJMk5MWlQ3NUtsOFVwV3pLTExVX1BiMFhqSC1HbzRJa01LYnU0VkZBNHA?oc=5",
-      "source": "Trefis",
-      "published": "Mon, 24 Aug 2026 23:28:11 GMT"
-    },
-    {
-      "title": "Meta’s $145 Billion Spending Scare Just Opened a Window for Investors. Here’s How High the Stock Could Go. - Barchart.com",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWXpWRC0wVHFTcHVYUTJteTdocXFCN1VuRFh3STFkQWtPWnV3S3J2bG1NUDlHRldyMTdOMFRQTkZZaWRPeWhyRk1iSkh6VE1xTnlRZTJqZzNkT1dKRjhRX0NOdW1YdkRzZXgtVDRJcUlHcXBZcExyVG5PeEZyV3FNYmhVOTEzQXJIcFFwdmxJNmNnRHpmUGdzYWJPd05KYTFhQ0ZneWVnV3FoWVktQTFHdUUxa1RpRzlYVkhyblY5aVRudHBBTkV2eUwxdHlVc1MzQlBFbEYxOHRublJ2TGc?oc=5",
-      "source": "Barchart.com",
-      "published": "Tue, 25 Aug 2026 19:39:08 GMT"
     },
     {
       "title": "Jim Cramer says don't sell Meta on litigation risk — the stock is worth the wait - CNBC",
@@ -91,22 +79,40 @@
       "published": "Mon, 24 Aug 2026 20:11:48 GMT"
     },
     {
-      "title": "What's Going On With Meta Platforms Stock Monday? - Meta Platforms (NASDAQ:META) - Benzinga",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUUc4Rm94el9qTXZsZy1wc2ZtVkp2SXYxMWFHcFVYZnlsLVhtVy1oeFpIXzdEYzN0S2Z5NHdMUU11T3lORnVfYmhfWFpqOFRmUHhDQ0IyOXU5MWJzQ0VUVzJOcnFwaUlhYmhYdUV2THpyVTNkbHhhRWRjdXdiN1NnZGUyd0psQUFhNTdTU2k5OHhjMy1NcHFUdTJPTVF2RmpBbDFpVHI5cGRWbVNpeW45WS1WN2JuYXRRcTdDSmlsNlFWLXBXRWo0eHNn?oc=5",
-      "source": "Benzinga",
-      "published": "Tue, 25 Aug 2026 09:40:27 GMT"
+      "title": "Meta Could Pay Billions To End Teen Addiction Trial – Gary Black Says That Could Boost META Stock - Stocktwits",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQM3UxWUZqVHBXenpjVXlBbmFBZkw5cTkwZ2FUSnRnMjc3QUVEZGx1bk5vd3JqdEtvbTkxSVRqdTR4aV9sVFpRWmtqYUpENGlhRlVJZGpEakNDMmVmeUJzeExSTGxTMnhUNVBva19aYm9JX2dVcXJJclVNU3VJM3o3WURUa0pSZThYSzZ4aWJXcjBFUHlIMzFuOHU2MkFoTjZDNGh4NDF2bzNXZlBzMWctalM3ejVpU2RXeVo2SW93?oc=5",
+      "source": "Stocktwits",
+      "published": "Wed, 26 Aug 2026 02:33:08 GMT"
     },
     {
-      "title": "Meta (META) Stock Still Looks Cheap After Recent Weakness - simplywall.st",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVHJDb0pZM183S2t4cjdNZGIxMVFlbXJhT2dLd09yRWxzeUxUZXIydmd2VENJX0ZNd1BmLWZjM2lmblBMdzlpWFJkRlNEWU1zYXQ0Mm03RWVRTlk1cFRFSkNPQWEtM2NwYUtPeU02Qjl3R1lUTnpaX2hhT1NsVk1KZXVESVE3M1BGb09QNGxjWUxSa3lxLUlTdVU3S09MOHVuLTFLMW1vbVdXSURaOHlQTjFLX2k1V3Bkel8zRnBjckFKbDDSAcgBQVVfeXFMT2lRWWstV3Q1WGtkaWlpMHlrLXN6Wkd3Ymt4eE9aaFhJZVZPNVB0Vl9GNlpsdjMwbFI4UUkzV3FoenE3X1lWMzhzenJibWxTSnZoOE51R01pRVh5N0pINmdWM1JYYkxsQXdzSy1rSkhCWXJ2TmhtMGwtY1VHcGNUcTVla29VbjBWZGtSbFVEcEo4ZWJCRVRDS1d1MS1IbTM3UXJJckFacGVsN1lrUFNoVS1BWWpPWWV3ellzLU9vYll0c2h2SWJ2WnM?oc=5",
-      "source": "simplywall.st",
-      "published": "Mon, 24 Aug 2026 19:24:50 GMT"
+      "title": "Meta Could Pay Billions To End Teen Addiction Trial – Gary Black Says That Could Boost META Stock - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOSWJlM2pmMGhGZDFpdFBlYWkwc1ZCRXczSXBab21MWFNVbk5uYjN6cGw0THBJNlR5NEhvdkxMZW1aa0tQeE1XUW8zR1lyTVRsTk9qXy1vVVlMNnZfNHdUUC1VVmc3bWRXaU1ZQnJ5WDdFT0hmNW8xbmpYYUo2SGZZdmJ0NWo3TTZ1MXRubjUzeXhFTC1lVnVFUFpIanQ0Zzc0ZGZObi1mbEVsY1NYeHlEa3hSVkZBZTVHaGdvZTR3em5lY2ljeTZ1VV84WmQtT2NfTGs4S0ZDYWtQcHJ1QXVmeUhta2RORDRkOHBLNQ?oc=5",
+      "source": "TradingView",
+      "published": "Wed, 26 Aug 2026 06:29:00 GMT"
+    },
+    {
+      "title": "Meta’s $145 Billion Spending Scare Just Opened a Window for Investors. Here’s How High the Stock Could Go. - Barchart.com",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWXpWRC0wVHFTcHVYUTJteTdocXFCN1VuRFh3STFkQWtPWnV3S3J2bG1NUDlHRldyMTdOMFRQTkZZaWRPeWhyRk1iSkh6VE1xTnlRZTJqZzNkT1dKRjhRX0NOdW1YdkRzZXgtVDRJcUlHcXBZcExyVG5PeEZyV3FNYmhVOTEzQXJIcFFwdmxJNmNnRHpmUGdzYWJPd05KYTFhQ0ZneWVnV3FoWVktQTFHdUUxa1RpRzlYVkhyblY5aVRudHBBTkV2eUwxdHlVc1MzQlBFbEYxOHRublJ2TGc?oc=5",
+      "source": "Barchart.com",
+      "published": "Tue, 25 Aug 2026 19:39:08 GMT"
+    },
+    {
+      "title": "Alphabet, Apple, and Meta Platforms Were Top Billionaire Investor Buys in Q2. Should Retail Investors Follow Suit? - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSG9PbHJ3RGVqMGFDVVNnQ0M0VVpDWWlMVFNEWkVhc3h4cXFpdmpaNlNvU3N6dXVDaEZoY1ZxdkUxSTYyNnRGRjRFUmJQZFV2YlRDcS0tTWxNeEs2TWxOUEtRcXZNdXZ6d0FnRXhWSDA4aTZnZ2NSUW9WbVZNTldxT3ZhbHNjVVJBSmYtSEczTTZqUQ?oc=5",
+      "source": "The Motley Fool",
+      "published": "Wed, 26 Aug 2026 09:29:31 GMT"
     },
     {
       "title": "Meta Platforms Tokenized Stock (Robinhood): Latest News, Social Media Updates and Insights - CryptoRank",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE93b2JvcFFWRWhrQUxmT2NUYlZRQ0ZYek5hb3ZXZVF2RWJINTVvVEpRcVBNMmJBbFBtMWRESUFUV3E3NDNqTWdLcTB2LWtHbWVPNk03MlJ6am5GbUJXR0pKXzRQRzBnTEZPQkg3MURZQ085ZVdmZFE?oc=5",
       "source": "CryptoRank",
       "published": "Tue, 25 Aug 2026 02:43:27 GMT"
+    },
+    {
+      "title": "What's Going On With Meta Platforms Stock Monday? - Meta Platforms (NASDAQ:META) - Benzinga",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUUc4Rm94el9qTXZsZy1wc2ZtVkp2SXYxMWFHcFVYZnlsLVhtVy1oeFpIXzdEYzN0S2Z5NHdMUU11T3lORnVfYmhfWFpqOFRmUHhDQ0IyOXU5MWJzQ0VUVzJOcnFwaUlhYmhYdUV2THpyVTNkbHhhRWRjdXdiN1NnZGUyd0psQUFhNTdTU2k5OHhjMy1NcHFUdTJPTVF2RmpBbDFpVHI5cGRWbVNpeW45WS1WN2JuYXRRcTdDSmlsNlFWLXBXRWo0eHNn?oc=5",
+      "source": "Benzinga",
+      "published": "Tue, 25 Aug 2026 09:40:27 GMT"
     },
     {
       "title": "Rep. Julia Letlow bought Meta stock after signing an NDA with the company, records show - Louisiana Illuminator",
@@ -121,16 +127,10 @@
       "published": "Thu, 06 Aug 2026 07:00:00 GMT"
     },
     {
-      "title": "Use Meta Stock Volatility To Capture A 35% Return In A Few Weeks - Investor's Business Daily",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdFZBU1lWYXdnb2Yyeld0eHBxM2tCWUtaV19xV0xvcXR0UGxmOV9vNTZjenRrVU5DS0F5bC1qVlJ3clloc2xvbW9XTHFsNGFtMVRiMnk3U20yeFpZQk5SUEN6aTJvWW9sclpQMS1ET1BJMk5mbjZ4MVZ2YlJQTU9EMjhySGJ2YWFYRk1ta244X3pqNE1QZ2FEZG5IS3FZdEd3UzVjNDF1RV90WjN1RXc?oc=5",
-      "source": "Investor's Business Daily",
-      "published": "Thu, 20 Aug 2026 17:30:00 GMT"
-    },
-    {
-      "title": "Meta stock reels as trillion-dollar child addiction trial collides with its huge AI spending - Los Angeles Times",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQX25VWmFucVFNWjdyME5fY1BSUFBXNmJuVmV3aVhCUEQ0TnQ2Zmt2WlhGUXc0ekxlWVo3TzB5eUt2U1A3TGJEOEVvaGZaanp4aTJ5ZU81enBLX1pndTVEMDVPbkRXb29RWmF0MkY0V2FiLV9Lc2ptdmhIT040Q1dzcW1nZnYxQ18xYVg1Q1hFRTFKMWRwT3FOVzF4TWNteFc4TGV2ajRJQzRVbTBkYldjV1pzLVpybnpUSC1GR1RPbTZTUmp5TEVJZzJXZFRlTE1QZThTMkRGVnVOdw?oc=5",
-      "source": "Los Angeles Times",
-      "published": "Thu, 20 Aug 2026 15:29:47 GMT"
+      "title": "The Future Is for Everyone, But Is META Stock for You? This Week’s Pro Survey. - TheStreet Pro",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUzl3RzFEVFVZa3dZUkVTWDFEV3V6eHlRWDlOZEtmV1R4aXMwNS02RTg5Mk5mTWt3Szl5TC1jSVp2TnFkSlRPSExaek1aMFpZUERVdVBPYXlfZnRHMVZla0V0UXVrc0NRbWYxWnpoMUk0aWQwLW9sb1AtckFmZVhTT0xTSld1UEt3T29xc2I0RHlOY2hmVWoybDh6aHBlYUNKNmlfVm1GTnJ5WnlFV0VaRjNB?oc=5",
+      "source": "TheStreet Pro",
+      "published": "Tue, 25 Aug 2026 14:32:00 GMT"
     }
   ]
 }
