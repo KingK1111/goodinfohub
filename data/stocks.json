@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T08:25:56+09:00",
+  "updated_at": "2026-08-26T14:42:13+09:00",
   "disclaimer": "이 목록은 공개 시세 데이터(거래량, 변동률)를 기준으로 자동 정렬한 결과이며 특정 종목의 매수/매도를 추천하지 않습니다. 투자 판단과 책임은 본인에게 있습니다.",
   "criteria": {
     "min_price": 5.0,
@@ -16,15 +16,15 @@
       "price": 124.31,
       "change_percent": -30.68,
       "volume": 38563567,
-      "avg_volume_3m": 1415931,
-      "relative_volume": 27.24,
+      "avg_volume_3m": 1393533,
+      "relative_volume": 27.67,
       "market_cap": 11126060032,
       "exchange": "NYSE",
       "sources": [
         "most_actives"
       ],
-      "reason": "장중 -30.7% 하락, 거래량 3개월 평균 대비 27.2배, 거래대금 상위 종목",
-      "score": 835.61
+      "reason": "장중 -30.7% 하락, 거래량 3개월 평균 대비 27.7배, 거래대금 상위 종목",
+      "score": 849.04
     },
     {
       "symbol": "GENB",
@@ -32,15 +32,15 @@
       "price": 20.38,
       "change_percent": 15.01,
       "volume": 4684857,
-      "avg_volume_3m": 841028,
-      "relative_volume": 5.57,
+      "avg_volume_3m": 837840,
+      "relative_volume": 5.59,
       "market_cap": 2615822336,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +15.0% 상승, 거래량 3개월 평균 대비 5.6배",
-      "score": 83.62
+      "score": 83.94
     },
     {
       "symbol": "MRNA",
@@ -48,7 +48,7 @@
       "price": 158.83,
       "change_percent": 14.36,
       "volume": 49046451,
-      "avg_volume_3m": 13181673,
+      "avg_volume_3m": 13182792,
       "relative_volume": 3.72,
       "market_cap": 63410638848,
       "exchange": "NasdaqGS",
@@ -57,7 +57,7 @@
         "most_actives"
       ],
       "reason": "장중 +14.4% 상승, 거래량 3개월 평균 대비 3.7배, 거래대금 상위 종목",
-      "score": 53.42
+      "score": 53.41
     },
     {
       "symbol": "MAIR",
@@ -81,7 +81,7 @@
       "price": 12.5,
       "change_percent": 17.81,
       "volume": 10613968,
-      "avg_volume_3m": 7998014,
+      "avg_volume_3m": 7999330,
       "relative_volume": 1.33,
       "market_cap": 4050592000,
       "exchange": "NasdaqGS",
@@ -97,15 +97,15 @@
       "price": 10.23,
       "change_percent": 9.29,
       "volume": 8910731,
-      "avg_volume_3m": 3537023,
-      "relative_volume": 2.52,
+      "avg_volume_3m": 3516512,
+      "relative_volume": 2.53,
       "market_cap": 5072138240,
       "exchange": "NasdaqGM",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +9.3% 상승, 거래량 3개월 평균 대비 2.5배",
-      "score": 23.42
+      "score": 23.55
     },
     {
       "symbol": "PURR",
@@ -113,7 +113,7 @@
       "price": 11.87,
       "change_percent": 11.56,
       "volume": 29523045,
-      "avg_volume_3m": 14943160,
+      "avg_volume_3m": 14945407,
       "relative_volume": 1.98,
       "market_cap": 2380690944,
       "exchange": "NasdaqCM",
@@ -146,15 +146,15 @@
       "price": 44.27,
       "change_percent": 11.54,
       "volume": 13846654,
-      "avg_volume_3m": 10734500,
-      "relative_volume": 1.29,
+      "avg_volume_3m": 10609537,
+      "relative_volume": 1.31,
       "market_cap": 8235001344,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +11.5% 상승, 거래량 3개월 평균 대비 1.3배",
-      "score": 14.88
+      "score": 15.06
     },
     {
       "symbol": "SMR",
@@ -162,7 +162,7 @@
       "price": 9.81,
       "change_percent": 8.4,
       "volume": 55401328,
-      "avg_volume_3m": 32992752,
+      "avg_volume_3m": 32993468,
       "relative_volume": 1.68,
       "market_cap": 4025921536,
       "exchange": "NYSE",
@@ -179,15 +179,15 @@
       "price": 17.75,
       "change_percent": 7.32,
       "volume": 1323871,
-      "avg_volume_3m": 722252,
-      "relative_volume": 1.83,
+      "avg_volume_3m": 726082,
+      "relative_volume": 1.82,
       "market_cap": 2301175296,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +7.3% 상승, 거래량 3개월 평균 대비 1.8배",
-      "score": 13.41
+      "score": 13.34
     },
     {
       "symbol": "CAI",
@@ -204,6 +204,22 @@
       ],
       "reason": "장중 +7.2% 상승, 거래량 3개월 평균 대비 1.8배",
       "score": 12.83
+    },
+    {
+      "symbol": "FUTU",
+      "name": "Futu Holdings Limited",
+      "price": 125.63,
+      "change_percent": 8.48,
+      "volume": 3003647,
+      "avg_volume_3m": 2139617,
+      "relative_volume": 1.4,
+      "market_cap": 17612634112,
+      "exchange": "NasdaqGM",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +8.5% 상승, 거래량 3개월 평균 대비 1.4배",
+      "score": 11.9
     },
     {
       "symbol": "CDNA",
@@ -227,31 +243,15 @@
       "price": 93.1,
       "change_percent": 7.18,
       "volume": 4064357,
-      "avg_volume_3m": 2576514,
+      "avg_volume_3m": 2575774,
       "relative_volume": 1.58,
-      "market_cap": 113497604096,
+      "market_cap": 113473069056,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +7.2% 상승, 거래량 3개월 평균 대비 1.6배",
-      "score": 11.33
-    },
-    {
-      "symbol": "FUTU",
-      "name": "Futu Holdings Limited",
-      "price": 125.63,
-      "change_percent": 8.48,
-      "volume": 3003647,
-      "avg_volume_3m": 2383100,
-      "relative_volume": 1.26,
-      "market_cap": 17612634112,
-      "exchange": "NasdaqGM",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +8.5% 상승, 거래량 3개월 평균 대비 1.3배",
-      "score": 10.69
+      "score": 11.34
     }
   ]
 }
