@@ -1,22 +1,22 @@
 {
-  "updated_at": "2026-08-27T13:15:56+09:00",
+  "updated_at": "2026-08-28T01:01:49+09:00",
   "quote": {
     "symbol": "META",
-    "price": 576.14,
-    "previous_close": 567.76,
-    "change": 8.38,
-    "change_percent": 1.48,
+    "price": 572.88,
+    "previous_close": 579.11,
+    "change": -6.24,
+    "change_percent": -1.08,
     "currency": "USD",
-    "day_high": 593.3400268554688,
-    "day_low": 561.8800048828125,
-    "market_cap": 1467720273788.4858
+    "day_high": 588.3900146484375,
+    "day_low": 567.6199951171875,
+    "market_cap": 1459402628646.875
   },
   "articles": [
     {
-      "title": "Evercore: META Could Surge Over 50% on $22B AI Opportunity - Benzinga",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdXRYTXhvSGg0NmRkcU9ua0FCVjlkWUhZNHRNT05KZ1daSGFDS1RkSm1ZVEpPNXJnVDV1Qk9oSmpzNUkyYXdIVFByZU1RNmVGMG5TUDhNTl8zNzJpV29qNldOc2dENFZDOURPODhRZ3IzRklBSV9tSFVFZnlDeDQtcDNPQlNWYUVzazdBZHdFcHV2MTlhSnp2SjhPLWRyMkgz?oc=5",
-      "source": "Benzinga",
-      "published": "Tue, 25 Aug 2026 19:26:48 GMT"
+      "title": "Jim Cramer sends a strong message to Meta stock investors - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRWtnMFQ5T3h2b0FGM2owVmJncmpxcWd4UUwyangwdTVZQlg1QmJlYXpKN1pGN2hCSmd6anlNajVaNkxoZXRXU0FDbDR5LTRtN0s0dHR6dXdpRnlCSG8zVEcxb0FObnVURk1hZXFpaHZEVzdHWmhpV2Z3MktVWEl6bEpfdV9IQWt6TEpfLUMyRHNOcHVLM2FFZmtYcnU?oc=5",
+      "source": "Yahoo Finance",
+      "published": "Wed, 26 Aug 2026 14:07:00 GMT"
     },
     {
       "title": "Meta Stock Rises As $18 Billion Teen Social Media Settlement Addresses 'Major Overhang' - Investor's Business Daily",
@@ -31,10 +31,10 @@
       "published": "Mon, 24 Aug 2026 23:28:11 GMT"
     },
     {
-      "title": "Jim Cramer Cites Overblown Meta Stock Trial Risk: Is This A Sell Signal? - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcnhQZTU4eE15QXNKbURiSnQ0cmNkT0tDR3Z4OW1oT3BHd0t5ams5WUtwUWxBQnhURER4MXEzR3YxMVFTTDBkWVBPWlJ3S1ZhajRpanM4dlltU3VnXzQtRUpTM0hoc2lWR0l5X256NlgtUW5hUmlGb2VnamNsU3B0WU1abmlFTGVkYzZpcW9RTEU4VE1idGxIdnV0TFU?oc=5",
-      "source": "Yahoo Finance",
-      "published": "Mon, 24 Aug 2026 22:42:01 GMT"
+      "title": "Why Meta’s stock could see a 50% rally, thanks to an overlooked AI wild card - MarketWatch",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVFJXT1R2Z3l2T1hxWmtlN2Y0ZUtKWDQ0ODd5X2F6bTVQdjM1cjhGaTlHR1NaZm9SQ21HN2d2eHVNVWI4OTBrd3psUlRJQkNoMTRLeTJISGx3cGNObmtuTXBEc181M2t2VklXMFpEa3JvNHBiTDFlZEVVaVRKVDRwcENtZ3hJM2ZDVFdzTXo5Uk5pR2pJNWFCckNkSHNHaW13bUZJOWN2YllHV0dla2dxVXIyZzBWTnc?oc=5",
+      "source": "MarketWatch",
+      "published": "Tue, 25 Aug 2026 21:01:00 GMT"
     },
     {
       "title": "How Meta Stock Turns to a Buy After $17 Billion Settlement - TheStreet Pro",
@@ -49,16 +49,16 @@
       "published": "Tue, 25 Aug 2026 19:11:56 GMT"
     },
     {
-      "title": "Why Meta’s stock could see a 50% rally, thanks to an overlooked AI wild card - MarketWatch",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVFJXT1R2Z3l2T1hxWmtlN2Y0ZUtKWDQ0ODd5X2F6bTVQdjM1cjhGaTlHR1NaZm9SQ21HN2d2eHVNVWI4OTBrd3psUlRJQkNoMTRLeTJISGx3cGNObmtuTXBEc181M2t2VklXMFpEa3JvNHBiTDFlZEVVaVRKVDRwcENtZ3hJM2ZDVFdzTXo5Uk5pR2pJNWFCckNkSHNHaW13bUZJOWN2YllHV0dla2dxVXIyZzBWTnc?oc=5",
-      "source": "MarketWatch",
-      "published": "Tue, 25 Aug 2026 21:01:00 GMT"
-    },
-    {
       "title": "Why Meta Platforms Stock Popped Today - The Motley Fool",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQ2lNRXZQWmo5UWlrSEdfVjUzdlU4T2IyeGlTTTN2VlZmdGQ5Q1V2cnItekVQeldDZW1UN3VmZWpTQzZUWndCWkhpMld0b0c1Qms0MENlcXlhX1ItZUY0UGx2dGgyMmZob19mRUpBcDlROTg0MVdFcE5FZnJtclo5aVFSdWZMNTg?oc=5",
       "source": "The Motley Fool",
       "published": "Wed, 26 Aug 2026 16:56:00 GMT"
+    },
+    {
+      "title": "Meta Stock Could Surge 50% On $22B AI Compute - Meta Platforms (NASDAQ:META) - Benzinga",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdXRYTXhvSGg0NmRkcU9ua0FCVjlkWUhZNHRNT05KZ1daSGFDS1RkSm1ZVEpPNXJnVDV1Qk9oSmpzNUkyYXdIVFByZU1RNmVGMG5TUDhNTl8zNzJpV29qNldOc2dENFZDOURPODhRZ3IzRklBSV9tSFVFZnlDeDQtcDNPQlNWYUVzazdBZHdFcHV2MTlhSnp2SjhPLWRyMkgz?oc=5",
+      "source": "Benzinga",
+      "published": "Tue, 25 Aug 2026 19:26:48 GMT"
     },
     {
       "title": "Meta settles social media addiction case with California, other states for $16.7 billion - CNBC",
@@ -67,10 +67,28 @@
       "published": "Wed, 26 Aug 2026 13:05:31 GMT"
     },
     {
+      "title": "Meta: Firm Settles Teen Social Media Case for $17 Billion, Lifting Uncertainty - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWDNwM0dyMV9BQ0NSbEt6UHBoMkVpM2hial8yLW9xcjdMTkhXRFl5M1NsM1p4RWx4N2V2bFU3MEM4WXhCLUF3akRMLS1Xa0RrSWpsRmlncTZ6N1poaVI1em9fLTBId2RmanZNVGM3ODliYnUxQ2JMa09iVUUtazV2akFfeXUwMWxtTVlEOUE2dU9xU0UtcE9JTU5KS1F3VjlleHFsRHhVOUVIU2JSNzdUNkhUU2ZxQQ?oc=5",
+      "source": "Morningstar",
+      "published": "Thu, 27 Aug 2026 09:04:50 GMT"
+    },
+    {
       "title": "Why Has Meta Stock Underperformed Despite Huge Payouts? - Trefis",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSTBWdFFFelg3NU81cXZyM2RpZHZITG93bXdvZ0RLTlRJT0xzdUM0RlBPMDhKVm1UelRRdnFrTE9YTk4wQVFXRmlZZy05QW93YVhJdVFPb2M0RUhrUUxBbVIzRVluUFI4aU04SkVNZWNkcDc3eGM2VkpUWE5xcUpDS3BSWW5OaXhOWXF0UndMTFhWLUw1NDQ1djVGLWtlVU4yNm92bTNMZGFRaDhiUFJjamlnRE8wZw?oc=5",
       "source": "Trefis",
       "published": "Wed, 26 Aug 2026 19:10:13 GMT"
+    },
+    {
+      "title": "Meta Platforms Almost Slashed 60% of Jobs in AI Push. What Comes Next for META Stock. - Barchart.com",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQzAwcThoQk96UmpFbTh2S3NLMTlmUElKdU94ZEVvbl9ESFR6TGNEa0dHbUZXTDdCRElsNk54R19BVklnVnZZN2E1Wi1SeENFU3lpbXYxWWtzVEJxdUhwai1iQ0lCZEVpSVh6bGI4V004cldWZ2p4SnRBRUwzdnJ2ODJIWGI5aHFwYU5uVHFFMmdTMENZdjVsTDlsUm13b2lWSjNjeHppeVBTT3A3U1dORFViVEJBeXY2elBmZ3hLRnFpOHN0?oc=5",
+      "source": "Barchart.com",
+      "published": "Wed, 26 Aug 2026 21:03:16 GMT"
+    },
+    {
+      "title": "Meta Stock Falls Premarket: Analyst Sees Limited Impact From Child-Safety Suit Settlement, Expects Stock Liftoff - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQU0dqelE1UzNoUUdGRmxucWtFVnUtMVJ2U1lTR2h5dWViZ3daVERrOU56bk5aMlJ1cGF1VVBnZ3dPbElOTW5lZkRIcTBTWGx2TFJuVmtmWC1tRU9RZVF3ZF81emlwY3kzeFdSSjhOaHlLeUF2akFLVzBXeElKWlNWRXVFbFN3QzZWdnlBaXd6ZFVZUW9KMUNsbDAzT1NpRGkwWUItRTU5S05jaGVyWWpQcGVUYkh5UzZmUnlJT2wwN2hoWHRfMFhXcUxqVUJiQlEya003MlhXZkJ6SHBWN0x0UmRTd0xIRElWNE9UNFNqd1QzMHBWaXJzdk94R1BmUGc?oc=5",
+      "source": "TradingView",
+      "published": "Thu, 27 Aug 2026 08:41:53 GMT"
     },
     {
       "title": "Meta dodges ‘Big Tobacco’ nightmare with $18 billion settlement in child-safety lawsuit - MarketWatch",
@@ -79,58 +97,40 @@
       "published": "Wed, 26 Aug 2026 21:58:00 GMT"
     },
     {
+      "title": "Truist cuts Meta stock price target on teen safety settlement - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSlFjR3I2TURlVHZnTDBuMU53ZlBiRlpBUlR4N1ZOR0ZFcF8zQWdvbDdHVks1TjgyVkZaYjdGOThTNUljV1lFcFJuUG5QMjdKbkNMYzdqal95YVdzSjlhc3pTOUVndk1lY2VxSHBQN3VSME1ObFZJa2czd21OOTZWc241YWY0ZE81ckdyaC1DaWRpSjRFVGZ0b2lXNmU2dTFuQTlVSkxZenM3anFlVE5YQUhuV2lNeGhLYURjcEp3?oc=5",
+      "source": "Investing.com",
+      "published": "Thu, 27 Aug 2026 07:30:14 GMT"
+    },
+    {
+      "title": "Meta May Be Winning the AI Race Nobody Is Talking About - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTnprNDFQTDhOd0MzenVtZ1ZGWFVCVlhOeVh6T08yQU1wNERqMDVHNG5KeU5VNmJ2YXFtRW1uZ2hEY0Jtd1kyY2pnbWNqWWNVb3hjNlNEVVRlYzcxb3hOaHY3bHk4TDlCUXN3SXNJZmF6STdVR1lLN3R6bXlpcXFIM3VWZHRHcVJqOU9IUThYMkwxbW1MNmtfYkFwdU56d3pY?oc=5",
+      "source": "24/7 Wall St.",
+      "published": "Thu, 27 Aug 2026 12:35:00 GMT"
+    },
+    {
+      "title": "Meta Stock Puts Trade Desk And Magnite In Focus For US Ad Investors - simplywall.st",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcGw5dU9kaWJmam1yU3JBODc5ajhCWV9UUEVSOVN1OElJTC0tbVoxeFRnOEZjeHN5R2RiQmlNOUNWbVptejg3OTFQMEN3X3lFdmxIY0pkXzV1Z0JvT0wtZHNySnNmQ0dCUzdfNTdsaC04eFpFX0sxNHlWUnVtREw4S19XT3BJUUJ0dmE4NEtYamk0NlF6N0ltUnNnV2ZPdTY3ZE1vcWo1Y3RoeU0zUWNKUERuOWZURlE1S3lIcjRyaUZOMjjSAcgBQVVfeXFMUDZlX1pRUnFReXh4a1BwSktvNWx6WDBXa0FtN0tBOTlsaHUwWnIwMm01Y3FQN3hDaDNKQTJnUmw0SEc4Y2NmY2hNNmRZNTBQdXJzMkV2ZFpzQnpZU28zU0VMMGtadW42TUJuOVFacngwTmQxVEhLSDYwZmhYSGJjRWJnUklJcHhJczFRaWNVMkppWFBuQUpORUY0dG5EcC1oUHlyNDRCejM5VUFtMDIxcFpJdDFQZXNieGhwYWtlUHZJeGZ0SThsemY?oc=5",
+      "source": "simplywall.st",
+      "published": "Thu, 27 Aug 2026 05:25:21 GMT"
+    },
+    {
       "title": "Meta’s $18 Billion Settlement Is a Win—But Leaves a Lot of Questions Unanswered - Barron's",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZzh1VFE1eThWQXFFVHBTRnRaN0tLY29acW92QVdLYWZIZjdiNUpFT2Fray1XNXQ5Sy1uVVNLTHlNQlFOb2xaVFk3VjIzWUUxd3ljTW1JUmFKdG9BVXIyWjNOVl83d01OaU5nSUFFOS1XZ3ZPemRPMUVlNGRZZVpnbg?oc=5",
       "source": "Barron's",
       "published": "Wed, 26 Aug 2026 18:19:00 GMT"
     },
     {
-      "title": "Amid Legal Battles, What Should Investors Do With Meta Stock? - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNalMwQ3BZcnZvMXNfRGVDSGFMYlctcl9jb0VKWEkyUlhJZGt3VEltakF2RUV1ZkVwSnBFanVKZU1fekphb0FSZkp1ampXM2tXaW9CVTNtT3JGcFFkUVFXeXROc3JKTDJiVktQeDM2UmQwaUt2TWEzR0ZpNHlOYmVXT3VfeVZxSHM0djVyUk8yWWlLMUpsZkk0NA?oc=5",
-      "source": "The Motley Fool",
-      "published": "Wed, 26 Aug 2026 17:39:00 GMT"
+      "title": "Needham reiterates Meta stock rating citing strategy concerns - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcmlLUG9GTXM3V3FDUnhXUjVUNHlVeHNVN2E3c194d2trNjdFZG9POFJESC16ZDZoQzVKOWUxRmtVeThzU0xmdDFlbzVuZmhjWGRlUWFvZmljOEMxWXRPWXpFUklhUVc0TmwxWFp1WGdqQzJWYThCUER1V3lhRWxvV2dMUVR6ZGo1ZXo2eXV6a24yNFFOdVYtSmVwaGh6ZGthcnV4WkRPTTJ0MENVMU1meWJuZk1vY3I0bHBwZ1ZR?oc=5",
+      "source": "Investing.com",
+      "published": "Thu, 27 Aug 2026 12:32:23 GMT"
     },
     {
-      "title": "Meta Platforms Inc (META) Stock Up 1.1% and Still Undervalued -- GF Score: 92/100 - GuruFocus",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPak5ZNm1iTHZ0NnYzQjhDNFY2eWV0dURKMFAzWWY0Z2ZVMUZqTTRuYnBXTFhZU0pVNWFEcDNpWXN6Ujc5T3FUM3l6NlNwTjIzREFRc1RJanV5WnJBTHVvVU1XYVZidzluenRLMUdQMnlwUUJ0Q3pEaGt3WTl4WVFJNGx1c0I3V3RmdW9SNmgwbTV0Rm0yVmlQRkFZcjN3b0NrR3Z4NFcyMlBJZlhCdGlSMA?oc=5",
-      "source": "GuruFocus",
-      "published": "Thu, 27 Aug 2026 00:32:59 GMT"
-    },
-    {
-      "title": "How to Play Meta Platforms Stock Before It Launches a Consumer AI Agent - Barchart.com",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQR2VMelNmZUhzcVVtNVI3SXdLd0dxeUQ4TlZtLVJ6Um9tdXU1ZWFZdUtLUWhIeDViR0Z5V2JIeWhnYTRRNEp4TGRQU05MX3RyTnlNeWpkNXpQdU9FM3BxWnY4SUg4WWc3U3o4QkFWbnE1VkZtYzhmVThrcnBhWFl4TVUtT04zZjRoZGh6bEpTSjNUOWgwZlNjZ3lDcFhfOGRPS0tiUU45MTZqZmJWeTgyaEx6X255QQ?oc=5",
+      "title": "High-Probability Meta Platforms Iron Condor with 48% Return Potential - Barchart.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOd0MwVjNXUGtpMC14dXJvUWZOZW1VRVQzZnZ6QTNJeFVwZS1HZTB6LVgzNTZBZlliZ1VKc01qWGx5Q3lSUTRTd2xfSWo0NldDTVVHbHdLUEVleG5jWEdNelFaQkxXVW1hOXY2QndyWmwwRGhDTUFzRC02cWZ2RVliZnhmRDByeGRRekhiSTRqNFUzb3Zua0VUZVRvTERZR0VCZGFSX2RHQ2ZzLU9kUGRGTkdR?oc=5",
       "source": "Barchart.com",
-      "published": "Wed, 26 Aug 2026 20:01:04 GMT"
-    },
-    {
-      "title": "Meta Stock Leads 3 Founder Led Tech Picks For Long Term Investors - simplywall.st",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUkxZcFEzMVdNOHlYQzNrYWh0UWZfajBCT2s1dEhJRkVvalA2LVU0V3VmTmRxaWY5YVoyNEtTbDlLVmMzdUVVN2t2LTJKOW5rakxpY3l6dHFfR3VwZHZoZXdER2dPWV9PamtQQUxyLTZOLUxqbzJtRHl3S2E2VTFfSnFrVU5FOGs0d0lmcVRoWU13Znhsa3BPZHg0WFpLem9FMDZlWmxhZDFBUC11elhmanY2NWh0Q0FZMmdHVUg1SEpEQnJWMVVoaFNn0gHPAUFVX3lxTE9McWhCMFZORm52VE9iVzRTdUFaOTE5dDUySHliTVUweHhnWVFyZ2QxaGQ2cEtnSDZsZXVHclJSalBuS0tWZGdaZTNnX1ZlUnFsRmNuWlFUTzV1MkVDSU5hNHM0ZjBCVkVsa1ROMnBvaG1QaDJnZkNlOTczbW1DNzl1Nmt4V0ozRlRyRUxXalpMaEZZQkhFSnkwajBGcEp1QmlOWkxQbmU3SklkdFQ1T3lxT1dpMjU4ek1XNmgySEQyZVlOZnFqZmJpbmw1M2lJNA?oc=5",
-      "source": "simplywall.st",
-      "published": "Wed, 26 Aug 2026 08:27:41 GMT"
-    },
-    {
-      "title": "Meta: Firm Settles Teen Social Media Case for $17 Billion, Lifting Uncertainty - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUHZxV0Mtcm0zTDBTMFA3Y0pKSTVROEstUmV4RndLVmJsTnNrSlBZWWpLVm5zZG92cjc5TS1oWEIxT2dFNndFWHgtYmNfak44eXA1T0JVcXlPMzF1SmJyZnM4OUxzOWRCaWhHVHVCanRLQS1JaTI2UFNoTURTN0ZVNkRPNUZCZF9RZGppdUlmUkdBQVE3TFpkNmpvTFVGMUNTODNiRWJiM0VVZw?oc=5",
-      "source": "Morningstar",
-      "published": "Wed, 26 Aug 2026 16:36:48 GMT"
-    },
-    {
-      "title": "Meta Platforms Almost Slashed 60% of Jobs in AI Push. What Comes Next for META Stock. - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcnprUHljSTRSYmkySG9mVkZMT1hBRjZ5cE5lV3lfSnN6M0doZUNCMEZzNHV3U0dHdDM1dU1mRkVZUU4yLVBWamIzVWZYSkhSVFdJUTlXajc0Z01ZMmxwNTBXeXZMMG9jTHU3ZUdycVBuc2dwRDRtV2p6NW5WeUVvdDhVaTNWYXhULW1zYzMzSURRZ3NZYlVIaENWejFtQQ?oc=5",
-      "source": "Yahoo Finance",
-      "published": "Wed, 26 Aug 2026 21:03:16 GMT"
-    },
-    {
-      "title": "Jim Cramer sends a strong message to Meta stock investors - thestreet.com",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWmVJUGxLc280VEZ1THhsS29vTnhyWWZjYm4wZDNlRkE0bXprTGNqVExrT2NLcl9fZEZYb29FcklqbWhaT2xFSGdoMEFjRjZVN2UxTDMwME9xdG1QcnpMWEI0Z0d4NVV4TGppbkE3M1h4Vk9FRTNOeFM1QVRuXzZjM1RsZHNSdUwtaWFVMWxHRmJxdzVTQ2tFNmx0dTM1NVFLUWc?oc=5",
-      "source": "thestreet.com",
-      "published": "Wed, 26 Aug 2026 19:35:13 GMT"
-    },
-    {
-      "title": "Why Meta Platforms Stock Popped Today - Currently.com",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRUhKREhDUk5YUzZGWGdQUi01M01hSDRRblQyUlVfR3V0bkZ6QnVLRjIxTG9PXzZvX3JxaHBCUGlKTTdGaW5ITHJKSTQ4TU9PMldYOFV1Wnc1UEVzb3YtZ0lxZTQtWGl2S01EcENsU2FXTV9HX2VGTHptT3RGMG5iNEowX1M2dGlKZnc?oc=5",
-      "source": "Currently.com",
-      "published": "Wed, 26 Aug 2026 16:16:31 GMT"
+      "published": "Thu, 27 Aug 2026 11:00:02 GMT"
     }
   ]
 }
