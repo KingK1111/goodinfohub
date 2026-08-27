@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-28T01:01:51+09:00",
+  "updated_at": "2026-08-28T06:12:36+09:00",
   "disclaimer": "이 목록은 공개 시세 데이터(거래량, 변동률)를 기준으로 자동 정렬한 결과이며 특정 종목의 매수/매도를 추천하지 않습니다. 투자 판단과 책임은 본인에게 있습니다.",
   "criteria": {
     "min_price": 5.0,
@@ -13,248 +13,247 @@
     {
       "symbol": "OKTA",
       "name": "Okta, Inc.",
-      "price": 170.8999,
-      "change_percent": 27.17,
-      "volume": 8871560,
+      "price": 172.91,
+      "change_percent": 28.63,
+      "volume": 16326436,
       "avg_volume_3m": 3641822,
-      "relative_volume": 2.44,
-      "market_cap": 29966690304,
+      "relative_volume": 4.48,
+      "market_cap": 30319155200,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +27.2% 상승, 거래량 3개월 평균 대비 2.4배",
-      "score": 66.18
+      "reason": "장중 +28.6% 상승, 거래량 3개월 평균 대비 4.5배",
+      "score": 128.37
     },
     {
       "symbol": "CRM",
       "name": "Salesforce, Inc.",
-      "price": 244.76,
-      "change_percent": 19.04,
-      "volume": 32010224,
+      "price": 252.05,
+      "change_percent": 22.58,
+      "volume": 55409963,
       "avg_volume_3m": 14759549,
-      "relative_volume": 2.17,
-      "market_cap": 200458436608,
+      "relative_volume": 3.75,
+      "market_cap": 206428946432,
       "exchange": "NYSE",
       "sources": [
         "day_gainers",
         "most_actives"
       ],
-      "reason": "장중 +19.0% 상승, 거래량 3개월 평균 대비 2.2배, 거래대금 상위 종목",
-      "score": 41.28
-    },
-    {
-      "symbol": "PURR",
-      "name": "Hyperliquid Strategies Inc",
-      "price": 13.86,
-      "change_percent": 19.9,
-      "volume": 21009245,
-      "avg_volume_3m": 15211061,
-      "relative_volume": 1.38,
-      "market_cap": 2779812864,
-      "exchange": "NasdaqCM",
-      "sources": [
-        "day_gainers",
-        "most_actives"
-      ],
-      "reason": "장중 +19.9% 상승, 거래량 3개월 평균 대비 1.4배, 거래대금 상위 종목",
-      "score": 27.48
-    },
-    {
-      "symbol": "VEEV",
-      "name": "Veeva Systems Inc.",
-      "price": 286.5,
-      "change_percent": 16.98,
-      "volume": 2934712,
-      "avg_volume_3m": 2191712,
-      "relative_volume": 1.34,
-      "market_cap": 46540005376,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +17.0% 상승, 거래량 3개월 평균 대비 1.3배",
-      "score": 22.74
+      "reason": "장중 +22.6% 상승, 거래량 3개월 평균 대비 3.8배, 거래대금 상위 종목",
+      "score": 84.77
     },
     {
       "symbol": "CRWD",
       "name": "CrowdStrike Holdings, Inc.",
-      "price": 222.45,
-      "change_percent": 17.59,
-      "volume": 13197742,
+      "price": 227.96,
+      "change_percent": 20.5,
+      "volume": 23369966,
       "avg_volume_3m": 10620590,
-      "relative_volume": 1.24,
-      "market_cap": 226511765504,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers",
-        "most_actives"
-      ],
-      "reason": "장중 +17.6% 상승, 거래량 3개월 평균 대비 1.2배, 거래대금 상위 종목",
-      "score": 21.85
-    },
-    {
-      "symbol": "ASST",
-      "name": "Strive, Inc.",
-      "price": 23.7999,
-      "change_percent": 10.7,
-      "volume": 7705334,
-      "avg_volume_3m": 4621065,
-      "relative_volume": 1.67,
-      "market_cap": 2134456576,
-      "exchange": "NasdaqGM",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +10.7% 상승, 거래량 3개월 평균 대비 1.7배",
-      "score": 17.85
-    },
-    {
-      "symbol": "MSTR",
-      "name": "Strategy Inc",
-      "price": 137.955,
-      "change_percent": 11.99,
-      "volume": 23188456,
-      "avg_volume_3m": 22803546,
-      "relative_volume": 1.02,
-      "market_cap": 54806990848,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers",
-        "most_actives"
-      ],
-      "reason": "장중 +12.0% 상승, 거래량 3개월 평균 대비 1.0배, 거래대금 상위 종목",
-      "score": 12.19
-    },
-    {
-      "symbol": "SNPS",
-      "name": "Synopsys, Inc.",
-      "price": 457.19,
-      "change_percent": 11.51,
-      "volume": 1907835,
-      "avg_volume_3m": 1965041,
-      "relative_volume": 0.97,
-      "market_cap": 87542431744,
+      "relative_volume": 2.2,
+      "market_cap": 232122384384,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +11.5% 상승, 거래량 3개월 평균 대비 1.0배",
-      "score": 11.17
+      "reason": "장중 +20.5% 상승, 거래량 3개월 평균 대비 2.2배",
+      "score": 45.11
+    },
+    {
+      "symbol": "VEEV",
+      "name": "Veeva Systems Inc.",
+      "price": 282.13,
+      "change_percent": 15.2,
+      "volume": 6408234,
+      "avg_volume_3m": 2191712,
+      "relative_volume": 2.92,
+      "market_cap": 45830127616,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +15.2% 상승, 거래량 3개월 평균 대비 2.9배",
+      "score": 44.43
+    },
+    {
+      "symbol": "PURR",
+      "name": "Hyperliquid Strategies Inc",
+      "price": 12.83,
+      "change_percent": 10.99,
+      "volume": 42218957,
+      "avg_volume_3m": 15211061,
+      "relative_volume": 2.78,
+      "market_cap": 2573232128,
+      "exchange": "NasdaqCM",
+      "sources": [
+        "day_gainers",
+        "most_actives"
+      ],
+      "reason": "장중 +11.0% 상승, 거래량 3개월 평균 대비 2.8배, 거래대금 상위 종목",
+      "score": 30.49
     },
     {
       "symbol": "TENB",
       "name": "Tenable Holdings, Inc.",
-      "price": 37.28,
-      "change_percent": 10.75,
-      "volume": 3266400,
+      "price": 37.62,
+      "change_percent": 11.76,
+      "volume": 8232803,
       "avg_volume_3m": 3350003,
-      "relative_volume": 0.98,
-      "market_cap": 4110939136,
+      "relative_volume": 2.46,
+      "market_cap": 4148431616,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +10.8% 상승, 거래량 3개월 평균 대비 1.0배",
-      "score": 10.49
+      "reason": "장중 +11.8% 상승, 거래량 3개월 평균 대비 2.5배",
+      "score": 28.91
     },
     {
-      "symbol": "SLS",
-      "name": "SELLAS Life Sciences Group, Inc",
-      "price": 15.35,
-      "change_percent": 11.8,
-      "volume": 6880588,
-      "avg_volume_3m": 8638295,
-      "relative_volume": 0.8,
-      "market_cap": 3099866880,
-      "exchange": "NasdaqCM",
+      "symbol": "SNPS",
+      "name": "Synopsys, Inc.",
+      "price": 464.89,
+      "change_percent": 13.39,
+      "volume": 4068779,
+      "avg_volume_3m": 1965041,
+      "relative_volume": 2.07,
+      "market_cap": 89016827904,
+      "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +11.8% 상승, 거래량 3개월 평균 대비 0.8배",
-      "score": 9.4
+      "reason": "장중 +13.4% 상승, 거래량 3개월 평균 대비 2.1배",
+      "score": 27.72
     },
     {
-      "symbol": "FIG",
-      "name": "Figma, Inc.",
-      "price": 30.3861,
-      "change_percent": 12.42,
-      "volume": 15163493,
-      "avg_volume_3m": 20783023,
-      "relative_volume": 0.73,
-      "market_cap": 16196090880,
+      "symbol": "SRPT",
+      "name": "Sarepta Therapeutics, Inc.",
+      "price": 21.59,
+      "change_percent": 10.95,
+      "volume": 7911385,
+      "avg_volume_3m": 3269838,
+      "relative_volume": 2.42,
+      "market_cap": 2280487424,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +10.9% 상승, 거래량 3개월 평균 대비 2.4배",
+      "score": 26.48
+    },
+    {
+      "symbol": "S",
+      "name": "SentinelOne, Inc.",
+      "price": 22.71,
+      "change_percent": 10.73,
+      "volume": 18525406,
+      "avg_volume_3m": 7650912,
+      "relative_volume": 2.42,
+      "market_cap": 7755058688,
       "exchange": "NYSE",
       "sources": [
-        "day_gainers",
-        "most_actives"
+        "day_gainers"
       ],
-      "reason": "장중 +12.4% 상승, 거래량 3개월 평균 대비 0.7배, 거래대금 상위 종목",
-      "score": 9.06
+      "reason": "장중 +10.7% 상승, 거래량 3개월 평균 대비 2.4배",
+      "score": 25.97
     },
     {
-      "symbol": "NVDA",
-      "name": "NVIDIA Corporation",
-      "price": 226.67,
-      "change_percent": 8.11,
-      "volume": 152325582,
-      "avg_volume_3m": 139199149,
-      "relative_volume": 1.09,
-      "market_cap": 5490174066688,
-      "exchange": "NasdaqGS",
+      "symbol": "RBRK",
+      "name": "Rubrik, Inc.",
+      "price": 107.02,
+      "change_percent": 11.33,
+      "volume": 7884656,
+      "avg_volume_3m": 3604514,
+      "relative_volume": 2.19,
+      "market_cap": 22027771904,
+      "exchange": "NYSE",
       "sources": [
-        "day_gainers",
-        "most_actives"
+        "day_gainers"
       ],
-      "reason": "장중 +8.1% 상승, 거래량 3개월 평균 대비 1.1배, 거래대금 상위 종목",
-      "score": 8.88
+      "reason": "장중 +11.3% 상승, 거래량 3개월 평균 대비 2.2배",
+      "score": 24.78
     },
     {
       "symbol": "SAIL",
       "name": "SailPoint, Inc.",
-      "price": 20.655,
-      "change_percent": 13.36,
-      "volume": 2760671,
+      "price": 20.45,
+      "change_percent": 12.24,
+      "volume": 8438179,
       "avg_volume_3m": 4347531,
-      "relative_volume": 0.63,
-      "market_cap": 11715165184,
+      "relative_volume": 1.94,
+      "market_cap": 11598892032,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +13.4% 상승, 거래량 3개월 평균 대비 0.6배",
-      "score": 8.49
+      "reason": "장중 +12.2% 상승, 거래량 3개월 평균 대비 1.9배",
+      "score": 23.76
     },
     {
-      "symbol": "NEO",
-      "name": "NeoGenomics, Inc.",
-      "price": 19.02,
-      "change_percent": 9.5,
-      "volume": 2396913,
-      "avg_volume_3m": 2782669,
-      "relative_volume": 0.86,
-      "market_cap": 2476627968,
-      "exchange": "NasdaqCM",
+      "symbol": "MSTR",
+      "name": "Strategy Inc",
+      "price": 137.4,
+      "change_percent": 11.54,
+      "volume": 43908722,
+      "avg_volume_3m": 22803546,
+      "relative_volume": 1.93,
+      "market_cap": 54586499072,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers",
+        "most_actives"
+      ],
+      "reason": "장중 +11.5% 상승, 거래량 3개월 평균 대비 1.9배, 거래대금 상위 종목",
+      "score": 22.21
+    },
+    {
+      "symbol": "ASST",
+      "name": "Strive, Inc.",
+      "price": 23.12,
+      "change_percent": 7.53,
+      "volume": 13227141,
+      "avg_volume_3m": 4621065,
+      "relative_volume": 2.86,
+      "market_cap": 2073480832,
+      "exchange": "NasdaqGM",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +9.5% 상승, 거래량 3개월 평균 대비 0.9배",
-      "score": 8.18
+      "reason": "장중 +7.5% 상승, 거래량 3개월 평균 대비 2.9배",
+      "score": 21.57
     },
     {
-      "symbol": "HPQ",
-      "name": "HP Inc.",
-      "price": 28.715,
-      "change_percent": -5.91,
-      "volume": 22848082,
-      "avg_volume_3m": 16983773,
-      "relative_volume": 1.35,
-      "market_cap": 26260518912,
-      "exchange": "NYSE",
+      "symbol": "BULL",
+      "name": "Webull Corporation",
+      "price": 9.57,
+      "change_percent": 9.0,
+      "volume": 26965730,
+      "avg_volume_3m": 12484684,
+      "relative_volume": 2.16,
+      "market_cap": 5069845504,
+      "exchange": "NasdaqCM",
       "sources": [
+        "day_gainers",
         "most_actives"
       ],
-      "reason": "장중 -5.9% 하락, 거래량 3개월 평균 대비 1.3배, 거래대금 상위 종목",
-      "score": 7.96
+      "reason": "장중 +9.0% 상승, 거래량 3개월 평균 대비 2.2배, 거래대금 상위 종목",
+      "score": 19.43
+    },
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA Corporation",
+      "price": 227.98,
+      "change_percent": 8.74,
+      "volume": 297197891,
+      "avg_volume_3m": 139199149,
+      "relative_volume": 2.14,
+      "market_cap": 5521903452160,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers",
+        "most_actives"
+      ],
+      "reason": "장중 +8.7% 상승, 거래량 3개월 평균 대비 2.1배, 거래대금 상위 종목",
+      "score": 18.66
     }
   ]
 }
