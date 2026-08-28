@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-28T01:01:48+09:00",
-  "last_attempt_at": "2026-08-28T06:12:34+09:00",
+  "updated_at": "2026-08-28T15:48:02+09:00",
+  "last_attempt_at": "2026-08-28T15:48:02+09:00",
   "districts": [
     "성동구",
     "중구",
@@ -263,18 +263,6 @@
     },
     {
       "district": "송파구",
-      "case_no": "서울동부지방법원 2024타경54093 2024타경65253 (중복)",
-      "item_no": "1",
-      "address": "서울특별시 송파구 오금로44길 47 102동 12층1201호 (가락동,동궁리치웰아파트) [집합건물 철근콘크리트구조 83.90㎡]",
-      "remarks": "",
-      "appraisal_amount": "1,090,000,000",
-      "court_and_date": "경매5계 2026.08.31",
-      "usage": "아파트",
-      "min_sale_price": "1,090,000,000 (100%)",
-      "status": "신건"
-    },
-    {
-      "district": "송파구",
       "case_no": "서울동부지방법원 2025타경424 2025타경51343 (중복)",
       "item_no": "1",
       "address": "서울특별시 송파구 가락동 913 헬리오시티 205동 23층2304호 [집합건물 철근콘크리트구조 84.99㎡]",
@@ -368,13 +356,19 @@
       "usage": "아파트",
       "min_sale_price": "385,096,000 (80%)",
       "status": "유찰 1회"
+    },
+    {
+      "district": "송파구",
+      "case_no": "서울동부지방법원 2025타경52314",
+      "item_no": "1",
+      "address": "서울특별시 송파구 방이동 89 올림픽선수기자촌아파트 103동 16층1603호 [집합건물 철근콘크리트조 83.06㎡ 공유자지분 중 2분의 1 홍성건 지분]",
+      "remarks": "공유자 지분 중 채무자 지분(2분의 1)에 대한 매각 공유자의 우선매수신고는 1회에 한하여 행사할 수 있음(공유자가 우선매수권 신고 후 매각기일까지 매수보증금을 미납하여 실효되는 경우에는 그 공유자는 이후 매각기일부터는 우선매수권을 행사할 수 없음)",
+      "appraisal_amount": "1,560,000,000",
+      "court_and_date": "경매6계 2026.09.07",
+      "usage": "아파트",
+      "min_sale_price": "1,560,000,000 (100%)",
+      "status": "신건"
     }
   ],
-  "errors": [
-    "성동구: HTTPConnectionPool(host='localhost', port=33779): Read timed out. (read timeout=120)",
-    "중구: HTTPConnectionPool(host='localhost', port=33779): Read timed out. (read timeout=120)",
-    "동대문구: HTTPConnectionPool(host='localhost', port=33779): Read timed out. (read timeout=120)",
-    "광진구: HTTPConnectionPool(host='localhost', port=33779): Read timed out. (read timeout=120)",
-    "송파구: HTTPConnectionPool(host='localhost', port=33779): Read timed out. (read timeout=120)"
-  ]
+  "errors": []
 }
