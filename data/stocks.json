@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T06:37:22+09:00",
+  "updated_at": "2026-08-29T13:19:13+09:00",
   "disclaimer": "이 목록은 공개 시세 데이터(거래량, 변동률)를 기준으로 자동 정렬한 결과이며 특정 종목의 매수/매도를 추천하지 않습니다. 투자 판단과 책임은 본인에게 있습니다.",
   "criteria": {
     "min_price": 5.0,
@@ -16,15 +16,15 @@
       "price": 99.91,
       "change_percent": 19.31,
       "volume": 10104560,
-      "avg_volume_3m": 2166039,
-      "relative_volume": 4.66,
-      "market_cap": 10465720320,
+      "avg_volume_3m": 2081601,
+      "relative_volume": 4.85,
+      "market_cap": 10385808384,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +19.3% 상승, 거래량 3개월 평균 대비 4.7배",
-      "score": 90.08
+      "reason": "장중 +19.3% 상승, 거래량 3개월 평균 대비 4.9배",
+      "score": 93.73
     },
     {
       "symbol": "SOLS",
@@ -32,15 +32,15 @@
       "price": 63.53,
       "change_percent": 12.76,
       "volume": 16437232,
-      "avg_volume_3m": 2991993,
-      "relative_volume": 5.49,
+      "avg_volume_3m": 3016411,
+      "relative_volume": 5.45,
       "market_cap": 10091573248,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +12.8% 상승, 거래량 3개월 평균 대비 5.5배",
-      "score": 70.11
+      "reason": "장중 +12.8% 상승, 거래량 3개월 평균 대비 5.4배",
+      "score": 69.54
     },
     {
       "symbol": "GAP",
@@ -48,16 +48,16 @@
       "price": 23.48,
       "change_percent": 12.94,
       "volume": 26351139,
-      "avg_volume_3m": 7743506,
-      "relative_volume": 3.4,
+      "avg_volume_3m": 7327491,
+      "relative_volume": 3.6,
       "market_cap": 8452305408,
       "exchange": "NYSE",
       "sources": [
         "day_gainers",
         "most_actives"
       ],
-      "reason": "장중 +12.9% 상승, 거래량 3개월 평균 대비 3.4배, 거래대금 상위 종목",
-      "score": 44.03
+      "reason": "장중 +12.9% 상승, 거래량 3개월 평균 대비 3.6배, 거래대금 상위 종목",
+      "score": 46.53
     },
     {
       "symbol": "PCG",
@@ -65,15 +65,15 @@
       "price": 16.6,
       "change_percent": -7.52,
       "volume": 114326369,
-      "avg_volume_3m": 21105398,
-      "relative_volume": 5.42,
+      "avg_volume_3m": 21046553,
+      "relative_volume": 5.43,
       "market_cap": 36559294464,
       "exchange": "NYSE",
       "sources": [
         "most_actives"
       ],
       "reason": "장중 -7.5% 하락, 거래량 3개월 평균 대비 5.4배, 거래대금 상위 종목",
-      "score": 40.74
+      "score": 40.85
     },
     {
       "symbol": "PYPL",
@@ -83,7 +83,7 @@
       "volume": 36208248,
       "avg_volume_3m": 15688344,
       "relative_volume": 2.31,
-      "market_cap": 46254919680,
+      "market_cap": 45904031744,
       "exchange": "NasdaqGS",
       "sources": [
         "most_actives"
@@ -97,7 +97,7 @@
       "price": 35.45,
       "change_percent": -12.53,
       "volume": 89323370,
-      "avg_volume_3m": 44822923,
+      "avg_volume_3m": 44790425,
       "relative_volume": 1.99,
       "market_cap": 12669074432,
       "exchange": "NasdaqGS",
@@ -105,7 +105,7 @@
         "most_actives"
       ],
       "reason": "장중 -12.5% 하락, 거래량 3개월 평균 대비 2.0배, 거래대금 상위 종목",
-      "score": 24.98
+      "score": 25.0
     },
     {
       "symbol": "PURR",
@@ -113,15 +113,15 @@
       "price": 11.61,
       "change_percent": -9.51,
       "volume": 37743064,
-      "avg_volume_3m": 15719565,
-      "relative_volume": 2.4,
+      "avg_volume_3m": 15474437,
+      "relative_volume": 2.44,
       "market_cap": 2328544512,
       "exchange": "NasdaqCM",
       "sources": [
         "most_actives"
       ],
       "reason": "장중 -9.5% 하락, 거래량 3개월 평균 대비 2.4배, 거래대금 상위 종목",
-      "score": 22.83
+      "score": 23.19
     },
     {
       "symbol": "ACM",
@@ -129,15 +129,15 @@
       "price": 69.17,
       "change_percent": 4.42,
       "volume": 7115484,
-      "avg_volume_3m": 2163755,
-      "relative_volume": 3.29,
+      "avg_volume_3m": 1935187,
+      "relative_volume": 3.68,
       "market_cap": 8901931008,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +4.4% 상승, 거래량 3개월 평균 대비 3.3배",
-      "score": 14.55
+      "reason": "장중 +4.4% 상승, 거래량 3개월 평균 대비 3.7배",
+      "score": 16.26
     },
     {
       "symbol": "CHA",
@@ -145,15 +145,15 @@
       "price": 10.8,
       "change_percent": 4.35,
       "volume": 2011564,
-      "avg_volume_3m": 682174,
-      "relative_volume": 2.95,
+      "avg_volume_3m": 631080,
+      "relative_volume": 3.19,
       "market_cap": 2060243968,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +4.3% 상승, 거래량 3개월 평균 대비 2.9배",
-      "score": 12.82
+      "reason": "장중 +4.3% 상승, 거래량 3개월 평균 대비 3.2배",
+      "score": 13.86
     },
     {
       "symbol": "MRVL",
@@ -161,7 +161,7 @@
       "price": 216.62,
       "change_percent": -10.28,
       "volume": 48739012,
-      "avg_volume_3m": 39994906,
+      "avg_volume_3m": 40114370,
       "relative_volume": 1.22,
       "market_cap": 194677391360,
       "exchange": "NasdaqGS",
@@ -169,7 +169,7 @@
         "most_actives"
       ],
       "reason": "장중 -10.3% 하락, 거래량 3개월 평균 대비 1.2배, 거래대금 상위 종목",
-      "score": 12.53
+      "score": 12.49
     },
     {
       "symbol": "BEKE",
@@ -177,31 +177,15 @@
       "price": 18.32,
       "change_percent": 3.33,
       "volume": 14122368,
-      "avg_volume_3m": 3868439,
-      "relative_volume": 3.65,
+      "avg_volume_3m": 3879219,
+      "relative_volume": 3.64,
       "market_cap": 20209803264,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +3.3% 상승, 거래량 3개월 평균 대비 3.7배",
-      "score": 12.15
-    },
-    {
-      "symbol": "CIFR",
-      "name": "Cipher Digital Inc.",
-      "price": 15.17,
-      "change_percent": -9.54,
-      "volume": 30699841,
-      "avg_volume_3m": 29538093,
-      "relative_volume": 1.04,
-      "market_cap": 6296015872,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "most_actives"
-      ],
-      "reason": "장중 -9.5% 하락, 거래량 3개월 평균 대비 1.0배, 거래대금 상위 종목",
-      "score": 9.92
+      "reason": "장중 +3.3% 상승, 거래량 3개월 평균 대비 3.6배",
+      "score": 12.11
     },
     {
       "symbol": "WDAY",
@@ -209,15 +193,31 @@
       "price": 204.72,
       "change_percent": 5.76,
       "volume": 8655791,
-      "avg_volume_3m": 5043079,
-      "relative_volume": 1.72,
+      "avg_volume_3m": 4944143,
+      "relative_volume": 1.75,
       "market_cap": 50560409600,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +5.8% 상승, 거래량 3개월 평균 대비 1.7배",
-      "score": 9.89
+      "reason": "장중 +5.8% 상승, 거래량 3개월 평균 대비 1.8배",
+      "score": 10.08
+    },
+    {
+      "symbol": "CIFR",
+      "name": "Cipher Digital Inc.",
+      "price": 15.17,
+      "change_percent": -9.54,
+      "volume": 30699841,
+      "avg_volume_3m": 29742379,
+      "relative_volume": 1.03,
+      "market_cap": 6296015872,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "most_actives"
+      ],
+      "reason": "장중 -9.5% 하락, 거래량 3개월 평균 대비 1.0배, 거래대금 상위 종목",
+      "score": 9.85
     },
     {
       "symbol": "MSTR",
@@ -225,7 +225,7 @@
       "price": 127.31,
       "change_percent": -7.34,
       "volume": 30989446,
-      "avg_volume_3m": 23248584,
+      "avg_volume_3m": 23318132,
       "relative_volume": 1.33,
       "market_cap": 50577928192,
       "exchange": "NasdaqGS",
@@ -233,7 +233,7 @@
         "most_actives"
       ],
       "reason": "장중 -7.3% 하락, 거래량 3개월 평균 대비 1.3배, 거래대금 상위 종목",
-      "score": 9.79
+      "score": 9.76
     },
     {
       "symbol": "BMNR",
@@ -241,15 +241,15 @@
       "price": 23.8,
       "change_percent": -7.14,
       "volume": 51078477,
-      "avg_volume_3m": 38803304,
-      "relative_volume": 1.32,
+      "avg_volume_3m": 38867356,
+      "relative_volume": 1.31,
       "market_cap": 14356787200,
       "exchange": "NYSE",
       "sources": [
         "most_actives"
       ],
       "reason": "장중 -7.1% 하락, 거래량 3개월 평균 대비 1.3배, 거래대금 상위 종목",
-      "score": 9.4
+      "score": 9.38
     }
   ]
 }
