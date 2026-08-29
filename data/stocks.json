@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T20:43:07+09:00",
+  "updated_at": "2026-08-30T00:31:24+09:00",
   "disclaimer": "이 목록은 공개 시세 데이터(거래량, 변동률)를 기준으로 자동 정렬한 결과이며 특정 종목의 매수/매도를 추천하지 않습니다. 투자 판단과 책임은 본인에게 있습니다.",
   "criteria": {
     "min_price": 5.0,
@@ -113,15 +113,15 @@
       "price": 11.61,
       "change_percent": -9.51,
       "volume": 37743064,
-      "avg_volume_3m": 15723736,
-      "relative_volume": 2.4,
+      "avg_volume_3m": 15474437,
+      "relative_volume": 2.44,
       "market_cap": 2296894464,
       "exchange": "NasdaqCM",
       "sources": [
         "most_actives"
       ],
       "reason": "장중 -9.5% 하락, 거래량 3개월 평균 대비 2.4배, 거래대금 상위 종목",
-      "score": 22.83
+      "score": 23.19
     },
     {
       "symbol": "ACM",
@@ -145,15 +145,15 @@
       "price": 10.8,
       "change_percent": 4.35,
       "volume": 2011564,
-      "avg_volume_3m": 682379,
-      "relative_volume": 2.95,
+      "avg_volume_3m": 631080,
+      "relative_volume": 3.19,
       "market_cap": 2060243968,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +4.3% 상승, 거래량 3개월 평균 대비 2.9배",
-      "score": 12.82
+      "reason": "장중 +4.3% 상승, 거래량 3개월 평균 대비 3.2배",
+      "score": 13.86
     },
     {
       "symbol": "MRVL",
