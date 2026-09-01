@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T10:40:48+09:00",
+  "updated_at": "2026-09-01T18:58:07+09:00",
   "disclaimer": "이 목록은 공개 시세 데이터(거래량, 변동률)를 기준으로 자동 정렬한 결과이며 특정 종목의 매수/매도를 추천하지 않습니다. 투자 판단과 책임은 본인에게 있습니다.",
   "criteria": {
     "min_price": 5.0,
@@ -16,15 +16,15 @@
       "price": 13.27,
       "change_percent": -20.06,
       "volume": 153622033,
-      "avg_volume_3m": 22527573,
-      "relative_volume": 6.82,
+      "avg_volume_3m": 24768365,
+      "relative_volume": 6.2,
       "market_cap": 29225410560,
       "exchange": "NYSE",
       "sources": [
         "most_actives"
       ],
-      "reason": "장중 -20.1% 하락, 거래량 3개월 평균 대비 6.8배, 거래대금 상위 종목",
-      "score": 136.8
+      "reason": "장중 -20.1% 하락, 거래량 3개월 평균 대비 6.2배, 거래대금 상위 종목",
+      "score": 124.42
     },
     {
       "symbol": "CHA",
@@ -48,15 +48,15 @@
       "price": 24.22,
       "change_percent": 11.41,
       "volume": 14946050,
-      "avg_volume_3m": 4837520,
-      "relative_volume": 3.09,
-      "market_cap": 2172132352,
+      "avg_volume_3m": 4992374,
+      "relative_volume": 2.99,
+      "market_cap": 2258819328,
       "exchange": "NasdaqGM",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +11.4% 상승, 거래량 3개월 평균 대비 3.1배",
-      "score": 35.24
+      "reason": "장중 +11.4% 상승, 거래량 3개월 평균 대비 3.0배",
+      "score": 34.15
     },
     {
       "symbol": "STDN",
@@ -64,47 +64,15 @@
       "price": 16.11,
       "change_percent": 14.26,
       "volume": 1836511,
-      "avg_volume_3m": 1106975,
-      "relative_volume": 1.66,
+      "avg_volume_3m": 1129575,
+      "relative_volume": 1.63,
       "market_cap": 2588450816,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +14.3% 상승, 거래량 3개월 평균 대비 1.7배",
-      "score": 23.65
-    },
-    {
-      "symbol": "TRMB",
-      "name": "Trimble Inc.",
-      "price": 59.94,
-      "change_percent": -1.75,
-      "volume": 25870386,
-      "avg_volume_3m": 2944047,
-      "relative_volume": 8.79,
-      "market_cap": 13976799232,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "most_actives"
-      ],
-      "reason": "장중 -1.8% 하락, 거래량 3개월 평균 대비 8.8배, 거래대금 상위 종목",
-      "score": 15.41
-    },
-    {
-      "symbol": "APTV",
-      "name": "Aptiv PLC",
-      "price": 44.76,
-      "change_percent": -2.16,
-      "volume": 25126258,
-      "avg_volume_3m": 3634706,
-      "relative_volume": 6.91,
-      "market_cap": 9293667328,
-      "exchange": "NYSE",
-      "sources": [
-        "most_actives"
-      ],
-      "reason": "장중 -2.2% 하락, 거래량 3개월 평균 대비 6.9배, 거래대금 상위 종목",
-      "score": 14.96
+      "reason": "장중 +14.3% 상승, 거래량 3개월 평균 대비 1.6배",
+      "score": 23.18
     },
     {
       "symbol": "PURR",
@@ -112,7 +80,7 @@
       "price": 12.25,
       "change_percent": 5.51,
       "volume": 40334050,
-      "avg_volume_3m": 15813215,
+      "avg_volume_3m": 15829249,
       "relative_volume": 2.55,
       "market_cap": 2423510528,
       "exchange": "NasdaqCM",
@@ -120,8 +88,8 @@
         "day_gainers",
         "most_actives"
       ],
-      "reason": "장중 +5.5% 상승, 거래량 3개월 평균 대비 2.6배, 거래대금 상위 종목",
-      "score": 14.06
+      "reason": "장중 +5.5% 상승, 거래량 3개월 평균 대비 2.5배, 거래대금 상위 종목",
+      "score": 14.05
     },
     {
       "symbol": "CRCL",
@@ -129,15 +97,47 @@
       "price": 95.55,
       "change_percent": 9.65,
       "volume": 19713591,
-      "avg_volume_3m": 13881234,
-      "relative_volume": 1.42,
+      "avg_volume_3m": 13792958,
+      "relative_volume": 1.43,
       "market_cap": 26046367744,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +9.7% 상승, 거래량 3개월 평균 대비 1.4배",
-      "score": 13.71
+      "score": 13.79
+    },
+    {
+      "symbol": "TRMB",
+      "name": "Trimble Inc.",
+      "price": 59.94,
+      "change_percent": -1.75,
+      "volume": 25870386,
+      "avg_volume_3m": 3296126,
+      "relative_volume": 7.85,
+      "market_cap": 13976799232,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "most_actives"
+      ],
+      "reason": "장중 -1.8% 하락, 거래량 3개월 평균 대비 7.8배, 거래대금 상위 종목",
+      "score": 13.77
+    },
+    {
+      "symbol": "APTV",
+      "name": "Aptiv PLC",
+      "price": 44.76,
+      "change_percent": -2.16,
+      "volume": 25126258,
+      "avg_volume_3m": 3953825,
+      "relative_volume": 6.35,
+      "market_cap": 9293667328,
+      "exchange": "NYSE",
+      "sources": [
+        "most_actives"
+      ],
+      "reason": "장중 -2.2% 하락, 거래량 3개월 평균 대비 6.4배, 거래대금 상위 종목",
+      "score": 13.75
     },
     {
       "symbol": "SLB",
@@ -145,8 +145,8 @@
       "price": 60.1,
       "change_percent": 4.83,
       "volume": 35079742,
-      "avg_volume_3m": 13274707,
-      "relative_volume": 2.64,
+      "avg_volume_3m": 13627307,
+      "relative_volume": 2.57,
       "market_cap": 89197002752,
       "exchange": "NYSE",
       "sources": [
@@ -154,7 +154,7 @@
         "most_actives"
       ],
       "reason": "장중 +4.8% 상승, 거래량 3개월 평균 대비 2.6배, 거래대금 상위 종목",
-      "score": 12.77
+      "score": 12.44
     },
     {
       "symbol": "RBLX",
@@ -162,15 +162,15 @@
       "price": 41.29,
       "change_percent": 7.16,
       "volume": 19515477,
-      "avg_volume_3m": 11867896,
-      "relative_volume": 1.64,
+      "avg_volume_3m": 12016100,
+      "relative_volume": 1.62,
       "market_cap": 29496582144,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +7.2% 상승, 거래량 3개월 평균 대비 1.6배",
-      "score": 11.78
+      "score": 11.63
     },
     {
       "symbol": "XE",
@@ -194,31 +194,15 @@
       "price": 147.49,
       "change_percent": 6.78,
       "volume": 844979,
-      "avg_volume_3m": 554065,
-      "relative_volume": 1.53,
+      "avg_volume_3m": 559641,
+      "relative_volume": 1.51,
       "market_cap": 5210195456,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +6.8% 상승, 거래량 3개월 평균 대비 1.5배",
-      "score": 10.35
-    },
-    {
-      "symbol": "CNH",
-      "name": "CNH Industrial N.V.",
-      "price": 11.83,
-      "change_percent": 1.28,
-      "volume": 103166413,
-      "avg_volume_3m": 13008333,
-      "relative_volume": 7.93,
-      "market_cap": 19024517120,
-      "exchange": "NYSE",
-      "sources": [
-        "most_actives"
-      ],
-      "reason": "장중 +1.3% 상승, 거래량 3개월 평균 대비 7.9배, 거래대금 상위 종목",
-      "score": 10.19
+      "score": 10.24
     },
     {
       "symbol": "BBAR",
@@ -237,12 +221,28 @@
       "score": 10.11
     },
     {
+      "symbol": "SUNB",
+      "name": "Sunbelt Rentals Holdings, Inc.",
+      "price": 72.28,
+      "change_percent": -1.26,
+      "volume": 28446352,
+      "avg_volume_3m": 3629425,
+      "relative_volume": 7.84,
+      "market_cap": 29631008768,
+      "exchange": "NYSE",
+      "sources": [
+        "most_actives"
+      ],
+      "reason": "장중 -1.3% 하락, 거래량 3개월 평균 대비 7.8배, 거래대금 상위 종목",
+      "score": 9.85
+    },
+    {
       "symbol": "CRWD",
       "name": "CrowdStrike Holdings, Inc.",
       "price": 231.0,
       "change_percent": 5.77,
       "volume": 17747398,
-      "avg_volume_3m": 10772971,
+      "avg_volume_3m": 10764501,
       "relative_volume": 1.65,
       "market_cap": 236528943104,
       "exchange": "NasdaqGS",
@@ -250,7 +250,7 @@
         "day_gainers"
       ],
       "reason": "장중 +5.8% 상승, 거래량 3개월 평균 대비 1.6배",
-      "score": 9.5
+      "score": 9.51
     }
   ]
 }
