@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-09-02T00:41:17+09:00",
+  "updated_at": "2026-09-02T09:51:36+09:00",
   "quote": {
     "symbol": "META",
-    "price": 580.5,
+    "price": 578.54,
     "previous_close": 572.0,
-    "change": 8.5,
-    "change_percent": 1.49,
+    "change": 6.54,
+    "change_percent": 1.14,
     "currency": "USD",
-    "day_high": 581.760009765625,
+    "day_high": 584.9000244140625,
     "day_low": 556.2899780273438,
-    "market_cap": 1478827363612.5
+    "market_cap": 1473834195436.0215
   },
   "articles": [
-    {
-      "title": "Meta Vs. Google: Analyst Says AI Boost Puts Facebook Parent On Track For Ad Crown - Investor's Business Daily",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWlYxcXlmekJtSVE0bmhWRXhneDN4VGpjMFkwSUxFRHhmdUVOWnQ0RUxaQTZMWmxVZC16WDNxdHg4WVZsaEV2bmtxbGpncU10TDJxVl9yODRxRkowTUtQRDNWdC0waW9UVGlQUFQ4TEdXSzlROWc2NmsxU1RoX3ZCalJxUFh3LWhjZ24wTVJKQnVVYUU?oc=5",
-      "source": "Investor's Business Daily",
-      "published": "Mon, 31 Aug 2026 14:42:00 GMT"
-    },
     {
       "title": "Great News for Meta Stock Investors - The Motley Fool",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQT2R0N3NYQnhNNGhfamFYNGw3Yy1GcjBxckZnSW1EN1pLWnJiU2xwckE0TEhCMjNpNTBLS1JoR3FQU2xuWDltWm1FRjFLa1ktS1hfZG83RE1RNll4ZDROMlo5R3BtWDc1YzhoX1pnNWhDYW90anNnT3RkYTAyQUl6YVlMeE0?oc=5",
       "source": "The Motley Fool",
-      "published": "Tue, 01 Sep 2026 15:36:02 GMT"
+      "published": "Tue, 01 Sep 2026 16:00:00 GMT"
+    },
+    {
+      "title": "Meta Stock Gives You More Of The Market, Not Less Of It - Trefis",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaTJPVnd4ckJWN1R0T0M3NnluSUFiS2FtZktsbXBERkpQUWFWR3J5U09hdGNfVTlCLVUwdzJIM3JSZHcwSmJmcUNqd0xUNkdZNXVYc3g0VXo3WHZ4T1dBekc4TzhhbU9Yck81c2N1VE0yRTI2TG5oalBFSV91VGFkZmc5dE4yZzM5a3AtU2VVSG9HemYzamNOTUduZE9VOUJvMEppYi1IYlFWTVBvSUp3SVU1TGU?oc=5",
+      "source": "Trefis",
+      "published": "Mon, 31 Aug 2026 19:12:22 GMT"
     },
     {
       "title": "Meta Stock And Founder Led Peers Built For Higher Rates - Yahoo Finance",
@@ -31,10 +31,16 @@
       "published": "Sun, 30 Aug 2026 20:18:35 GMT"
     },
     {
-      "title": "Meta Stock Gives You More Of The Market, Not Less Of It - trefis.com",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaTJPVnd4ckJWN1R0T0M3NnluSUFiS2FtZktsbXBERkpQUWFWR3J5U09hdGNfVTlCLVUwdzJIM3JSZHcwSmJmcUNqd0xUNkdZNXVYc3g0VXo3WHZ4T1dBekc4TzhhbU9Yck81c2N1VE0yRTI2TG5oalBFSV91VGFkZmc5dE4yZzM5a3AtU2VVSG9HemYzamNOTUduZE9VOUJvMEppYi1IYlFWTVBvSUp3SVU1TGU?oc=5",
-      "source": "trefis.com",
-      "published": "Mon, 31 Aug 2026 19:12:22 GMT"
+      "title": "Great News for Meta Stock Investors - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRzZHYnZnYTF3MUpMZjlCaDNocWwwTkFNRXU1a0RVN2E3bWxXMXFHNmc2NDRjbjROVFp1emxvTUNWOTlPMThwck1Janhrd3c1NTdFejYySmhlbTExampfY3kxbGs2MmRndjVvS3N6NjNCOTV1ZjdxN01qRkFtV01ZeHpyTE5TZnVQMXFJN3NWSFlqWmJkTEpWV1d4RTJXLVVjRzlmVFQ0VXBpcjgxRkptajN6Nmg?oc=5",
+      "source": "The Globe and Mail",
+      "published": "Tue, 01 Sep 2026 15:30:12 GMT"
+    },
+    {
+      "title": "Meta Is Catching Google in Ads. Which Stock Does Wall Street Favor? - BeInCrypto",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5OWUtsRHprWmptM0o5VHV4SlpfMG12WGMxS05UZmhhUzZ5VEM2UXUtYlJVUkJGUjRtWFV3cF9XN0NxLS1MX1BjREdSS2ZLaVE1Wklwc2Nlb0RuZUtoWE5vQUZZd2VlSzlJ?oc=5",
+      "source": "BeInCrypto",
+      "published": "Tue, 01 Sep 2026 19:36:00 GMT"
     },
     {
       "title": "Bernstein reiterates Meta stock Outperform on AI ad strength - Investing.com",
@@ -43,58 +49,22 @@
       "published": "Tue, 01 Sep 2026 14:48:46 GMT"
     },
     {
+      "title": "Meta Stock Could Have 50% Upside. Here’s the Bull Case - 247wallst.com",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRU1FY3U5bXhBSzg1bGVkaS1lZTI4WE9RWm1Cdm9WUGZtZUVBX1lSb1hQazN5QVItTFVoV1BneTNlTHNtX1N0VW9ySXN4N3UxWFNOTVJtQ2ZFdFpqUFByMkRLZzVrX2lGc0E2eGtpM3lZRnhGMTNWSU1JUllWSU9jTFZLMVF4Q3d0ekZBYVJvMTBYNVdKR0RGaWpnRQ?oc=5",
+      "source": "247wallst.com",
+      "published": "Fri, 28 Aug 2026 13:00:00 GMT"
+    },
+    {
       "title": "Meta Stock Leads Founder Run Tech Names Worth A Closer Look - simplywall.st",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUWF6eVJJejY4NUxjRXVNSWZBOUhGaGZ5dkVfV1BkTFpOM2ZLU19ldTR3ZldzME9WNm11VWFpM0M5ZnJQdzV3UHpjR1MtdkdSQjIxUXFrdlc0QnBCSjZkWDRETDZWLXNzMkhFTk02UWt1a3JGbU5veERFZ1Z4TFhVallwbkNXOGYycnhIZDNQMUxCaHREMzlhY3djZlF4X2EyTjVRLXJVYk9sQl9KZFZiUUh6RXZYeXRhaDdxVlZjc0tMM2FlWDFPOdIBzgFBVV95cUxNY2VQMUs4dzhjbHZrN280NzluN1R0d1p4UUNJa3U1V05CWUEwN01iWFJIWVV2N3FiR0dGSlpPVTByeDRfRF96a1cyNzBVSVlaMC1Qc3NraXRmVTJIMEctN1Z4bjJsOXFkdnI4NVFzY3ZDWDlDMkhfYzdrd1VYSkdQWjV3Nk53ZkRMTnJnUmQ2TU1xdnhFd0ZqbEZDd0kweEpKUzgyWXJnZXpsVDlwMVk5WnpuWkVrQjRuUkM2V2hjcVU1eXdfWUVEeDgzVC1EQQ?oc=5",
       "source": "simplywall.st",
       "published": "Mon, 31 Aug 2026 17:28:09 GMT"
     },
     {
-      "title": "Meta Stock Could Have 50% Upside. Here’s the Bull Case - 24/7 Wall St.",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRU1FY3U5bXhBSzg1bGVkaS1lZTI4WE9RWm1Cdm9WUGZtZUVBX1lSb1hQazN5QVItTFVoV1BneTNlTHNtX1N0VW9ySXN4N3UxWFNOTVJtQ2ZFdFpqUFByMkRLZzVrX2lGc0E2eGtpM3lZRnhGMTNWSU1JUllWSU9jTFZLMVF4Q3d0ekZBYVJvMTBYNVdKR0RGaWpnRQ?oc=5",
-      "source": "24/7 Wall St.",
-      "published": "Fri, 28 Aug 2026 13:00:00 GMT"
-    },
-    {
-      "title": "Meta’s stock looks too cheap, analysts say. Why it’s now set up for a Google-style rally. - MarketWatch",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWXNPTVNNYmNadE5lR2RqcVZObDJyTkFvYzIyUjMtNlVuMk5kNE1oRFVVLS1PTk9ucFVnb0RTVnFuaUJDR3ZublIyNmpReVdwbmRKbUhWUHdjdU42d0xPMTJHXzAxZWxvTUhjOHdtRXVhUmFxeU5KQ2podTV0VldNcnM2djFZUUhtcXpYdU1BdTExUGtTUUlRT254MjVwSmJTam1odXZGT0MwNDFSSDFabm9pT3BGSDJMQ2FVSlQwYjJ1cXJTUnc?oc=5",
-      "source": "MarketWatch",
-      "published": "Mon, 31 Aug 2026 18:12:00 GMT"
-    },
-    {
-      "title": "Prediction: Meta Stock Reclaims Its All-Time High Before 2029. - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOR1g4M2V2Z3lZRzN5d051cUtKRWgyQjhLemhqbW5RaElvVG4tQW1jWHYtQTlGSnpWU3J2a2lVMHJJSWQzeERTUnozN01fRjRhQzdpODBiMnlpX1piZ2tLYVRFaWM0ckFsX0syOFZJMlJ6MF96Z3Zhc2h0ejZuY2hMTEZCVXpjY2JHVHFrWjFLZmFKZDc4TWxBNkxSVi1iUncwaW1pYkljTWVzQy1tVlFLZDhIcjlibjVaeTVPNExXaVdnX2djZGY3QlM1ejFLZWE0RVB0YWx0Wk5LSVlSeEE?oc=5",
-      "source": "The Globe and Mail",
-      "published": "Mon, 31 Aug 2026 08:52:50 GMT"
-    },
-    {
-      "title": "Great News for Meta Stock Investors - AOL.com",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQ05oSTBiSi1jazZuSzZDaG1mNkI2RHA0WG5ZMUdRSnhSNXFYYUVTUWYxQ3dSWjRTODBfLVFxX3F4UThuUlAtcFNwTWdvdEZIMG0wWFBlWkVLVkh3YVB1eXVULUd2c3AwVjdZX1IzeVRVSUxuZjhvdUIwdVpQNEE3dA?oc=5",
-      "source": "AOL.com",
-      "published": "Tue, 01 Sep 2026 15:20:01 GMT"
-    },
-    {
-      "title": "Massive News for Meta Stock Investors - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObVRGYTdWM2V1bDhIanlfVnk2Vk5raWVkQU5XMkJHZ1Z1U3hUMXE5cWFnVTNXQ3ozNjE3bzA4c2kzUXNKR2lZcDNzOE02UlhGenZPLVJ3ZTd5TEluWmJyNE03NlBDVTQxQ2ZZTWVQaXBtaHRIcHpyMkFlbENLWXpMb01fR0VOeEE?oc=5",
-      "source": "The Motley Fool",
-      "published": "Sat, 29 Aug 2026 02:43:10 GMT"
-    },
-    {
-      "title": "Meta Stock And 2 Founder Led AI Picks For Higher Rates - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUERwY3RkS3BPUk1VQTBwb3FZYngzaFo2M2pySk5iekw3TElaQkxzSlFubjRIWHRSajByR1VfM1pubk1vX2NkVnpTZDViblY3SWdZUUZHa1IyZGFvYzNJTWZ1c2lTdUFuOWpwaFY2eFNNcFhSYmU2R1d3MkRxb0J0dFI1dzdwRlBaVGwtSlFET3BYSWs?oc=5",
-      "source": "Yahoo Finance",
-      "published": "Sat, 29 Aug 2026 20:15:20 GMT"
-    },
-    {
-      "title": "Meta Stock, Oracle, And AppLovin Reveal the Appeal of Founder Led AI Companies - simplywall.st",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbWkzd0wyUFZiMUtsTjI1b0s3MWRGNWN2VFB0TmJnNTJTZVBYcVpKOHhwV2V3QVRKSllxNy1vLXpCaE83RHhYb3Q3aC1PR2NNWjN1NzFSVFJOWnBnNXdndjV4NnBnTW9ZNzZUTF9NYVNTRzRNQXMtYVRvaWdxTE1lTnRJMWtKYVo0ek40TWVGdHFVMkNlSjdUejhGSVllcTNnSXItZmc2aTdDbS01Mzd5ZzVCLWRCR1VjTUNZZ2FiUXNfcnppT05VWNIBzgFBVV95cUxQZ2xtN1RRRzdlU1BNc2Y5S3BDZGlHWllCUjBOeXhXSWhwU0RKVmhqak5Gd1J6VDFNdlBQTmhJTjkxSEZ2cFpBYWVLS3N1NHFKX09jdmtHcEx6N0hzb3pyN21xQVBUV2VuZ3dydGg4Z1ZvUS1odV9IMnlyTlo0MEhLclhTVGdKRWlQby1EejI0Qy1CNVVVci1ocUZ3blY0NlRyZ0IwazcyYUlOVG9McVBmMmlQR3RVeHRCZ2JZa3BHNkVVVWFnaGd6ZE9GNi1EZw?oc=5",
-      "source": "simplywall.st",
-      "published": "Sun, 30 Aug 2026 20:25:26 GMT"
-    },
-    {
-      "title": "Why Has Meta Stock Underperformed Despite Huge Payouts? - trefis.com",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSTBWdFFFelg3NU81cXZyM2RpZHZITG93bXdvZ0RLTlRJT0xzdUM0RlBPMDhKVm1UelRRdnFrTE9YTk4wQVFXRmlZZy05QW93YVhJdVFPb2M0RUhrUUxBbVIzRVluUFI4aU04SkVNZWNkcDc3eGM2VkpUWE5xcUpDS3BSWW5OaXhOWXF0UndMTFhWLUw1NDQ1djVGLWtlVU4yNm92bTNMZGFRaDhiUFJjamlnRE8wZw?oc=5",
-      "source": "trefis.com",
-      "published": "Wed, 26 Aug 2026 19:10:13 GMT"
+      "title": "Meta's Stock Looks Too Cheap, Analysts Say. Why It's Now Set up for a Google-style Rally. - Moomoo",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSmpDMmE4R3dUc1MyclJTaUxvMVRkVG9iZ2R3NGpwZ05FbDhiWmY0NTRwRVg3T3J4WmJYRlNPT3hfbDEzOFQtbXBTa0lISHdGUlpjeFdPTFJJZG1sb0tCV19Cd3dKNEJ6TkZOZzgweE5ZQURzRmhjWTY3VUpvMHB1eGFnR2VTeW1kVjNlYlBveE1TNGdG?oc=5",
+      "source": "Moomoo",
+      "published": "Mon, 31 Aug 2026 19:15:48 GMT"
     },
     {
       "title": "Prediction: Meta Stock Reclaims Its All-Time High Before 2029. - The Motley Fool",
@@ -103,10 +73,40 @@
       "published": "Mon, 31 Aug 2026 08:37:00 GMT"
     },
     {
+      "title": "Meta Stock, Oracle, And AppLovin Reveal the Appeal of Founder Led AI Companies - simplywall.st",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbWkzd0wyUFZiMUtsTjI1b0s3MWRGNWN2VFB0TmJnNTJTZVBYcVpKOHhwV2V3QVRKSllxNy1vLXpCaE83RHhYb3Q3aC1PR2NNWjN1NzFSVFJOWnBnNXdndjV4NnBnTW9ZNzZUTF9NYVNTRzRNQXMtYVRvaWdxTE1lTnRJMWtKYVo0ek40TWVGdHFVMkNlSjdUejhGSVllcTNnSXItZmc2aTdDbS01Mzd5ZzVCLWRCR1VjTUNZZ2FiUXNfcnppT05VWNIBzgFBVV95cUxQZ2xtN1RRRzdlU1BNc2Y5S3BDZGlHWllCUjBOeXhXSWhwU0RKVmhqak5Gd1J6VDFNdlBQTmhJTjkxSEZ2cFpBYWVLS3N1NHFKX09jdmtHcEx6N0hzb3pyN21xQVBUV2VuZ3dydGg4Z1ZvUS1odV9IMnlyTlo0MEhLclhTVGdKRWlQby1EejI0Qy1CNVVVci1ocUZ3blY0NlRyZ0IwazcyYUlOVG9McVBmMmlQR3RVeHRCZ2JZa3BHNkVVVWFnaGd6ZE9GNi1EZw?oc=5",
+      "source": "simplywall.st",
+      "published": "Sun, 30 Aug 2026 20:25:26 GMT"
+    },
+    {
       "title": "Is Meta Platforms Stock Underperforming the S&P 500? - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUFRTWjVVZkNCR25CT2xIQ19fZVl1b2xsSGhGOXlfVzFkUGktSU1RT0hVbFl0ZEYxSUQ3ZlRfQXNUTnBiVjNORW5mWlhlVFN6ZkJmUW9fYjJzLVRJVTZpM2VBbXF1TVZra2lodzdsYmxNQ3RBNkJ5SF9zNHI2TmZrUm1iN2QzWi1TaVp2YS1jQVVTbjZYRWVjYWpQRGRiWmRkT1pPQTRn?oc=5",
       "source": "Yahoo Finance",
       "published": "Fri, 28 Aug 2026 13:59:42 GMT"
+    },
+    {
+      "title": "Why Has Meta Stock Underperformed Despite Huge Payouts? - Trefis",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSTBWdFFFelg3NU81cXZyM2RpZHZITG93bXdvZ0RLTlRJT0xzdUM0RlBPMDhKVm1UelRRdnFrTE9YTk4wQVFXRmlZZy05QW93YVhJdVFPb2M0RUhrUUxBbVIzRVluUFI4aU04SkVNZWNkcDc3eGM2VkpUWE5xcUpDS3BSWW5OaXhOWXF0UndMTFhWLUw1NDQ1djVGLWtlVU4yNm92bTNMZGFRaDhiUFJjamlnRE8wZw?oc=5",
+      "source": "Trefis",
+      "published": "Wed, 26 Aug 2026 19:10:13 GMT"
+    },
+    {
+      "title": "Massive News for Meta Stock Investors - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObVRGYTdWM2V1bDhIanlfVnk2Vk5raWVkQU5XMkJHZ1Z1U3hUMXE5cWFnVTNXQ3ozNjE3bzA4c2kzUXNKR2lZcDNzOE02UlhGenZPLVJ3ZTd5TEluWmJyNE03NlBDVTQxQ2ZZTWVQaXBtaHRIcHpyMkFlbENLWXpMb01fR0VOeEE?oc=5",
+      "source": "The Motley Fool",
+      "published": "Sat, 29 Aug 2026 02:43:10 GMT"
+    },
+    {
+      "title": "Prediction: Meta Stock Reclaims Its All-Time High Before 2029. - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOR1g4M2V2Z3lZRzN5d051cUtKRWgyQjhLemhqbW5RaElvVG4tQW1jWHYtQTlGSnpWU3J2a2lVMHJJSWQzeERTUnozN01fRjRhQzdpODBiMnlpX1piZ2tLYVRFaWM0ckFsX0syOFZJMlJ6MF96Z3Zhc2h0ejZuY2hMTEZCVXpjY2JHVHFrWjFLZmFKZDc4TWxBNkxSVi1iUncwaW1pYkljTWVzQy1tVlFLZDhIcjlibjVaeTVPNExXaVdnX2djZGY3QlM1ejFLZWE0RVB0YWx0Wk5LSVlSeEE?oc=5",
+      "source": "The Globe and Mail",
+      "published": "Mon, 31 Aug 2026 08:52:50 GMT"
+    },
+    {
+      "title": "Meta Platforms (META) Heads To Trial, Is The Stock 44% Undervalued? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaDcwTG8xV2czdTMyMzQ1OTJ4M185LXpPYlFvQkdxSlNsS1NBVHdsMVM1VE94NDdoN3NPb1h0NUNTZEJBdXBZdFNJcGw0QTdrZHBYcjBZU1FQeVMtSmZMajhrRkNTNEQ0djdUa2V2MVJ1a1NxRHg3ZExhY0Viemgwekh2Smw5MV9aTGZ0R0xJR0RER3kzd1I3Y2JadGY?oc=5",
+      "source": "Yahoo Finance",
+      "published": "Tue, 18 Aug 2026 07:00:00 GMT"
     },
     {
       "title": "Meta Stock Looks Undervalued. Is the Market Missing Something? - The Motley Fool",
@@ -121,16 +121,16 @@
       "published": "Fri, 28 Aug 2026 15:30:27 GMT"
     },
     {
-      "title": "Meta Platforms (META) Heads To Trial, Is The Stock 44% Undervalued? - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaDcwTG8xV2czdTMyMzQ1OTJ4M185LXpPYlFvQkdxSlNsS1NBVHdsMVM1VE94NDdoN3NPb1h0NUNTZEJBdXBZdFNJcGw0QTdrZHBYcjBZU1FQeVMtSmZMajhrRkNTNEQ0djdUa2V2MVJ1a1NxRHg3ZExhY0Viemgwekh2Smw5MV9aTGZ0R0xJR0RER3kzd1I3Y2JadGY?oc=5",
-      "source": "Yahoo Finance",
-      "published": "Tue, 18 Aug 2026 07:00:00 GMT"
+      "title": "After Earnings, Is Meta Stock a Buy, a Sell, or Fairly Valued? - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbDNMOXlVblg3Rl93amZGRmUtV0xCbWtrSXVvdGhRby0wX2RxS2dzcS1MbmpzRkNqQlRBZ0J4ejRDWmJYcUFuaVV0VDJ3ejVKM2M0MXlwbnFWMk84NGotbHYyd1VaRzQzd1dIZm4tTWYxZ1E2RmprVDJ4VjlWbGU5TmRsNkF6T3hGd2hzRVRLVzk3b2FHZEpNcDMzN0RqUkx3NFE?oc=5",
+      "source": "Morningstar",
+      "published": "Thu, 06 Aug 2026 07:00:00 GMT"
     },
     {
-      "title": "Netflix vs. Meta: The Better Media Stock May Surprise You - 24/7 Wall St.",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNelNhbWZpVkpPOGNFQWZ1bkdtUHlnRHZSbmxJYXl2ZjR0Q0RuMG5aTEFzMTFac2ZlY1BwQzVpZlc2Tm5GQXA2TWRSZ0h4N2duaTVEc2xHTlZHbk1FU3dVMXFEQlBXajJMUlo2RXpyLVgyaXB6dk5pRFhlYkdSdVNuY3BSZXJzWFFnUkRBRDFmdTR6YjMteGVsU0NSZi11b2Jq?oc=5",
-      "source": "24/7 Wall St.",
-      "published": "Mon, 31 Aug 2026 17:00:00 GMT"
+      "title": "Meta Platforms (META) Just Called a Potential Loss “Astronomical.” Here’s What’s at Stake in California - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZGlUczRmTVdTZVhqNmY3dDZFTlJXcm5OT3RqYU5QdmhjU05xVGRuWHhKUjFKb2JldGhsMksxNGxLTmFuR3BjQXhTOGNNVnVEaDFDU3d2aGZvN3hyVUZ6OHdsSlNzYVVZSnVsakJFa2hhTjZnMW1OUS1RbjlqMUltV2xhb2hHcGFGMWZzd2JCM3ZoaWVHWER2WllmRGg?oc=5",
+      "source": "Yahoo Finance",
+      "published": "Fri, 28 Aug 2026 16:53:59 GMT"
     }
   ]
 }
