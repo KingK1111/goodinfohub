@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T09:58:27+09:00",
+  "updated_at": "2026-09-03T18:20:22+09:00",
   "disclaimer": "이 목록은 공개 시세 데이터(거래량, 변동률)를 기준으로 자동 정렬한 결과이며 특정 종목의 매수/매도를 추천하지 않습니다. 투자 판단과 책임은 본인에게 있습니다.",
   "criteria": {
     "min_price": 5.0,
@@ -16,15 +16,15 @@
       "price": 7.23,
       "change_percent": 42.04,
       "volume": 9458322,
-      "avg_volume_3m": 1215100,
-      "relative_volume": 7.78,
+      "avg_volume_3m": 1536000,
+      "relative_volume": 6.16,
       "market_cap": 2502767104,
       "exchange": "NasdaqCM",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +42.0% 상승, 거래량 3개월 평균 대비 7.8배",
-      "score": 327.26
+      "reason": "장중 +42.0% 상승, 거래량 3개월 평균 대비 6.2배",
+      "score": 258.89
     },
     {
       "symbol": "CRDO",
@@ -32,15 +32,15 @@
       "price": 165.22,
       "change_percent": -20.04,
       "volume": 29701428,
-      "avg_volume_3m": 7206714,
-      "relative_volume": 4.12,
+      "avg_volume_3m": 7171890,
+      "relative_volume": 4.14,
       "market_cap": 31050567680,
       "exchange": "NasdaqGS",
       "sources": [
         "most_actives"
       ],
       "reason": "장중 -20.0% 하락, 거래량 3개월 평균 대비 4.1배, 거래대금 상위 종목",
-      "score": 82.59
+      "score": 83.0
     },
     {
       "symbol": "DELL",
@@ -48,8 +48,8 @@
       "price": 492.2,
       "change_percent": 15.81,
       "volume": 36411468,
-      "avg_volume_3m": 7154280,
-      "relative_volume": 5.09,
+      "avg_volume_3m": 7163582,
+      "relative_volume": 5.08,
       "market_cap": 318031298560,
       "exchange": "NYSE",
       "sources": [
@@ -57,7 +57,7 @@
         "most_actives"
       ],
       "reason": "장중 +15.8% 상승, 거래량 3개월 평균 대비 5.1배, 거래대금 상위 종목",
-      "score": 80.47
+      "score": 80.37
     },
     {
       "symbol": "GTLB",
@@ -65,16 +65,16 @@
       "price": 49.59,
       "change_percent": 9.98,
       "volume": 28957521,
-      "avg_volume_3m": 4903179,
-      "relative_volume": 5.91,
-      "market_cap": 8375751168,
+      "avg_volume_3m": 4700820,
+      "relative_volume": 6.16,
+      "market_cap": 8262438400,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers",
         "most_actives"
       ],
-      "reason": "장중 +10.0% 상승, 거래량 3개월 평균 대비 5.9배, 거래대금 상위 종목",
-      "score": 58.94
+      "reason": "장중 +10.0% 상승, 거래량 3개월 평균 대비 6.2배, 거래대금 상위 종목",
+      "score": 61.48
     },
     {
       "symbol": "CNH",
@@ -82,8 +82,8 @@
       "price": 13.65,
       "change_percent": 9.2,
       "volume": 53791621,
-      "avg_volume_3m": 14590306,
-      "relative_volume": 3.69,
+      "avg_volume_3m": 14658411,
+      "relative_volume": 3.67,
       "market_cap": 21951365120,
       "exchange": "NYSE",
       "sources": [
@@ -91,7 +91,7 @@
         "most_actives"
       ],
       "reason": "장중 +9.2% 상승, 거래량 3개월 평균 대비 3.7배, 거래대금 상위 종목",
-      "score": 33.92
+      "score": 33.76
     },
     {
       "symbol": "VRNS",
@@ -99,7 +99,7 @@
       "price": 46.76,
       "change_percent": 10.41,
       "volume": 5698255,
-      "avg_volume_3m": 1904323,
+      "avg_volume_3m": 1906040,
       "relative_volume": 2.99,
       "market_cap": 5370876416,
       "exchange": "NasdaqGS",
@@ -107,7 +107,7 @@
         "day_gainers"
       ],
       "reason": "장중 +10.4% 상승, 거래량 3개월 평균 대비 3.0배",
-      "score": 31.16
+      "score": 31.13
     },
     {
       "symbol": "TARS",
@@ -131,15 +131,15 @@
       "price": 13.33,
       "change_percent": -5.19,
       "volume": 118606695,
-      "avg_volume_3m": 26808571,
-      "relative_volume": 4.42,
+      "avg_volume_3m": 26676087,
+      "relative_volume": 4.45,
       "market_cap": 29357551616,
       "exchange": "NYSE",
       "sources": [
         "most_actives"
       ],
       "reason": "장중 -5.2% 하락, 거래량 3개월 평균 대비 4.4배, 거래대금 상위 종목",
-      "score": 22.97
+      "score": 23.08
     },
     {
       "symbol": "MLYS",
@@ -163,7 +163,7 @@
       "price": 24.88,
       "change_percent": 8.69,
       "volume": 5895821,
-      "avg_volume_3m": 2869165,
+      "avg_volume_3m": 2875761,
       "relative_volume": 2.05,
       "market_cap": 3568392960,
       "exchange": "NasdaqGS",
@@ -171,7 +171,7 @@
         "day_gainers"
       ],
       "reason": "장중 +8.7% 상승, 거래량 3개월 평균 대비 2.1배",
-      "score": 17.86
+      "score": 17.82
     },
     {
       "symbol": "ALNY",
@@ -179,15 +179,15 @@
       "price": 267.4,
       "change_percent": 8.65,
       "volume": 3286090,
-      "avg_volume_3m": 1757461,
-      "relative_volume": 1.87,
+      "avg_volume_3m": 1769859,
+      "relative_volume": 1.86,
       "market_cap": 35780558848,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +8.7% 상승, 거래량 3개월 평균 대비 1.9배",
-      "score": 16.17
+      "score": 16.06
     },
     {
       "symbol": "ASTS",
@@ -195,7 +195,7 @@
       "price": 62.4,
       "change_percent": 11.83,
       "volume": 19740307,
-      "avg_volume_3m": 16649114,
+      "avg_volume_3m": 16650173,
       "relative_volume": 1.19,
       "market_cap": 24284051456,
       "exchange": "NasdaqGS",
@@ -211,7 +211,7 @@
       "price": 23.21,
       "change_percent": 8.81,
       "volume": 4804089,
-      "avg_volume_3m": 3309807,
+      "avg_volume_3m": 3306053,
       "relative_volume": 1.45,
       "market_cap": 2451603200,
       "exchange": "NasdaqGS",
@@ -219,7 +219,7 @@
         "day_gainers"
       ],
       "reason": "장중 +8.8% 상승, 거래량 3개월 평균 대비 1.5배",
-      "score": 12.79
+      "score": 12.81
     },
     {
       "symbol": "GPGI",
