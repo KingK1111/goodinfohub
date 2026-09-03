@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-09-03T18:20:15+09:00",
+  "updated_at": "2026-09-03T23:54:37+09:00",
   "quote": {
     "symbol": "META",
-    "price": 592.85,
+    "price": 608.83,
     "previous_close": 597.99,
-    "change": -5.14,
-    "change_percent": -0.86,
+    "change": 10.84,
+    "change_percent": 1.81,
     "currency": "USD",
-    "day_high": 600.3800048828125,
-    "day_low": 577.0,
-    "market_cap": 1510289003296.274
+    "day_high": 619.4199829101562,
+    "day_low": 604.3499755859375,
+    "market_cap": 1550998258503.2334
   },
   "articles": []
 }
