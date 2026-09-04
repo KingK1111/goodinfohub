@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T09:49:08+09:00",
+  "updated_at": "2026-09-04T18:29:38+09:00",
   "disclaimer": "이 목록은 공개 시세 데이터(거래량, 변동률)를 기준으로 자동 정렬한 결과이며 특정 종목의 매수/매도를 추천하지 않습니다. 투자 판단과 책임은 본인에게 있습니다.",
   "criteria": {
     "min_price": 5.0,
@@ -16,15 +16,15 @@
       "price": 356.47,
       "change_percent": 16.55,
       "volume": 21794631,
-      "avg_volume_3m": 5470646,
-      "relative_volume": 3.98,
+      "avg_volume_3m": 5411351,
+      "relative_volume": 4.03,
       "market_cap": 123552505856,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +16.6% 상승, 거래량 3개월 평균 대비 4.0배",
-      "score": 65.95
+      "score": 66.67
     },
     {
       "symbol": "SMMT",
@@ -32,7 +32,7 @@
       "price": 17.13,
       "change_percent": 17.33,
       "volume": 14880873,
-      "avg_volume_3m": 5169658,
+      "avg_volume_3m": 5170173,
       "relative_volume": 2.88,
       "market_cap": 13665451008,
       "exchange": "NasdaqGM",
@@ -48,7 +48,7 @@
       "price": 124.72,
       "change_percent": 16.57,
       "volume": 51371826,
-      "avg_volume_3m": 24444711,
+      "avg_volume_3m": 24447655,
       "relative_volume": 2.1,
       "market_cap": 112133545984,
       "exchange": "NasdaqGS",
@@ -57,7 +57,7 @@
         "most_actives"
       ],
       "reason": "장중 +16.6% 상승, 거래량 3개월 평균 대비 2.1배, 거래대금 상위 종목",
-      "score": 34.83
+      "score": 34.82
     },
     {
       "symbol": "ASST",
@@ -65,15 +65,15 @@
       "price": 26.82,
       "change_percent": 10.28,
       "volume": 17095771,
-      "avg_volume_3m": 5149461,
-      "relative_volume": 3.32,
+      "avg_volume_3m": 5118643,
+      "relative_volume": 3.34,
       "market_cap": 2501302016,
       "exchange": "NasdaqGM",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +10.3% 상승, 거래량 3개월 평균 대비 3.3배",
-      "score": 34.13
+      "score": 34.33
     },
     {
       "symbol": "MSTR",
@@ -81,7 +81,7 @@
       "price": 144.82,
       "change_percent": 17.56,
       "volume": 44800410,
-      "avg_volume_3m": 23305249,
+      "avg_volume_3m": 23286000,
       "relative_volume": 1.92,
       "market_cap": 57534332928,
       "exchange": "NasdaqGS",
@@ -90,7 +90,7 @@
         "most_actives"
       ],
       "reason": "장중 +17.6% 상승, 거래량 3개월 평균 대비 1.9배, 거래대금 상위 종목",
-      "score": 33.75
+      "score": 33.78
     },
     {
       "symbol": "CPB",
@@ -98,7 +98,7 @@
       "price": 22.125,
       "change_percent": -6.96,
       "volume": 37436647,
-      "avg_volume_3m": 7946468,
+      "avg_volume_3m": 7946757,
       "relative_volume": 4.71,
       "market_cap": 6597813248,
       "exchange": "NasdaqGS",
@@ -114,7 +114,7 @@
       "price": 12.77,
       "change_percent": 12.81,
       "volume": 36205460,
-      "avg_volume_3m": 15714412,
+      "avg_volume_3m": 15715452,
       "relative_volume": 2.3,
       "market_cap": 2526386176,
       "exchange": "NasdaqCM",
@@ -131,7 +131,7 @@
       "price": 103.23,
       "change_percent": 16.46,
       "volume": 24577832,
-      "avg_volume_3m": 13741201,
+      "avg_volume_3m": 13741603,
       "relative_volume": 1.79,
       "market_cap": 28139890688,
       "exchange": "NYSE",
@@ -147,7 +147,7 @@
       "price": 10.0,
       "change_percent": 11.11,
       "volume": 32663462,
-      "avg_volume_3m": 12687501,
+      "avg_volume_3m": 12721787,
       "relative_volume": 2.57,
       "market_cap": 5396204032,
       "exchange": "NasdaqCM",
@@ -156,7 +156,23 @@
         "most_actives"
       ],
       "reason": "장중 +11.1% 상승, 거래량 3개월 평균 대비 2.6배, 거래대금 상위 종목",
-      "score": 28.61
+      "score": 28.53
+    },
+    {
+      "symbol": "PL",
+      "name": "Planet Labs PBC",
+      "price": 18.35,
+      "change_percent": -8.2,
+      "volume": 31495212,
+      "avg_volume_3m": 10107680,
+      "relative_volume": 3.12,
+      "market_cap": 6539986432,
+      "exchange": "NYSE",
+      "sources": [
+        "most_actives"
+      ],
+      "reason": "장중 -8.2% 하락, 거래량 3개월 평균 대비 3.1배, 거래대금 상위 종목",
+      "score": 25.56
     },
     {
       "symbol": "BMNR",
@@ -164,7 +180,7 @@
       "price": 26.45,
       "change_percent": 14.7,
       "volume": 66590968,
-      "avg_volume_3m": 38806958,
+      "avg_volume_3m": 38622503,
       "relative_volume": 1.72,
       "market_cap": 15955338240,
       "exchange": "NYSE",
@@ -173,23 +189,7 @@
         "most_actives"
       ],
       "reason": "장중 +14.7% 상승, 거래량 3개월 평균 대비 1.7배, 거래대금 상위 종목",
-      "score": 25.23
-    },
-    {
-      "symbol": "PL",
-      "name": "Planet Labs PBC",
-      "price": 18.35,
-      "change_percent": -8.2,
-      "volume": 31495212,
-      "avg_volume_3m": 10247555,
-      "relative_volume": 3.07,
-      "market_cap": 6539986432,
-      "exchange": "NYSE",
-      "sources": [
-        "most_actives"
-      ],
-      "reason": "장중 -8.2% 하락, 거래량 3개월 평균 대비 3.1배, 거래대금 상위 종목",
-      "score": 25.21
+      "score": 25.35
     },
     {
       "symbol": "PFG",
@@ -197,15 +197,15 @@
       "price": 118.51,
       "change_percent": 7.28,
       "volume": 3707521,
-      "avg_volume_3m": 1362801,
-      "relative_volume": 2.72,
+      "avg_volume_3m": 1370462,
+      "relative_volume": 2.71,
       "market_cap": 25373540352,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +7.3% 상승, 거래량 3개월 평균 대비 2.7배",
-      "score": 19.8
+      "score": 19.69
     },
     {
       "symbol": "CLS",
@@ -213,7 +213,7 @@
       "price": 309.84,
       "change_percent": 11.55,
       "volume": 3894130,
-      "avg_volume_3m": 2379077,
+      "avg_volume_3m": 2379363,
       "relative_volume": 1.64,
       "market_cap": 39074267136,
       "exchange": "NYSE",
@@ -229,7 +229,7 @@
       "price": 17.37,
       "change_percent": 14.43,
       "volume": 37130461,
-      "avg_volume_3m": 29277317,
+      "avg_volume_3m": 29331277,
       "relative_volume": 1.27,
       "market_cap": 7209083904,
       "exchange": "NasdaqGS",
@@ -238,7 +238,7 @@
         "most_actives"
       ],
       "reason": "장중 +14.4% 상승, 거래량 3개월 평균 대비 1.3배, 거래대금 상위 종목",
-      "score": 18.3
+      "score": 18.26
     },
     {
       "symbol": "HSAI",
