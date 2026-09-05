@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T23:49:59+09:00",
+  "updated_at": "2026-09-05T09:54:43+09:00",
   "disclaimer": "이 목록은 공개 시세 데이터(거래량, 변동률)를 기준으로 자동 정렬한 결과이며 특정 종목의 매수/매도를 추천하지 않습니다. 투자 판단과 책임은 본인에게 있습니다.",
   "criteria": {
     "min_price": 5.0,
@@ -13,243 +13,242 @@
     {
       "symbol": "LULU",
       "name": "lululemon athletica inc.",
-      "price": 100.0704,
-      "change_percent": -17.82,
-      "volume": 19623784,
+      "price": 100.61,
+      "change_percent": -17.38,
+      "volume": 37193682,
       "avg_volume_3m": 3679290,
-      "relative_volume": 5.33,
-      "market_cap": 11363385344,
+      "relative_volume": 10.11,
+      "market_cap": 11138535424,
       "exchange": "NasdaqGS",
       "sources": [
         "most_actives"
       ],
-      "reason": "장중 -17.8% 하락, 거래량 3개월 평균 대비 5.3배, 거래대금 상위 종목",
-      "score": 95.05
-    },
-    {
-      "symbol": "IOT",
-      "name": "Samsara Inc.",
-      "price": 40.65,
-      "change_percent": 4.9,
-      "volume": 10603174,
-      "avg_volume_3m": 5919709,
-      "relative_volume": 1.79,
-      "market_cap": 23687165952,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers",
-        "most_actives"
-      ],
-      "reason": "장중 +4.9% 상승, 거래량 3개월 평균 대비 1.8배, 거래대금 상위 종목",
-      "score": 8.78
-    },
-    {
-      "symbol": "CBRS",
-      "name": "Cerebras Systems Inc.",
-      "price": 210.23,
-      "change_percent": 10.39,
-      "volume": 5908057,
-      "avg_volume_3m": 7000039,
-      "relative_volume": 0.84,
-      "market_cap": 49943089152,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +10.4% 상승, 거래량 3개월 평균 대비 0.8배",
-      "score": 8.77
-    },
-    {
-      "symbol": "AEHR",
-      "name": "Aehr Test Systems",
-      "price": 83.8916,
-      "change_percent": 9.99,
-      "volume": 2171819,
-      "avg_volume_3m": 2545212,
-      "relative_volume": 0.85,
-      "market_cap": 2736581888,
-      "exchange": "NasdaqCM",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +10.0% 상승, 거래량 3개월 평균 대비 0.9배",
-      "score": 8.53
+      "reason": "장중 -17.4% 하락, 거래량 3개월 평균 대비 10.1배, 거래대금 상위 종목",
+      "score": 175.66
     },
     {
       "symbol": "PATH",
       "name": "UiPath, Inc.",
-      "price": 15.74,
-      "change_percent": -13.61,
-      "volume": 36721240,
+      "price": 15.19,
+      "change_percent": -16.63,
+      "volume": 104431913,
       "avg_volume_3m": 68038074,
-      "relative_volume": 0.54,
-      "market_cap": 8155212800,
+      "relative_volume": 1.53,
+      "market_cap": 7870246400,
       "exchange": "NYSE",
       "sources": [
         "most_actives"
       ],
-      "reason": "장중 -13.6% 하락, 거래량 3개월 평균 대비 0.5배, 거래대금 상위 종목",
-      "score": 7.35
+      "reason": "장중 -16.6% 하락, 거래량 3개월 평균 대비 1.5배, 거래대금 상위 종목",
+      "score": 25.53
     },
     {
-      "symbol": "PURR",
-      "name": "Hyperliquid Strategies Inc",
-      "price": 11.66,
-      "change_percent": -8.69,
-      "volume": 12946387,
-      "avg_volume_3m": 15748411,
-      "relative_volume": 0.82,
-      "market_cap": 2306786304,
+      "symbol": "AEHR",
+      "name": "Aehr Test Systems",
+      "price": 86.26,
+      "change_percent": 13.1,
+      "volume": 4492544,
+      "avg_volume_3m": 2545212,
+      "relative_volume": 1.77,
+      "market_cap": 2813840128,
       "exchange": "NasdaqCM",
       "sources": [
-        "most_actives"
+        "day_gainers"
       ],
-      "reason": "장중 -8.7% 하락, 거래량 3개월 평균 대비 0.8배, 거래대금 상위 종목",
-      "score": 7.15
+      "reason": "장중 +13.1% 상승, 거래량 3개월 평균 대비 1.8배",
+      "score": 23.12
     },
     {
-      "symbol": "ALAB",
-      "name": "Astera Labs, Inc.",
-      "price": 313.075,
-      "change_percent": 10.7,
-      "volume": 2897721,
-      "avg_volume_3m": 4931136,
-      "relative_volume": 0.59,
-      "market_cap": 54313852928,
+      "symbol": "CBRS",
+      "name": "Cerebras Systems Inc.",
+      "price": 210.05,
+      "change_percent": 10.3,
+      "volume": 13705435,
+      "avg_volume_3m": 7000039,
+      "relative_volume": 1.96,
+      "market_cap": 49900331008,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +10.7% 상승, 거래량 3개월 평균 대비 0.6배",
-      "score": 6.29
+      "reason": "장중 +10.3% 상승, 거래량 3개월 평균 대비 2.0배",
+      "score": 20.16
     },
     {
-      "symbol": "SUNB",
-      "name": "Sunbelt Rentals Holdings, Inc.",
-      "price": 67.02,
-      "change_percent": 1.56,
-      "volume": 15921685,
-      "avg_volume_3m": 4338371,
-      "relative_volume": 3.67,
-      "market_cap": 27474683904,
+      "symbol": "IOT",
+      "name": "Samsara Inc.",
+      "price": 40.2,
+      "change_percent": 3.74,
+      "volume": 25492059,
+      "avg_volume_3m": 5919709,
+      "relative_volume": 4.31,
+      "market_cap": 23424946176,
       "exchange": "NYSE",
       "sources": [
         "most_actives"
       ],
-      "reason": "장중 +1.6% 상승, 거래량 3개월 평균 대비 3.7배, 거래대금 상위 종목",
-      "score": 5.73
+      "reason": "장중 +3.7% 상승, 거래량 3개월 평균 대비 4.3배, 거래대금 상위 종목",
+      "score": 16.11
     },
     {
-      "symbol": "TSLA",
-      "name": "Tesla, Inc.",
-      "price": 353.74,
-      "change_percent": -6.01,
-      "volume": 28514205,
-      "avg_volume_3m": 41798398,
-      "relative_volume": 0.68,
-      "market_cap": 1397112963072,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "most_actives"
-      ],
-      "reason": "장중 -6.0% 하락, 거래량 3개월 평균 대비 0.7배, 거래대금 상위 종목",
-      "score": 4.1
-    },
-    {
-      "symbol": "AXTI",
-      "name": "AXT Inc",
-      "price": 60.8,
-      "change_percent": 8.19,
-      "volume": 4552349,
-      "avg_volume_3m": 10293739,
-      "relative_volume": 0.44,
-      "market_cap": 3986851328,
+      "symbol": "TARS",
+      "name": "Tarsus Pharmaceuticals, Inc.",
+      "price": 90.78,
+      "change_percent": 9.1,
+      "volume": 1595529,
+      "avg_volume_3m": 956390,
+      "relative_volume": 1.67,
+      "market_cap": 3983698432,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +8.2% 상승, 거래량 3개월 평균 대비 0.4배",
-      "score": 3.62
+      "reason": "장중 +9.1% 상승, 거래량 3개월 평균 대비 1.7배",
+      "score": 15.19
     },
     {
       "symbol": "SNDK",
       "name": "Sandisk Corporation",
-      "price": 1666.84,
-      "change_percent": 7.19,
-      "volume": 6703327,
+      "price": 1740.0,
+      "change_percent": 11.9,
+      "volume": 16217211,
       "avg_volume_3m": 13974153,
-      "relative_volume": 0.48,
-      "market_cap": 244057047040,
+      "relative_volume": 1.16,
+      "market_cap": 254769070080,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +7.2% 상승, 거래량 3개월 평균 대비 0.5배",
-      "score": 3.45
+      "reason": "장중 +11.9% 상승, 거래량 3개월 평균 대비 1.2배",
+      "score": 13.81
     },
     {
-      "symbol": "BMNR",
-      "name": "BitMine Immersion Technologies,",
-      "price": 24.6,
-      "change_percent": -6.99,
-      "volume": 18150847,
-      "avg_volume_3m": 39067258,
-      "relative_volume": 0.46,
-      "market_cap": 14839368704,
+      "symbol": "AGCO",
+      "name": "AGCO Corporation",
+      "price": 133.4,
+      "change_percent": 6.02,
+      "volume": 2013827,
+      "avg_volume_3m": 912677,
+      "relative_volume": 2.21,
+      "market_cap": 9342232576,
       "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +6.0% 상승, 거래량 3개월 평균 대비 2.2배",
+      "score": 13.29
+    },
+    {
+      "symbol": "ALAB",
+      "name": "Astera Labs, Inc.",
+      "price": 310.4,
+      "change_percent": 9.75,
+      "volume": 6290634,
+      "avg_volume_3m": 4931136,
+      "relative_volume": 1.28,
+      "market_cap": 53849776128,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +9.8% 상승, 거래량 3개월 평균 대비 1.3배",
+      "score": 12.44
+    },
+    {
+      "symbol": "BETA",
+      "name": "Beta Technologies, Inc.",
+      "price": 22.2,
+      "change_percent": 6.68,
+      "volume": 2820193,
+      "avg_volume_3m": 1666730,
+      "relative_volume": 1.69,
+      "market_cap": 5382224896,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +6.7% 상승, 거래량 3개월 평균 대비 1.7배",
+      "score": 11.3
+    },
+    {
+      "symbol": "FRVO",
+      "name": "Fervo Energy Company",
+      "price": 18.16,
+      "change_percent": 5.83,
+      "volume": 7783220,
+      "avg_volume_3m": 4065334,
+      "relative_volume": 1.91,
+      "market_cap": 5352899584,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +5.8% 상승, 거래량 3개월 평균 대비 1.9배",
+      "score": 11.16
+    },
+    {
+      "symbol": "AXTI",
+      "name": "AXT Inc",
+      "price": 61.64,
+      "change_percent": 9.68,
+      "volume": 10587172,
+      "avg_volume_3m": 10293739,
+      "relative_volume": 1.03,
+      "market_cap": 4041932800,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +9.7% 상승, 거래량 3개월 평균 대비 1.0배",
+      "score": 9.96
+    },
+    {
+      "symbol": "UCTT",
+      "name": "Ultra Clean Holdings, Inc.",
+      "price": 72.43,
+      "change_percent": 8.77,
+      "volume": 1465358,
+      "avg_volume_3m": 1347163,
+      "relative_volume": 1.09,
+      "market_cap": 3279415040,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +8.8% 상승, 거래량 3개월 평균 대비 1.1배",
+      "score": 9.54
+    },
+    {
+      "symbol": "TSLA",
+      "name": "Tesla, Inc.",
+      "price": 354.08,
+      "change_percent": -5.92,
+      "volume": 64559388,
+      "avg_volume_3m": 41798398,
+      "relative_volume": 1.54,
+      "market_cap": 1398455795712,
+      "exchange": "NasdaqGS",
       "sources": [
         "most_actives"
       ],
-      "reason": "장중 -7.0% 하락, 거래량 3개월 평균 대비 0.5배, 거래대금 상위 종목",
-      "score": 3.25
+      "reason": "장중 -5.9% 하락, 거래량 3개월 평균 대비 1.5배, 거래대금 상위 종목",
+      "score": 9.15
     },
     {
-      "symbol": "SFNC",
-      "name": "Simmons First National Corporat",
-      "price": 23.94,
-      "change_percent": 4.18,
-      "volume": 1004069,
-      "avg_volume_3m": 1445547,
-      "relative_volume": 0.69,
-      "market_cap": 3459660288,
-      "exchange": "NasdaqGS",
+      "symbol": "PURR",
+      "name": "Hyperliquid Strategies Inc",
+      "price": 12.18,
+      "change_percent": -4.62,
+      "volume": 27233976,
+      "avg_volume_3m": 15748411,
+      "relative_volume": 1.73,
+      "market_cap": 2409661952,
+      "exchange": "NasdaqCM",
       "sources": [
-        "day_gainers"
+        "most_actives"
       ],
-      "reason": "장중 +4.2% 상승, 거래량 3개월 평균 대비 0.7배",
-      "score": 2.9
-    },
-    {
-      "symbol": "FIVE",
-      "name": "Five Below, Inc.",
-      "price": 255.945,
-      "change_percent": 6.66,
-      "volume": 487872,
-      "avg_volume_3m": 1175628,
-      "relative_volume": 0.41,
-      "market_cap": 14152568832,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +6.7% 상승, 거래량 3개월 평균 대비 0.4배",
-      "score": 2.76
-    },
-    {
-      "symbol": "KLAC",
-      "name": "KLA Corporation",
-      "price": 185.17,
-      "change_percent": 7.07,
-      "volume": 4186515,
-      "avg_volume_3m": 12616414,
-      "relative_volume": 0.33,
-      "market_cap": 241933271040,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +7.1% 상승, 거래량 3개월 평균 대비 0.3배",
-      "score": 2.35
+      "reason": "장중 -4.6% 하락, 거래량 3개월 평균 대비 1.7배, 거래대금 상위 종목",
+      "score": 7.99
     }
   ]
 }
