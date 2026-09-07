@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-05T17:45:28+09:00",
-  "last_attempt_at": "2026-09-06T23:13:46+09:00",
+  "updated_at": "2026-09-07T09:44:05+09:00",
+  "last_attempt_at": "2026-09-07T09:44:05+09:00",
   "districts": [
     "성동구",
     "중구",
@@ -167,6 +167,18 @@
     },
     {
       "district": "송파구",
+      "case_no": "서울동부지방법원 2024타경59814",
+      "item_no": "1",
+      "address": "서울특별시 송파구 오금로35길 17 28동 3층302호 [집합건물 철근콩크리트조 170.32㎡]",
+      "remarks": "",
+      "appraisal_amount": "2,090,000,000",
+      "court_and_date": "경매2계 2026.09.21",
+      "usage": "아파트",
+      "min_sale_price": "2,090,000,000 (100%)",
+      "status": "신건"
+    },
+    {
+      "district": "송파구",
       "case_no": "서울동부지방법원 2025타경385",
       "item_no": "1",
       "address": "서울특별시 송파구 잠실동 40 갤러리아팰리스 에이동 38층3810호 [집합건물 철근콘크리트조 138.561㎡]",
@@ -188,6 +200,18 @@
       "usage": "아파트",
       "min_sale_price": "2,560,000,000 (100%)",
       "status": "신건"
+    },
+    {
+      "district": "송파구",
+      "case_no": "서울동부지방법원 2025타경51300",
+      "item_no": "1",
+      "address": "서울특별시 송파구 신천동 7-18 롯데캐슬골드 35층101-3501호 [집합건물 철골철근콘크리트구조 243.40㎡ 매각대상: 을구9번 전세권설정등기(전세권자 정병모)]",
+      "remarks": "-매각대상: 을구 순위번호 9번 전세권임에 주의(전세권 근저당권 실행) -존속기간: 2018.9.28.부터2026.10.9.까지 -최저매각가격: 전세권 존속기간(을 고려한 전세권에 대한 평가액임",
+      "appraisal_amount": "2,730,000,000",
+      "court_and_date": "경매2계 2026.09.21",
+      "usage": "아파트",
+      "min_sale_price": "2,184,000,000 (80%)",
+      "status": "유찰 1회"
     },
     {
       "district": "송파구",
@@ -227,22 +251,16 @@
     },
     {
       "district": "송파구",
-      "case_no": "서울동부지방법원 2025타경52314",
+      "case_no": "서울동부지방법원 2025타경52237",
       "item_no": "1",
-      "address": "서울특별시 송파구 방이동 89 올림픽선수기자촌아파트 103동 16층1603호 [집합건물 철근콘크리트조 83.06㎡ 공유자지분 중 2분의 1 홍성건 지분]",
-      "remarks": "공유자 지분 중 채무자 지분(2분의 1)에 대한 매각 공유자의 우선매수신고는 1회에 한하여 행사할 수 있음(공유자가 우선매수권 신고 후 매각기일까지 매수보증금을 미납하여 실효되는 경우에는 그 공유자는 이후 매각기일부터는 우선매수권을 행사할 수 없음)",
-      "appraisal_amount": "1,560,000,000",
-      "court_and_date": "경매6계 2026.09.07",
+      "address": "서울특별시 송파구 신천동 7-19 잠실시그마타워 21층2105호 [집합건물 철골조 208.56㎡]",
+      "remarks": "",
+      "appraisal_amount": "2,800,000,000",
+      "court_and_date": "경매2계 2026.09.21",
       "usage": "아파트",
-      "min_sale_price": "1,560,000,000 (100%)",
+      "min_sale_price": "2,800,000,000 (100%)",
       "status": "신건"
     }
   ],
-  "errors": [
-    "성동구: HTTPConnectionPool(host='localhost', port=36589): Read timed out. (read timeout=120)",
-    "중구: HTTPConnectionPool(host='localhost', port=36589): Read timed out. (read timeout=120)",
-    "동대문구: HTTPConnectionPool(host='localhost', port=36589): Read timed out. (read timeout=120)",
-    "광진구: HTTPConnectionPool(host='localhost', port=36589): Read timed out. (read timeout=120)",
-    "송파구: HTTPConnectionPool(host='localhost', port=36589): Read timed out. (read timeout=120)"
-  ]
+  "errors": []
 }
