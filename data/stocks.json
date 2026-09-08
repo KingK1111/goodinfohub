@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T09:56:59+09:00",
+  "updated_at": "2026-09-08T18:16:56+09:00",
   "disclaimer": "이 목록은 공개 시세 데이터(거래량, 변동률)를 기준으로 자동 정렬한 결과이며 특정 종목의 매수/매도를 추천하지 않습니다. 투자 판단과 책임은 본인에게 있습니다.",
   "criteria": {
     "min_price": 5.0,
@@ -16,15 +16,15 @@
       "price": 100.61,
       "change_percent": -17.38,
       "volume": 37426243,
-      "avg_volume_3m": 4025393,
-      "relative_volume": 9.3,
+      "avg_volume_3m": 3996279,
+      "relative_volume": 9.37,
       "market_cap": 11138535424,
       "exchange": "NasdaqGS",
       "sources": [
         "most_actives"
       ],
-      "reason": "장중 -17.4% 하락, 거래량 3개월 평균 대비 9.3배, 거래대금 상위 종목",
-      "score": 161.56
+      "reason": "장중 -17.4% 하락, 거래량 3개월 평균 대비 9.4배, 거래대금 상위 종목",
+      "score": 162.74
     },
     {
       "symbol": "PATH",
@@ -48,15 +48,15 @@
       "price": 86.26,
       "change_percent": 13.1,
       "volume": 4520762,
-      "avg_volume_3m": 2579603,
-      "relative_volume": 1.75,
+      "avg_volume_3m": 2592012,
+      "relative_volume": 1.74,
       "market_cap": 2813840128,
       "exchange": "NasdaqCM",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +13.1% 상승, 거래량 3개월 평균 대비 1.8배",
-      "score": 22.95
+      "reason": "장중 +13.1% 상승, 거래량 3개월 평균 대비 1.7배",
+      "score": 22.84
     },
     {
       "symbol": "CBRS",
@@ -80,15 +80,15 @@
       "price": 40.2,
       "change_percent": 3.74,
       "volume": 25492059,
-      "avg_volume_3m": 6052092,
-      "relative_volume": 4.21,
+      "avg_volume_3m": 6014854,
+      "relative_volume": 4.24,
       "market_cap": 23424946176,
       "exchange": "NYSE",
       "sources": [
         "most_actives"
       ],
       "reason": "장중 +3.7% 상승, 거래량 3개월 평균 대비 4.2배, 거래대금 상위 종목",
-      "score": 15.76
+      "score": 15.86
     },
     {
       "symbol": "TARS",
@@ -144,7 +144,7 @@
       "price": 310.4,
       "change_percent": 9.75,
       "volume": 6536259,
-      "avg_volume_3m": 4918253,
+      "avg_volume_3m": 4916153,
       "relative_volume": 1.33,
       "market_cap": 53849776128,
       "exchange": "NasdaqGS",
@@ -152,7 +152,7 @@
         "day_gainers"
       ],
       "reason": "장중 +9.8% 상승, 거래량 3개월 평균 대비 1.3배",
-      "score": 12.96
+      "score": 12.97
     },
     {
       "symbol": "BETA",
@@ -160,15 +160,15 @@
       "price": 22.2,
       "change_percent": 6.68,
       "volume": 2820193,
-      "avg_volume_3m": 1679339,
-      "relative_volume": 1.68,
-      "market_cap": 5382224896,
+      "avg_volume_3m": 1684250,
+      "relative_volume": 1.67,
+      "market_cap": 5311516672,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +6.7% 상승, 거래량 3개월 평균 대비 1.7배",
-      "score": 11.22
+      "score": 11.18
     },
     {
       "symbol": "FRVO",
@@ -176,15 +176,15 @@
       "price": 18.16,
       "change_percent": 5.83,
       "volume": 7792715,
-      "avg_volume_3m": 4158419,
-      "relative_volume": 1.87,
+      "avg_volume_3m": 4179917,
+      "relative_volume": 1.86,
       "market_cap": 5352899584,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +5.8% 상승, 거래량 3개월 평균 대비 1.9배",
-      "score": 10.92
+      "score": 10.86
     },
     {
       "symbol": "AXTI",
@@ -192,15 +192,15 @@
       "price": 61.64,
       "change_percent": 9.68,
       "volume": 10899283,
-      "avg_volume_3m": 10310466,
-      "relative_volume": 1.06,
+      "avg_volume_3m": 10383679,
+      "relative_volume": 1.05,
       "market_cap": 4041932800,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +9.7% 상승, 거래량 3개월 평균 대비 1.1배",
-      "score": 10.23
+      "reason": "장중 +9.7% 상승, 거래량 3개월 평균 대비 1.0배",
+      "score": 10.16
     },
     {
       "symbol": "UCTT",
@@ -210,7 +210,7 @@
       "volume": 1466289,
       "avg_volume_3m": 1345128,
       "relative_volume": 1.09,
-      "market_cap": 3279415040,
+      "market_cap": 3246917632,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
@@ -224,15 +224,15 @@
       "price": 354.08,
       "change_percent": -5.92,
       "volume": 65018209,
-      "avg_volume_3m": 41827363,
-      "relative_volume": 1.55,
+      "avg_volume_3m": 41690243,
+      "relative_volume": 1.56,
       "market_cap": 1398455795712,
       "exchange": "NasdaqGS",
       "sources": [
         "most_actives"
       ],
       "reason": "장중 -5.9% 하락, 거래량 3개월 평균 대비 1.6배, 거래대금 상위 종목",
-      "score": 9.2
+      "score": 9.23
     },
     {
       "symbol": "PURR",
@@ -240,7 +240,7 @@
       "price": 12.18,
       "change_percent": -4.62,
       "volume": 27356847,
-      "avg_volume_3m": 15826512,
+      "avg_volume_3m": 15825520,
       "relative_volume": 1.73,
       "market_cap": 2409661952,
       "exchange": "NasdaqCM",
