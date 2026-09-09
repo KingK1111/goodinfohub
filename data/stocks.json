@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T18:20:35+09:00",
+  "updated_at": "2026-09-10T00:18:53+09:00",
   "disclaimer": "이 목록은 공개 시세 데이터(거래량, 변동률)를 기준으로 자동 정렬한 결과이며 특정 종목의 매수/매도를 추천하지 않습니다. 투자 판단과 책임은 본인에게 있습니다.",
   "criteria": {
     "min_price": 5.0,
@@ -11,248 +11,245 @@
   },
   "candidates": [
     {
-      "symbol": "PHVS",
-      "name": "Pharvaris N.V.",
-      "price": 37.84,
-      "change_percent": 7.35,
-      "volume": 6294924,
-      "avg_volume_3m": 510182,
-      "relative_volume": 12.34,
-      "market_cap": 2656538368,
+      "symbol": "TTAN",
+      "name": "ServiceTitan, Inc.",
+      "price": 56.39,
+      "change_percent": -30.87,
+      "volume": 12129061,
+      "avg_volume_3m": 1499843,
+      "relative_volume": 8.09,
+      "market_cap": 5379469312,
       "exchange": "NasdaqGS",
       "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +7.3% 상승, 거래량 3개월 평균 대비 12.3배",
-      "score": 90.66
-    },
-    {
-      "symbol": "ROIV",
-      "name": "Roivant Sciences Ltd.",
-      "price": 41.48,
-      "change_percent": 18.75,
-      "volume": 24595112,
-      "avg_volume_3m": 6301350,
-      "relative_volume": 3.9,
-      "market_cap": 29961957376,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +18.8% 상승, 거래량 3개월 평균 대비 3.9배",
-      "score": 73.19
-    },
-    {
-      "symbol": "SEI",
-      "name": "Solaris Energy Infrastructure, ",
-      "price": 63.96,
-      "change_percent": 16.29,
-      "volume": 4992002,
-      "avg_volume_3m": 2874368,
-      "relative_volume": 1.74,
-      "market_cap": 6436061696,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +16.3% 상승, 거래량 3개월 평균 대비 1.7배",
-      "score": 28.29
-    },
-    {
-      "symbol": "CHA",
-      "name": "Chagee Holdings Limited",
-      "price": 12.59,
-      "change_percent": 7.98,
-      "volume": 2394604,
-      "avg_volume_3m": 725947,
-      "relative_volume": 3.3,
-      "market_cap": 2401710336,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +8.0% 상승, 거래량 3개월 평균 대비 3.3배",
-      "score": 26.31
-    },
-    {
-      "symbol": "SMR",
-      "name": "NuScale Power Corporation",
-      "price": 11.18,
-      "change_percent": 15.26,
-      "volume": 53716959,
-      "avg_volume_3m": 31876561,
-      "relative_volume": 1.69,
-      "market_cap": 4588155392,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers",
         "most_actives"
       ],
-      "reason": "장중 +15.3% 상승, 거래량 3개월 평균 대비 1.7배, 거래대금 상위 종목",
-      "score": 25.71
+      "reason": "장중 -30.9% 하락, 거래량 3개월 평균 대비 8.1배, 거래대금 상위 종목",
+      "score": 249.67
     },
     {
-      "symbol": "MLYS",
-      "name": "Mineralys Therapeutics, Inc.",
-      "price": 31.12,
-      "change_percent": 10.32,
-      "volume": 2593052,
-      "avg_volume_3m": 1111596,
-      "relative_volume": 2.33,
-      "market_cap": 2751222528,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +10.3% 상승, 거래량 3개월 평균 대비 2.3배",
-      "score": 24.06
-    },
-    {
-      "symbol": "CRWV",
-      "name": "CoreWeave, Inc.",
-      "price": 99.83,
-      "change_percent": 11.72,
-      "volume": 50881908,
-      "avg_volume_3m": 27879980,
-      "relative_volume": 1.83,
-      "market_cap": 55059898368,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers",
-        "most_actives"
-      ],
-      "reason": "장중 +11.7% 상승, 거래량 3개월 평균 대비 1.8배, 거래대금 상위 종목",
-      "score": 21.38
-    },
-    {
-      "symbol": "BE",
-      "name": "Bloom Energy Corporation",
-      "price": 277.22,
-      "change_percent": 9.63,
-      "volume": 27395461,
-      "avg_volume_3m": 14919447,
-      "relative_volume": 1.84,
-      "market_cap": 81648877568,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers",
-        "most_actives"
-      ],
-      "reason": "장중 +9.6% 상승, 거래량 3개월 평균 대비 1.8배, 거래대금 상위 종목",
-      "score": 17.68
-    },
-    {
-      "symbol": "DOCN",
-      "name": "DigitalOcean Holdings, Inc.",
-      "price": 126.69,
-      "change_percent": 12.64,
-      "volume": 4353608,
-      "avg_volume_3m": 3187534,
-      "relative_volume": 1.37,
-      "market_cap": 14896153600,
+      "symbol": "SSL",
+      "name": "Sasol Ltd.",
+      "price": 14.5988,
+      "change_percent": 9.77,
+      "volume": 2499901,
+      "avg_volume_3m": 1424525,
+      "relative_volume": 1.75,
+      "market_cap": 9358381056,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +12.6% 상승, 거래량 3개월 평균 대비 1.4배",
-      "score": 17.27
+      "reason": "장중 +9.8% 상승, 거래량 3개월 평균 대비 1.8배",
+      "score": 17.14
     },
     {
-      "symbol": "BILI",
-      "name": "Bilibili Inc.",
-      "price": 16.2,
-      "change_percent": 6.37,
-      "volume": 7027231,
-      "avg_volume_3m": 2602683,
-      "relative_volume": 2.7,
-      "market_cap": 6672664064,
+      "symbol": "SUNB",
+      "name": "Sunbelt Rentals Holdings, Inc.",
+      "price": 76.71,
+      "change_percent": 10.66,
+      "volume": 6453014,
+      "avg_volume_3m": 4764327,
+      "relative_volume": 1.35,
+      "market_cap": 31447076864,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +10.7% 상승, 거래량 3개월 평균 대비 1.4배",
+      "score": 14.44
+    },
+    {
+      "symbol": "XP",
+      "name": "XP Inc.",
+      "price": 18.95,
+      "change_percent": -5.2,
+      "volume": 11434998,
+      "avg_volume_3m": 5289559,
+      "relative_volume": 2.16,
+      "market_cap": 9616045056,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "most_actives"
+      ],
+      "reason": "장중 -5.2% 하락, 거래량 3개월 평균 대비 2.2배, 거래대금 상위 종목",
+      "score": 11.25
+    },
+    {
+      "symbol": "ASO",
+      "name": "Academy Sports and Outdoors, In",
+      "price": 48.2,
+      "change_percent": 7.81,
+      "volume": 2038188,
+      "avg_volume_3m": 1570209,
+      "relative_volume": 1.3,
+      "market_cap": 2989285632,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +6.4% 상승, 거래량 3개월 평균 대비 2.7배",
-      "score": 17.2
+      "reason": "장중 +7.8% 상승, 거래량 3개월 평균 대비 1.3배",
+      "score": 10.13
     },
     {
-      "symbol": "AXTI",
-      "name": "AXT Inc",
-      "price": 69.56,
-      "change_percent": 12.85,
-      "volume": 13728460,
-      "avg_volume_3m": 10378845,
-      "relative_volume": 1.32,
-      "market_cap": 4561272320,
+      "symbol": "AMBA",
+      "name": "Ambarella, Inc.",
+      "price": 67.63,
+      "change_percent": 6.54,
+      "volume": 2090837,
+      "avg_volume_3m": 1717938,
+      "relative_volume": 1.22,
+      "market_cap": 2985253888,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +12.8% 상승, 거래량 3개월 평균 대비 1.3배",
-      "score": 17.0
+      "reason": "장중 +6.5% 상승, 거래량 3개월 평균 대비 1.2배",
+      "score": 7.96
     },
     {
-      "symbol": "LITE",
-      "name": "Lumentum Holdings Inc.",
-      "price": 978.535,
-      "change_percent": 11.04,
-      "volume": 7361948,
-      "avg_volume_3m": 4788916,
-      "relative_volume": 1.54,
-      "market_cap": 87774584832,
-      "exchange": "NasdaqGS",
+      "symbol": "AEHR",
+      "name": "Aehr Test Systems",
+      "price": 98.655,
+      "change_percent": 8.66,
+      "volume": 2276025,
+      "avg_volume_3m": 2616551,
+      "relative_volume": 0.87,
+      "market_cap": 3218170368,
+      "exchange": "NasdaqCM",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +11.0% 상승, 거래량 3개월 평균 대비 1.5배",
-      "score": 16.97
+      "reason": "장중 +8.7% 상승, 거래량 3개월 평균 대비 0.9배",
+      "score": 7.54
     },
     {
-      "symbol": "FRMI",
-      "name": "Fermi Inc.",
-      "price": 5.71,
-      "change_percent": 11.52,
-      "volume": 27597049,
-      "avg_volume_3m": 20040375,
-      "relative_volume": 1.38,
-      "market_cap": 3657068544,
+      "symbol": "META",
+      "name": "Meta Platforms, Inc.",
+      "price": 656.3,
+      "change_percent": 6.98,
+      "volume": 17475047,
+      "avg_volume_3m": 17855329,
+      "relative_volume": 0.98,
+      "market_cap": 1671928217600,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers",
         "most_actives"
       ],
-      "reason": "장중 +11.5% 상승, 거래량 3개월 평균 대비 1.4배, 거래대금 상위 종목",
-      "score": 15.87
+      "reason": "장중 +7.0% 상승, 거래량 3개월 평균 대비 1.0배, 거래대금 상위 종목",
+      "score": 6.83
     },
     {
-      "symbol": "SMTC",
-      "name": "Semtech Corporation",
-      "price": 162.62,
-      "change_percent": 9.96,
-      "volume": 4845381,
-      "avg_volume_3m": 3290642,
-      "relative_volume": 1.47,
-      "market_cap": 15176612864,
+      "symbol": "GPCR",
+      "name": "Structure Therapeutics Inc.",
+      "price": 43.675,
+      "change_percent": 8.16,
+      "volume": 623347,
+      "avg_volume_3m": 763832,
+      "relative_volume": 0.82,
+      "market_cap": 3114457856,
+      "exchange": "NasdaqGM",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +8.2% 상승, 거래량 3개월 평균 대비 0.8배",
+      "score": 6.66
+    },
+    {
+      "symbol": "JMKE",
+      "name": "Jersey Mike's Subs Inc.",
+      "price": 22.2641,
+      "change_percent": 6.92,
+      "volume": 3654862,
+      "avg_volume_3m": 4194728,
+      "relative_volume": 0.87,
+      "market_cap": 5183843328,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +6.9% 상승, 거래량 3개월 평균 대비 0.9배",
+      "score": 6.03
+    },
+    {
+      "symbol": "SRPT",
+      "name": "Sarepta Therapeutics, Inc.",
+      "price": 22.96,
+      "change_percent": 9.65,
+      "volume": 1850518,
+      "avg_volume_3m": 3416211,
+      "relative_volume": 0.54,
+      "market_cap": 2425196288,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +10.0% 상승, 거래량 3개월 평균 대비 1.5배",
-      "score": 14.67
+      "reason": "장중 +9.6% 상승, 거래량 3개월 평균 대비 0.5배",
+      "score": 5.23
     },
     {
-      "symbol": "XE",
-      "name": "X-Energy, Inc.",
-      "price": 19.15,
-      "change_percent": 8.13,
-      "volume": 9764352,
-      "avg_volume_3m": 5511054,
-      "relative_volume": 1.77,
-      "market_cap": 5504834560,
+      "symbol": "GME",
+      "name": "GameStop Corporation",
+      "price": 19.745,
+      "change_percent": 4.53,
+      "volume": 5350316,
+      "avg_volume_3m": 5677172,
+      "relative_volume": 0.94,
+      "market_cap": 8859409408,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +4.5% 상승, 거래량 3개월 평균 대비 0.9배",
+      "score": 4.27
+    },
+    {
+      "symbol": "CHYM",
+      "name": "Chime Financial, Inc.",
+      "price": 33.63,
+      "change_percent": 4.09,
+      "volume": 6299724,
+      "avg_volume_3m": 7058167,
+      "relative_volume": 0.89,
+      "market_cap": 12731817984,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +8.1% 상승, 거래량 3개월 평균 대비 1.8배",
-      "score": 14.41
+      "reason": "장중 +4.1% 상승, 거래량 3개월 평균 대비 0.9배",
+      "score": 3.65
+    },
+    {
+      "symbol": "NET",
+      "name": "Cloudflare, Inc.",
+      "price": 308.16,
+      "change_percent": 8.39,
+      "volume": 1478148,
+      "avg_volume_3m": 3425541,
+      "relative_volume": 0.43,
+      "market_cap": 109729521664,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +8.4% 상승, 거래량 3개월 평균 대비 0.4배",
+      "score": 3.62
+    },
+    {
+      "symbol": "FSLY",
+      "name": "Fastly, Inc.",
+      "price": 22.225,
+      "change_percent": 3.42,
+      "volume": 4919165,
+      "avg_volume_3m": 5439220,
+      "relative_volume": 0.9,
+      "market_cap": 3540442624,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +3.4% 상승, 거래량 3개월 평균 대비 0.9배",
+      "score": 3.09
     }
   ]
 }
