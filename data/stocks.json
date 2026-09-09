@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T10:05:33+09:00",
+  "updated_at": "2026-09-09T18:20:35+09:00",
   "disclaimer": "이 목록은 공개 시세 데이터(거래량, 변동률)를 기준으로 자동 정렬한 결과이며 특정 종목의 매수/매도를 추천하지 않습니다. 투자 판단과 책임은 본인에게 있습니다.",
   "criteria": {
     "min_price": 5.0,
@@ -32,15 +32,15 @@
       "price": 41.48,
       "change_percent": 18.75,
       "volume": 24595112,
-      "avg_volume_3m": 6255967,
-      "relative_volume": 3.93,
+      "avg_volume_3m": 6301350,
+      "relative_volume": 3.9,
       "market_cap": 29961957376,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +18.8% 상승, 거래량 3개월 평균 대비 3.9배",
-      "score": 73.72
+      "score": 73.19
     },
     {
       "symbol": "SEI",
@@ -48,7 +48,7 @@
       "price": 63.96,
       "change_percent": 16.29,
       "volume": 4992002,
-      "avg_volume_3m": 2869783,
+      "avg_volume_3m": 2874368,
       "relative_volume": 1.74,
       "market_cap": 6436061696,
       "exchange": "NYSE",
@@ -56,7 +56,7 @@
         "day_gainers"
       ],
       "reason": "장중 +16.3% 상승, 거래량 3개월 평균 대비 1.7배",
-      "score": 28.34
+      "score": 28.29
     },
     {
       "symbol": "CHA",
@@ -64,15 +64,15 @@
       "price": 12.59,
       "change_percent": 7.98,
       "volume": 2394604,
-      "avg_volume_3m": 724050,
-      "relative_volume": 3.31,
+      "avg_volume_3m": 725947,
+      "relative_volume": 3.3,
       "market_cap": 2401710336,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +8.0% 상승, 거래량 3개월 평균 대비 3.3배",
-      "score": 26.38
+      "score": 26.31
     },
     {
       "symbol": "SMR",
@@ -113,7 +113,7 @@
       "price": 99.83,
       "change_percent": 11.72,
       "volume": 50881908,
-      "avg_volume_3m": 27863619,
+      "avg_volume_3m": 27879980,
       "relative_volume": 1.83,
       "market_cap": 55059898368,
       "exchange": "NasdaqGS",
@@ -122,7 +122,7 @@
         "most_actives"
       ],
       "reason": "장중 +11.7% 상승, 거래량 3개월 평균 대비 1.8배, 거래대금 상위 종목",
-      "score": 21.4
+      "score": 21.38
     },
     {
       "symbol": "BE",
@@ -130,8 +130,8 @@
       "price": 277.22,
       "change_percent": 9.63,
       "volume": 27395461,
-      "avg_volume_3m": 14940124,
-      "relative_volume": 1.83,
+      "avg_volume_3m": 14919447,
+      "relative_volume": 1.84,
       "market_cap": 81648877568,
       "exchange": "NYSE",
       "sources": [
@@ -139,7 +139,7 @@
         "most_actives"
       ],
       "reason": "장중 +9.6% 상승, 거래량 3개월 평균 대비 1.8배, 거래대금 상위 종목",
-      "score": 17.66
+      "score": 17.68
     },
     {
       "symbol": "DOCN",
@@ -147,15 +147,15 @@
       "price": 126.69,
       "change_percent": 12.64,
       "volume": 4353608,
-      "avg_volume_3m": 3190020,
-      "relative_volume": 1.36,
+      "avg_volume_3m": 3187534,
+      "relative_volume": 1.37,
       "market_cap": 14896153600,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +12.6% 상승, 거래량 3개월 평균 대비 1.4배",
-      "score": 17.26
+      "score": 17.27
     },
     {
       "symbol": "BILI",
@@ -179,7 +179,7 @@
       "price": 69.56,
       "change_percent": 12.85,
       "volume": 13728460,
-      "avg_volume_3m": 10383679,
+      "avg_volume_3m": 10378845,
       "relative_volume": 1.32,
       "market_cap": 4561272320,
       "exchange": "NasdaqGS",
@@ -187,7 +187,7 @@
         "day_gainers"
       ],
       "reason": "장중 +12.8% 상승, 거래량 3개월 평균 대비 1.3배",
-      "score": 16.99
+      "score": 17.0
     },
     {
       "symbol": "LITE",
@@ -195,15 +195,15 @@
       "price": 978.535,
       "change_percent": 11.04,
       "volume": 7361948,
-      "avg_volume_3m": 4840161,
-      "relative_volume": 1.52,
+      "avg_volume_3m": 4788916,
+      "relative_volume": 1.54,
       "market_cap": 87774584832,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +11.0% 상승, 거래량 3개월 평균 대비 1.5배",
-      "score": 16.79
+      "score": 16.97
     },
     {
       "symbol": "FRMI",
@@ -228,7 +228,7 @@
       "price": 162.62,
       "change_percent": 9.96,
       "volume": 4845381,
-      "avg_volume_3m": 3302920,
+      "avg_volume_3m": 3290642,
       "relative_volume": 1.47,
       "market_cap": 15176612864,
       "exchange": "NasdaqGS",
@@ -236,7 +236,7 @@
         "day_gainers"
       ],
       "reason": "장중 +10.0% 상승, 거래량 3개월 평균 대비 1.5배",
-      "score": 14.62
+      "score": 14.67
     },
     {
       "symbol": "XE",
@@ -244,15 +244,15 @@
       "price": 19.15,
       "change_percent": 8.13,
       "volume": 9764352,
-      "avg_volume_3m": 5489361,
-      "relative_volume": 1.78,
+      "avg_volume_3m": 5511054,
+      "relative_volume": 1.77,
       "market_cap": 5504834560,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +8.1% 상승, 거래량 3개월 평균 대비 1.8배",
-      "score": 14.46
+      "score": 14.41
     }
   ]
 }
