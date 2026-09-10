@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T09:52:51+09:00",
+  "updated_at": "2026-09-10T18:19:21+09:00",
   "disclaimer": "이 목록은 공개 시세 데이터(거래량, 변동률)를 기준으로 자동 정렬한 결과이며 특정 종목의 매수/매도를 추천하지 않습니다. 투자 판단과 책임은 본인에게 있습니다.",
   "criteria": {
     "min_price": 5.0,
@@ -16,15 +16,15 @@
       "price": 51.15,
       "change_percent": 14.4,
       "volume": 6030986,
-      "avg_volume_3m": 1570209,
-      "relative_volume": 3.84,
+      "avg_volume_3m": 1632446,
+      "relative_volume": 3.69,
       "market_cap": 3172766208,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +14.4% 상승, 거래량 3개월 평균 대비 3.8배",
-      "score": 55.32
+      "reason": "장중 +14.4% 상승, 거래량 3개월 평균 대비 3.7배",
+      "score": 53.21
     },
     {
       "symbol": "SSL",
@@ -32,15 +32,15 @@
       "price": 14.58,
       "change_percent": 9.62,
       "volume": 4952130,
-      "avg_volume_3m": 1424525,
-      "relative_volume": 3.48,
+      "avg_volume_3m": 1480574,
+      "relative_volume": 3.34,
       "market_cap": 9346329600,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +9.6% 상승, 거래량 3개월 평균 대비 3.5배",
-      "score": 33.46
+      "reason": "장중 +9.6% 상승, 거래량 3개월 평균 대비 3.3배",
+      "score": 32.19
     },
     {
       "symbol": "AMBA",
@@ -48,15 +48,15 @@
       "price": 68.8,
       "change_percent": 8.38,
       "volume": 5064246,
-      "avg_volume_3m": 1717938,
-      "relative_volume": 2.95,
+      "avg_volume_3m": 1780541,
+      "relative_volume": 2.84,
       "market_cap": 3036899072,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +8.4% 상승, 거래량 3개월 평균 대비 2.9배",
-      "score": 24.7
+      "reason": "장중 +8.4% 상승, 거래량 3개월 평균 대비 2.8배",
+      "score": 23.84
     },
     {
       "symbol": "PINS",
@@ -64,15 +64,15 @@
       "price": 18.28,
       "change_percent": -9.24,
       "volume": 28030616,
-      "avg_volume_3m": 12820604,
-      "relative_volume": 2.19,
+      "avg_volume_3m": 12936661,
+      "relative_volume": 2.17,
       "market_cap": 10352202752,
       "exchange": "NYSE",
       "sources": [
         "most_actives"
       ],
       "reason": "장중 -9.2% 하락, 거래량 3개월 평균 대비 2.2배, 거래대금 상위 종목",
-      "score": 20.19
+      "score": 20.01
     },
     {
       "symbol": "SUNB",
@@ -80,15 +80,15 @@
       "price": 73.42,
       "change_percent": 5.91,
       "volume": 15479463,
-      "avg_volume_3m": 4764327,
-      "relative_volume": 3.25,
+      "avg_volume_3m": 4969225,
+      "relative_volume": 3.12,
       "market_cap": 60525264896,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +5.9% 상승, 거래량 3개월 평균 대비 3.2배",
-      "score": 19.22
+      "reason": "장중 +5.9% 상승, 거래량 3개월 평균 대비 3.1배",
+      "score": 18.42
     },
     {
       "symbol": "CMPS",
@@ -96,15 +96,15 @@
       "price": 15.17,
       "change_percent": 8.05,
       "volume": 7705555,
-      "avg_volume_3m": 3341270,
-      "relative_volume": 2.31,
+      "avg_volume_3m": 3430929,
+      "relative_volume": 2.25,
       "market_cap": 2100693248,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +8.0% 상승, 거래량 3개월 평균 대비 2.3배",
-      "score": 18.56
+      "reason": "장중 +8.0% 상승, 거래량 3개월 평균 대비 2.2배",
+      "score": 18.08
     },
     {
       "symbol": "NET",
@@ -112,7 +112,7 @@
       "price": 314.18,
       "change_percent": 10.51,
       "volume": 4759162,
-      "avg_volume_3m": 3425541,
+      "avg_volume_3m": 3413032,
       "relative_volume": 1.39,
       "market_cap": 111873122304,
       "exchange": "NYSE",
@@ -120,7 +120,7 @@
         "day_gainers"
       ],
       "reason": "장중 +10.5% 상승, 거래량 3개월 평균 대비 1.4배",
-      "score": 14.6
+      "score": 14.66
     },
     {
       "symbol": "GME",
@@ -128,15 +128,15 @@
       "price": 19.89,
       "change_percent": 5.29,
       "volume": 15450392,
-      "avg_volume_3m": 5677172,
-      "relative_volume": 2.72,
+      "avg_volume_3m": 5858440,
+      "relative_volume": 2.64,
       "market_cap": 8924469248,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +5.3% 상승, 거래량 3개월 평균 대비 2.7배",
-      "score": 14.41
+      "reason": "장중 +5.3% 상승, 거래량 3개월 평균 대비 2.6배",
+      "score": 13.96
     },
     {
       "symbol": "JMKE",
@@ -144,15 +144,15 @@
       "price": 22.37,
       "change_percent": 7.44,
       "volume": 7985047,
-      "avg_volume_3m": 4194728,
-      "relative_volume": 1.9,
+      "avg_volume_3m": 4326379,
+      "relative_volume": 1.85,
       "market_cap": 5208500736,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +7.4% 상승, 거래량 3개월 평균 대비 1.9배",
-      "score": 14.17
+      "reason": "장중 +7.4% 상승, 거래량 3개월 평균 대비 1.8배",
+      "score": 13.74
     },
     {
       "symbol": "CHYM",
@@ -160,15 +160,15 @@
       "price": 34.55,
       "change_percent": 6.93,
       "volume": 13447150,
-      "avg_volume_3m": 7058167,
-      "relative_volume": 1.91,
+      "avg_volume_3m": 7228645,
+      "relative_volume": 1.86,
       "market_cap": 13080115200,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +6.9% 상승, 거래량 3개월 평균 대비 1.9배",
-      "score": 13.21
+      "score": 12.9
     },
     {
       "symbol": "META",
@@ -176,16 +176,16 @@
       "price": 653.69,
       "change_percent": 6.55,
       "volume": 35359694,
-      "avg_volume_3m": 17855329,
-      "relative_volume": 1.98,
+      "avg_volume_3m": 18158843,
+      "relative_volume": 1.95,
       "market_cap": 1665279328256,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers",
         "most_actives"
       ],
-      "reason": "장중 +6.6% 상승, 거래량 3개월 평균 대비 2.0배, 거래대금 상위 종목",
-      "score": 12.98
+      "reason": "장중 +6.6% 상승, 거래량 3개월 평균 대비 1.9배, 거래대금 상위 종목",
+      "score": 12.76
     },
     {
       "symbol": "CIFR",
@@ -193,15 +193,15 @@
       "price": 16.9,
       "change_percent": -8.7,
       "volume": 41947213,
-      "avg_volume_3m": 29860361,
-      "relative_volume": 1.4,
+      "avg_volume_3m": 30221585,
+      "relative_volume": 1.39,
       "market_cap": 7014019072,
       "exchange": "NasdaqGS",
       "sources": [
         "most_actives"
       ],
       "reason": "장중 -8.7% 하락, 거래량 3개월 평균 대비 1.4배, 거래대금 상위 종목",
-      "score": 12.22
+      "score": 12.07
     },
     {
       "symbol": "FSLY",
@@ -209,15 +209,15 @@
       "price": 22.71,
       "change_percent": 5.68,
       "volume": 10509353,
-      "avg_volume_3m": 5439220,
-      "relative_volume": 1.93,
+      "avg_volume_3m": 5537148,
+      "relative_volume": 1.9,
       "market_cap": 3617702912,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +5.7% 상승, 거래량 3개월 평균 대비 1.9배",
-      "score": 10.97
+      "score": 10.77
     },
     {
       "symbol": "SEI",
@@ -225,15 +225,15 @@
       "price": 67.67,
       "change_percent": 5.8,
       "volume": 5144617,
-      "avg_volume_3m": 2908543,
-      "relative_volume": 1.77,
+      "avg_volume_3m": 2960869,
+      "relative_volume": 1.74,
       "market_cap": 6809385472,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +5.8% 상승, 거래량 3개월 평균 대비 1.8배",
-      "score": 10.26
+      "reason": "장중 +5.8% 상승, 거래량 3개월 평균 대비 1.7배",
+      "score": 10.08
     },
     {
       "symbol": "CMCSA",
@@ -241,15 +241,15 @@
       "price": 24.59,
       "change_percent": -6.61,
       "volume": 46823603,
-      "avg_volume_3m": 32151830,
-      "relative_volume": 1.46,
+      "avg_volume_3m": 32556667,
+      "relative_volume": 1.44,
       "market_cap": 87260979200,
       "exchange": "NasdaqGS",
       "sources": [
         "most_actives"
       ],
-      "reason": "장중 -6.6% 하락, 거래량 3개월 평균 대비 1.5배, 거래대금 상위 종목",
-      "score": 9.62
+      "reason": "장중 -6.6% 하락, 거래량 3개월 평균 대비 1.4배, 거래대금 상위 종목",
+      "score": 9.5
     }
   ]
 }
