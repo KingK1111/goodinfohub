@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T09:52:15+09:00",
+  "updated_at": "2026-09-11T18:18:14+09:00",
   "disclaimer": "이 목록은 공개 시세 데이터(거래량, 변동률)를 기준으로 자동 정렬한 결과이며 특정 종목의 매수/매도를 추천하지 않습니다. 투자 판단과 책임은 본인에게 있습니다.",
   "criteria": {
     "min_price": 5.0,
@@ -16,7 +16,7 @@
       "price": 14.53,
       "change_percent": -13.97,
       "volume": 28366442,
-      "avg_volume_3m": 4938045,
+      "avg_volume_3m": 4941544,
       "relative_volume": 5.74,
       "market_cap": 2434840320,
       "exchange": "NYSE",
@@ -24,7 +24,7 @@
         "most_actives"
       ],
       "reason": "장중 -14.0% 하락, 거래량 3개월 평균 대비 5.7배, 거래대금 상위 종목",
-      "score": 80.27
+      "score": 80.21
     },
     {
       "symbol": "BKV",
@@ -32,15 +32,15 @@
       "price": 24.96,
       "change_percent": 3.57,
       "volume": 18909763,
-      "avg_volume_3m": 1002464,
-      "relative_volume": 18.86,
+      "avg_volume_3m": 1004452,
+      "relative_volume": 18.83,
       "market_cap": 2731568128,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +3.6% 상승, 거래량 3개월 평균 대비 18.9배",
-      "score": 67.31
+      "reason": "장중 +3.6% 상승, 거래량 3개월 평균 대비 18.8배",
+      "score": 67.18
     },
     {
       "symbol": "AVAV",
@@ -48,15 +48,15 @@
       "price": 147.065,
       "change_percent": 4.45,
       "volume": 8713131,
-      "avg_volume_3m": 1698820,
-      "relative_volume": 5.13,
-      "market_cap": 7474228224,
+      "avg_volume_3m": 1700601,
+      "relative_volume": 5.12,
+      "market_cap": 7473947136,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +4.4% 상승, 거래량 3개월 평균 대비 5.1배",
-      "score": 22.82
+      "score": 22.8
     },
     {
       "symbol": "SWKS",
@@ -64,7 +64,7 @@
       "price": 84.03,
       "change_percent": 9.79,
       "volume": 11321612,
-      "avg_volume_3m": 5676072,
+      "avg_volume_3m": 5676295,
       "relative_volume": 1.99,
       "market_cap": 12644228096,
       "exchange": "NasdaqGS",
@@ -96,15 +96,15 @@
       "price": 78.95,
       "change_percent": 5.87,
       "volume": 2285844,
-      "avg_volume_3m": 986811,
-      "relative_volume": 2.32,
+      "avg_volume_3m": 979550,
+      "relative_volume": 2.33,
       "market_cap": 8733244416,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +5.9% 상승, 거래량 3개월 평균 대비 2.3배",
-      "score": 13.61
+      "score": 13.71
     },
     {
       "symbol": "QRVO",
@@ -130,7 +130,7 @@
       "volume": 3282879,
       "avg_volume_3m": 1632446,
       "relative_volume": 2.01,
-      "market_cap": 3362884096,
+      "market_cap": 3338499584,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
@@ -144,7 +144,7 @@
       "price": 34.6,
       "change_percent": 4.66,
       "volume": 1703492,
-      "avg_volume_3m": 747000,
+      "avg_volume_3m": 748781,
       "relative_volume": 2.28,
       "market_cap": 3542686464,
       "exchange": "NasdaqGS",
@@ -152,7 +152,7 @@
         "day_gainers"
       ],
       "reason": "장중 +4.7% 상승, 거래량 3개월 평균 대비 2.3배",
-      "score": 10.62
+      "score": 10.6
     },
     {
       "symbol": "FOUR",
@@ -176,7 +176,7 @@
       "price": 15.94,
       "change_percent": -5.68,
       "volume": 46980968,
-      "avg_volume_3m": 30221585,
+      "avg_volume_3m": 30225517,
       "relative_volume": 1.55,
       "market_cap": 6615589376,
       "exchange": "NasdaqGS",
@@ -187,12 +187,28 @@
       "score": 8.83
     },
     {
+      "symbol": "ORCL",
+      "name": "Oracle Corporation",
+      "price": 152.94,
+      "change_percent": -5.38,
+      "volume": 50925752,
+      "avg_volume_3m": 31117275,
+      "relative_volume": 1.64,
+      "market_cap": 440539250688,
+      "exchange": "NYSE",
+      "sources": [
+        "most_actives"
+      ],
+      "reason": "장중 -5.4% 하락, 거래량 3개월 평균 대비 1.6배, 거래대금 상위 종목",
+      "score": 8.8
+    },
+    {
       "symbol": "INTR",
       "name": "Inter & Co. Inc.",
       "price": 5.78,
       "change_percent": 5.47,
       "volume": 7869154,
-      "avg_volume_3m": 4944200,
+      "avg_volume_3m": 4960668,
       "relative_volume": 1.59,
       "market_cap": 2551948032,
       "exchange": "NasdaqGS",
@@ -200,23 +216,7 @@
         "day_gainers"
       ],
       "reason": "장중 +5.5% 상승, 거래량 3개월 평균 대비 1.6배",
-      "score": 8.71
-    },
-    {
-      "symbol": "ORCL",
-      "name": "Oracle Corporation",
-      "price": 152.94,
-      "change_percent": -5.38,
-      "volume": 50925752,
-      "avg_volume_3m": 31640679,
-      "relative_volume": 1.61,
-      "market_cap": 440539250688,
-      "exchange": "NYSE",
-      "sources": [
-        "most_actives"
-      ],
-      "reason": "장중 -5.4% 하락, 거래량 3개월 평균 대비 1.6배, 거래대금 상위 종목",
-      "score": 8.65
+      "score": 8.68
     },
     {
       "symbol": "XP",
@@ -224,15 +224,15 @@
       "price": 19.97,
       "change_percent": 4.88,
       "volume": 9725972,
-      "avg_volume_3m": 5528896,
-      "relative_volume": 1.76,
+      "avg_volume_3m": 5475996,
+      "relative_volume": 1.78,
       "market_cap": 10133636096,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +4.9% 상승, 거래량 3개월 평균 대비 1.8배",
-      "score": 8.59
+      "score": 8.68
     },
     {
       "symbol": "ELV",
