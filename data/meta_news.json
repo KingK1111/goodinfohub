@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T17:58:36+09:00",
+  "updated_at": "2026-09-12T23:10:36+09:00",
   "quote": {
     "symbol": "META",
     "price": 648.03,
@@ -43,10 +43,16 @@
       "published": "Thu, 10 Sep 2026 14:16:35 GMT"
     },
     {
-      "title": "Meta’s stock jumps as new personal AI agent Muse addresses a major investor concern - MarketWatch",
+      "title": "Meta’s stock jumps as new personal AI agent Muse addresses a major investor concern - marketwatch.com",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTk5wMjNDc21DN1A4eDdyOXdsVWVOUGd4YWQzSzhNNkVXbVJGakE3SVZqaFJkYmdaaXhHc1JDTnU0T2s5NWpIYkl4Szl1ZDJfQVlUdU8waTZRWEZvX1Z1NFdTNkJ0R2tOZFRtZXpwa0EyT2JOZW9lZkpybFJPMjByWVFfQkROdTc2aTU2RnZsOEdOenFWN2psazZGdy1WWExHSkpqTXZEUF90UzRqNE81TjRTSXNmS1Q3WXBwZW1NSmt1Zw?oc=5",
-      "source": "MarketWatch",
+      "source": "marketwatch.com",
       "published": "Wed, 09 Sep 2026 12:43:00 GMT"
+    },
+    {
+      "title": "Why Cathie Wood Is Selling Google and Buying More Meta Platforms Stock - Barchart.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUVYzRmxDNkRneXFRdG5STzZ4OXFhdFg5amVSYXVoc1Q5V3EyMnNBdGJLcmUteHhNSU1YSXdFMHN6NFlHd3hqWmwzaFdMbHY5WDRhVHJiVXVBMDh4T2RxZC1hVC1aM2RhdnNVN1NCMTA5STk5LUFXUjc1WnZudFFfaDZLalBnbFp4cXdiaW5YRFQ0VllvZ3Y3dUlHOGhsemNQN2FIam41WXc2dEtTbEQwS2pNZ0Q?oc=5",
+      "source": "Barchart.com",
+      "published": "Sat, 12 Sep 2026 12:43:04 GMT"
     },
     {
       "title": "Why Meta Platforms Stock Only Bumped Slightly Higher on Friday - Yahoo Finance",
@@ -61,28 +67,16 @@
       "published": "Fri, 11 Sep 2026 19:26:38 GMT"
     },
     {
-      "title": "Huge News for Meta Stock Investors - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbE5faXRXcy1vOU1yMVNrei1seVcxMGxrWWVfRE5mWGI3T25CVm5EMDNBODBwWmFaQ1VZUjc3S1BOMkducWVaNEExbWJ3Snlrc1R2SzlsOWFod1NsWktVcWF2VmppUUdPZTZ6SFJUTU9qVFo1UjA1b25xN1V2d1JQU3dQbkU4d2luRHo3WE4xMFBLdU1VekFDM1NGVzhXRXIwVjVZaGJnM2doNDRKcXJRR1B5b1JPWHlhVWxV?oc=5",
-      "source": "The Globe and Mail",
-      "published": "Sat, 12 Sep 2026 00:56:54 GMT"
-    },
-    {
-      "title": "Meta: The Market Misunderstanding Of This Stock Is Quite Baffling (NASDAQ:META) - Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRkhROFREZFNyQ1ZPRjN2SXUyWTcxWjZPQkxCT1ktSFZYV1F0UjZoVzBKdWw2OEZtcjF2VTJYNGwwcVNKY04zclpQeVpqU2RhMzhqb0thdU1aUHU2YXdxejNrMlR0TWY3STlFTU0wUUhIWU5GdFZiX3JfS2pLX3piUEpFaThxQ2Y1WTFQSExWel9FckFEbU9kUnBXNA?oc=5",
-      "source": "Seeking Alpha",
-      "published": "Fri, 11 Sep 2026 17:52:03 GMT"
-    },
-    {
       "title": "Meta Stock Scores Wall Street Upgrade After Muse AI App Launch - Investor's Business Daily",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQVNreEZSR1ByZ0RDczBBdnNGQTQwRWRzamxGUDYxY0VsX0ZjNEJaaHN1TC02WlBjZGtDcnNmbTlPWFF6a2piY3psa20tN2dEUXhxYkFNMmRyZUxoeVhob0x6NUNuRGJoLWJvR3JkRHRLQ1R4X1dVaHExT0JlbUYxaGI5YXVkR3YzLUE?oc=5",
       "source": "Investor's Business Daily",
       "published": "Thu, 10 Sep 2026 15:14:00 GMT"
     },
     {
-      "title": "Meta Platforms(META.US) Officer Sells US$13.01 Million in Common Stock - Moomoo",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNLTJTVnZSU2xxd1dQbWRaUERxbVFnc2VzSGk2YjVCQl9fUlNxelNXc0lEVEZTajlfWUFmTWZ6aGZBalZkYzNOYml2X1hwR2R1T3owQ2stRTNoWUY2VnY4XzB6bDd5bGx5ZUFPTXFZVWxTR0NIRVRKVXpsaE9NdVRMV1B3ZHdORjNxc1hveE1ENnRLOEdhb2tpSllrVEhuZw?oc=5",
-      "source": "Moomoo",
-      "published": "Fri, 11 Sep 2026 22:31:54 GMT"
+      "title": "Huge News for Meta Stock Investors - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbE5faXRXcy1vOU1yMVNrei1seVcxMGxrWWVfRE5mWGI3T25CVm5EMDNBODBwWmFaQ1VZUjc3S1BOMkducWVaNEExbWJ3Snlrc1R2SzlsOWFod1NsWktVcWF2VmppUUdPZTZ6SFJUTU9qVFo1UjA1b25xN1V2d1JQU3dQbkU4d2luRHo3WE4xMFBLdU1VekFDM1NGVzhXRXIwVjVZaGJnM2doNDRKcXJRR1B5b1JPWHlhVWxV?oc=5",
+      "source": "The Globe and Mail",
+      "published": "Sat, 12 Sep 2026 00:56:54 GMT"
     },
     {
       "title": "Meta’s Muse Hits Top 3 in App Store. Why Wall Street Is Split on the Stock. - Barron's",
@@ -91,10 +85,22 @@
       "published": "Thu, 10 Sep 2026 14:38:00 GMT"
     },
     {
-      "title": "A $30 Trillion Reason to Buy Meta Platforms Stock Now - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeGE2MncxQk56MnRLU0hCczFYRkZJRnJmM1ZjQ2FyZFhfWTVISDRuNmxJdU1vZ2JsRnhONWlWSXRkQXBxNWg2a2VsdTBTd2M4WFRQUXdGcl96VDM2Q3FOYUJvODFvNjdQUnRjaEtjQWFDYUxYSmlrUTIxSzQxSFNLRmNLbVBDWHF1ZnJvSEtWdkN6d19kbGtN?oc=5",
+      "title": "Meta Platforms(META.US) Officer Sells US$13.01 Million in Common Stock - Moomoo",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNLTJTVnZSU2xxd1dQbWRaUERxbVFnc2VzSGk2YjVCQl9fUlNxelNXc0lEVEZTajlfWUFmTWZ6aGZBalZkYzNOYml2X1hwR2R1T3owQ2stRTNoWUY2VnY4XzB6bDd5bGx5ZUFPTXFZVWxTR0NIRVRKVXpsaE9NdVRMV1B3ZHdORjNxc1hveE1ENnRLOEdhb2tpSllrVEhuZw?oc=5",
+      "source": "Moomoo",
+      "published": "Fri, 11 Sep 2026 22:31:54 GMT"
+    },
+    {
+      "title": "Meta: The Market Misunderstanding Of This Stock Is Quite Baffling (NASDAQ:META) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRkhROFREZFNyQ1ZPRjN2SXUyWTcxWjZPQkxCT1ktSFZYV1F0UjZoVzBKdWw2OEZtcjF2VTJYNGwwcVNKY04zclpQeVpqU2RhMzhqb0thdU1aUHU2YXdxejNrMlR0TWY3STlFTU0wUUhIWU5GdFZiX3JfS2pLX3piUEpFaThxQ2Y1WTFQSExWel9FckFEbU9kUnBXNA?oc=5",
+      "source": "Seeking Alpha",
+      "published": "Fri, 11 Sep 2026 17:52:03 GMT"
+    },
+    {
+      "title": "Why Are Meta (META) Shares Soaring Today - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNc1hoamg4VWlOUXcyUTQ3QzdQQVI3X1RfOEtQdy13SVFyZDQwRHFkN0pnQzRsMkg2RW9LUTk5c2d5S0t2RTNIZ2wtZ3lmR3dOVGljREZmbmZUbFFGWWgwTzlyaFE5aDlaQnBKblFvbGM0QW1rbXN1aWpRdHpGZk1iZzc1TzQtTkVCV1FuUG93Z3JYaFg4S3ZPQQ?oc=5",
       "source": "Yahoo Finance",
-      "published": "Fri, 11 Sep 2026 15:38:00 GMT"
+      "published": "Thu, 10 Sep 2026 00:02:00 GMT"
     },
     {
       "title": "Why Meta Platforms Stock Only Bumped Slightly Higher on Friday - The Motley Fool",
@@ -109,28 +115,22 @@
       "published": "Thu, 10 Sep 2026 17:17:10 GMT"
     },
     {
-      "title": "Why Are Meta (META) Shares Soaring Today - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNc1hoamg4VWlOUXcyUTQ3QzdQQVI3X1RfOEtQdy13SVFyZDQwRHFkN0pnQzRsMkg2RW9LUTk5c2d5S0t2RTNIZ2wtZ3lmR3dOVGljREZmbmZUbFFGWWgwTzlyaFE5aDlaQnBKblFvbGM0QW1rbXN1aWpRdHpGZk1iZzc1TzQtTkVCV1FuUG93Z3JYaFg4S3ZPQQ?oc=5",
-      "source": "Yahoo Finance",
-      "published": "Thu, 10 Sep 2026 00:02:00 GMT"
-    },
-    {
       "title": "Meta stock surges with Wall Street bullish on new AI agent - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVU5VM2xXTTFmS0lWVkU4cmgtWFNvSU1EUDItZ3FwbmlaXzBiSnBJU1paVGpqNEl5TEJGc2lBNVE5QmN2c1FpMmVycjBOUm9sRzNxZ25yY0k0M2lBb3pLLTczMU1IX0t1NmFSY3dZTi1TVEdCZW5JYk1JNW1WenZsX3BrdmN1NUNFVm5wQ3M4dTdzaE9TSHlfYmVJZDljNGdMWEwxTHNCWU9DNExRakF0d2F6RkNodUIxb2Zpb1IzNA?oc=5",
       "source": "Yahoo Finance",
       "published": "Wed, 09 Sep 2026 14:09:59 GMT"
     },
     {
+      "title": "A $30 Trillion Reason to Buy Meta Platforms Stock Now - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeGE2MncxQk56MnRLU0hCczFYRkZJRnJmM1ZjQ2FyZFhfWTVISDRuNmxJdU1vZ2JsRnhONWlWSXRkQXBxNWg2a2VsdTBTd2M4WFRQUXdGcl96VDM2Q3FOYUJvODFvNjdQUnRjaEtjQWFDYUxYSmlrUTIxSzQxSFNLRmNLbVBDWHF1ZnJvSEtWdkN6d19kbGtN?oc=5",
+      "source": "Yahoo Finance",
+      "published": "Fri, 11 Sep 2026 15:38:00 GMT"
+    },
+    {
       "title": "Top Stock Reports for Meta Platforms, Marvell & Amphenol - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOE1kRUZPdzM5X0d5N3ZJVjhTcmlURWVNRElYYVhoZjJXWDdyRExUMXpsYTZVWDJVRUc4MHJVYlpPY00wNWpJN1RhTWg4YlZqWGRIMDRUdjFHMGJaenFVcXBkUnRienZKOWltam1ibE5rT01wY2U5VWI3Y2plSmd0d01zSHRha2VYUUNoWUpnR3JSblNyNE1fcW5TaDdaQQ?oc=5",
       "source": "Yahoo Finance",
       "published": "Fri, 11 Sep 2026 21:23:00 GMT"
-    },
-    {
-      "title": "Meta Buys Stilla.ai: What the Swedish AI Acquisition Means for META Stock - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMzZxXzVnMHZhRmk1bzAxLXJNeExLSkdoTW0yVmtianIwaXZoNHFuekdDYklXT0RmRS1Ea2NjWGVocEVjcmE0MVo0V0dIV05WakNtQzY1SmNpdm9YUHR1dDJOdjdYb3ZUZDItMHR3Y0lPR1ZWS0thbHVHRGh2VVVHRmJrOFBpd0tGUkpvX195TUtSOHZsWEE?oc=5",
-      "source": "Yahoo Finance",
-      "published": "Thu, 10 Sep 2026 16:18:47 GMT"
     }
   ]
 }

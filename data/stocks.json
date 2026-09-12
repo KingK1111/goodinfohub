@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T17:58:37+09:00",
+  "updated_at": "2026-09-12T23:10:38+09:00",
   "disclaimer": "이 목록은 공개 시세 데이터(거래량, 변동률)를 기준으로 자동 정렬한 결과이며 특정 종목의 매수/매도를 추천하지 않습니다. 투자 판단과 책임은 본인에게 있습니다.",
   "criteria": {
     "min_price": 5.0,
@@ -16,15 +16,15 @@
       "price": 8.61,
       "change_percent": -15.67,
       "volume": 92048618,
-      "avg_volume_3m": 31816269,
-      "relative_volume": 2.89,
+      "avg_volume_3m": 32801377,
+      "relative_volume": 2.81,
       "market_cap": 3533453824,
       "exchange": "NYSE",
       "sources": [
         "most_actives"
       ],
-      "reason": "장중 -15.7% 하락, 거래량 3개월 평균 대비 2.9배, 거래대금 상위 종목",
-      "score": 45.34
+      "reason": "장중 -15.7% 하락, 거래량 3개월 평균 대비 2.8배, 거래대금 상위 종목",
+      "score": 43.98
     },
     {
       "symbol": "HPE",
@@ -32,16 +32,16 @@
       "price": 62.09,
       "change_percent": 12.44,
       "volume": 38956735,
-      "avg_volume_3m": 21048809,
-      "relative_volume": 1.85,
+      "avg_volume_3m": 21338217,
+      "relative_volume": 1.83,
       "market_cap": 82422292480,
       "exchange": "NYSE",
       "sources": [
         "day_gainers",
         "most_actives"
       ],
-      "reason": "장중 +12.4% 상승, 거래량 3개월 평균 대비 1.9배, 거래대금 상위 종목",
-      "score": 23.03
+      "reason": "장중 +12.4% 상승, 거래량 3개월 평균 대비 1.8배, 거래대금 상위 종목",
+      "score": 22.71
     },
     {
       "symbol": "DELL",
@@ -49,31 +49,15 @@
       "price": 567.29,
       "change_percent": 11.98,
       "volume": 14366604,
-      "avg_volume_3m": 7510053,
-      "relative_volume": 1.91,
+      "avg_volume_3m": 7644353,
+      "relative_volume": 1.88,
       "market_cap": 360690188288,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +12.0% 상승, 거래량 3개월 평균 대비 1.9배",
-      "score": 22.91
-    },
-    {
-      "symbol": "OKLO",
-      "name": "Oklo Inc.",
-      "price": 36.22,
-      "change_percent": -9.18,
-      "volume": 22418110,
-      "avg_volume_3m": 9579980,
-      "relative_volume": 2.34,
-      "market_cap": 6737559552,
-      "exchange": "NYSE",
-      "sources": [
-        "most_actives"
-      ],
-      "reason": "장중 -9.2% 하락, 거래량 3개월 평균 대비 2.3배, 거래대금 상위 종목",
-      "score": 21.48
+      "score": 22.51
     },
     {
       "symbol": "DSGX",
@@ -81,15 +65,15 @@
       "price": 76.04,
       "change_percent": 6.62,
       "volume": 1745262,
-      "avg_volume_3m": 558300,
-      "relative_volume": 3.13,
+      "avg_volume_3m": 580964,
+      "relative_volume": 3.0,
       "market_cap": 6505112064,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +6.6% 상승, 거래량 3개월 평균 대비 3.1배",
-      "score": 20.69
+      "reason": "장중 +6.6% 상승, 거래량 3개월 평균 대비 3.0배",
+      "score": 19.88
     },
     {
       "symbol": "SPSC",
@@ -97,15 +81,15 @@
       "price": 82.68,
       "change_percent": 7.06,
       "volume": 1807073,
-      "avg_volume_3m": 628237,
-      "relative_volume": 2.88,
+      "avg_volume_3m": 651737,
+      "relative_volume": 2.77,
       "market_cap": 2976494592,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +7.1% 상승, 거래량 3개월 평균 대비 2.9배",
-      "score": 20.3
+      "reason": "장중 +7.1% 상승, 거래량 3개월 평균 대비 2.8배",
+      "score": 19.57
     },
     {
       "symbol": "HDB",
@@ -113,16 +97,16 @@
       "price": 23.34,
       "change_percent": 6.87,
       "volume": 24733139,
-      "avg_volume_3m": 9044298,
-      "relative_volume": 2.73,
-      "market_cap": 119897579520,
+      "avg_volume_3m": 9361270,
+      "relative_volume": 2.64,
+      "market_cap": 119921369088,
       "exchange": "NYSE",
       "sources": [
         "day_gainers",
         "most_actives"
       ],
-      "reason": "장중 +6.9% 상승, 거래량 3개월 평균 대비 2.7배, 거래대금 상위 종목",
-      "score": 18.78
+      "reason": "장중 +6.9% 상승, 거래량 3개월 평균 대비 2.6배, 거래대금 상위 종목",
+      "score": 18.15
     },
     {
       "symbol": "ALKT",
@@ -130,15 +114,15 @@
       "price": 20.51,
       "change_percent": 7.61,
       "volume": 3337855,
-      "avg_volume_3m": 1607986,
-      "relative_volume": 2.08,
+      "avg_volume_3m": 1635903,
+      "relative_volume": 2.04,
       "market_cap": 2193380096,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +7.6% 상승, 거래량 3개월 평균 대비 2.1배",
-      "score": 15.79
+      "reason": "장중 +7.6% 상승, 거래량 3개월 평균 대비 2.0배",
+      "score": 15.52
     },
     {
       "symbol": "HPQ",
@@ -146,8 +130,8 @@
       "price": 35.48,
       "change_percent": 8.4,
       "volume": 26507780,
-      "avg_volume_3m": 15437654,
-      "relative_volume": 1.72,
+      "avg_volume_3m": 15691109,
+      "relative_volume": 1.69,
       "market_cap": 31995543552,
       "exchange": "NYSE",
       "sources": [
@@ -155,7 +139,7 @@
         "most_actives"
       ],
       "reason": "장중 +8.4% 상승, 거래량 3개월 평균 대비 1.7배, 거래대금 상위 종목",
-      "score": 14.43
+      "score": 14.19
     },
     {
       "symbol": "M",
@@ -163,15 +147,15 @@
       "price": 22.08,
       "change_percent": 7.71,
       "volume": 10269863,
-      "avg_volume_3m": 5501913,
-      "relative_volume": 1.87,
+      "avg_volume_3m": 5578916,
+      "relative_volume": 1.84,
       "market_cap": 5766780416,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +7.7% 상승, 거래량 3개월 평균 대비 1.9배",
-      "score": 14.39
+      "reason": "장중 +7.7% 상승, 거래량 3개월 평균 대비 1.8배",
+      "score": 14.19
     },
     {
       "symbol": "INSP",
@@ -179,15 +163,15 @@
       "price": 73.0,
       "change_percent": 7.16,
       "volume": 1399286,
-      "avg_volume_3m": 848093,
-      "relative_volume": 1.65,
+      "avg_volume_3m": 853767,
+      "relative_volume": 1.64,
       "market_cap": 2110457472,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +7.2% 상승, 거래량 3개월 평균 대비 1.6배",
-      "score": 11.82
+      "score": 11.74
     },
     {
       "symbol": "FPS",
@@ -195,15 +179,15 @@
       "price": 31.82,
       "change_percent": 8.97,
       "volume": 9600600,
-      "avg_volume_3m": 7630018,
-      "relative_volume": 1.26,
+      "avg_volume_3m": 7661901,
+      "relative_volume": 1.25,
       "market_cap": 9686927360,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +9.0% 상승, 거래량 3개월 평균 대비 1.3배",
-      "score": 11.29
+      "score": 11.24
     },
     {
       "symbol": "AVT",
@@ -211,15 +195,15 @@
       "price": 99.63,
       "change_percent": 7.16,
       "volume": 1893190,
-      "avg_volume_3m": 1203535,
-      "relative_volume": 1.57,
+      "avg_volume_3m": 1214664,
+      "relative_volume": 1.56,
       "market_cap": 8176930304,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +7.2% 상승, 거래량 3개월 평균 대비 1.6배",
-      "score": 11.27
+      "score": 11.17
     },
     {
       "symbol": "HTFL",
@@ -227,7 +211,7 @@
       "price": 49.88,
       "change_percent": 9.65,
       "volume": 2152375,
-      "avg_volume_3m": 1898627,
+      "avg_volume_3m": 1903840,
       "relative_volume": 1.13,
       "market_cap": 4337246720,
       "exchange": "NasdaqGS",
@@ -235,7 +219,7 @@
         "day_gainers"
       ],
       "reason": "장중 +9.7% 상승, 거래량 3개월 평균 대비 1.1배",
-      "score": 10.94
+      "score": 10.91
     },
     {
       "symbol": "HUT",
@@ -243,15 +227,31 @@
       "price": 98.6,
       "change_percent": 8.83,
       "volume": 5675565,
-      "avg_volume_3m": 4591475,
-      "relative_volume": 1.24,
+      "avg_volume_3m": 4637232,
+      "relative_volume": 1.22,
       "market_cap": 12153383936,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +8.8% 상승, 거래량 3개월 평균 대비 1.2배",
-      "score": 10.91
+      "score": 10.81
+    },
+    {
+      "symbol": "BETA",
+      "name": "Beta Technologies, Inc.",
+      "price": 21.17,
+      "change_percent": 6.44,
+      "volume": 2716959,
+      "avg_volume_3m": 1768490,
+      "relative_volume": 1.54,
+      "market_cap": 5132508672,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +6.4% 상승, 거래량 3개월 평균 대비 1.5배",
+      "score": 9.89
     }
   ]
 }
