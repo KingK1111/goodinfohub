@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T10:13:08+09:00",
+  "updated_at": "2026-09-12T17:58:37+09:00",
   "disclaimer": "이 목록은 공개 시세 데이터(거래량, 변동률)를 기준으로 자동 정렬한 결과이며 특정 종목의 매수/매도를 추천하지 않습니다. 투자 판단과 책임은 본인에게 있습니다.",
   "criteria": {
     "min_price": 5.0,
@@ -16,7 +16,7 @@
       "price": 8.61,
       "change_percent": -15.67,
       "volume": 92048618,
-      "avg_volume_3m": 31814435,
+      "avg_volume_3m": 31816269,
       "relative_volume": 2.89,
       "market_cap": 3533453824,
       "exchange": "NYSE",
@@ -32,7 +32,7 @@
       "price": 62.09,
       "change_percent": 12.44,
       "volume": 38956735,
-      "avg_volume_3m": 21088698,
+      "avg_volume_3m": 21048809,
       "relative_volume": 1.85,
       "market_cap": 82422292480,
       "exchange": "NYSE",
@@ -40,8 +40,8 @@
         "day_gainers",
         "most_actives"
       ],
-      "reason": "장중 +12.4% 상승, 거래량 3개월 평균 대비 1.8배, 거래대금 상위 종목",
-      "score": 22.98
+      "reason": "장중 +12.4% 상승, 거래량 3개월 평균 대비 1.9배, 거래대금 상위 종목",
+      "score": 23.03
     },
     {
       "symbol": "DELL",
@@ -49,7 +49,7 @@
       "price": 567.29,
       "change_percent": 11.98,
       "volume": 14366604,
-      "avg_volume_3m": 7509288,
+      "avg_volume_3m": 7510053,
       "relative_volume": 1.91,
       "market_cap": 360690188288,
       "exchange": "NYSE",
@@ -58,6 +58,22 @@
       ],
       "reason": "장중 +12.0% 상승, 거래량 3개월 평균 대비 1.9배",
       "score": 22.91
+    },
+    {
+      "symbol": "OKLO",
+      "name": "Oklo Inc.",
+      "price": 36.22,
+      "change_percent": -9.18,
+      "volume": 22418110,
+      "avg_volume_3m": 9579980,
+      "relative_volume": 2.34,
+      "market_cap": 6737559552,
+      "exchange": "NYSE",
+      "sources": [
+        "most_actives"
+      ],
+      "reason": "장중 -9.2% 하락, 거래량 3개월 평균 대비 2.3배, 거래대금 상위 종목",
+      "score": 21.48
     },
     {
       "symbol": "DSGX",
@@ -99,7 +115,7 @@
       "volume": 24733139,
       "avg_volume_3m": 9044298,
       "relative_volume": 2.73,
-      "market_cap": 119921369088,
+      "market_cap": 119897579520,
       "exchange": "NYSE",
       "sources": [
         "day_gainers",
@@ -114,7 +130,7 @@
       "price": 20.51,
       "change_percent": 7.61,
       "volume": 3337855,
-      "avg_volume_3m": 1603006,
+      "avg_volume_3m": 1607986,
       "relative_volume": 2.08,
       "market_cap": 2193380096,
       "exchange": "NasdaqGS",
@@ -122,7 +138,7 @@
         "day_gainers"
       ],
       "reason": "장중 +7.6% 상승, 거래량 3개월 평균 대비 2.1배",
-      "score": 15.84
+      "score": 15.79
     },
     {
       "symbol": "HPQ",
@@ -147,15 +163,15 @@
       "price": 22.08,
       "change_percent": 7.71,
       "volume": 10269863,
-      "avg_volume_3m": 5537490,
-      "relative_volume": 1.85,
+      "avg_volume_3m": 5501913,
+      "relative_volume": 1.87,
       "market_cap": 5766780416,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +7.7% 상승, 거래량 3개월 평균 대비 1.9배",
-      "score": 14.29
+      "score": 14.39
     },
     {
       "symbol": "INSP",
@@ -179,15 +195,15 @@
       "price": 31.82,
       "change_percent": 8.97,
       "volume": 9600600,
-      "avg_volume_3m": 7553606,
-      "relative_volume": 1.27,
+      "avg_volume_3m": 7630018,
+      "relative_volume": 1.26,
       "market_cap": 9686927360,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +9.0% 상승, 거래량 3개월 평균 대비 1.3배",
-      "score": 11.4
+      "score": 11.29
     },
     {
       "symbol": "AVT",
@@ -236,22 +252,6 @@
       ],
       "reason": "장중 +8.8% 상승, 거래량 3개월 평균 대비 1.2배",
       "score": 10.91
-    },
-    {
-      "symbol": "BETA",
-      "name": "Beta Technologies, Inc.",
-      "price": 21.17,
-      "change_percent": 6.44,
-      "volume": 2716959,
-      "avg_volume_3m": 1743922,
-      "relative_volume": 1.56,
-      "market_cap": 5132508672,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +6.4% 상승, 거래량 3개월 평균 대비 1.6배",
-      "score": 10.03
     }
   ]
 }
