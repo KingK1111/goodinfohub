@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T00:09:01+09:00",
+  "updated_at": "2026-09-12T10:13:08+09:00",
   "disclaimer": "이 목록은 공개 시세 데이터(거래량, 변동률)를 기준으로 자동 정렬한 결과이며 특정 종목의 매수/매도를 추천하지 않습니다. 투자 판단과 책임은 본인에게 있습니다.",
   "criteria": {
     "min_price": 5.0,
@@ -11,249 +11,247 @@
   },
   "candidates": [
     {
-      "symbol": "TENB",
-      "name": "Tenable Holdings, Inc.",
-      "price": 30.335,
-      "change_percent": -5.29,
-      "volume": 7994948,
-      "avg_volume_3m": 3699211,
-      "relative_volume": 2.16,
-      "market_cap": 3341096192,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "most_actives"
-      ],
-      "reason": "장중 -5.3% 하락, 거래량 3개월 평균 대비 2.2배, 거래대금 상위 종목",
-      "score": 11.44
-    },
-    {
       "symbol": "SMR",
       "name": "NuScale Power Corporation",
-      "price": 9.06,
-      "change_percent": -11.26,
-      "volume": 30522474,
+      "price": 8.61,
+      "change_percent": -15.67,
+      "volume": 92048618,
       "avg_volume_3m": 31814435,
-      "relative_volume": 0.96,
-      "market_cap": 3718129408,
+      "relative_volume": 2.89,
+      "market_cap": 3533453824,
       "exchange": "NYSE",
       "sources": [
         "most_actives"
       ],
-      "reason": "장중 -11.3% 하락, 거래량 3개월 평균 대비 1.0배, 거래대금 상위 종목",
-      "score": 10.81
-    },
-    {
-      "symbol": "DELL",
-      "name": "Dell Technologies Inc.",
-      "price": 560.69,
-      "change_percent": 10.67,
-      "volume": 6959792,
-      "avg_volume_3m": 7509288,
-      "relative_volume": 0.93,
-      "market_cap": 356493852672,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +10.7% 상승, 거래량 3개월 평균 대비 0.9배",
-      "score": 9.89
-    },
-    {
-      "symbol": "HPQ",
-      "name": "HP Inc.",
-      "price": 35.595,
-      "change_percent": 8.75,
-      "volume": 12825014,
-      "avg_volume_3m": 15437654,
-      "relative_volume": 0.83,
-      "market_cap": 32099250176,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers",
-        "most_actives"
-      ],
-      "reason": "장중 +8.8% 상승, 거래량 3개월 평균 대비 0.8배, 거래대금 상위 종목",
-      "score": 7.27
+      "reason": "장중 -15.7% 하락, 거래량 3개월 평균 대비 2.9배, 거래대금 상위 종목",
+      "score": 45.34
     },
     {
       "symbol": "HPE",
       "name": "Hewlett Packard Enterprise Comp",
-      "price": 60.76,
-      "change_percent": 10.03,
-      "volume": 14601722,
+      "price": 62.09,
+      "change_percent": 12.44,
+      "volume": 38956735,
       "avg_volume_3m": 21088698,
-      "relative_volume": 0.69,
-      "market_cap": 80656760832,
+      "relative_volume": 1.85,
+      "market_cap": 82422292480,
       "exchange": "NYSE",
       "sources": [
         "day_gainers",
         "most_actives"
       ],
-      "reason": "장중 +10.0% 상승, 거래량 3개월 평균 대비 0.7배, 거래대금 상위 종목",
-      "score": 6.95
+      "reason": "장중 +12.4% 상승, 거래량 3개월 평균 대비 1.8배, 거래대금 상위 종목",
+      "score": 22.98
     },
     {
-      "symbol": "PURR",
-      "name": "Hyperliquid Strategies Inc",
-      "price": 12.03,
-      "change_percent": 9.26,
-      "volume": 11081002,
-      "avg_volume_3m": 16212438,
-      "relative_volume": 0.68,
-      "market_cap": 2379986176,
-      "exchange": "NasdaqCM",
+      "symbol": "DELL",
+      "name": "Dell Technologies Inc.",
+      "price": 567.29,
+      "change_percent": 11.98,
+      "volume": 14366604,
+      "avg_volume_3m": 7509288,
+      "relative_volume": 1.91,
+      "market_cap": 360690188288,
+      "exchange": "NYSE",
       "sources": [
-        "day_gainers",
-        "most_actives"
+        "day_gainers"
       ],
-      "reason": "장중 +9.3% 상승, 거래량 3개월 평균 대비 0.7배, 거래대금 상위 종목",
-      "score": 6.33
+      "reason": "장중 +12.0% 상승, 거래량 3개월 평균 대비 1.9배",
+      "score": 22.91
     },
     {
-      "symbol": "BMNR",
-      "name": "BitMine Immersion Technologies,",
-      "price": 26.07,
-      "change_percent": 7.73,
-      "volume": 30679640,
-      "avg_volume_3m": 38477216,
-      "relative_volume": 0.8,
-      "market_cap": 15726110720,
+      "symbol": "DSGX",
+      "name": "The Descartes Systems Group Inc",
+      "price": 76.04,
+      "change_percent": 6.62,
+      "volume": 1745262,
+      "avg_volume_3m": 558300,
+      "relative_volume": 3.13,
+      "market_cap": 6505112064,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +6.6% 상승, 거래량 3개월 평균 대비 3.1배",
+      "score": 20.69
+    },
+    {
+      "symbol": "SPSC",
+      "name": "SPS Commerce, Inc.",
+      "price": 82.68,
+      "change_percent": 7.06,
+      "volume": 1807073,
+      "avg_volume_3m": 628237,
+      "relative_volume": 2.88,
+      "market_cap": 2976494592,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +7.1% 상승, 거래량 3개월 평균 대비 2.9배",
+      "score": 20.3
+    },
+    {
+      "symbol": "HDB",
+      "name": "HDFC Bank Limited",
+      "price": 23.34,
+      "change_percent": 6.87,
+      "volume": 24733139,
+      "avg_volume_3m": 9044298,
+      "relative_volume": 2.73,
+      "market_cap": 119921369088,
       "exchange": "NYSE",
       "sources": [
         "day_gainers",
         "most_actives"
       ],
-      "reason": "장중 +7.7% 상승, 거래량 3개월 평균 대비 0.8배, 거래대금 상위 종목",
-      "score": 6.16
+      "reason": "장중 +6.9% 상승, 거래량 3개월 평균 대비 2.7배, 거래대금 상위 종목",
+      "score": 18.78
     },
     {
-      "symbol": "OKLO",
-      "name": "Oklo Inc.",
-      "price": 37.1799,
-      "change_percent": -6.77,
-      "volume": 8694925,
-      "avg_volume_3m": 9556735,
-      "relative_volume": 0.91,
-      "market_cap": 6916117504,
+      "symbol": "ALKT",
+      "name": "Alkami Technology, Inc.",
+      "price": 20.51,
+      "change_percent": 7.61,
+      "volume": 3337855,
+      "avg_volume_3m": 1603006,
+      "relative_volume": 2.08,
+      "market_cap": 2193380096,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +7.6% 상승, 거래량 3개월 평균 대비 2.1배",
+      "score": 15.84
+    },
+    {
+      "symbol": "HPQ",
+      "name": "HP Inc.",
+      "price": 35.48,
+      "change_percent": 8.4,
+      "volume": 26507780,
+      "avg_volume_3m": 15437654,
+      "relative_volume": 1.72,
+      "market_cap": 31995543552,
       "exchange": "NYSE",
       "sources": [
+        "day_gainers",
         "most_actives"
       ],
-      "reason": "장중 -6.8% 하락, 거래량 3개월 평균 대비 0.9배, 거래대금 상위 종목",
-      "score": 6.16
+      "reason": "장중 +8.4% 상승, 거래량 3개월 평균 대비 1.7배, 거래대금 상위 종목",
+      "score": 14.43
     },
     {
-      "symbol": "SWKS",
-      "name": "Skyworks Solutions, Inc.",
-      "price": 91.805,
-      "change_percent": 9.25,
-      "volume": 3837359,
-      "avg_volume_3m": 5782396,
-      "relative_volume": 0.66,
-      "market_cap": 13814154240,
-      "exchange": "NasdaqGS",
+      "symbol": "M",
+      "name": "Macy's Inc",
+      "price": 22.08,
+      "change_percent": 7.71,
+      "volume": 10269863,
+      "avg_volume_3m": 5537490,
+      "relative_volume": 1.85,
+      "market_cap": 5766780416,
+      "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +9.3% 상승, 거래량 3개월 평균 대비 0.7배",
-      "score": 6.14
-    },
-    {
-      "symbol": "SBET",
-      "name": "SharpLink, Inc.",
-      "price": 9.29,
-      "change_percent": 10.2,
-      "volume": 4905099,
-      "avg_volume_3m": 9400761,
-      "relative_volume": 0.52,
-      "market_cap": 2018007296,
-      "exchange": "NasdaqCM",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +10.2% 상승, 거래량 3개월 평균 대비 0.5배",
-      "score": 5.32
-    },
-    {
-      "symbol": "PHVS",
-      "name": "Pharvaris N.V.",
-      "price": 39.61,
-      "change_percent": 5.6,
-      "volume": 485029,
-      "avg_volume_3m": 639741,
-      "relative_volume": 0.76,
-      "market_cap": 2780800512,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +5.6% 상승, 거래량 3개월 평균 대비 0.8배",
-      "score": 4.24
-    },
-    {
-      "symbol": "HUT",
-      "name": "Hut 8 Corp.",
-      "price": 99.8025,
-      "change_percent": 10.16,
-      "volume": 1858553,
-      "avg_volume_3m": 4591475,
-      "relative_volume": 0.4,
-      "market_cap": 12301602816,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +10.2% 상승, 거래량 3개월 평균 대비 0.4배",
-      "score": 4.11
+      "reason": "장중 +7.7% 상승, 거래량 3개월 평균 대비 1.9배",
+      "score": 14.29
     },
     {
       "symbol": "INSP",
       "name": "Inspire Medical Systems, Inc.",
-      "price": 73.76,
-      "change_percent": 8.28,
-      "volume": 389210,
+      "price": 73.0,
+      "change_percent": 7.16,
+      "volume": 1399286,
       "avg_volume_3m": 848093,
-      "relative_volume": 0.46,
-      "market_cap": 2132429440,
+      "relative_volume": 1.65,
+      "market_cap": 2110457472,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +8.3% 상승, 거래량 3개월 평균 대비 0.5배",
-      "score": 3.8
+      "reason": "장중 +7.2% 상승, 거래량 3개월 평균 대비 1.6배",
+      "score": 11.82
     },
     {
-      "symbol": "CLSK",
-      "name": "CleanSpark, Inc.",
-      "price": 13.925,
-      "change_percent": 8.79,
-      "volume": 8945671,
-      "avg_volume_3m": 20887550,
-      "relative_volume": 0.43,
-      "market_cap": 3576177664,
-      "exchange": "NasdaqCM",
+      "symbol": "FPS",
+      "name": "Forgent Power Solutions, Inc.",
+      "price": 31.82,
+      "change_percent": 8.97,
+      "volume": 9600600,
+      "avg_volume_3m": 7553606,
+      "relative_volume": 1.27,
+      "market_cap": 9686927360,
+      "exchange": "NYSE",
       "sources": [
-        "day_gainers",
-        "most_actives"
+        "day_gainers"
       ],
-      "reason": "장중 +8.8% 상승, 거래량 3개월 평균 대비 0.4배, 거래대금 상위 종목",
-      "score": 3.76
+      "reason": "장중 +9.0% 상승, 거래량 3개월 평균 대비 1.3배",
+      "score": 11.4
     },
     {
-      "symbol": "QRVO",
-      "name": "Qorvo, Inc.",
-      "price": 119.98,
-      "change_percent": 6.78,
-      "volume": 652624,
-      "avg_volume_3m": 1193780,
-      "relative_volume": 0.55,
-      "market_cap": 10584832000,
+      "symbol": "AVT",
+      "name": "Avnet, Inc.",
+      "price": 99.63,
+      "change_percent": 7.16,
+      "volume": 1893190,
+      "avg_volume_3m": 1203535,
+      "relative_volume": 1.57,
+      "market_cap": 8176930304,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +6.8% 상승, 거래량 3개월 평균 대비 0.5배",
-      "score": 3.71
+      "reason": "장중 +7.2% 상승, 거래량 3개월 평균 대비 1.6배",
+      "score": 11.27
+    },
+    {
+      "symbol": "HTFL",
+      "name": "Heartflow, Inc.",
+      "price": 49.88,
+      "change_percent": 9.65,
+      "volume": 2152375,
+      "avg_volume_3m": 1898627,
+      "relative_volume": 1.13,
+      "market_cap": 4337246720,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +9.7% 상승, 거래량 3개월 평균 대비 1.1배",
+      "score": 10.94
+    },
+    {
+      "symbol": "HUT",
+      "name": "Hut 8 Corp.",
+      "price": 98.6,
+      "change_percent": 8.83,
+      "volume": 5675565,
+      "avg_volume_3m": 4591475,
+      "relative_volume": 1.24,
+      "market_cap": 12153383936,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +8.8% 상승, 거래량 3개월 평균 대비 1.2배",
+      "score": 10.91
+    },
+    {
+      "symbol": "BETA",
+      "name": "Beta Technologies, Inc.",
+      "price": 21.17,
+      "change_percent": 6.44,
+      "volume": 2716959,
+      "avg_volume_3m": 1743922,
+      "relative_volume": 1.56,
+      "market_cap": 5132508672,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +6.4% 상승, 거래량 3개월 평균 대비 1.6배",
+      "score": 10.03
     }
   ]
 }
