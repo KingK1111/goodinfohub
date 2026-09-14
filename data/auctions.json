@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-14T09:46:19+09:00",
-  "last_attempt_at": "2026-09-14T19:30:30+09:00",
+  "updated_at": "2026-09-15T01:49:20+09:00",
+  "last_attempt_at": "2026-09-15T01:49:20+09:00",
   "districts": [
     "성동구",
     "중구",
@@ -71,6 +71,18 @@
     },
     {
       "district": "동대문구",
+      "case_no": "서울중앙지방법원 2025타경102776",
+      "item_no": "1",
+      "address": "서울특별시 서초구 반포동 107-52 브리앙뜨 4층401호 [집합건물 철근콘크리트조 134.94㎡]",
+      "remarks": "특별매각조건 매수신청보증금 최저매각가격의 20%",
+      "appraisal_amount": "2,011,000,000",
+      "court_and_date": "경매3계 2026.09.29",
+      "usage": "아파트",
+      "min_sale_price": "1,287,040,000 (64%)",
+      "status": "유찰 2회"
+    },
+    {
+      "district": "동대문구",
       "case_no": "서울중앙지방법원 2025타경103127",
       "item_no": "1",
       "address": "서울특별시 중구 오장동 145-1 오렌지카운티을지로 13층1305호 [집합건물 철근콘크리트구조 14.37㎡]",
@@ -119,6 +131,18 @@
     },
     {
       "district": "동대문구",
+      "case_no": "서울중앙지방법원 2025타경103762",
+      "item_no": "1",
+      "address": "서울특별시 관악구 봉천동 893-1 프라비다엠 2층201호 [집합건물 철근콘크리트구조 30.12㎡]",
+      "remarks": "",
+      "appraisal_amount": "314,000,000",
+      "court_and_date": "경매3계 2026.09.29",
+      "usage": "아파트",
+      "min_sale_price": "314,000,000 (100%)",
+      "status": "신건"
+    },
+    {
+      "district": "동대문구",
       "case_no": "서울중앙지방법원 2025타경104566 2026타경100314 (중복)",
       "item_no": "1",
       "address": "서울특별시 종로구 숭인동 201-11 종로유케이201 6층607호 [집합건물 철근콘크리트구조 12.09㎡]",
@@ -130,54 +154,6 @@
       "status": "신건"
     },
     {
-      "district": "동대문구",
-      "case_no": "서울중앙지방법원 2025타경104727",
-      "item_no": "1",
-      "address": "서울특별시 서초구 서초동 1682 서초래미안아파트 102동 6층604호 [집합건물 철근콘크리트조 84.97㎡ 갑구 4번 김용욱 지분 2분의 1 전부]",
-      "remarks": "지분매각",
-      "appraisal_amount": "1,405,000,000",
-      "court_and_date": "경매4계 2026.09.22",
-      "usage": "아파트",
-      "min_sale_price": "1,405,000,000 (100%)",
-      "status": "신건"
-    },
-    {
-      "district": "동대문구",
-      "case_no": "서울중앙지방법원 2026타경100076",
-      "item_no": "1",
-      "address": "서울특별시 관악구 봉천동 893-1 프라비다엠 8층803호 [집합건물 철근콘크리트조 30.12㎡]",
-      "remarks": "",
-      "appraisal_amount": "328,000,000",
-      "court_and_date": "경매4계 2026.09.22",
-      "usage": "다세대",
-      "min_sale_price": "328,000,000 (100%)",
-      "status": "신건"
-    },
-    {
-      "district": "광진구",
-      "case_no": "서울동부지방법원 2025타경52202 2025타경52129 (중복)",
-      "item_no": "1",
-      "address": "서울특별시 광진구 구의동 587-58 1층101호 [집합건물 철근콘크리트구조 207.13㎡]",
-      "remarks": "선행사건 2025타경52129(중복)의 현황조사서 및 감정평가서 원용 2026.07.31.자 파르네빌아파트 입주자 대표회의가 제출한 신고서에 따르면 2026년 6월까지 공용부분에 대한 관리비 16,992,930원(연체료 제외)이 미납된 상태로 위 금액은 매수인이 승계할 수 있음(관리비 관련 소송중)",
-      "appraisal_amount": "1,720,000,000",
-      "court_and_date": "경매4계 2026.09.14",
-      "usage": "아파트",
-      "min_sale_price": "1,376,000,000 (80%)",
-      "status": "유찰 1회"
-    },
-    {
-      "district": "송파구",
-      "case_no": "서울동부지방법원 2024타경1563",
-      "item_no": "1",
-      "address": "서울특별시 송파구 풍성로 52 101,상가동 1층109호 (풍납동,대아아파트) [집합건물 철근콘크리트조 84.99㎡]",
-      "remarks": "",
-      "appraisal_amount": "864,000,000",
-      "court_and_date": "경매4계 2026.09.14",
-      "usage": "아파트",
-      "min_sale_price": "691,200,000 (80%)",
-      "status": "유찰 1회"
-    },
-    {
       "district": "송파구",
       "case_no": "서울동부지방법원 2024타경59814",
       "item_no": "1",
@@ -187,18 +163,6 @@
       "court_and_date": "경매2계 2026.09.21",
       "usage": "아파트",
       "min_sale_price": "2,090,000,000 (100%)",
-      "status": "신건"
-    },
-    {
-      "district": "송파구",
-      "case_no": "서울동부지방법원 2025타경385",
-      "item_no": "1",
-      "address": "서울특별시 송파구 잠실동 40 갤러리아팰리스 에이동 38층3810호 [집합건물 철근콘크리트조 138.561㎡]",
-      "remarks": "",
-      "appraisal_amount": "2,990,000,000",
-      "court_and_date": "경매4계 2026.09.14",
-      "usage": "아파트",
-      "min_sale_price": "2,990,000,000 (100%)",
       "status": "신건"
     },
     {
@@ -227,18 +191,6 @@
     },
     {
       "district": "송파구",
-      "case_no": "서울동부지방법원 2025타경51919 2026타경50423 (중복)",
-      "item_no": "1",
-      "address": "서울특별시 송파구 잠실동 250-5 파크인-수 11층1101호 [집합건물 철근콘크리트구조 143.7984㎡]",
-      "remarks": "",
-      "appraisal_amount": "1,710,000,000",
-      "court_and_date": "경매4계 2026.09.14",
-      "usage": "아파트",
-      "min_sale_price": "1,368,000,000 (80%)",
-      "status": "유찰 1회"
-    },
-    {
-      "district": "송파구",
       "case_no": "서울동부지방법원 2025타경52237",
       "item_no": "1",
       "address": "서울특별시 송파구 신천동 7-19 잠실시그마타워 21층2105호 [집합건물 철골조 208.56㎡]",
@@ -262,11 +214,5 @@
       "status": "신건"
     }
   ],
-  "errors": [
-    "성동구: HTTPConnectionPool(host='localhost', port=46633): Read timed out. (read timeout=120)",
-    "중구: HTTPConnectionPool(host='localhost', port=46633): Read timed out. (read timeout=120)",
-    "동대문구: HTTPConnectionPool(host='localhost', port=46633): Read timed out. (read timeout=120)",
-    "광진구: HTTPConnectionPool(host='localhost', port=46633): Read timed out. (read timeout=120)",
-    "송파구: HTTPConnectionPool(host='localhost', port=46633): Read timed out. (read timeout=120)"
-  ]
+  "errors": []
 }
