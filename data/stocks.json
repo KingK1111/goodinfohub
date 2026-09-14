@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T00:06:31+09:00",
+  "updated_at": "2026-09-14T09:46:22+09:00",
   "disclaimer": "이 목록은 공개 시세 데이터(거래량, 변동률)를 기준으로 자동 정렬한 결과이며 특정 종목의 매수/매도를 추천하지 않습니다. 투자 판단과 책임은 본인에게 있습니다.",
   "criteria": {
     "min_price": 5.0,
@@ -60,27 +60,43 @@
       "score": 22.51
     },
     {
+      "symbol": "OKLO",
+      "name": "Oklo Inc.",
+      "price": 36.22,
+      "change_percent": -9.18,
+      "volume": 22418110,
+      "avg_volume_3m": 9788248,
+      "relative_volume": 2.29,
+      "market_cap": 6737559552,
+      "exchange": "NYSE",
+      "sources": [
+        "most_actives"
+      ],
+      "reason": "장중 -9.2% 하락, 거래량 3개월 평균 대비 2.3배, 거래대금 상위 종목",
+      "score": 21.02
+    },
+    {
       "symbol": "DSGX",
       "name": "The Descartes Systems Group Inc",
       "price": 76.04,
       "change_percent": 6.62,
-      "volume": 1745262,
+      "volume": 1814530,
       "avg_volume_3m": 580964,
-      "relative_volume": 3.0,
+      "relative_volume": 3.12,
       "market_cap": 6505112064,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +6.6% 상승, 거래량 3개월 평균 대비 3.0배",
-      "score": 19.88
+      "reason": "장중 +6.6% 상승, 거래량 3개월 평균 대비 3.1배",
+      "score": 20.67
     },
     {
       "symbol": "SPSC",
       "name": "SPS Commerce, Inc.",
       "price": 82.68,
       "change_percent": 7.06,
-      "volume": 1807073,
+      "volume": 1807312,
       "avg_volume_3m": 651737,
       "relative_volume": 2.77,
       "market_cap": 2976494592,
@@ -113,7 +129,7 @@
       "name": "Alkami Technology, Inc.",
       "price": 20.51,
       "change_percent": 7.61,
-      "volume": 3337855,
+      "volume": 3339652,
       "avg_volume_3m": 1635903,
       "relative_volume": 2.04,
       "market_cap": 2193380096,
@@ -122,7 +138,7 @@
         "day_gainers"
       ],
       "reason": "장중 +7.6% 상승, 거래량 3개월 평균 대비 2.0배",
-      "score": 15.52
+      "score": 15.53
     },
     {
       "symbol": "HPQ",
@@ -174,6 +190,22 @@
       "score": 11.74
     },
     {
+      "symbol": "AVT",
+      "name": "Avnet, Inc.",
+      "price": 99.63,
+      "change_percent": 7.16,
+      "volume": 1961386,
+      "avg_volume_3m": 1214664,
+      "relative_volume": 1.61,
+      "market_cap": 8176930304,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +7.2% 상승, 거래량 3개월 평균 대비 1.6배",
+      "score": 11.57
+    },
+    {
       "symbol": "FPS",
       "name": "Forgent Power Solutions, Inc.",
       "price": 31.82,
@@ -190,68 +222,36 @@
       "score": 11.24
     },
     {
-      "symbol": "AVT",
-      "name": "Avnet, Inc.",
-      "price": 99.63,
-      "change_percent": 7.16,
-      "volume": 1893190,
-      "avg_volume_3m": 1214664,
-      "relative_volume": 1.56,
-      "market_cap": 8176930304,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +7.2% 상승, 거래량 3개월 평균 대비 1.6배",
-      "score": 11.17
-    },
-    {
       "symbol": "HTFL",
       "name": "Heartflow, Inc.",
       "price": 49.88,
       "change_percent": 9.65,
-      "volume": 2152375,
+      "volume": 2215986,
       "avg_volume_3m": 1903840,
-      "relative_volume": 1.13,
+      "relative_volume": 1.16,
       "market_cap": 4337246720,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +9.7% 상승, 거래량 3개월 평균 대비 1.1배",
-      "score": 10.91
+      "reason": "장중 +9.7% 상승, 거래량 3개월 평균 대비 1.2배",
+      "score": 11.23
     },
     {
       "symbol": "HUT",
       "name": "Hut 8 Corp.",
       "price": 98.6,
       "change_percent": 8.83,
-      "volume": 5675565,
+      "volume": 5684511,
       "avg_volume_3m": 4637232,
-      "relative_volume": 1.22,
+      "relative_volume": 1.23,
       "market_cap": 12153383936,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +8.8% 상승, 거래량 3개월 평균 대비 1.2배",
-      "score": 10.81
-    },
-    {
-      "symbol": "BETA",
-      "name": "Beta Technologies, Inc.",
-      "price": 21.17,
-      "change_percent": 6.44,
-      "volume": 2716959,
-      "avg_volume_3m": 1768490,
-      "relative_volume": 1.54,
-      "market_cap": 5132508672,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +6.4% 상승, 거래량 3개월 평균 대비 1.5배",
-      "score": 9.89
+      "score": 10.82
     }
   ]
 }
