@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T10:12:07+09:00",
+  "updated_at": "2026-09-15T18:59:58+09:00",
   "disclaimer": "이 목록은 공개 시세 데이터(거래량, 변동률)를 기준으로 자동 정렬한 결과이며 특정 종목의 매수/매도를 추천하지 않습니다. 투자 판단과 책임은 본인에게 있습니다.",
   "criteria": {
     "min_price": 5.0,
@@ -16,15 +16,15 @@
       "price": 32.0,
       "change_percent": 7.93,
       "volume": 22654869,
-      "avg_volume_3m": 1431224,
-      "relative_volume": 15.83,
+      "avg_volume_3m": 1768358,
+      "relative_volume": 12.81,
       "market_cap": 3098834432,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +7.9% 상승, 거래량 3개월 평균 대비 15.8배",
-      "score": 125.46
+      "reason": "장중 +7.9% 상승, 거래량 3개월 평균 대비 12.8배",
+      "score": 101.54
     },
     {
       "symbol": "RUM",
@@ -32,32 +32,16 @@
       "price": 8.0,
       "change_percent": 11.58,
       "volume": 25810047,
-      "avg_volume_3m": 3542317,
-      "relative_volume": 7.29,
+      "avg_volume_3m": 3896146,
+      "relative_volume": 6.62,
       "market_cap": 3966481664,
       "exchange": "NasdaqGM",
       "sources": [
         "day_gainers",
         "most_actives"
       ],
-      "reason": "장중 +11.6% 상승, 거래량 3개월 평균 대비 7.3배, 거래대금 상위 종목",
-      "score": 84.35
-    },
-    {
-      "symbol": "BZ",
-      "name": "KANZHUN LIMITED - American Depo",
-      "price": 15.45,
-      "change_percent": -6.02,
-      "volume": 40686903,
-      "avg_volume_3m": 4910696,
-      "relative_volume": 8.29,
-      "market_cap": 6920950784,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "most_actives"
-      ],
-      "reason": "장중 -6.0% 하락, 거래량 3개월 평균 대비 8.3배, 거래대금 상위 종목",
-      "score": 49.89
+      "reason": "장중 +11.6% 상승, 거래량 3개월 평균 대비 6.6배, 거래대금 상위 종목",
+      "score": 76.69
     },
     {
       "symbol": "TENB",
@@ -65,15 +49,31 @@
       "price": 35.08,
       "change_percent": 16.51,
       "volume": 11793542,
-      "avg_volume_3m": 3952956,
-      "relative_volume": 2.98,
-      "market_cap": 3868340992,
+      "avg_volume_3m": 4078580,
+      "relative_volume": 2.89,
+      "market_cap": 3863710720,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +16.5% 상승, 거래량 3개월 평균 대비 3.0배",
-      "score": 49.25
+      "reason": "장중 +16.5% 상승, 거래량 3개월 평균 대비 2.9배",
+      "score": 47.73
+    },
+    {
+      "symbol": "BZ",
+      "name": "KANZHUN LIMITED - American Depo",
+      "price": 15.45,
+      "change_percent": -6.02,
+      "volume": 40686903,
+      "avg_volume_3m": 5478576,
+      "relative_volume": 7.43,
+      "market_cap": 6920950784,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "most_actives"
+      ],
+      "reason": "장중 -6.0% 하락, 거래량 3개월 평균 대비 7.4배, 거래대금 상위 종목",
+      "score": 44.72
     },
     {
       "symbol": "ZS",
@@ -81,15 +81,15 @@
       "price": 191.73,
       "change_percent": 16.52,
       "volume": 7515078,
-      "avg_volume_3m": 2931016,
-      "relative_volume": 2.56,
+      "avg_volume_3m": 2921719,
+      "relative_volume": 2.57,
       "market_cap": 31262478336,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +16.5% 상승, 거래량 3개월 평균 대비 2.6배",
-      "score": 42.37
+      "score": 42.5
     },
     {
       "symbol": "NTSK",
@@ -97,15 +97,15 @@
       "price": 17.0,
       "change_percent": 15.65,
       "volume": 13459507,
-      "avg_volume_3m": 5506970,
-      "relative_volume": 2.44,
+      "avg_volume_3m": 5633342,
+      "relative_volume": 2.39,
       "market_cap": 6945991680,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +15.6% 상승, 거래량 3개월 평균 대비 2.4배",
-      "score": 38.24
+      "score": 37.38
     },
     {
       "symbol": "SAIL",
@@ -113,15 +113,15 @@
       "price": 19.88,
       "change_percent": 15.31,
       "volume": 9481963,
-      "avg_volume_3m": 4009882,
-      "relative_volume": 2.36,
+      "avg_volume_3m": 4100531,
+      "relative_volume": 2.31,
       "market_cap": 11349722112,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +15.3% 상승, 거래량 3개월 평균 대비 2.4배",
-      "score": 36.21
+      "reason": "장중 +15.3% 상승, 거래량 3개월 평균 대비 2.3배",
+      "score": 35.41
     },
     {
       "symbol": "CRWD",
@@ -129,15 +129,15 @@
       "price": 235.38,
       "change_percent": 13.85,
       "volume": 25215907,
-      "avg_volume_3m": 9717019,
-      "relative_volume": 2.6,
+      "avg_volume_3m": 9964641,
+      "relative_volume": 2.53,
       "market_cap": 241013784576,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +13.9% 상승, 거래량 3개월 평균 대비 2.6배",
-      "score": 35.95
+      "reason": "장중 +13.9% 상승, 거래량 3개월 평균 대비 2.5배",
+      "score": 35.06
     },
     {
       "symbol": "S",
@@ -145,15 +145,15 @@
       "price": 22.61,
       "change_percent": 14.48,
       "volume": 16336264,
-      "avg_volume_3m": 7262187,
-      "relative_volume": 2.25,
+      "avg_volume_3m": 7406314,
+      "relative_volume": 2.21,
       "market_cap": 7869390848,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +14.5% 상승, 거래량 3개월 평균 대비 2.2배",
-      "score": 32.57
+      "score": 31.94
     },
     {
       "symbol": "RBRK",
@@ -161,15 +161,15 @@
       "price": 100.2,
       "change_percent": 15.64,
       "volume": 5432057,
-      "avg_volume_3m": 3346014,
-      "relative_volume": 1.62,
+      "avg_volume_3m": 3338090,
+      "relative_volume": 1.63,
       "market_cap": 20624021504,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +15.6% 상승, 거래량 3개월 평균 대비 1.6배",
-      "score": 25.39
+      "score": 25.45
     },
     {
       "symbol": "PANW",
@@ -177,15 +177,15 @@
       "price": 373.94,
       "change_percent": 13.09,
       "volume": 11850739,
-      "avg_volume_3m": 6532970,
-      "relative_volume": 1.81,
+      "avg_volume_3m": 6619965,
+      "relative_volume": 1.79,
       "market_cap": 305882923008,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +13.1% 상승, 거래량 3개월 평균 대비 1.8배",
-      "score": 23.75
+      "score": 23.44
     },
     {
       "symbol": "OKTA",
@@ -193,15 +193,15 @@
       "price": 186.45,
       "change_percent": 11.98,
       "volume": 6600721,
-      "avg_volume_3m": 3359398,
-      "relative_volume": 1.96,
+      "avg_volume_3m": 3411977,
+      "relative_volume": 1.93,
       "market_cap": 32595361792,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +12.0% 상승, 거래량 3개월 평균 대비 2.0배",
-      "score": 23.54
+      "reason": "장중 +12.0% 상승, 거래량 3개월 평균 대비 1.9배",
+      "score": 23.18
     },
     {
       "symbol": "TTAN",
@@ -209,15 +209,15 @@
       "price": 58.99,
       "change_percent": 7.88,
       "volume": 5704196,
-      "avg_volume_3m": 1997508,
-      "relative_volume": 2.86,
+      "avg_volume_3m": 2056638,
+      "relative_volume": 2.77,
       "market_cap": 5690641920,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +7.9% 상승, 거래량 3개월 평균 대비 2.9배",
-      "score": 22.51
+      "reason": "장중 +7.9% 상승, 거래량 3개월 평균 대비 2.8배",
+      "score": 21.86
     },
     {
       "symbol": "QLYS",
@@ -225,15 +225,15 @@
       "price": 172.91,
       "change_percent": 15.06,
       "volume": 1092288,
-      "avg_volume_3m": 778766,
-      "relative_volume": 1.4,
-      "market_cap": 6089373184,
+      "avg_volume_3m": 776947,
+      "relative_volume": 1.41,
+      "market_cap": 5981821440,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +15.1% 상승, 거래량 3개월 평균 대비 1.4배",
-      "score": 21.12
+      "score": 21.17
     },
     {
       "symbol": "RBLX",
@@ -241,15 +241,15 @@
       "price": 51.29,
       "change_percent": 12.73,
       "volume": 18606396,
-      "avg_volume_3m": 11856379,
-      "relative_volume": 1.57,
+      "avg_volume_3m": 11963755,
+      "relative_volume": 1.56,
       "market_cap": 36640342016,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +12.7% 상승, 거래량 3개월 평균 대비 1.6배",
-      "score": 19.97
+      "score": 19.79
     }
   ]
 }
