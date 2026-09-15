@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T18:59:58+09:00",
+  "updated_at": "2026-09-16T00:29:30+09:00",
   "disclaimer": "이 목록은 공개 시세 데이터(거래량, 변동률)를 기준으로 자동 정렬한 결과이며 특정 종목의 매수/매도를 추천하지 않습니다. 투자 판단과 책임은 본인에게 있습니다.",
   "criteria": {
     "min_price": 5.0,
@@ -11,245 +11,245 @@
   },
   "candidates": [
     {
-      "symbol": "BWIN",
-      "name": "The Baldwin Insurance Group, In",
-      "price": 32.0,
-      "change_percent": 7.93,
-      "volume": 22654869,
-      "avg_volume_3m": 1768358,
-      "relative_volume": 12.81,
-      "market_cap": 3098834432,
+      "symbol": "ALHC",
+      "name": "Alignment Healthcare, Inc.",
+      "price": 10.515,
+      "change_percent": -18.74,
+      "volume": 7738400,
+      "avg_volume_3m": 5108088,
+      "relative_volume": 1.51,
+      "market_cap": 2181180672,
       "exchange": "NasdaqGS",
       "sources": [
-        "day_gainers"
+        "most_actives"
       ],
-      "reason": "장중 +7.9% 상승, 거래량 3개월 평균 대비 12.8배",
-      "score": 101.54
+      "reason": "장중 -18.7% 하락, 거래량 3개월 평균 대비 1.5배, 거래대금 상위 종목",
+      "score": 28.39
     },
     {
-      "symbol": "RUM",
-      "name": "RUM Group Inc.",
-      "price": 8.0,
-      "change_percent": 11.58,
-      "volume": 25810047,
-      "avg_volume_3m": 3896146,
-      "relative_volume": 6.62,
-      "market_cap": 3966481664,
-      "exchange": "NasdaqGM",
+      "symbol": "FPS",
+      "name": "Forgent Power Solutions, Inc.",
+      "price": 31.73,
+      "change_percent": 10.78,
+      "volume": 16829255,
+      "avg_volume_3m": 7784059,
+      "relative_volume": 2.16,
+      "market_cap": 9659529216,
+      "exchange": "NYSE",
       "sources": [
         "day_gainers",
         "most_actives"
       ],
-      "reason": "장중 +11.6% 상승, 거래량 3개월 평균 대비 6.6배, 거래대금 상위 종목",
-      "score": 76.69
+      "reason": "장중 +10.8% 상승, 거래량 3개월 평균 대비 2.2배, 거래대금 상위 종목",
+      "score": 23.31
     },
     {
-      "symbol": "TENB",
-      "name": "Tenable Holdings, Inc.",
-      "price": 35.08,
-      "change_percent": 16.51,
-      "volume": 11793542,
-      "avg_volume_3m": 4078580,
-      "relative_volume": 2.89,
-      "market_cap": 3863710720,
+      "symbol": "SWKS",
+      "name": "Skyworks Solutions, Inc.",
+      "price": 87.54,
+      "change_percent": 10.45,
+      "volume": 4827474,
+      "avg_volume_3m": 6034714,
+      "relative_volume": 0.8,
+      "market_cap": 13172387840,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +16.5% 상승, 거래량 3개월 평균 대비 2.9배",
-      "score": 47.73
+      "reason": "장중 +10.4% 상승, 거래량 3개월 평균 대비 0.8배",
+      "score": 8.36
     },
     {
-      "symbol": "BZ",
-      "name": "KANZHUN LIMITED - American Depo",
-      "price": 15.45,
-      "change_percent": -6.02,
-      "volume": 40686903,
-      "avg_volume_3m": 5478576,
-      "relative_volume": 7.43,
-      "market_cap": 6920950784,
+      "symbol": "PBF",
+      "name": "PBF Energy Inc.",
+      "price": 73.99,
+      "change_percent": 5.1,
+      "volume": 3761244,
+      "avg_volume_3m": 3079474,
+      "relative_volume": 1.22,
+      "market_cap": 8770541568,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +5.1% 상승, 거래량 3개월 평균 대비 1.2배",
+      "score": 6.23
+    },
+    {
+      "symbol": "WAY",
+      "name": "Waystar Holding Corp.",
+      "price": 26.355,
+      "change_percent": 5.84,
+      "volume": 2762128,
+      "avg_volume_3m": 2709446,
+      "relative_volume": 1.02,
+      "market_cap": 5053529600,
       "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +5.8% 상승, 거래량 3개월 평균 대비 1.0배",
+      "score": 5.96
+    },
+    {
+      "symbol": "ECO",
+      "name": "Okeanis Eco Tankers Corp.",
+      "price": 83.217,
+      "change_percent": 4.39,
+      "volume": 550020,
+      "avg_volume_3m": 518864,
+      "relative_volume": 1.06,
+      "market_cap": 3249179136,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +4.4% 상승, 거래량 3개월 평균 대비 1.1배",
+      "score": 4.65
+    },
+    {
+      "symbol": "TALO",
+      "name": "Talos Energy, Inc.",
+      "price": 18.5,
+      "change_percent": 4.76,
+      "volume": 1530273,
+      "avg_volume_3m": 1998219,
+      "relative_volume": 0.77,
+      "market_cap": 3088861184,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +4.8% 상승, 거래량 3개월 평균 대비 0.8배",
+      "score": 3.64
+    },
+    {
+      "symbol": "QRVO",
+      "name": "Qorvo, Inc.",
+      "price": 115.82,
+      "change_percent": 7.26,
+      "volume": 612659,
+      "avg_volume_3m": 1232740,
+      "relative_volume": 0.5,
+      "market_cap": 10217829376,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +7.3% 상승, 거래량 3개월 평균 대비 0.5배",
+      "score": 3.61
+    },
+    {
+      "symbol": "CAI",
+      "name": "Caris Life Sciences, Inc.",
+      "price": 27.4801,
+      "change_percent": 5.49,
+      "volume": 2697784,
+      "avg_volume_3m": 4363967,
+      "relative_volume": 0.62,
+      "market_cap": 7768094208,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +5.5% 상승, 거래량 3개월 평균 대비 0.6배",
+      "score": 3.39
+    },
+    {
+      "symbol": "FRO",
+      "name": "Frontline Plc",
+      "price": 52.145,
+      "change_percent": 3.22,
+      "volume": 2662009,
+      "avg_volume_3m": 2547746,
+      "relative_volume": 1.04,
+      "market_cap": 11608671232,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +3.2% 상승, 거래량 3개월 평균 대비 1.0배",
+      "score": 3.36
+    },
+    {
+      "symbol": "RVTY",
+      "name": "Revvity, Inc.",
+      "price": 137.82,
+      "change_percent": 7.26,
+      "volume": 684938,
+      "avg_volume_3m": 1550887,
+      "relative_volume": 0.44,
+      "market_cap": 15378838528,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +7.3% 상승, 거래량 3개월 평균 대비 0.4배",
+      "score": 3.21
+    },
+    {
+      "symbol": "DELL",
+      "name": "Dell Technologies Inc.",
+      "price": 553.3533,
+      "change_percent": 3.57,
+      "volume": 5287457,
+      "avg_volume_3m": 7679779,
+      "relative_volume": 0.69,
+      "market_cap": 351829065728,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +3.6% 상승, 거래량 3개월 평균 대비 0.7배",
+      "score": 2.46
+    },
+    {
+      "symbol": "RDNT",
+      "name": "RadNet, Inc.",
+      "price": 79.23,
+      "change_percent": 4.95,
+      "volume": 374603,
+      "avg_volume_3m": 825014,
+      "relative_volume": 0.45,
+      "market_cap": 6235223552,
+      "exchange": "NasdaqGM",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +5.0% 상승, 거래량 3개월 평균 대비 0.5배",
+      "score": 2.25
+    },
+    {
+      "symbol": "VIST",
+      "name": "Vista Energy S.A.B. de C.V.",
+      "price": 79.45,
+      "change_percent": 3.98,
+      "volume": 571904,
+      "avg_volume_3m": 1012609,
+      "relative_volume": 0.56,
+      "market_cap": 8788552704,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +4.0% 상승, 거래량 3개월 평균 대비 0.6배",
+      "score": 2.25
+    },
+    {
+      "symbol": "BMNR",
+      "name": "BitMine Immersion Technologies,",
+      "price": 24.475,
+      "change_percent": -4.99,
+      "volume": 17551408,
+      "avg_volume_3m": 38976359,
+      "relative_volume": 0.45,
+      "market_cap": 14763965440,
+      "exchange": "NYSE",
       "sources": [
         "most_actives"
       ],
-      "reason": "장중 -6.0% 하락, 거래량 3개월 평균 대비 7.4배, 거래대금 상위 종목",
-      "score": 44.72
-    },
-    {
-      "symbol": "ZS",
-      "name": "Zscaler, Inc.",
-      "price": 191.73,
-      "change_percent": 16.52,
-      "volume": 7515078,
-      "avg_volume_3m": 2921719,
-      "relative_volume": 2.57,
-      "market_cap": 31262478336,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +16.5% 상승, 거래량 3개월 평균 대비 2.6배",
-      "score": 42.5
-    },
-    {
-      "symbol": "NTSK",
-      "name": "Netskope, Inc.",
-      "price": 17.0,
-      "change_percent": 15.65,
-      "volume": 13459507,
-      "avg_volume_3m": 5633342,
-      "relative_volume": 2.39,
-      "market_cap": 6945991680,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +15.6% 상승, 거래량 3개월 평균 대비 2.4배",
-      "score": 37.38
-    },
-    {
-      "symbol": "SAIL",
-      "name": "SailPoint, Inc.",
-      "price": 19.88,
-      "change_percent": 15.31,
-      "volume": 9481963,
-      "avg_volume_3m": 4100531,
-      "relative_volume": 2.31,
-      "market_cap": 11349722112,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +15.3% 상승, 거래량 3개월 평균 대비 2.3배",
-      "score": 35.41
-    },
-    {
-      "symbol": "CRWD",
-      "name": "CrowdStrike Holdings, Inc.",
-      "price": 235.38,
-      "change_percent": 13.85,
-      "volume": 25215907,
-      "avg_volume_3m": 9964641,
-      "relative_volume": 2.53,
-      "market_cap": 241013784576,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +13.9% 상승, 거래량 3개월 평균 대비 2.5배",
-      "score": 35.06
-    },
-    {
-      "symbol": "S",
-      "name": "SentinelOne, Inc.",
-      "price": 22.61,
-      "change_percent": 14.48,
-      "volume": 16336264,
-      "avg_volume_3m": 7406314,
-      "relative_volume": 2.21,
-      "market_cap": 7869390848,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +14.5% 상승, 거래량 3개월 평균 대비 2.2배",
-      "score": 31.94
-    },
-    {
-      "symbol": "RBRK",
-      "name": "Rubrik, Inc.",
-      "price": 100.2,
-      "change_percent": 15.64,
-      "volume": 5432057,
-      "avg_volume_3m": 3338090,
-      "relative_volume": 1.63,
-      "market_cap": 20624021504,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +15.6% 상승, 거래량 3개월 평균 대비 1.6배",
-      "score": 25.45
-    },
-    {
-      "symbol": "PANW",
-      "name": "Palo Alto Networks, Inc.",
-      "price": 373.94,
-      "change_percent": 13.09,
-      "volume": 11850739,
-      "avg_volume_3m": 6619965,
-      "relative_volume": 1.79,
-      "market_cap": 305882923008,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +13.1% 상승, 거래량 3개월 평균 대비 1.8배",
-      "score": 23.44
-    },
-    {
-      "symbol": "OKTA",
-      "name": "Okta, Inc.",
-      "price": 186.45,
-      "change_percent": 11.98,
-      "volume": 6600721,
-      "avg_volume_3m": 3411977,
-      "relative_volume": 1.93,
-      "market_cap": 32595361792,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +12.0% 상승, 거래량 3개월 평균 대비 1.9배",
-      "score": 23.18
-    },
-    {
-      "symbol": "TTAN",
-      "name": "ServiceTitan, Inc.",
-      "price": 58.99,
-      "change_percent": 7.88,
-      "volume": 5704196,
-      "avg_volume_3m": 2056638,
-      "relative_volume": 2.77,
-      "market_cap": 5690641920,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +7.9% 상승, 거래량 3개월 평균 대비 2.8배",
-      "score": 21.86
-    },
-    {
-      "symbol": "QLYS",
-      "name": "Qualys, Inc.",
-      "price": 172.91,
-      "change_percent": 15.06,
-      "volume": 1092288,
-      "avg_volume_3m": 776947,
-      "relative_volume": 1.41,
-      "market_cap": 5981821440,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +15.1% 상승, 거래량 3개월 평균 대비 1.4배",
-      "score": 21.17
-    },
-    {
-      "symbol": "RBLX",
-      "name": "Roblox Corporation",
-      "price": 51.29,
-      "change_percent": 12.73,
-      "volume": 18606396,
-      "avg_volume_3m": 11963755,
-      "relative_volume": 1.56,
-      "market_cap": 36640342016,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +12.7% 상승, 거래량 3개월 평균 대비 1.6배",
-      "score": 19.79
+      "reason": "장중 -5.0% 하락, 거래량 3개월 평균 대비 0.5배, 거래대금 상위 종목",
+      "score": 2.25
     }
   ]
 }
