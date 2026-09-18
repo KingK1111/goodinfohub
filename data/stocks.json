@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T00:28:35+09:00",
+  "updated_at": "2026-09-18T10:19:07+09:00",
   "disclaimer": "이 목록은 공개 시세 데이터(거래량, 변동률)를 기준으로 자동 정렬한 결과이며 특정 종목의 매수/매도를 추천하지 않습니다. 투자 판단과 책임은 본인에게 있습니다.",
   "criteria": {
     "min_price": 5.0,
@@ -11,246 +11,245 @@
   },
   "candidates": [
     {
+      "symbol": "SDGR",
+      "name": "Schrodinger, Inc.",
+      "price": 30.24,
+      "change_percent": 26.37,
+      "volume": 8949590,
+      "avg_volume_3m": 1232425,
+      "relative_volume": 7.26,
+      "market_cap": 2262122240,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +26.4% 상승, 거래량 3개월 평균 대비 7.3배",
+      "score": 191.48
+    },
+    {
       "symbol": "GNRC",
       "name": "Generac Holdlings Inc.",
-      "price": 208.2731,
-      "change_percent": 18.94,
-      "volume": 4567483,
+      "price": 207.23,
+      "change_percent": 18.34,
+      "volume": 8020390,
       "avg_volume_3m": 1057585,
-      "relative_volume": 4.32,
-      "market_cap": 12289437696,
+      "relative_volume": 7.58,
+      "market_cap": 12227738624,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +18.9% 상승, 거래량 3개월 평균 대비 4.3배",
-      "score": 81.79
-    },
-    {
-      "symbol": "SDGR",
-      "name": "Schrodinger, Inc.",
-      "price": 28.15,
-      "change_percent": 17.63,
-      "volume": 2727256,
-      "avg_volume_3m": 1232425,
-      "relative_volume": 2.21,
-      "market_cap": 2105778560,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +17.6% 상승, 거래량 3개월 평균 대비 2.2배",
-      "score": 39.02
+      "reason": "장중 +18.3% 상승, 거래량 3개월 평균 대비 7.6배",
+      "score": 139.11
     },
     {
       "symbol": "TEM",
       "name": "Tempus AI, Inc.",
-      "price": 79.03,
-      "change_percent": 12.95,
-      "volume": 9466971,
+      "price": 80.36,
+      "change_percent": 14.85,
+      "volume": 16825521,
       "avg_volume_3m": 6309550,
-      "relative_volume": 1.5,
-      "market_cap": 14259758080,
+      "relative_volume": 2.67,
+      "market_cap": 14499736576,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +12.9% 상승, 거래량 3개월 평균 대비 1.5배",
-      "score": 19.43
+      "reason": "장중 +14.8% 상승, 거래량 3개월 평균 대비 2.7배",
+      "score": 39.6
+    },
+    {
+      "symbol": "INIO",
+      "name": "INNIO N.V.",
+      "price": 20.96,
+      "change_percent": 12.03,
+      "volume": 13123824,
+      "avg_volume_3m": 4469500,
+      "relative_volume": 2.94,
+      "market_cap": 15719999488,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +12.0% 상승, 거래량 3개월 평균 대비 2.9배",
+      "score": 35.31
     },
     {
       "symbol": "VICR",
       "name": "Vicor Corporation",
-      "price": 212.0,
-      "change_percent": 15.27,
-      "volume": 601608,
+      "price": 216.39,
+      "change_percent": 17.66,
+      "volume": 1675610,
       "avg_volume_3m": 858661,
-      "relative_volume": 0.7,
-      "market_cap": 9774626816,
+      "relative_volume": 1.95,
+      "market_cap": 9977035776,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +15.3% 상승, 거래량 3개월 평균 대비 0.7배",
-      "score": 10.7
+      "reason": "장중 +17.7% 상승, 거래량 3개월 평균 대비 2.0배",
+      "score": 34.46
     },
     {
-      "symbol": "GENB",
-      "name": "Generate Biomedicines, Inc.",
-      "price": 17.595,
-      "change_percent": 12.21,
-      "volume": 867509,
-      "avg_volume_3m": 1054993,
-      "relative_volume": 0.82,
-      "market_cap": 2258360832,
-      "exchange": "NasdaqGS",
+      "symbol": "BHVN",
+      "name": "Biohaven Ltd.",
+      "price": 13.89,
+      "change_percent": 15.56,
+      "volume": 5826372,
+      "avg_volume_3m": 2950240,
+      "relative_volume": 1.97,
+      "market_cap": 2097998080,
+      "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +12.2% 상승, 거래량 3개월 평균 대비 0.8배",
-      "score": 10.04
+      "reason": "장중 +15.6% 상승, 거래량 3개월 평균 대비 2.0배",
+      "score": 30.72
     },
     {
-      "symbol": "TWST",
-      "name": "Twist Bioscience Corporation",
-      "price": 158.555,
-      "change_percent": 10.82,
-      "volume": 1400432,
-      "avg_volume_3m": 1711948,
-      "relative_volume": 0.82,
-      "market_cap": 10512382976,
-      "exchange": "NasdaqGS",
+      "symbol": "FPS",
+      "name": "Forgent Power Solutions, Inc.",
+      "price": 38.06,
+      "change_percent": 9.24,
+      "volume": 20163515,
+      "avg_volume_3m": 8512653,
+      "relative_volume": 2.37,
+      "market_cap": 12140562432,
+      "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +10.8% 상승, 거래량 3개월 평균 대비 0.8배",
-      "score": 8.85
-    },
-    {
-      "symbol": "CRSP",
-      "name": "CRISPR Therapeutics AG",
-      "price": 57.9,
-      "change_percent": 10.9,
-      "volume": 1183213,
-      "avg_volume_3m": 1580287,
-      "relative_volume": 0.75,
-      "market_cap": 5598504960,
-      "exchange": "NasdaqGM",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +10.9% 상승, 거래량 3개월 평균 대비 0.7배",
-      "score": 8.16
+      "reason": "장중 +9.2% 상승, 거래량 3개월 평균 대비 2.4배",
+      "score": 21.89
     },
     {
       "symbol": "PURR",
       "name": "Hyperliquid Strategies Inc",
-      "price": 12.395,
-      "change_percent": 8.35,
-      "volume": 15519408,
+      "price": 12.83,
+      "change_percent": 12.15,
+      "volume": 27481088,
       "avg_volume_3m": 16201346,
-      "relative_volume": 0.96,
-      "market_cap": 2452197120,
+      "relative_volume": 1.7,
+      "market_cap": 2538256384,
       "exchange": "NasdaqCM",
       "sources": [
         "day_gainers",
         "most_actives"
       ],
-      "reason": "장중 +8.3% 상승, 거래량 3개월 평균 대비 1.0배, 거래대금 상위 종목",
-      "score": 8.0
-    },
-    {
-      "symbol": "IBRX",
-      "name": "ImmunityBio, Inc.",
-      "price": 8.6809,
-      "change_percent": 9.75,
-      "volume": 8117023,
-      "avg_volume_3m": 9952556,
-      "relative_volume": 0.82,
-      "market_cap": 9200332800,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +9.7% 상승, 거래량 3개월 평균 대비 0.8배",
-      "score": 7.95
-    },
-    {
-      "symbol": "XE",
-      "name": "X-Energy, Inc.",
-      "price": 16.135,
-      "change_percent": 10.74,
-      "volume": 3974721,
-      "avg_volume_3m": 5807462,
-      "relative_volume": 0.68,
-      "market_cap": 4638146560,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +10.7% 상승, 거래량 3개월 평균 대비 0.7배",
-      "score": 7.35
-    },
-    {
-      "symbol": "SMCI",
-      "name": "Super Micro Computer, Inc.",
-      "price": 40.41,
-      "change_percent": 9.66,
-      "volume": 34874304,
-      "avg_volume_3m": 48873164,
-      "relative_volume": 0.71,
-      "market_cap": 26547970048,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers",
-        "most_actives"
-      ],
-      "reason": "장중 +9.7% 상승, 거래량 3개월 평균 대비 0.7배, 거래대금 상위 종목",
-      "score": 6.89
-    },
-    {
-      "symbol": "INIO",
-      "name": "INNIO N.V.",
-      "price": 19.99,
-      "change_percent": 6.84,
-      "volume": 4483101,
-      "avg_volume_3m": 4469500,
-      "relative_volume": 1.0,
-      "market_cap": 14992499712,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +6.8% 상승, 거래량 3개월 평균 대비 1.0배",
-      "score": 6.86
+      "reason": "장중 +12.2% 상승, 거래량 3개월 평균 대비 1.7배, 거래대금 상위 종목",
+      "score": 20.61
     },
     {
       "symbol": "MGNI",
       "name": "Magnite, Inc.",
-      "price": 25.478,
-      "change_percent": 7.14,
-      "volume": 2279693,
+      "price": 25.63,
+      "change_percent": 7.78,
+      "volume": 6835084,
       "avg_volume_3m": 2606604,
-      "relative_volume": 0.87,
-      "market_cap": 3654160896,
+      "relative_volume": 2.62,
+      "market_cap": 3675961088,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +7.1% 상승, 거래량 3개월 평균 대비 0.9배",
-      "score": 6.24
+      "reason": "장중 +7.8% 상승, 거래량 3개월 평균 대비 2.6배",
+      "score": 20.4
     },
     {
       "symbol": "OKLO",
       "name": "Oklo Inc.",
-      "price": 39.0,
-      "change_percent": 9.49,
-      "volume": 6328996,
+      "price": 39.65,
+      "change_percent": 11.31,
+      "volume": 17132404,
       "avg_volume_3m": 9750977,
-      "relative_volume": 0.65,
-      "market_cap": 7254688256,
+      "relative_volume": 1.76,
+      "market_cap": 7375600128,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +9.5% 상승, 거래량 3개월 평균 대비 0.6배",
-      "score": 6.16
+      "reason": "장중 +11.3% 상승, 거래량 3개월 평균 대비 1.8배",
+      "score": 19.88
     },
     {
-      "symbol": "CRWV",
-      "name": "CoreWeave, Inc.",
-      "price": 79.715,
-      "change_percent": -4.36,
-      "volume": 38979590,
-      "avg_volume_3m": 27610751,
-      "relative_volume": 1.41,
-      "market_cap": 43965734912,
+      "symbol": "GENB",
+      "name": "Generate Biomedicines, Inc.",
+      "price": 17.12,
+      "change_percent": 9.18,
+      "volume": 2203173,
+      "avg_volume_3m": 1054993,
+      "relative_volume": 2.09,
+      "market_cap": 2197393664,
       "exchange": "NasdaqGS",
       "sources": [
-        "most_actives"
+        "day_gainers"
       ],
-      "reason": "장중 -4.4% 하락, 거래량 3개월 평균 대비 1.4배, 거래대금 상위 종목",
-      "score": 6.16
+      "reason": "장중 +9.2% 상승, 거래량 3개월 평균 대비 2.1배",
+      "score": 19.18
+    },
+    {
+      "symbol": "CRSP",
+      "name": "CRISPR Therapeutics AG",
+      "price": 57.325,
+      "change_percent": 9.8,
+      "volume": 2995890,
+      "avg_volume_3m": 1580287,
+      "relative_volume": 1.9,
+      "market_cap": 5542906368,
+      "exchange": "NasdaqGM",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +9.8% 상승, 거래량 3개월 평균 대비 1.9배",
+      "score": 18.57
+    },
+    {
+      "symbol": "TH",
+      "name": "Target Hospitality Corp.",
+      "price": 20.76,
+      "change_percent": 10.66,
+      "volume": 2529796,
+      "avg_volume_3m": 1473570,
+      "relative_volume": 1.72,
+      "market_cap": 2033023232,
+      "exchange": "NasdaqCM",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +10.7% 상승, 거래량 3개월 평균 대비 1.7배",
+      "score": 18.3
+    },
+    {
+      "symbol": "XE",
+      "name": "X-Energy, Inc.",
+      "price": 16.33,
+      "change_percent": 12.08,
+      "volume": 8594917,
+      "avg_volume_3m": 5807462,
+      "relative_volume": 1.48,
+      "market_cap": 4694200832,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +12.1% 상승, 거래량 3개월 평균 대비 1.5배",
+      "score": 17.88
+    },
+    {
+      "symbol": "TWST",
+      "name": "Twist Bioscience Corporation",
+      "price": 155.56,
+      "change_percent": 8.73,
+      "volume": 3368559,
+      "avg_volume_3m": 1711948,
+      "relative_volume": 1.97,
+      "market_cap": 10313810944,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +8.7% 상승, 거래량 3개월 평균 대비 2.0배",
+      "score": 17.18
     }
   ]
 }
