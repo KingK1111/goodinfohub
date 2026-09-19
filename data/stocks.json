@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T10:15:51+09:00",
+  "updated_at": "2026-09-19T18:06:52+09:00",
   "disclaimer": "이 목록은 공개 시세 데이터(거래량, 변동률)를 기준으로 자동 정렬한 결과이며 특정 종목의 매수/매도를 추천하지 않습니다. 투자 판단과 책임은 본인에게 있습니다.",
   "criteria": {
     "min_price": 5.0,
@@ -16,32 +16,15 @@
       "price": 37.53,
       "change_percent": -3.97,
       "volume": 49724346,
-      "avg_volume_3m": 3008004,
-      "relative_volume": 16.53,
+      "avg_volume_3m": 3752295,
+      "relative_volume": 13.25,
       "market_cap": 6997616128,
       "exchange": "NYSE",
       "sources": [
         "most_actives"
       ],
-      "reason": "장중 -4.0% 하락, 거래량 3개월 평균 대비 16.5배, 거래대금 상위 종목",
-      "score": 65.56
-    },
-    {
-      "symbol": "MSTR",
-      "name": "Strategy Inc",
-      "price": 153.92,
-      "change_percent": 16.39,
-      "volume": 54152295,
-      "avg_volume_3m": 23268950,
-      "relative_volume": 2.33,
-      "market_cap": 61149593600,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers",
-        "most_actives"
-      ],
-      "reason": "장중 +16.4% 상승, 거래량 3개월 평균 대비 2.3배, 거래대금 상위 종목",
-      "score": 38.13
+      "reason": "장중 -4.0% 하락, 거래량 3개월 평균 대비 13.3배, 거래대금 상위 종목",
+      "score": 52.56
     },
     {
       "symbol": "ALVO",
@@ -60,12 +43,29 @@
       "score": 38.11
     },
     {
+      "symbol": "MSTR",
+      "name": "Strategy Inc",
+      "price": 153.92,
+      "change_percent": 16.39,
+      "volume": 54152295,
+      "avg_volume_3m": 23763985,
+      "relative_volume": 2.28,
+      "market_cap": 61149593600,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers",
+        "most_actives"
+      ],
+      "reason": "장중 +16.4% 상승, 거래량 3개월 평균 대비 2.3배, 거래대금 상위 종목",
+      "score": 37.34
+    },
+    {
       "symbol": "PURR",
       "name": "Hyperliquid Strategies Inc",
       "price": 14.09,
       "change_percent": 9.82,
       "volume": 57372085,
-      "avg_volume_3m": 16279224,
+      "avg_volume_3m": 16282951,
       "relative_volume": 3.52,
       "market_cap": 2787531776,
       "exchange": "NasdaqCM",
@@ -74,7 +74,7 @@
         "most_actives"
       ],
       "reason": "장중 +9.8% 상승, 거래량 3개월 평균 대비 3.5배, 거래대금 상위 종목",
-      "score": 34.61
+      "score": 34.6
     },
     {
       "symbol": "COIN",
@@ -82,7 +82,7 @@
       "price": 194.25,
       "change_percent": 11.66,
       "volume": 21822131,
-      "avg_volume_3m": 8773688,
+      "avg_volume_3m": 8774027,
       "relative_volume": 2.49,
       "market_cap": 51250323456,
       "exchange": "NasdaqGS",
@@ -93,28 +93,12 @@
       "score": 28.99
     },
     {
-      "symbol": "PSKY",
-      "name": "Paramount Skydance Corporation",
-      "price": 10.21,
-      "change_percent": -3.86,
-      "volume": 78574491,
-      "avg_volume_3m": 10965059,
-      "relative_volume": 7.17,
-      "market_cap": 11455066112,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "most_actives"
-      ],
-      "reason": "장중 -3.9% 하락, 거래량 3개월 평균 대비 7.2배, 거래대금 상위 종목",
-      "score": 27.66
-    },
-    {
       "symbol": "BE",
       "name": "Bloom Energy Corporation",
       "price": 265.63,
       "change_percent": -5.39,
       "volume": 73325656,
-      "avg_volume_3m": 15293014,
+      "avg_volume_3m": 15293485,
       "relative_volume": 4.79,
       "market_cap": 78235303936,
       "exchange": "NYSE",
@@ -123,6 +107,22 @@
       ],
       "reason": "장중 -5.4% 하락, 거래량 3개월 평균 대비 4.8배, 거래대금 상위 종목",
       "score": 25.84
+    },
+    {
+      "symbol": "PSKY",
+      "name": "Paramount Skydance Corporation",
+      "price": 10.21,
+      "change_percent": -3.86,
+      "volume": 78574491,
+      "avg_volume_3m": 12040031,
+      "relative_volume": 6.53,
+      "market_cap": 11426757632,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "most_actives"
+      ],
+      "reason": "장중 -3.9% 하락, 거래량 3개월 평균 대비 6.5배, 거래대금 상위 종목",
+      "score": 25.19
     },
     {
       "symbol": "BTDR",
@@ -146,7 +146,7 @@
       "price": 13.24,
       "change_percent": 13.75,
       "volume": 84047799,
-      "avg_volume_3m": 48452935,
+      "avg_volume_3m": 48453614,
       "relative_volume": 1.73,
       "market_cap": 5114602496,
       "exchange": "NasdaqCM",
@@ -158,36 +158,52 @@
       "score": 23.84
     },
     {
-      "symbol": "QCOM",
-      "name": "QUALCOMM Incorporated",
-      "price": 177.72,
-      "change_percent": -5.82,
-      "volume": 54401468,
-      "avg_volume_3m": 13690240,
-      "relative_volume": 3.97,
-      "market_cap": 189815717888,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "most_actives"
-      ],
-      "reason": "장중 -5.8% 하락, 거래량 3개월 평균 대비 4.0배, 거래대금 상위 종목",
-      "score": 23.14
-    },
-    {
       "symbol": "SBET",
       "name": "SharpLink, Inc.",
       "price": 9.35,
       "change_percent": 13.2,
       "volume": 16131816,
-      "avg_volume_3m": 9429822,
-      "relative_volume": 1.71,
+      "avg_volume_3m": 9536334,
+      "relative_volume": 1.69,
       "market_cap": 2031040768,
       "exchange": "NasdaqCM",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +13.2% 상승, 거래량 3개월 평균 대비 1.7배",
-      "score": 22.57
+      "score": 22.32
+    },
+    {
+      "symbol": "QCOM",
+      "name": "QUALCOMM Incorporated",
+      "price": 177.72,
+      "change_percent": -5.82,
+      "volume": 54401468,
+      "avg_volume_3m": 14336866,
+      "relative_volume": 3.79,
+      "market_cap": 189815717888,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "most_actives"
+      ],
+      "reason": "장중 -5.8% 하락, 거래량 3개월 평균 대비 3.8배, 거래대금 상위 종목",
+      "score": 22.1
+    },
+    {
+      "symbol": "IQMX",
+      "name": "IQM Quantum Computers Oyj",
+      "price": 9.54,
+      "change_percent": 7.92,
+      "volume": 1323330,
+      "avg_volume_3m": 522953,
+      "relative_volume": 2.53,
+      "market_cap": 4523981312,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +7.9% 상승, 거래량 3개월 평균 대비 2.5배",
+      "score": 20.04
     },
     {
       "symbol": "FIGR",
@@ -211,7 +227,7 @@
       "price": 30.09,
       "change_percent": 6.4,
       "volume": 16078718,
-      "avg_volume_3m": 5888346,
+      "avg_volume_3m": 5888848,
       "relative_volume": 2.73,
       "market_cap": 2857610240,
       "exchange": "NasdaqGM",
@@ -236,22 +252,6 @@
       ],
       "reason": "장중 +9.8% 상승, 거래량 3개월 평균 대비 1.8배",
       "score": 17.24
-    },
-    {
-      "symbol": "TTD",
-      "name": "The Trade Desk, Inc.",
-      "price": 13.92,
-      "change_percent": -2.38,
-      "volume": 147866393,
-      "avg_volume_3m": 20865001,
-      "relative_volume": 7.09,
-      "market_cap": 6540732416,
-      "exchange": "NasdaqGM",
-      "sources": [
-        "most_actives"
-      ],
-      "reason": "장중 -2.4% 하락, 거래량 3개월 평균 대비 7.1배, 거래대금 상위 종목",
-      "score": 16.9
     }
   ]
 }

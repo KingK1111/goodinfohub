@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-18T23:49:50+09:00",
-  "last_attempt_at": "2026-09-19T10:15:41+09:00",
+  "updated_at": "2026-09-19T18:06:47+09:00",
+  "last_attempt_at": "2026-09-19T18:06:47+09:00",
   "districts": [
     "성동구",
     "중구",
@@ -176,25 +176,7 @@
       "usage": "아파트",
       "min_sale_price": "2,800,000,000 (100%)",
       "status": "신건"
-    },
-    {
-      "district": "송파구",
-      "case_no": "서울동부지방법원 2025타경52311 2026타경22 2026타경100 (중복)",
-      "item_no": "1",
-      "address": "서울특별시 송파구 잠실동 86 아시아선수촌아파트 14동 7층702호 [집합건물 철근콘크리트조 151.008㎡ 부속건물 지하7호 주차장 25.04㎡ 김창규지분 19/20 전부]",
-      "remarks": "지분매각, 공유자 우선매수신고 1회 제한",
-      "appraisal_amount": "4,990,000,000",
-      "court_and_date": "경매2계 2026.09.21",
-      "usage": "아파트",
-      "min_sale_price": "4,990,000,000 (100%)",
-      "status": "신건"
     }
   ],
-  "errors": [
-    "성동구: HTTPConnectionPool(host='localhost', port=48185): Read timed out. (read timeout=120)",
-    "중구: HTTPConnectionPool(host='localhost', port=48185): Read timed out. (read timeout=120)",
-    "동대문구: HTTPConnectionPool(host='localhost', port=48185): Read timed out. (read timeout=120)",
-    "광진구: HTTPConnectionPool(host='localhost', port=48185): Read timed out. (read timeout=120)",
-    "송파구: HTTPConnectionPool(host='localhost', port=48185): Read timed out. (read timeout=120)"
-  ]
+  "errors": []
 }
