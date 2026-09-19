@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T18:06:52+09:00",
+  "updated_at": "2026-09-19T23:12:43+09:00",
   "disclaimer": "이 목록은 공개 시세 데이터(거래량, 변동률)를 기준으로 자동 정렬한 결과이며 특정 종목의 매수/매도를 추천하지 않습니다. 투자 판단과 책임은 본인에게 있습니다.",
   "criteria": {
     "min_price": 5.0,
@@ -27,22 +27,6 @@
       "score": 52.56
     },
     {
-      "symbol": "ALVO",
-      "name": "Alvotech",
-      "price": 5.87,
-      "change_percent": 9.93,
-      "volume": 3526676,
-      "avg_volume_3m": 918432,
-      "relative_volume": 3.84,
-      "market_cap": 2094515840,
-      "exchange": "NasdaqGM",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +9.9% 상승, 거래량 3개월 평균 대비 3.8배",
-      "score": 38.11
-    },
-    {
       "symbol": "MSTR",
       "name": "Strategy Inc",
       "price": 153.92,
@@ -60,21 +44,37 @@
       "score": 37.34
     },
     {
+      "symbol": "ALVO",
+      "name": "Alvotech",
+      "price": 5.87,
+      "change_percent": 9.93,
+      "volume": 3526676,
+      "avg_volume_3m": 959839,
+      "relative_volume": 3.67,
+      "market_cap": 2094515840,
+      "exchange": "NasdaqGM",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +9.9% 상승, 거래량 3개월 평균 대비 3.7배",
+      "score": 36.47
+    },
+    {
       "symbol": "PURR",
       "name": "Hyperliquid Strategies Inc",
       "price": 14.09,
       "change_percent": 9.82,
       "volume": 57372085,
-      "avg_volume_3m": 16282951,
-      "relative_volume": 3.52,
+      "avg_volume_3m": 16936831,
+      "relative_volume": 3.39,
       "market_cap": 2787531776,
       "exchange": "NasdaqCM",
       "sources": [
         "day_gainers",
         "most_actives"
       ],
-      "reason": "장중 +9.8% 상승, 거래량 3개월 평균 대비 3.5배, 거래대금 상위 종목",
-      "score": 34.6
+      "reason": "장중 +9.8% 상승, 거래량 3개월 평균 대비 3.4배, 거래대금 상위 종목",
+      "score": 33.27
     },
     {
       "symbol": "COIN",
@@ -82,31 +82,15 @@
       "price": 194.25,
       "change_percent": 11.66,
       "volume": 21822131,
-      "avg_volume_3m": 8774027,
-      "relative_volume": 2.49,
+      "avg_volume_3m": 8981768,
+      "relative_volume": 2.43,
       "market_cap": 51250323456,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +11.7% 상승, 거래량 3개월 평균 대비 2.5배",
-      "score": 28.99
-    },
-    {
-      "symbol": "BE",
-      "name": "Bloom Energy Corporation",
-      "price": 265.63,
-      "change_percent": -5.39,
-      "volume": 73325656,
-      "avg_volume_3m": 15293485,
-      "relative_volume": 4.79,
-      "market_cap": 78235303936,
-      "exchange": "NYSE",
-      "sources": [
-        "most_actives"
-      ],
-      "reason": "장중 -5.4% 하락, 거래량 3개월 평균 대비 4.8배, 거래대금 상위 종목",
-      "score": 25.84
+      "reason": "장중 +11.7% 상승, 거래량 3개월 평균 대비 2.4배",
+      "score": 28.32
     },
     {
       "symbol": "PSKY",
@@ -125,20 +109,36 @@
       "score": 25.19
     },
     {
+      "symbol": "BE",
+      "name": "Bloom Energy Corporation",
+      "price": 265.63,
+      "change_percent": -5.39,
+      "volume": 73325656,
+      "avg_volume_3m": 16215558,
+      "relative_volume": 4.52,
+      "market_cap": 78235303936,
+      "exchange": "NYSE",
+      "sources": [
+        "most_actives"
+      ],
+      "reason": "장중 -5.4% 하락, 거래량 3개월 평균 대비 4.5배, 거래대금 상위 종목",
+      "score": 24.37
+    },
+    {
       "symbol": "BTDR",
       "name": "Bitdeer Technologies Group",
       "price": 12.97,
       "change_percent": 15.39,
       "volume": 18642297,
-      "avg_volume_3m": 11809516,
-      "relative_volume": 1.58,
+      "avg_volume_3m": 11918246,
+      "relative_volume": 1.56,
       "market_cap": 3525015808,
       "exchange": "NasdaqCM",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +15.4% 상승, 거래량 3개월 평균 대비 1.6배",
-      "score": 24.3
+      "score": 24.08
     },
     {
       "symbol": "MARA",
@@ -146,8 +146,8 @@
       "price": 13.24,
       "change_percent": 13.75,
       "volume": 84047799,
-      "avg_volume_3m": 48453614,
-      "relative_volume": 1.73,
+      "avg_volume_3m": 49020179,
+      "relative_volume": 1.71,
       "market_cap": 5114602496,
       "exchange": "NasdaqCM",
       "sources": [
@@ -155,7 +155,7 @@
         "most_actives"
       ],
       "reason": "장중 +13.7% 상승, 거래량 3개월 평균 대비 1.7배, 거래대금 상위 종목",
-      "score": 23.84
+      "score": 23.57
     },
     {
       "symbol": "SBET",
@@ -190,20 +190,36 @@
       "score": 22.1
     },
     {
+      "symbol": "BRVE",
+      "name": "Braveheart Bio, Inc.",
+      "price": 29.2,
+      "change_percent": 5.38,
+      "volume": 2017684,
+      "avg_volume_3m": 513651,
+      "relative_volume": 3.93,
+      "market_cap": 2629137920,
+      "exchange": "NasdaqGM",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +5.4% 상승, 거래량 3개월 평균 대비 3.9배",
+      "score": 21.12
+    },
+    {
       "symbol": "IQMX",
       "name": "IQM Quantum Computers Oyj",
       "price": 9.54,
       "change_percent": 7.92,
       "volume": 1323330,
-      "avg_volume_3m": 522953,
-      "relative_volume": 2.53,
+      "avg_volume_3m": 535712,
+      "relative_volume": 2.47,
       "market_cap": 4523981312,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +7.9% 상승, 거래량 3개월 평균 대비 2.5배",
-      "score": 20.04
+      "score": 19.56
     },
     {
       "symbol": "FIGR",
@@ -211,31 +227,15 @@
       "price": 35.49,
       "change_percent": 5.28,
       "volume": 13791644,
-      "avg_volume_3m": 4064961,
-      "relative_volume": 3.39,
+      "avg_volume_3m": 4219479,
+      "relative_volume": 3.27,
       "market_cap": 7963170816,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +5.3% 상승, 거래량 3개월 평균 대비 3.4배",
-      "score": 17.92
-    },
-    {
-      "symbol": "ASST",
-      "name": "Strive, Inc.",
-      "price": 30.09,
-      "change_percent": 6.4,
-      "volume": 16078718,
-      "avg_volume_3m": 5888848,
-      "relative_volume": 2.73,
-      "market_cap": 2857610240,
-      "exchange": "NasdaqGM",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +6.4% 상승, 거래량 3개월 평균 대비 2.7배",
-      "score": 17.48
+      "reason": "장중 +5.3% 상승, 거래량 3개월 평균 대비 3.3배",
+      "score": 17.26
     },
     {
       "symbol": "BLSH",
@@ -243,15 +243,15 @@
       "price": 38.34,
       "change_percent": 9.83,
       "volume": 2750518,
-      "avg_volume_3m": 1567577,
-      "relative_volume": 1.75,
+      "avg_volume_3m": 1586450,
+      "relative_volume": 1.73,
       "market_cap": 5814197760,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +9.8% 상승, 거래량 3개월 평균 대비 1.8배",
-      "score": 17.24
+      "reason": "장중 +9.8% 상승, 거래량 3개월 평균 대비 1.7배",
+      "score": 17.03
     }
   ]
 }
