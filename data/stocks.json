@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T09:41:04+09:00",
+  "updated_at": "2026-09-20T18:33:35+09:00",
   "disclaimer": "이 목록은 공개 시세 데이터(거래량, 변동률)를 기준으로 자동 정렬한 결과이며 특정 종목의 매수/매도를 추천하지 않습니다. 투자 판단과 책임은 본인에게 있습니다.",
   "criteria": {
     "min_price": 5.0,
@@ -100,7 +100,7 @@
       "volume": 78574491,
       "avg_volume_3m": 12040031,
       "relative_volume": 6.53,
-      "market_cap": 11455066112,
+      "market_cap": 11426757632,
       "exchange": "NasdaqGS",
       "sources": [
         "most_actives"
@@ -206,6 +206,22 @@
       "score": 21.12
     },
     {
+      "symbol": "IQMX",
+      "name": "IQM Quantum Computers Oyj",
+      "price": 9.54,
+      "change_percent": 7.92,
+      "volume": 1323330,
+      "avg_volume_3m": 535712,
+      "relative_volume": 2.47,
+      "market_cap": 4523981312,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +7.9% 상승, 거래량 3개월 평균 대비 2.5배",
+      "score": 19.56
+    },
+    {
       "symbol": "FIGR",
       "name": "Figure Technology Solutions, In",
       "price": 35.49,
@@ -236,22 +252,6 @@
       ],
       "reason": "장중 +9.8% 상승, 거래량 3개월 평균 대비 1.7배",
       "score": 17.03
-    },
-    {
-      "symbol": "ASST",
-      "name": "Strive, Inc.",
-      "price": 30.09,
-      "change_percent": 6.4,
-      "volume": 16078718,
-      "avg_volume_3m": 6051117,
-      "relative_volume": 2.66,
-      "market_cap": 2857610240,
-      "exchange": "NasdaqGM",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +6.4% 상승, 거래량 3개월 평균 대비 2.7배",
-      "score": 17.01
     }
   ]
 }
