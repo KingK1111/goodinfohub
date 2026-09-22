@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-20T18:33:32+09:00",
-  "last_attempt_at": "2026-09-22T02:05:20+09:00",
+  "updated_at": "2026-09-22T10:29:01+09:00",
+  "last_attempt_at": "2026-09-22T10:29:01+09:00",
   "districts": [
     "성동구",
     "중구",
@@ -31,6 +31,18 @@
       "court_and_date": "경매7계 2026.10.01",
       "usage": "오피스텔",
       "min_sale_price": "1,352,000,000 (80%)",
+      "status": "유찰 1회"
+    },
+    {
+      "district": "중구",
+      "case_no": "서울중앙지방법원 2026타경100062",
+      "item_no": "1",
+      "address": "서울특별시 중구 흥인동 13-1 청계천 두산위브더제니스 27층웨스트2702호 [집합건물 철근콘크리트구조 147.3212 ㎡]",
+      "remarks": "",
+      "appraisal_amount": "2,052,000,000",
+      "court_and_date": "경매9계 2026.10.06",
+      "usage": "아파트",
+      "min_sale_price": "1,641,600,000 (80%)",
       "status": "유찰 1회"
     },
     {
@@ -143,18 +155,6 @@
     },
     {
       "district": "송파구",
-      "case_no": "서울동부지방법원 2025타경51300",
-      "item_no": "1",
-      "address": "서울특별시 송파구 신천동 7-18 롯데캐슬골드 35층101-3501호 [집합건물 철골철근콘크리트구조 243.40㎡ 매각대상: 을구9번 전세권설정등기(전세권자 정병모)]",
-      "remarks": "-매각대상: 을구 순위번호 9번 전세권임에 주의(전세권 근저당권 실행) -존속기간: 2018.9.28.부터2026.10.9.까지 -최저매각가격: 전세권 존속기간(을 고려한 전세권에 대한 평가액임",
-      "appraisal_amount": "2,730,000,000",
-      "court_and_date": "경매2계 2026.09.21",
-      "usage": "아파트",
-      "min_sale_price": "2,184,000,000 (80%)",
-      "status": "유찰 1회"
-    },
-    {
-      "district": "송파구",
       "case_no": "서울동부지방법원 2025타경51733",
       "item_no": "1",
       "address": "서울특별시 송파구 방이동 39-2 신동아타워 16층1607호 [집합건물 철근콘크리트조 58.38㎡]",
@@ -164,25 +164,7 @@
       "usage": "아파트",
       "min_sale_price": "642,400,000 (80%)",
       "status": "유찰 1회"
-    },
-    {
-      "district": "송파구",
-      "case_no": "서울동부지방법원 2025타경52237",
-      "item_no": "1",
-      "address": "서울특별시 송파구 신천동 7-19 잠실시그마타워 21층2105호 [집합건물 철골조 208.56㎡]",
-      "remarks": "",
-      "appraisal_amount": "2,800,000,000",
-      "court_and_date": "경매2계 2026.09.21",
-      "usage": "아파트",
-      "min_sale_price": "2,800,000,000 (100%)",
-      "status": "신건"
     }
   ],
-  "errors": [
-    "성동구: HTTPConnectionPool(host='localhost', port=47953): Read timed out. (read timeout=120)",
-    "중구: HTTPConnectionPool(host='localhost', port=47953): Read timed out. (read timeout=120)",
-    "동대문구: HTTPConnectionPool(host='localhost', port=47953): Read timed out. (read timeout=120)",
-    "광진구: HTTPConnectionPool(host='localhost', port=47953): Read timed out. (read timeout=120)",
-    "송파구: HTTPConnectionPool(host='localhost', port=47953): Read timed out. (read timeout=120)"
-  ]
+  "errors": []
 }

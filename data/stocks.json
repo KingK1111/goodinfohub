@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T02:05:23+09:00",
+  "updated_at": "2026-09-22T10:29:03+09:00",
   "disclaimer": "이 목록은 공개 시세 데이터(거래량, 변동률)를 기준으로 자동 정렬한 결과이며 특정 종목의 매수/매도를 추천하지 않습니다. 투자 판단과 책임은 본인에게 있습니다.",
   "criteria": {
     "min_price": 5.0,
@@ -13,248 +13,246 @@
     {
       "symbol": "GRAL",
       "name": "GRAIL, Inc.",
-      "price": 105.95,
-      "change_percent": 31.17,
-      "volume": 2218568,
+      "price": 107.97,
+      "change_percent": 33.68,
+      "volume": 3519996,
       "avg_volume_3m": 713955,
-      "relative_volume": 3.11,
-      "market_cap": 4732387328,
+      "relative_volume": 4.93,
+      "market_cap": 4822612992,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +31.2% 상승, 거래량 3개월 평균 대비 3.1배",
-      "score": 96.87
+      "reason": "장중 +33.7% 상승, 거래량 3개월 평균 대비 4.9배",
+      "score": 166.03
     },
     {
       "symbol": "WBD",
       "name": "Warner Bros. Discovery, Inc. - ",
-      "price": 30.795,
-      "change_percent": 10.77,
-      "volume": 151447850,
+      "price": 30.8,
+      "change_percent": 10.79,
+      "volume": 233836583,
       "avg_volume_3m": 21071793,
-      "relative_volume": 7.19,
-      "market_cap": 77207273472,
+      "relative_volume": 11.1,
+      "market_cap": 77219807232,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers",
         "most_actives"
       ],
-      "reason": "장중 +10.8% 상승, 거래량 3개월 평균 대비 7.2배, 거래대금 상위 종목",
-      "score": 77.42
+      "reason": "장중 +10.8% 상승, 거래량 3개월 평균 대비 11.1배, 거래대금 상위 종목",
+      "score": 119.75
+    },
+    {
+      "symbol": "SECZ",
+      "name": "Securitize Corp.",
+      "price": 13.5,
+      "change_percent": 24.31,
+      "volume": 6841946,
+      "avg_volume_3m": 2150438,
+      "relative_volume": 3.18,
+      "market_cap": 2204086784,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +24.3% 상승, 거래량 3개월 평균 대비 3.2배",
+      "score": 77.34
     },
     {
       "symbol": "ARM",
       "name": "Arm Holdings plc",
-      "price": 319.16,
-      "change_percent": 15.8,
-      "volume": 8462132,
+      "price": 322.9,
+      "change_percent": 17.16,
+      "volume": 12889775,
       "avg_volume_3m": 5435692,
-      "relative_volume": 1.56,
-      "market_cap": 340862435328,
+      "relative_volume": 2.37,
+      "market_cap": 344856723456,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +15.8% 상승, 거래량 3개월 평균 대비 1.6배",
-      "score": 24.6
+      "reason": "장중 +17.2% 상승, 거래량 3개월 평균 대비 2.4배",
+      "score": 40.69
     },
     {
       "symbol": "NVO",
       "name": "Novo Nordisk A/S",
-      "price": 39.735,
-      "change_percent": -8.11,
-      "volume": 34286569,
+      "price": 39.8,
+      "change_percent": -7.96,
+      "volume": 48876342,
       "avg_volume_3m": 11527587,
-      "relative_volume": 2.97,
-      "market_cap": 175544270848,
+      "relative_volume": 4.24,
+      "market_cap": 175831416832,
       "exchange": "NYSE",
       "sources": [
         "most_actives"
       ],
-      "reason": "장중 -8.1% 하락, 거래량 3개월 평균 대비 3.0배, 거래대금 상위 종목",
-      "score": 24.11
-    },
-    {
-      "symbol": "PSKY",
-      "name": "Paramount Skydance Corporation",
-      "price": 11.275,
-      "change_percent": 10.43,
-      "volume": 26419744,
-      "avg_volume_3m": 12040031,
-      "relative_volume": 2.19,
-      "market_cap": 12618676224,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers",
-        "most_actives"
-      ],
-      "reason": "장중 +10.4% 상승, 거래량 3개월 평균 대비 2.2배, 거래대금 상위 종목",
-      "score": 22.89
-    },
-    {
-      "symbol": "VNET",
-      "name": "VNET Group, Inc.",
-      "price": 7.365,
-      "change_percent": 12.95,
-      "volume": 6158021,
-      "avg_volume_3m": 4409903,
-      "relative_volume": 1.4,
-      "market_cap": 2096753920,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +13.0% 상승, 거래량 3개월 평균 대비 1.4배",
-      "score": 18.09
-    },
-    {
-      "symbol": "FSLY",
-      "name": "Fastly, Inc.",
-      "price": 27.48,
-      "change_percent": 15.16,
-      "volume": 5629820,
-      "avg_volume_3m": 5560542,
-      "relative_volume": 1.01,
-      "market_cap": 4377564160,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +15.2% 상승, 거래량 3개월 평균 대비 1.0배",
-      "score": 15.34
-    },
-    {
-      "symbol": "AMRX",
-      "name": "Amneal Pharmaceuticals, Inc.",
-      "price": 20.535,
-      "change_percent": 9.75,
-      "volume": 3160957,
-      "avg_volume_3m": 2048657,
-      "relative_volume": 1.54,
-      "market_cap": 7152259072,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +9.8% 상승, 거래량 3개월 평균 대비 1.5배",
-      "score": 15.05
-    },
-    {
-      "symbol": "INTC",
-      "name": "Intel Corporation",
-      "price": 122.3431,
-      "change_percent": 12.65,
-      "volume": 121047727,
-      "avg_volume_3m": 108716785,
-      "relative_volume": 1.11,
-      "market_cap": 646718488576,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers",
-        "most_actives"
-      ],
-      "reason": "장중 +12.7% 상승, 거래량 3개월 평균 대비 1.1배, 거래대금 상위 종목",
-      "score": 14.09
+      "reason": "장중 -8.0% 하락, 거래량 3개월 평균 대비 4.2배, 거래대금 상위 종목",
+      "score": 33.73
     },
     {
       "symbol": "META",
       "name": "Meta Platforms, Inc.",
-      "price": 731.225,
-      "change_percent": 9.92,
-      "volume": 24446016,
+      "price": 741.245,
+      "change_percent": 11.43,
+      "volume": 48450536,
       "avg_volume_3m": 18311692,
-      "relative_volume": 1.33,
-      "market_cap": 1862800113664,
+      "relative_volume": 2.65,
+      "market_cap": 1888326254592,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers",
         "most_actives"
       ],
-      "reason": "장중 +9.9% 상승, 거래량 3개월 평균 대비 1.3배, 거래대금 상위 종목",
-      "score": 13.25
+      "reason": "장중 +11.4% 상승, 거래량 3개월 평균 대비 2.6배, 거래대금 상위 종목",
+      "score": 30.24
+    },
+    {
+      "symbol": "VNET",
+      "name": "VNET Group, Inc.",
+      "price": 7.235,
+      "change_percent": 10.97,
+      "volume": 10714670,
+      "avg_volume_3m": 4409903,
+      "relative_volume": 2.43,
+      "market_cap": 2059744128,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +11.0% 상승, 거래량 3개월 평균 대비 2.4배",
+      "score": 26.64
     },
     {
       "symbol": "XXI",
       "name": "Twenty One Capital, Inc.",
-      "price": 6.465,
-      "change_percent": 11.27,
-      "volume": 2059197,
+      "price": 6.61,
+      "change_percent": 13.77,
+      "volume": 3513293,
       "avg_volume_3m": 1824706,
-      "relative_volume": 1.13,
-      "market_cap": 2241003264,
+      "relative_volume": 1.93,
+      "market_cap": 2291265536,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +11.3% 상승, 거래량 3개월 평균 대비 1.1배",
-      "score": 12.72
+      "reason": "장중 +13.8% 상승, 거래량 3개월 평균 대비 1.9배",
+      "score": 26.51
     },
     {
-      "symbol": "AMD",
-      "name": "Advanced Micro Devices, Inc.",
-      "price": 611.1709,
-      "change_percent": 9.17,
-      "volume": 28053503,
-      "avg_volume_3m": 24950388,
-      "relative_volume": 1.12,
-      "market_cap": 997721243648,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers",
-        "most_actives"
-      ],
-      "reason": "장중 +9.2% 상승, 거래량 3개월 평균 대비 1.1배, 거래대금 상위 종목",
-      "score": 10.31
-    },
-    {
-      "symbol": "AXTI",
-      "name": "AXT Inc",
-      "price": 78.63,
-      "change_percent": 12.28,
-      "volume": 8030586,
-      "avg_volume_3m": 10310457,
-      "relative_volume": 0.78,
-      "market_cap": 5156021248,
+      "symbol": "FSLY",
+      "name": "Fastly, Inc.",
+      "price": 27.42,
+      "change_percent": 14.92,
+      "volume": 9780317,
+      "avg_volume_3m": 5560542,
+      "relative_volume": 1.76,
+      "market_cap": 4368006144,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +12.3% 상승, 거래량 3개월 평균 대비 0.8배",
-      "score": 9.56
+      "reason": "장중 +14.9% 상승, 거래량 3개월 평균 대비 1.8배",
+      "score": 26.24
     },
     {
-      "symbol": "MSTR",
-      "name": "Strategy Inc",
-      "price": 166.56,
-      "change_percent": 8.21,
-      "volume": 26562504,
-      "avg_volume_3m": 23763985,
-      "relative_volume": 1.12,
-      "market_cap": 66171232256,
+      "symbol": "AMRX",
+      "name": "Amneal Pharmaceuticals, Inc.",
+      "price": 20.16,
+      "change_percent": 7.75,
+      "volume": 5646243,
+      "avg_volume_3m": 2048657,
+      "relative_volume": 2.76,
+      "market_cap": 7021647872,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +7.7% 상승, 거래량 3개월 평균 대비 2.8배",
+      "score": 21.36
+    },
+    {
+      "symbol": "INTC",
+      "name": "Intel Corporation",
+      "price": 121.78,
+      "change_percent": 12.14,
+      "volume": 188716510,
+      "avg_volume_3m": 108716785,
+      "relative_volume": 1.74,
+      "market_cap": 643741843456,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers",
         "most_actives"
       ],
-      "reason": "장중 +8.2% 상승, 거래량 3개월 평균 대비 1.1배, 거래대금 상위 종목",
-      "score": 9.18
+      "reason": "장중 +12.1% 상승, 거래량 3개월 평균 대비 1.7배, 거래대금 상위 종목",
+      "score": 21.07
     },
     {
-      "symbol": "USAR",
-      "name": "USA Rare Earth, Inc.",
-      "price": 16.915,
-      "change_percent": 10.05,
-      "volume": 10927094,
-      "avg_volume_3m": 12172282,
-      "relative_volume": 0.9,
-      "market_cap": 6349768704,
+      "symbol": "FIVN",
+      "name": "Five9, Inc.",
+      "price": 37.01,
+      "change_percent": 13.98,
+      "volume": 3817165,
+      "avg_volume_3m": 2583141,
+      "relative_volume": 1.48,
+      "market_cap": 2765517568,
       "exchange": "NasdaqGM",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +10.1% 상승, 거래량 3개월 평균 대비 0.9배",
-      "score": 9.02
+      "reason": "장중 +14.0% 상승, 거래량 3개월 평균 대비 1.5배",
+      "score": 20.66
+    },
+    {
+      "symbol": "NICE",
+      "name": "NICE Ltd",
+      "price": 114.54,
+      "change_percent": 9.12,
+      "volume": 1173473,
+      "avg_volume_3m": 530598,
+      "relative_volume": 2.21,
+      "market_cap": 6711721984,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +9.1% 상승, 거래량 3개월 평균 대비 2.2배",
+      "score": 20.16
+    },
+    {
+      "symbol": "AMD",
+      "name": "Advanced Micro Devices, Inc.",
+      "price": 615.52,
+      "change_percent": 9.95,
+      "volume": 44156939,
+      "avg_volume_3m": 24950388,
+      "relative_volume": 1.77,
+      "market_cap": 1004821020672,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers",
+        "most_actives"
+      ],
+      "reason": "장중 +9.9% 상승, 거래량 3개월 평균 대비 1.8배, 거래대금 상위 종목",
+      "score": 17.61
+    },
+    {
+      "symbol": "AXTI",
+      "name": "AXT Inc",
+      "price": 79.93,
+      "change_percent": 14.14,
+      "volume": 12507096,
+      "avg_volume_3m": 10310457,
+      "relative_volume": 1.21,
+      "market_cap": 5241266688,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +14.1% 상승, 거래량 3개월 평균 대비 1.2배",
+      "score": 17.15
     }
   ]
 }
