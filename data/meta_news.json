@@ -1,23 +1,17 @@
 {
-  "updated_at": "2026-09-23T00:43:38+09:00",
+  "updated_at": "2026-09-23T10:18:22+09:00",
   "quote": {
     "symbol": "META",
-    "price": 749.31,
+    "price": 736.6,
     "previous_close": 740.01,
-    "change": 9.3,
-    "change_percent": 1.26,
+    "change": -3.42,
+    "change_percent": -0.46,
     "currency": "USD",
     "day_high": 757.27001953125,
     "day_low": 730.0,
-    "market_cap": 1908871883235.2524
+    "market_cap": 1876480347803.875
   },
   "articles": [
-    {
-      "title": "Meta Stock Jumps Despite Another Facebook Outage. Here's Why - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNR0pvYkZjNWFTcmZLWG8tSTVFM1JCRldQTGRkeEJ5anUxemlKQTJZc0ZwRjBSY0JqM1ZkMGt1YXkteW1DVVlPaWlnRUNpMTF3d2NacWw4dWZhVTFwelN1MUVhWW9HOTY3akVJY2R6Tm13UXE1NF9Rb2N0TDV1bGpOb2prZUdOUVVOWFZsRkZyVWxHYlhDblNhRkh6dmhhUQ?oc=5",
-      "source": "Yahoo Finance",
-      "published": "Mon, 21 Sep 2026 12:30:46 GMT"
-    },
     {
       "title": "Meta (META) Stock Trades Up, Here Is Why - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWUFYa0JKa0VRd25SY21oTll0Mi1WcFpEOXhhVERJb0g3Z2U5a3dyY3NlMVVtRFZDRzcySWFwbU9SbG02amw0NXFQQlYtRzZOTkNzNlNJR0dXQURzVzdGUEVFS0VsRVBEdWRJd29UbTMyN093MERUUmVrbmVOc1oySkZLVFpNdmRfT00xbHVCcVpRRjl2b3c?oc=5",
@@ -25,100 +19,46 @@
       "published": "Mon, 21 Sep 2026 23:50:25 GMT"
     },
     {
-      "title": "JPMorgan Changed Its Mind on Meta Stock After This Major AI Breakthrough - Barchart.com",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTTA0THVwcS0yZXd5QjBYM3BUU2x4NUNxcmhmbjN6dGZEaHUwbVlMQ092LXRRV3lESVByZ1U4ZjdoeHJOMXE3amJtM1lacEhXZE5zVHBjdWhLc3hGYTM0OXhVMWtjeV85T1lJMy12bDJMck1oZVZGQUk1T0hLREdvcW80VVdQZFJsekJLbllSZ2UtcFRwTnZ2TjZPVFM2UnF0eHh6VF9CT0Fla0pwbHZSYURRQ0h6WGs?oc=5",
-      "source": "Barchart.com",
-      "published": "Sat, 19 Sep 2026 14:00:02 GMT"
+      "title": "Meta Stock Jumps Despite Another Facebook Outage. Here's Why - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPX1NoMFVfMy1WTWhic3pqTGEyQkNrLVgyeWl5TWJSMVc3MnhUUFFzalN1dE0xdFQ1bm1PLS1vbGZPb2xKOGF5NXJZc3NrdG1ZdDJzT0otZ2Q4MjRjUkNaUFFBTjIzdHhPOXBRcDFReU9XWnhTcEFmWVVFZDhYYWZFZjVnYWJfUUdHSUpLV0FtVEMtb3k3d2hyR05SMm5IU2hZTjBfUVZvQWpfRFFCS25waGthcC14cGM0Qmdn?oc=5",
+      "source": "TradingView",
+      "published": "Mon, 21 Sep 2026 12:30:46 GMT"
     },
     {
-      "title": "Meta's stock drops on disappointing guidance, dwindling free cash flow - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBpV01kYzlERkIwM0ZfUXBQTTQyS2FmaFZHRFpoUGFwMHpidjQxX1JzTmRpa3o5bUViMFM2eGk4UldVUE5NcGZ5TGZXRUlCX1JyVmc4bF8xY3haNkpnaG1xRDhhRUNHOEdGY0REUUY2UUVFN03SAXhBVV95cUxPUGJIU0dqamJ2M1gxbW9yQXFhOG9tQV9VTmdMbUxub1RvLUR0MGJGdlMzWUtaTWMzOWtVdFZZcS16azhZY21Gb01zXzlZZ2IteFhjNFpLSWFBS2IwS0ltQWt4VEstckItdUg3SF9LM0YyVGRndjdaWHM?oc=5",
-      "source": "CNBC",
-      "published": "Wed, 29 Jul 2026 07:00:00 GMT"
+      "title": "Wall Street expects Meta's AI agent to shape into a new revenue engine - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSHZ3dUF2a3BDZVdNNW00Rm5jekRCZUlNeTdabXRaQUdNaHpqZG95QnlISWVGQTJYR3F0bWJ5MmkxUUZkYndqUkZsSG1EdXU4MFcwdE5taHp4UU1DTk16OWV0bWJDU0drdEVVb0FmMnJWUVdLbm5SRFdMdWtRMzd4NnRlUDB4bnVQd3d1Q1VmSmdVOFJQdlJtVTBQUExDeFVFdXRWbTRvVE9yTDFZdVE?oc=5",
+      "source": "Reuters",
+      "published": "Tue, 22 Sep 2026 18:25:41 GMT"
     },
     {
-      "title": "Meta Stock Is Surging: What's Happening Today? - Benzinga",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNa2wtRW5PV3dNTnM5YzhpemwySWwzekVXVGYyb1hhRHozWXd4aHFwU0tLcUF1ZVFkR1c2YnhiUVpIT2oxcExTekM0UzFkRzM1TUxHUDF5S3NrRFppTW1iNHRvSjhGcHBoUHFmRFlzNm5HNndMN0k1cTl3YTBRUE01dkdXdlBCQmhUZmtVb0xOZjZKNGx4S1J4UVhfeTdUdjJCNHZSbGJSNA?oc=5",
-      "source": "Benzinga",
-      "published": "Mon, 21 Sep 2026 14:58:06 GMT"
-    },
-    {
-      "title": "Meta’s stock is enjoying its best month in 13 years thanks to the company’s hot new AI assistant - MarketWatch",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxObFNROG1MUU1jdTRjSlBPRXBSWWJBbDhadmdWcFVYa1F2dDd1VWV4NkRnX1YyaUEzLXFNWEtlNm1EMmNlU1BmbmJwaDhsN1BjZXVRNzA1Z3lCSUZxa01qcXR2TTc0T2p4alVySWdFQWMxa0dpNldkd0ZTM1dDbVFUbXoxLVdocTUzRzluYlROMUtsUUxLNzZTMVdSUjBnSTY1VXlScDBCSEdqVk05U2E3TWNwQlBUZGVfT1pVT0tfVnl2MnNjQUpaWlBjekd0aVFXcURaN1Y4bmpqN1lHM2lDRkhR?oc=5",
-      "source": "MarketWatch",
-      "published": "Tue, 22 Sep 2026 12:02:00 GMT"
-    },
-    {
-      "title": "Why It’s Time to Load Up on Meta Stock - Barchart.com",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOenBXWXJUdzlRRWVocXpEVFU5WllOVkpVOGdwbHd2MGhIYjFjdXB2ZU9PUVNaX19uSHdEaFI0SnItN0tIY0REaUpvc3BGc1U2dldMekNZNVJISF9MUWI0Z011aGVyNmtPODdUX1U1b2pHU2hiWVZYWThlUEM4NmZ6cnFLU3ZaX1hN?oc=5",
-      "source": "Barchart.com",
-      "published": "Mon, 21 Sep 2026 18:48:57 GMT"
-    },
-    {
-      "title": "Meta Stock Is Still Too Cheap - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ZVkZ2NnN6V0hpckRaOExBRzJkaDUtSEhKNktjU1ctWU1CT2FfWTlwNjlTT0NCSllHOEhIdTBKOC1DZTRfTTZyNWpoZ08xQVowa0hrajRCNC1tWkdTNXlWc3JwenhOQjc0b1l0SmRPc0lldUowVzNXb0h6eU0?oc=5",
-      "source": "The Motley Fool",
-      "published": "Tue, 22 Sep 2026 05:30:00 GMT"
-    },
-    {
-      "title": "Meta Stock Scores Price Target Hike. Analyst Says Muse 'Flips The Narrative' On AI Concerns. - Investor's Business Daily",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE82dUJvWGYyRm8yazVQOWVLWTYxTnJqbTZCbTE5QVBFOFNibjNIcmgtT3VaZGFVUWFSNE0yNlZ4VnVUTTlkOXdhaEdRVmUyRmVRQkJzaldnU0xOeGp5UjhYRUljdGVSTFBEYXhiMEh0Wl9XV3I4Tmc?oc=5",
-      "source": "Investor's Business Daily",
-      "published": "Tue, 22 Sep 2026 14:18:00 GMT"
-    },
-    {
-      "title": "Meta: Poised For Strong Long-Term Growth - Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRi00ajZ2eDVpaUhGbjNyUy1zUGlGYjRJQ1JkVHp6LTNfUW9FT2JHdEdyY1UyOERMM1pLQ3JhWGdxVkFrc0tnRldIYnRlYmVuN2M5eFlIdmlCR1FQTTJwUVFEZ25XSW9XMWtkZF8ybUNJNDRBTDJTNzV1a3pidjJiVGZiRHlKclU?oc=5",
-      "source": "Seeking Alpha",
-      "published": "Mon, 21 Sep 2026 02:51:58 GMT"
-    },
-    {
-      "title": "Meta Stock Runs Overbought Into Connect — Wall Street Eyes $800+ - Meta Platforms (NASDAQ:META) - Benzinga",
+      "title": "Meta Stock Runs Overbought Into Connect — Wall Street Still Targets $800+ - Benzinga",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSFN2ak8xV1laYVlGRDBhRXVrWFNJY2pJLThqNGZrYkhNSnNVSm1TdkxYOWVKOTRkWVN0M09UcnVROUhxa3ByS3pNRkQzbW5TVk9Wbl9WakNiR3c2M1c1WjZYU0xSNldVa0VOOGNkR0pnTkNKaWE0NkxPRzlMcFhDYTRtdFcwQ1VBdEdCVlc1NnN4a3IwQUZTOHIzN0xRYURMUkFjaEl4X0ZiRHhPOHctZnVNeng5X2JleF9BZ292Zw?oc=5",
       "source": "Benzinga",
       "published": "Tue, 22 Sep 2026 14:58:18 GMT"
     },
     {
-      "title": "Meta stock rallied 20% since Muse AI launch: Is META the best Mag 7 buy now? - Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTGYxQmN0alJIZWdkQnlaOU1IWTBJOVkxTnNaTmExVmpEMzZERVZEb1EzNWFaTldzRTlSdDM1SmVZRlB6dEQtQmRkRlNieC1uQ2RQTm9GWmhGY1lrRExRS3A2WkU3bkw2ZTdmLTlBLXFuR1U4djFyRFRJOXZrTGpoM0ZhazBYYWtHT0VjWE0zWk9qYnRiTUoxQXktNlFMSW5ET3NJd0ZrOWQtaWxaUzk3b3diRlFrQU9sOGR4T2J1M1NHZHc1d2FyS1ZhZE41MmhU?oc=5",
+      "title": "Is Muse Adoption Altering The Investment Case For Meta Stock (META)? - simplywall.st",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQaEdwUldvTGFQVlZqSlpkRVpya0N6endTR2Jxa3lzVXhGRUlNR0RPRldWRFg2VjBUUVNBQUJaM3d6V25CQWdpcGFXNUZBcFVWaE8xOUt2VF9oR3Nfbm5lSlVTeFYtZWlUVHpDNXlRMzBaNFhuUS1Xc09kU3lXWWhqQVoxY0Y0eER1NF9vQXhwdXo3aEh3eExtSk1RcDlPUExBb1hDdHpIVGxTbVBnRE1FNXVwU19QV3Q5X0pzaFZZU0VSVjlGaEJoMEFn0gHPAUFVX3lxTE5MeWM5SnktYk9ESDk0eEFkLXVCRVRJMDFxb01ZNFhaQ0xVa0dlNGQ0cjVoLTBWWFF0WmRGWTdSMjJBZnczMV84b0F4bnpiRW1EaTBDLTU4aVdWdWtoZGlGQUJ2RUJ3dTBRLXN4NDR1bFBkQWNWQm5rRDkzdHpUWE1jTWNodE9mWUd4NzZKUkM5Z1FYU2VpaE52Z3RIeWxTSDU5UDF3ckpJOXhNbXpzai1IQUNKemlsTjNGdnMxN1lKWFRoN2Y2TG9RNGFXVXRqRQ?oc=5",
+      "source": "simplywall.st",
+      "published": "Tue, 22 Sep 2026 19:45:17 GMT"
+    },
+    {
+      "title": "Bank of America backs Meta stock after Muse surprise - thestreet.com",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVk84YnRzUTdvZGw3Snh2c29LZ1ExUDFhXzlNcW1SY2QyNnEtLXB0VnRseU9rbFBtc0RCV0x4Z3VqMGl4b1RFSXNWUFl6bXRDZ1JKUVliTi10UFR4RHJTLWxTNEd4R0xWdkxpRVJGSFc2TXc1eEdUSUNmcm16b0RSVzVXSi1xWVVyaGJNM1V4NW1FNXlFWEp6b0ZNcw?oc=5",
+      "source": "thestreet.com",
+      "published": "Tue, 22 Sep 2026 23:03:00 GMT"
+    },
+    {
+      "title": "Stock Market Research & Investor Analysis Tools - TIKR - TIKR.com",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNR3VWV0pNV19qMXVBRE5ldmJLSlBKRUJuX0hkcExEYnRoN0VZdGYxOVk2emdmMmh3NjZLMEJDUENrSGJCZ3Z0UWlXOFBDemJON2g0NVM1eFNnLWJPT0lDTlRWdUtfdmxOUFRjWDRQS0M0RzNkd3l4MklBclllZXJPYTB3eE9DZw?oc=5",
+      "source": "TIKR.com",
+      "published": "Tue, 22 Sep 2026 23:35:42 GMT"
+    },
+    {
+      "title": "Meta Stock Out of Triangle Pattern and Into 5th Wave - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTmtkMmtjRTYtOERFOWpBTG9VWXhKLUtqeVR6V3pSaUV4RU1FLVdmRHFyOGZDRVVEbWR0d28zWTV2U3Qydko2bTVjT2hCN2pMdjk0TVlJNlVRR01qcmg0Q01sT2JVdUg2UEJVRzByeXBaTk9FYTFERGlOV3NveklLTk9pR2EwSzRVMThWX1VJbWFXVUZPYlFac0stRll1Zw?oc=5",
       "source": "Investing.com",
-      "published": "Tue, 22 Sep 2026 12:58:35 GMT"
-    },
-    {
-      "title": "Buy, Hold or Sell META Stock Ahead of Meta Connect 2026? - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQaklKWDczTWNIeFNHM19zaERyZzdYR0VTd3JXSVlHR0E4YllleTJtWllMSjc4VDlXb1lsM0hOeDloS1I1NlpheGVlNzNkMWVKUGFNNEFEMTItZUFWWkM3NDNnWTZrTzBuRWdCekl1NHdfbnpXdlVMeDBfZzk3UHJsa2UtdjlDckwtTTBEeXpjaVZmQjlwRW1YZ05yTGxaQkYzaGNwRTBfeG1zRExadDhOalV5ajdOeTRIX2FXNEFoWUxPNVpCN1VFb2lMNzhmdWRaZ0VYTkZR?oc=5",
-      "source": "The Globe and Mail",
-      "published": "Tue, 22 Sep 2026 14:23:21 GMT"
-    },
-    {
-      "title": "Meta’s Muse Bump Is Great But Chip Stocks Remain the Best AI Bet - Barron's",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE90bENMUlpBbnhxRzgyeFF2cDZRbHpOaG5mRHp4MFdSQkR2VlJmUk4zQ05wZFNOQXZwVm9nbldKM19BQm54SkwyZEs3VnZNN1JLUEFsanNuSmpZX0hnVXdnQVhXTWtZRC1HSWpabkVBSjZ3eWc2aHpfMkNKZw?oc=5",
-      "source": "Barron's",
-      "published": "Tue, 22 Sep 2026 12:16:00 GMT"
-    },
-    {
-      "title": "Wall Street expects Meta's AI agent to shape into a new revenue engine - reuters.com",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSHZ3dUF2a3BDZVdNNW00Rm5jekRCZUlNeTdabXRaQUdNaHpqZG95QnlISWVGQTJYR3F0bWJ5MmkxUUZkYndqUkZsSG1EdXU4MFcwdE5taHp4UU1DTk16OWV0bWJDU0drdEVVb0FmMnJWUVdLbm5SRFdMdWtRMzd4NnRlUDB4bnVQd3d1Q1VmSmdVOFJQdlJtVTBQUExDeFVFdXRWbTRvVE9yTDFZdVE?oc=5",
-      "source": "reuters.com",
-      "published": "Tue, 22 Sep 2026 13:40:59 GMT"
-    },
-    {
-      "title": "Meta's Muse AI Is Soaring in Popularity. Could It Send the Stock to New Heights? - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZ29sQVNNbEJQX1BhS1JZcElfdW10czlval82SWV2ZDVDUmNmLXZLMGd2QTRpc3ZBRlJYTjFQcTQxTUtxS3IxZ0V2QkZsZUZsUnJ1LXhkLXg2NWlDc2hHWlltRDd0ZlQ1SEhidFZpVE1XdXJVNjdNVWxMMkp3SGRrdF9ObTAtR1FLYlpHTkhaNHQ0Zm5QVDRpeDA1Q2gxZw?oc=5",
-      "source": "Yahoo Finance",
-      "published": "Tue, 22 Sep 2026 12:17:28 GMT"
-    },
-    {
-      "title": "JPMorgan reiterates Meta stock Overweight on Muse momentum - Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMUs1RGplUGNTTi1NaW1TQ2JCSWRoS2JEdVpPRW5yX2tyR1FldjlIWmZGQm5SMnVUczVJZ1ZkWE5xNE9lT25jeGZYV2RuX3hnbDFHS1FIUnFQQ2hxVGFmX2RSSjBXclF5YTBsSVhndnozaUtUTUNJYXpWZmxTcGtpbWdZV2xQRnBQcUx2MGswX3hhT3FTWVRYWFZrTzFxMmg0eHhJTTRfbkNYdjZtWHJseEpqLU5KcEw3WEE?oc=5",
-      "source": "Investing.com",
-      "published": "Tue, 22 Sep 2026 13:42:23 GMT"
-    },
-    {
-      "title": "Meta Platforms Jumps 33% in a Month: Should You Buy or Hold the Stock? - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVnVNdEx4eldzYnNScnRQQkx0OWNmckV1ZDRtMkJYVGR2UElBSzJacDZnenJqSDZpUXAxOXNFUml1b3YxYnk4eklZcmRiRkFLbXRmdldERjFHbmpGMnlYVmtkZVJxVlRleTVibW5ZOVN3NmUzYmRFWjduU19QbHZGUDJOZEpsY2IxUzRBRWd1YzRJS1lRZTRuajBB?oc=5",
-      "source": "Yahoo Finance",
-      "published": "Tue, 22 Sep 2026 15:18:00 GMT"
+      "published": "Tue, 22 Sep 2026 19:26:45 GMT"
     },
     {
       "title": "META Stock Jumped 11% Monday. Here’s Where Shares Could Go Further in 2026. - Yahoo Finance",
@@ -127,10 +67,70 @@
       "published": "Tue, 22 Sep 2026 07:50:49 GMT"
     },
     {
-      "title": "Meta Stock Is Still Too Cheap - currently.att.yahoo.com",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZmZMMWdIQmxQUmFmQVZWLXNacHFMN0VOOUpGQ0JDemNOVHdtZmZ0T2txd3Z5LWxwNGsxT2hNd0RfUk8xNENpR2VsWlZ2RUhQcVU1NVVqbHVZcnF0QXdGSVF0a0pIVllxTGM0ZnE4T2J5MGtTNEpLVmVxaGZzMHpBYXRLdw?oc=5",
-      "source": "currently.att.yahoo.com",
-      "published": "Tue, 22 Sep 2026 04:50:00 GMT"
+      "title": "Bank of America sends a stark message to Meta stock investors - thestreet.com",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbk9qSF8zajVhWXRzVTZNdVJWR1d1RFJkdTdGTmtjbVdqU1ROVXhyeFUzeXU1MWQxS1VRbm83SmVRdWdBbFNFTC1TcDVFX0ZhYUl3Z25MZzdCMGptWW5RNG83cE83dklQSFVwWmxVTE50RVNPWWV0MURrRWNCTEViV1FKdUo5N0poTXZrWWotLVh0dVdodmJTcHlUc2ZvR0ZVWWJ5STNaMA?oc=5",
+      "source": "thestreet.com",
+      "published": "Tue, 22 Sep 2026 18:56:00 GMT"
+    },
+    {
+      "title": "Meta Stock ‘Has More Room to Run’: Former Hedge Fund Manager Calls It His ‘Favorite Large-Cap Tech Stock’ - Benzinga",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUWpZaEhTbnJKOG5xRS1YQUJXRmExZHBzRXd0eEVDRUIxWFZVWjliS0FTRnBXQlI0dlN2YW5COHpueTBDSm5rUER4VGp3Qk5obUhkQndyckJiVkZOelYyZ3NFMkZNd0xpdmlwWGhZNXZFTDFyRmJwX0VCcmFlazA1clljazRhc3Awa004MTE1NVdycnEyV2g1c0x6R2kyTXB5TndfUU5acmRHQ3B5Nm41bkF3QWtXWEFHVmplZi1nSmI0aUg1cnc?oc=5",
+      "source": "Benzinga",
+      "published": "Tue, 22 Sep 2026 18:34:19 GMT"
+    },
+    {
+      "title": "Meta stock rallied 20% since Muse AI launch: Is META the best Mag 7 buy now? - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTGYxQmN0alJIZWdkQnlaOU1IWTBJOVkxTnNaTmExVmpEMzZERVZEb1EzNWFaTldzRTlSdDM1SmVZRlB6dEQtQmRkRlNieC1uQ2RQTm9GWmhGY1lrRExRS3A2WkU3bkw2ZTdmLTlBLXFuR1U4djFyRFRJOXZrTGpoM0ZhazBYYWtHT0VjWE0zWk9qYnRiTUoxQXktNlFMSW5ET3NJd0ZrOWQtaWxaUzk3b3diRlFrQU9sOGR4T2J1M1NHZHc1d2FyS1ZhZE41MmhU?oc=5",
+      "source": "Investing.com",
+      "published": "Tue, 22 Sep 2026 13:01:49 GMT"
+    },
+    {
+      "title": "Meta Stock Jumps Despite Another Facebook Outage. Here's Why - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNR0pvYkZjNWFTcmZLWG8tSTVFM1JCRldQTGRkeEJ5anUxemlKQTJZc0ZwRjBSY0JqM1ZkMGt1YXkteW1DVVlPaWlnRUNpMTF3d2NacWw4dWZhVTFwelN1MUVhWW9HOTY3akVJY2R6Tm13UXE1NF9Rb2N0TDV1bGpOb2prZUdOUVVOWFZsRkZyVWxHYlhDblNhRkh6dmhhUQ?oc=5",
+      "source": "Yahoo Finance",
+      "published": "Mon, 21 Sep 2026 12:30:46 GMT"
+    },
+    {
+      "title": "Meta Platforms (META) Moves 11.3% Higher: Will This Strength Last? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVGUtZkg4TXdVRkZpRG94WUlmeS1EUFVScjlYa25uZXFZVGlvd1prNVpXWWVfNExhWnBfTnhIc2hEUnBXU3p1aWZvUTJkRWxTYzRyZmFqODVzSy1EcTVIMEowUnJ1dlBTOGsxZ1NORFFCVFowMHlwV1VjVUVhVkVSRkM3aDI4ZlJfSGVmOGU5RHhHdmRsUTAtWA?oc=5",
+      "source": "Yahoo Finance",
+      "published": "Tue, 22 Sep 2026 09:10:00 GMT"
+    },
+    {
+      "title": "We Think Meta Could Keep Soaring Higher and Wells Fargo Agrees - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdVVqMlowd0NaNVpxZHBBNld0Nkh4Mm1yZldJcERVMVlpXzlpb0piWlkzRHdoMUU4dGlQZ3E3MEg3S3dNYnFudUJETGJQYkx3UHBaOXI0aWtOb1FZZ1dTSzlxOFZxdTN1TjdvNnB1YV9CeEhNdnFYV3VuUmtEVEctZE1nUGw1RFl2Q2xoQzZsRm1EeFhjdkMzZTdB?oc=5",
+      "source": "Yahoo Finance",
+      "published": "Mon, 21 Sep 2026 16:45:35 GMT"
+    },
+    {
+      "title": "META Stock Rallies As Muse AI Tops App Charts — Exec Admits It’s ‘Heavily Inspired’ By OpenClaw - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbWJLSDVfM2YzREZfTm1BNy1kNUEzYW9LeGZTaWc5ODRBRUtBRW83dmJqZHhYSHl0TzhyRXpGYmZVUUtXelh0WXdZcjh0MmJwWlJENmtyQmszMmgtTldyVzhodnBQeWNZck5pSTQ3NmdpTHdSbWFiQThlMzRPX0JlOC1oRE9TSjIwZjI3RlFPNF94NG1oQ2c?oc=5",
+      "source": "Yahoo Finance",
+      "published": "Tue, 22 Sep 2026 03:21:00 GMT"
+    },
+    {
+      "title": "Meta's Muse AI Is Soaring in Popularity. Could It Send the Stock to New Heights? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZ29sQVNNbEJQX1BhS1JZcElfdW10czlval82SWV2ZDVDUmNmLXZLMGd2QTRpc3ZBRlJYTjFQcTQxTUtxS3IxZ0V2QkZsZUZsUnJ1LXhkLXg2NWlDc2hHWlltRDd0ZlQ1SEhidFZpVE1XdXJVNjdNVWxMMkp3SGRrdF9ObTAtR1FLYlpHTkhaNHQ0Zm5QVDRpeDA1Q2gxZw?oc=5",
+      "source": "Yahoo Finance",
+      "published": "Tue, 22 Sep 2026 12:17:28 GMT"
+    },
+    {
+      "title": "Why Is Meta Platforms Stock Gaining Tuesday? - Benzinga",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbmZzZVVTZXZCQ25MUnZFVVR4Q29DeG13Zk9iQ3VoSkxFTExfNFhXem9qU3FQVWczRnV1Umo3ZFdHWUZkQ215VWdKNDloZWNyWThzWV9Qbm9OQ3FkSThYd2RVbTBiZWVKYVhaeGtsdkdOMUhpNXBibkt5RE1EUzdScnJhTTdoRmJpOUFUX1lNTGNzWkczYm1kLTNiQQ?oc=5",
+      "source": "Benzinga",
+      "published": "Tue, 22 Sep 2026 09:38:15 GMT"
+    },
+    {
+      "title": "Meta Platforms Jumps 33% in a Month: Should You Buy or Hold the Stock? - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZ0ZxSDd3OEFGMkJKcVNCeUlNX2JRbkdGUi1EZXhqZzJGZm9kTmVGbnhJWTZPRGRaUS1EQl95UGhTX013Q2p5V0N5cS1Sb0Nsa09XT0JYU3l0YlBBZVBMbGprZzM2Tmo1MGhzQUpZN3NUdG5YSEEzRDQ3NGFuR1FqM3FESkthMEpyOGEwdS1IUzlUZElVeGNwTDlhVldOcEdWbkNYazY4NVZGaXZMM2RQUTJNcmN4STd0NElUeFZQVUc?oc=5",
+      "source": "TradingView",
+      "published": "Tue, 22 Sep 2026 15:18:00 GMT"
+    },
+    {
+      "title": "Meta’s Muse Bump Is Great but Chip Stocks Remain the Best AI Bet - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE90bENMUlpBbnhxRzgyeFF2cDZRbHpOaG5mRHp4MFdSQkR2VlJmUk4zQ05wZFNOQXZwVm9nbldKM19BQm54SkwyZEs3VnZNN1JLUEFsanNuSmpZX0hnVXdnQVhXTWtZRC1HSWpabkVBSjZ3eWc2aHpfMkNKZw?oc=5",
+      "source": "Barron's",
+      "published": "Tue, 22 Sep 2026 12:16:00 GMT"
     }
   ]
 }

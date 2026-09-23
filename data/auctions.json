@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-22T18:35:29+09:00",
-  "last_attempt_at": "2026-09-23T00:43:37+09:00",
+  "updated_at": "2026-09-23T10:18:21+09:00",
+  "last_attempt_at": "2026-09-23T10:18:21+09:00",
   "districts": [
     "성동구",
     "중구",
@@ -83,6 +83,18 @@
     },
     {
       "district": "동대문구",
+      "case_no": "서울북부지방법원 2025타경12640",
+      "item_no": "1",
+      "address": "서울특별시 동대문구 이문동 327-7 세진빌딩 14층1401호 [집합건물 철근콘크리트구조 15.79㎡]",
+      "remarks": "",
+      "appraisal_amount": "309,000,000",
+      "court_and_date": "경매7계 2026.10.07",
+      "usage": "아파트",
+      "min_sale_price": "197,760,000 (64%)",
+      "status": "유찰 2회"
+    },
+    {
+      "district": "동대문구",
       "case_no": "서울북부지방법원 2025타경13152",
       "item_no": "1",
       "address": "서울특별시 동대문구 장안동 302-2 장안동파크뷰아파트 9층 901호 [집합건물 철근콘크리트구조 84.84㎡]",
@@ -119,39 +131,39 @@
     },
     {
       "district": "동대문구",
-      "case_no": "서울북부지방법원 2025타경13913",
+      "case_no": "서울북부지방법원 2025타경13608",
       "item_no": "1",
-      "address": "서울특별시 동대문구 장안동 372-5 장안뉴씨티 6층 602호 [집합건물 철근콘크리트구조 17.63㎡]",
+      "address": "서울특별시 동대문구 장안동 416-1 에스아이팰리스장안센텀 12층1203호 [집합건물 철근콘크리트구조 13.88㎡]",
       "remarks": "",
-      "appraisal_amount": "95,000,000",
-      "court_and_date": "경매4계 2026.09.29",
+      "appraisal_amount": "231,000,000",
+      "court_and_date": "경매5계 2026.10.07",
+      "usage": "아파트",
+      "min_sale_price": "118,272,000 (51%)",
+      "status": "유찰 3회"
+    },
+    {
+      "district": "동대문구",
+      "case_no": "서울북부지방법원 2025타경13673",
+      "item_no": "1",
+      "address": "서울특별시 동대문구 답십리동 530-15 현대썬앤빌청계 제5층 제528호 [집합건물 철근콘크리트구조 14.21㎡]",
+      "remarks": "",
+      "appraisal_amount": "112,000,000",
+      "court_and_date": "경매7계 2026.10.07",
       "usage": "연립주택,다세대,빌라",
-      "min_sale_price": "76,000,000 (80%)",
-      "status": "유찰 1회"
+      "min_sale_price": "57,344,000 (51%)",
+      "status": "유찰 3회"
     },
     {
       "district": "동대문구",
-      "case_no": "서울북부지방법원 2026타경18 2026타경10109 (중복)",
+      "case_no": "서울북부지방법원 2025타경13754",
       "item_no": "1",
-      "address": "서울특별시 동대문구 제기동 1212 한신아파트 107동 7층703호 [집합건물 철근콘크리트구조 114.885㎡]",
+      "address": "서울특별시 동대문구 장안동 373-3 현대썬앤빌601 10층에이1010호 [집합건물 철근콘크리트구조 18.35㎡]",
       "remarks": "",
-      "appraisal_amount": "1,050,000,000",
-      "court_and_date": "경매4계 2026.09.29",
-      "usage": "아파트",
-      "min_sale_price": "1,050,000,000 (100%)",
-      "status": "신건"
-    },
-    {
-      "district": "동대문구",
-      "case_no": "서울북부지방법원 2026타경10356",
-      "item_no": "1",
-      "address": "서울특별시 동대문구 용두동 792 래미안 허브리츠 105동 14층 1401호 [집합건물 철근콘크리트구조 84.96㎡ 홍현섭 지분 2분의 1 전부]",
-      "remarks": "지분매각임. 공유자의 우선매수신고 제한 있음(1회에 한하여 허용)",
-      "appraisal_amount": "734,000,000",
-      "court_and_date": "경매4계 2026.09.29",
-      "usage": "아파트",
-      "min_sale_price": "734,000,000 (100%)",
-      "status": "신건"
+      "appraisal_amount": "103,000,000",
+      "court_and_date": "경매7계 2026.10.07",
+      "usage": "연립주택,다세대,빌라",
+      "min_sale_price": "82,400,000 (80%)",
+      "status": "유찰 3회"
     },
     {
       "district": "송파구",
@@ -166,11 +178,5 @@
       "status": "유찰 1회"
     }
   ],
-  "errors": [
-    "성동구: HTTPConnectionPool(host='localhost', port=50619): Read timed out. (read timeout=120)",
-    "중구: HTTPConnectionPool(host='localhost', port=50619): Read timed out. (read timeout=120)",
-    "동대문구: HTTPConnectionPool(host='localhost', port=50619): Read timed out. (read timeout=120)",
-    "광진구: HTTPConnectionPool(host='localhost', port=50619): Read timed out. (read timeout=120)",
-    "송파구: HTTPConnectionPool(host='localhost', port=50619): Read timed out. (read timeout=120)"
-  ]
+  "errors": []
 }
