@@ -1,6 +1,6 @@
 {
   "updated_at": "2026-09-24T00:20:00+09:00",
-  "last_attempt_at": "2026-09-24T10:04:46+09:00",
+  "last_attempt_at": "2026-09-24T18:55:48+09:00",
   "districts": [
     "성동구",
     "중구",
@@ -179,10 +179,10 @@
     }
   ],
   "errors": [
-    "성동구: Message: javascript error: Cannot read properties of null (reading 'click')\n  (Session info: chrome=152.0.7977.82)\nStacktrace:\n#0 0x56179de7a03a <unknown>\n#1 0x56179d7e24c9 <unknown>\n#2 0x56179d7e95d7 <unknown>\n#3 0x56179d7ec262 <unknown>\n#4 0x56179d8816b1 <unknown>\n#5 0x56179d8805ad <unknown>\n#6 0x56179d82b83b <unknown>\n#7 0x56179d82c621 <unknown>\n#8 0x56179de3e5f0 <unknown>\n#9 0x56179de3cc6a <unknown>\n#10 0x56179de279f5 <unknown>\n#11 0x56179de3d92a <unknown>\n#12 0x56179de10d10 <unknown>\n#13 0x56179de65158 <unknown>\n#14 0x56179de652f5 <unknown>\n#15 0x56179de78bc3 <unknown>\n#16 0x7f828a29cb84 <unknown>\n#17 0x7f828a329d6c <unknown>\n",
-    "중구: Message: javascript error: Cannot read properties of null (reading 'click')\n  (Session info: chrome=152.0.7977.82)\nStacktrace:\n#0 0x56179de7a03a <unknown>\n#1 0x56179d7e24c9 <unknown>\n#2 0x56179d7e95d7 <unknown>\n#3 0x56179d7ec262 <unknown>\n#4 0x56179d8816b1 <unknown>\n#5 0x56179d8805ad <unknown>\n#6 0x56179d82b83b <unknown>\n#7 0x56179d82c621 <unknown>\n#8 0x56179de3e5f0 <unknown>\n#9 0x56179de3cc6a <unknown>\n#10 0x56179de279f5 <unknown>\n#11 0x56179de3d92a <unknown>\n#12 0x56179de10d10 <unknown>\n#13 0x56179de65158 <unknown>\n#14 0x56179de652f5 <unknown>\n#15 0x56179de78bc3 <unknown>\n#16 0x7f828a29cb84 <unknown>\n#17 0x7f828a329d6c <unknown>\n",
-    "동대문구: Message: javascript error: Cannot read properties of null (reading 'click')\n  (Session info: chrome=152.0.7977.82)\nStacktrace:\n#0 0x56179de7a03a <unknown>\n#1 0x56179d7e24c9 <unknown>\n#2 0x56179d7e95d7 <unknown>\n#3 0x56179d7ec262 <unknown>\n#4 0x56179d8816b1 <unknown>\n#5 0x56179d8805ad <unknown>\n#6 0x56179d82b83b <unknown>\n#7 0x56179d82c621 <unknown>\n#8 0x56179de3e5f0 <unknown>\n#9 0x56179de3cc6a <unknown>\n#10 0x56179de279f5 <unknown>\n#11 0x56179de3d92a <unknown>\n#12 0x56179de10d10 <unknown>\n#13 0x56179de65158 <unknown>\n#14 0x56179de652f5 <unknown>\n#15 0x56179de78bc3 <unknown>\n#16 0x7f828a29cb84 <unknown>\n#17 0x7f828a329d6c <unknown>\n",
-    "광진구: Message: javascript error: Cannot read properties of null (reading 'click')\n  (Session info: chrome=152.0.7977.82)\nStacktrace:\n#0 0x56179de7a03a <unknown>\n#1 0x56179d7e24c9 <unknown>\n#2 0x56179d7e95d7 <unknown>\n#3 0x56179d7ec262 <unknown>\n#4 0x56179d8816b1 <unknown>\n#5 0x56179d8805ad <unknown>\n#6 0x56179d82b83b <unknown>\n#7 0x56179d82c621 <unknown>\n#8 0x56179de3e5f0 <unknown>\n#9 0x56179de3cc6a <unknown>\n#10 0x56179de279f5 <unknown>\n#11 0x56179de3d92a <unknown>\n#12 0x56179de10d10 <unknown>\n#13 0x56179de65158 <unknown>\n#14 0x56179de652f5 <unknown>\n#15 0x56179de78bc3 <unknown>\n#16 0x7f828a29cb84 <unknown>\n#17 0x7f828a329d6c <unknown>\n",
-    "송파구: Message: javascript error: Cannot read properties of null (reading 'click')\n  (Session info: chrome=152.0.7977.82)\nStacktrace:\n#0 0x56179de7a03a <unknown>\n#1 0x56179d7e24c9 <unknown>\n#2 0x56179d7e95d7 <unknown>\n#3 0x56179d7ec262 <unknown>\n#4 0x56179d8816b1 <unknown>\n#5 0x56179d8805ad <unknown>\n#6 0x56179d82b83b <unknown>\n#7 0x56179d82c621 <unknown>\n#8 0x56179de3e5f0 <unknown>\n#9 0x56179de3cc6a <unknown>\n#10 0x56179de279f5 <unknown>\n#11 0x56179de3d92a <unknown>\n#12 0x56179de10d10 <unknown>\n#13 0x56179de65158 <unknown>\n#14 0x56179de652f5 <unknown>\n#15 0x56179de78bc3 <unknown>\n#16 0x7f828a29cb84 <unknown>\n#17 0x7f828a329d6c <unknown>\n"
+    "성동구: HTTPConnectionPool(host='localhost', port=38807): Read timed out. (read timeout=120)",
+    "중구: HTTPConnectionPool(host='localhost', port=38807): Read timed out. (read timeout=120)",
+    "동대문구: HTTPConnectionPool(host='localhost', port=38807): Read timed out. (read timeout=120)",
+    "광진구: HTTPConnectionPool(host='localhost', port=38807): Read timed out. (read timeout=120)",
+    "송파구: HTTPConnectionPool(host='localhost', port=38807): Read timed out. (read timeout=120)"
   ]
 }

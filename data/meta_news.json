@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-09-24T10:04:47+09:00",
+  "updated_at": "2026-09-24T18:55:49+09:00",
   "quote": {
     "symbol": "META",
     "price": 744.1,
-    "previous_close": 741.0,
-    "change": 3.1,
-    "change_percent": 0.42,
+    "previous_close": 734.0,
+    "change": 10.1,
+    "change_percent": 1.38,
     "currency": "USD",
     "day_high": 763.9000244140625,
     "day_low": 739.510009765625,
-    "market_cap": 1895599382022.5
+    "market_cap": 1895599319827.524
   },
   "articles": [
     {
@@ -31,10 +31,10 @@
       "published": "Tue, 22 Sep 2026 12:51:00 GMT"
     },
     {
-      "title": "Why It’s Time to Load Up on Meta Stock - Barchart.com",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOenBXWXJUdzlRRWVocXpEVFU5WllOVkpVOGdwbHd2MGhIYjFjdXB2ZU9PUVNaX19uSHdEaFI0SnItN0tIY0REaUpvc3BGc1U2dldMekNZNVJISF9MUWI0Z011aGVyNmtPODdUX1U1b2pHU2hiWVZYWThlUEM4NmZ6cnFLU3ZaX1hN?oc=5",
-      "source": "Barchart.com",
-      "published": "Mon, 21 Sep 2026 18:48:57 GMT"
+      "title": "Meta Just Leapfrogged Everyone In The AI Race - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNV1N4QzZIMXRTelY0S2RiMmFZem4zQi1pNm04Q1BvSzhTZHc2c0JnQ0x5QXJKR1g1UmdKdWtVQ3lwaVJSZ3QxTXpVZG5PcmVKSFItU1haakdNbTkxd1I2T1JjNlBnbXVsMy13c2NMY3hIR3hoazRGN2IxZzRtVElJSTBvZnJrZXMyNmd3cy1tcw?oc=5",
+      "source": "Seeking Alpha",
+      "published": "Wed, 23 Sep 2026 12:37:40 GMT"
     },
     {
       "title": "Meta Stock Is Still Too Cheap - The Motley Fool",
@@ -49,10 +49,10 @@
       "published": "Wed, 23 Sep 2026 23:26:12 GMT"
     },
     {
-      "title": "Meta Stock Is Surging: What's Happening Today? - Benzinga",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNa2wtRW5PV3dNTnM5YzhpemwySWwzekVXVGYyb1hhRHozWXd4aHFwU0tLcUF1ZVFkR1c2YnhiUVpIT2oxcExTekM0UzFkRzM1TUxHUDF5S3NrRFppTW1iNHRvSjhGcHBoUHFmRFlzNm5HNndMN0k1cTl3YTBRUE01dkdXdlBCQmhUZmtVb0xOZjZKNGx4S1J4UVhfeTdUdjJCNHZSbGJSNA?oc=5",
-      "source": "Benzinga",
-      "published": "Mon, 21 Sep 2026 14:58:06 GMT"
+      "title": "Why It’s Time to Load Up on Meta Stock - Barchart.com",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOenBXWXJUdzlRRWVocXpEVFU5WllOVkpVOGdwbHd2MGhIYjFjdXB2ZU9PUVNaX19uSHdEaFI0SnItN0tIY0REaUpvc3BGc1U2dldMekNZNVJISF9MUWI0Z011aGVyNmtPODdUX1U1b2pHU2hiWVZYWThlUEM4NmZ6cnFLU3ZaX1hN?oc=5",
+      "source": "Barchart.com",
+      "published": "Mon, 21 Sep 2026 18:48:57 GMT"
     },
     {
       "title": "Here’s How Much Traders See Meta Stock Moving After Connect Event This Week - Investopedia",
@@ -67,16 +67,16 @@
       "published": "Tue, 22 Sep 2026 12:02:00 GMT"
     },
     {
+      "title": "Meta Stock Runs Overbought Into Connect — Wall Street Eyes $800+ - Meta Platforms (NASDAQ:META) - Benzinga",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSFN2ak8xV1laYVlGRDBhRXVrWFNJY2pJLThqNGZrYkhNSnNVSm1TdkxYOWVKOTRkWVN0M09UcnVROUhxa3ByS3pNRkQzbW5TVk9Wbl9WakNiR3c2M1c1WjZYU0xSNldVa0VOOGNkR0pnTkNKaWE0NkxPRzlMcFhDYTRtdFcwQ1VBdEdCVlc1NnN4a3IwQUZTOHIzN0xRYURMUkFjaEl4X0ZiRHhPOHctZnVNeng5X2JleF9BZ292Zw?oc=5",
+      "source": "Benzinga",
+      "published": "Tue, 22 Sep 2026 14:58:18 GMT"
+    },
+    {
       "title": "Meta Stock Jumps Despite Another Facebook Outage. Here's Why - TradingView",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPX1NoMFVfMy1WTWhic3pqTGEyQkNrLVgyeWl5TWJSMVc3MnhUUFFzalN1dE0xdFQ1bm1PLS1vbGZPb2xKOGF5NXJZc3NrdG1ZdDJzT0otZ2Q4MjRjUkNaUFFBTjIzdHhPOXBRcDFReU9XWnhTcEFmWVVFZDhYYWZFZjVnYWJfUUdHSUpLV0FtVEMtb3k3d2hyR05SMm5IU2hZTjBfUVZvQWpfRFFCS25waGthcC14cGM0Qmdn?oc=5",
       "source": "TradingView",
       "published": "Mon, 21 Sep 2026 12:30:46 GMT"
-    },
-    {
-      "title": "Meta: Poised For Strong Long-Term Growth - Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRi00ajZ2eDVpaUhGbjNyUy1zUGlGYjRJQ1JkVHp6LTNfUW9FT2JHdEdyY1UyOERMM1pLQ3JhWGdxVkFrc0tnRldIYnRlYmVuN2M5eFlIdmlCR1FQTTJwUVFEZ25XSW9XMWtkZF8ybUNJNDRBTDJTNzV1a3pidjJiVGZiRHlKclU?oc=5",
-      "source": "Seeking Alpha",
-      "published": "Mon, 21 Sep 2026 02:51:58 GMT"
     },
     {
       "title": "Why is Meta Platforms stock surging today? - Investing.com",
@@ -91,10 +91,10 @@
       "published": "Mon, 21 Sep 2026 20:32:03 GMT"
     },
     {
-      "title": "Meta’s New AI Agent Could Be the Missing Piece for META Stock - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOamlsdVRyMnFnak1iWjZhZnA2X0p4M0NnUmdPaXNWQ0duS1ljOU5VbVNnSmVacll3NVdMX2lwYVhvYWNBY3Fxb2FhM1lHemVMR1RVcXV6V184MjFPY0lxSVhTMENCYkV6blNoR1hqeUx6VUNpOGEyTHFRakNJWURGMUhSUGJUejJ5YXVRVENiTXJ6V3pES3c?oc=5",
+      "title": "Why Meta Platforms Stock Skyrocketed Today - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZVZFZURBMUF1MDRySGpfMUFaM0I4Ynk5T3JKOG1FdTdxSHI5dUU5YURzUG9RekEtUWdkQS00dEl3bkZUMWZodWhQd1liREtNcE1xQWRpcFpVcWwtMUVWQWVRT3JiemxyUjJ3SUdDS2FoQUNlRkx5MmFYeGtGdmdIRmNxZXRjZlA0RDh4cEtVVXMxZVU0b25NdXY0Sll0REtZcm1n?oc=5",
       "source": "Yahoo Finance",
-      "published": "Sun, 20 Sep 2026 13:00:02 GMT"
+      "published": "Mon, 21 Sep 2026 15:50:26 GMT"
     },
     {
       "title": "We Think Meta Could Keep Soaring Higher and Wells Fargo Agrees - Yahoo Finance",
@@ -115,22 +115,22 @@
       "published": "Mon, 21 Sep 2026 23:50:25 GMT"
     },
     {
-      "title": "Why Meta Platforms Stock Skyrocketed Today - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZVZFZURBMUF1MDRySGpfMUFaM0I4Ynk5T3JKOG1FdTdxSHI5dUU5YURzUG9RekEtUWdkQS00dEl3bkZUMWZodWhQd1liREtNcE1xQWRpcFpVcWwtMUVWQWVRT3JiemxyUjJ3SUdDS2FoQUNlRkx5MmFYeGtGdmdIRmNxZXRjZlA0RDh4cEtVVXMxZVU0b25NdXY0Sll0REtZcm1n?oc=5",
-      "source": "Yahoo Finance",
-      "published": "Mon, 21 Sep 2026 15:50:26 GMT"
-    },
-    {
-      "title": "Meta's Muse AI Agent Sees Fastest Adoption Since ChatGPT. Time to Buy Meta Stock? - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRUtibFh5YVRvdElVWV9OVTRQOW1OUHppM1FseXpCRHVXbW9LRHNFS2NxTnFYaEJ1bjlSQmt6M09Xak5rLTh1eEpSZW44U0dqamZMeTJvdnBsOTBOUUtrcjVRN04tc0ZtSFhWcEIyaWtHeEFvTlFFcVR5MmMxUFJjVUR0b1BCaDhwUzFqNEhmWWZJMnk4ZmNjZnQ3OTdwXy1wcm5RS0Zic3lTMjB1d1hISGt5WmVlYW4xWkFjTlVDOA?oc=5",
-      "source": "The Motley Fool",
-      "published": "Wed, 23 Sep 2026 20:18:00 GMT"
-    },
-    {
       "title": "Meta Stock Jumps as Wells Fargo Underwrites the AI Story - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOR25yWUJKX0VOYmJYTDlGQ1cwMXVoY0pfTVdNZEthY3hISGlmSHJLUTZEYVVMdEJUSHJEMXUyUWh6Y2ZzbzE2ZFhEak9CT1JaeXBqTXFpbDhYRzhidGh6OFYxcHNscVFjQmJFQm9udWhuUWtRRFc3bnhaWTg1bUEyRGNDMjZvQ1QzeGJrMGszbmlRdHNFM2lV?oc=5",
       "source": "Yahoo Finance",
       "published": "Mon, 21 Sep 2026 18:26:13 GMT"
+    },
+    {
+      "title": "Meta Stock Is Surging: What's Happening Today? - Benzinga",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNa2wtRW5PV3dNTnM5YzhpemwySWwzekVXVGYyb1hhRHozWXd4aHFwU0tLcUF1ZVFkR1c2YnhiUVpIT2oxcExTekM0UzFkRzM1TUxHUDF5S3NrRFppTW1iNHRvSjhGcHBoUHFmRFlzNm5HNndMN0k1cTl3YTBRUE01dkdXdlBCQmhUZmtVb0xOZjZKNGx4S1J4UVhfeTdUdjJCNHZSbGJSNA?oc=5",
+      "source": "Benzinga",
+      "published": "Mon, 21 Sep 2026 14:58:06 GMT"
+    },
+    {
+      "title": "Meta Stock Is Still Too Cheap - Currently.com",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZmZMMWdIQmxQUmFmQVZWLXNacHFMN0VOOUpGQ0JDemNOVHdtZmZ0T2txd3Z5LWxwNGsxT2hNd0RfUk8xNENpR2VsWlZ2RUhQcVU1NVVqbHVZcnF0QXdGSVF0a0pIVllxTGM0ZnE4T2J5MGtTNEpLVmVxaGZzMHpBYXRLdw?oc=5",
+      "source": "Currently.com",
+      "published": "Tue, 22 Sep 2026 04:50:00 GMT"
     }
   ]
 }
