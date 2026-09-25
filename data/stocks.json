@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T10:27:07+09:00",
+  "updated_at": "2026-09-25T19:13:13+09:00",
   "disclaimer": "이 목록은 공개 시세 데이터(거래량, 변동률)를 기준으로 자동 정렬한 결과이며 특정 종목의 매수/매도를 추천하지 않습니다. 투자 판단과 책임은 본인에게 있습니다.",
   "criteria": {
     "min_price": 5.0,
@@ -16,15 +16,15 @@
       "price": 36.75,
       "change_percent": -11.76,
       "volume": 28574672,
-      "avg_volume_3m": 3000701,
-      "relative_volume": 9.52,
+      "avg_volume_3m": 3004020,
+      "relative_volume": 9.51,
       "market_cap": 4286995456,
       "exchange": "NasdaqCM",
       "sources": [
         "most_actives"
       ],
       "reason": "장중 -11.8% 하락, 거래량 3개월 평균 대비 9.5배, 거래대금 상위 종목",
-      "score": 112.03
+      "score": 111.91
     },
     {
       "symbol": "GEN",
@@ -32,15 +32,15 @@
       "price": 23.07,
       "change_percent": -12.05,
       "volume": 32094457,
-      "avg_volume_3m": 5603963,
-      "relative_volume": 5.73,
+      "avg_volume_3m": 6054039,
+      "relative_volume": 5.3,
       "market_cap": 13809401856,
       "exchange": "NasdaqGS",
       "sources": [
         "most_actives"
       ],
-      "reason": "장중 -12.0% 하락, 거래량 3개월 평균 대비 5.7배, 거래대금 상위 종목",
-      "score": 69.0
+      "reason": "장중 -12.0% 하락, 거래량 3개월 평균 대비 5.3배, 거래대금 상위 종목",
+      "score": 63.87
     },
     {
       "symbol": "GRAL",
@@ -48,15 +48,15 @@
       "price": 125.21,
       "change_percent": 15.38,
       "volume": 3441644,
-      "avg_volume_3m": 796334,
-      "relative_volume": 4.32,
+      "avg_volume_3m": 841376,
+      "relative_volume": 4.09,
       "market_cap": 5592658944,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +15.4% 상승, 거래량 3개월 평균 대비 4.3배",
-      "score": 66.47
+      "reason": "장중 +15.4% 상승, 거래량 3개월 평균 대비 4.1배",
+      "score": 62.91
     },
     {
       "symbol": "SECZ",
@@ -64,15 +64,15 @@
       "price": 16.53,
       "change_percent": 15.11,
       "volume": 10352138,
-      "avg_volume_3m": 2428225,
-      "relative_volume": 4.26,
+      "avg_volume_3m": 2563554,
+      "relative_volume": 4.04,
       "market_cap": 2698781696,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +15.1% 상승, 거래량 3개월 평균 대비 4.3배",
-      "score": 64.42
+      "reason": "장중 +15.1% 상승, 거래량 3개월 평균 대비 4.0배",
+      "score": 61.02
     },
     {
       "symbol": "WRBY",
@@ -112,15 +112,15 @@
       "price": 121.88,
       "change_percent": 11.15,
       "volume": 11602529,
-      "avg_volume_3m": 4186717,
-      "relative_volume": 2.77,
+      "avg_volume_3m": 4336628,
+      "relative_volume": 2.68,
       "market_cap": 40613736448,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +11.2% 상승, 거래량 3개월 평균 대비 2.8배",
-      "score": 30.91
+      "reason": "장중 +11.2% 상승, 거래량 3개월 평균 대비 2.7배",
+      "score": 29.84
     },
     {
       "symbol": "CDNA",
@@ -128,15 +128,15 @@
       "price": 61.37,
       "change_percent": 13.0,
       "volume": 2499360,
-      "avg_volume_3m": 1156836,
-      "relative_volume": 2.16,
+      "avg_volume_3m": 1175631,
+      "relative_volume": 2.13,
       "market_cap": 3174929152,
       "exchange": "NasdaqGM",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +13.0% 상승, 거래량 3개월 평균 대비 2.2배",
-      "score": 28.09
+      "reason": "장중 +13.0% 상승, 거래량 3개월 평균 대비 2.1배",
+      "score": 27.64
     },
     {
       "symbol": "VCYT",
@@ -155,28 +155,12 @@
       "score": 23.29
     },
     {
-      "symbol": "GDDY",
-      "name": "GoDaddy Inc.",
-      "price": 100.81,
-      "change_percent": 4.6,
-      "volume": 9520324,
-      "avg_volume_3m": 2078138,
-      "relative_volume": 4.58,
-      "market_cap": 12767354880,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +4.6% 상승, 거래량 3개월 평균 대비 4.6배",
-      "score": 21.06
-    },
-    {
       "symbol": "U",
       "name": "Unity Software Inc.",
       "price": 41.42,
       "change_percent": -6.08,
       "volume": 31651224,
-      "avg_volume_3m": 9416152,
+      "avg_volume_3m": 9422722,
       "relative_volume": 3.36,
       "market_cap": 18228482048,
       "exchange": "NYSE",
@@ -184,7 +168,23 @@
         "most_actives"
       ],
       "reason": "장중 -6.1% 하락, 거래량 3개월 평균 대비 3.4배, 거래대금 상위 종목",
-      "score": 20.43
+      "score": 20.41
+    },
+    {
+      "symbol": "GDDY",
+      "name": "GoDaddy Inc.",
+      "price": 100.81,
+      "change_percent": 4.6,
+      "volume": 9520324,
+      "avg_volume_3m": 2184633,
+      "relative_volume": 4.36,
+      "market_cap": 12767354880,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +4.6% 상승, 거래량 3개월 평균 대비 4.4배",
+      "score": 20.03
     },
     {
       "symbol": "TXG",
@@ -192,15 +192,15 @@
       "price": 84.11,
       "change_percent": 11.23,
       "volume": 4085689,
-      "avg_volume_3m": 3072176,
-      "relative_volume": 1.33,
+      "avg_volume_3m": 3090287,
+      "relative_volume": 1.32,
       "market_cap": 10958790656,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +11.2% 상승, 거래량 3개월 평균 대비 1.3배",
-      "score": 14.93
+      "score": 14.84
     },
     {
       "symbol": "PRGO",
@@ -208,15 +208,15 @@
       "price": 14.68,
       "change_percent": 6.07,
       "volume": 7733864,
-      "avg_volume_3m": 3166595,
-      "relative_volume": 2.44,
+      "avg_volume_3m": 3247195,
+      "relative_volume": 2.38,
       "market_cap": 2037132544,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +6.1% 상승, 거래량 3개월 평균 대비 2.4배",
-      "score": 14.82
+      "score": 14.46
     },
     {
       "symbol": "BLLN",
@@ -240,15 +240,15 @@
       "price": 17.62,
       "change_percent": 7.57,
       "volume": 15476864,
-      "avg_volume_3m": 9338228,
-      "relative_volume": 1.66,
+      "avg_volume_3m": 9402311,
+      "relative_volume": 1.65,
       "market_cap": 6411001856,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +7.6% 상승, 거래량 3개월 평균 대비 1.7배",
-      "score": 12.55
+      "reason": "장중 +7.6% 상승, 거래량 3개월 평균 대비 1.6배",
+      "score": 12.46
     }
   ]
 }
