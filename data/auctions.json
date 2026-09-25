@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-24T00:20:00+09:00",
-  "last_attempt_at": "2026-09-25T19:13:09+09:00",
+  "updated_at": "2026-09-26T00:46:27+09:00",
+  "last_attempt_at": "2026-09-26T00:46:27+09:00",
   "districts": [
     "성동구",
     "중구",
@@ -9,18 +9,6 @@
     "송파구"
   ],
   "items": [
-    {
-      "district": "성동구",
-      "case_no": "서울동부지방법원 2024타경65819",
-      "item_no": "1",
-      "address": "서울특별시 성동구 고산자로26길 11 101동 8층803호 (마장동,우성에비뉴) [집합건물 철근콘크리트구조 70.88㎡ 공유자지분 중 2분의 1 손홍복 지분]",
-      "remarks": "지분매각 공유자의 우선매수신고는 1회에 한하여 행사할 수 있음",
-      "appraisal_amount": "397,000,000",
-      "court_and_date": "경매3계 2026.09.28",
-      "usage": "아파트",
-      "min_sale_price": "317,600,000 (80%)",
-      "status": "유찰 1회"
-    },
     {
       "district": "중구",
       "case_no": "서울중앙지방법원 2025타경103577",
@@ -178,11 +166,5 @@
       "status": "유찰 1회"
     }
   ],
-  "errors": [
-    "성동구: HTTPConnectionPool(host='localhost', port=35301): Read timed out. (read timeout=120)",
-    "중구: HTTPConnectionPool(host='localhost', port=35301): Read timed out. (read timeout=120)",
-    "동대문구: HTTPConnectionPool(host='localhost', port=35301): Read timed out. (read timeout=120)",
-    "광진구: HTTPConnectionPool(host='localhost', port=35301): Read timed out. (read timeout=120)",
-    "송파구: HTTPConnectionPool(host='localhost', port=35301): Read timed out. (read timeout=120)"
-  ]
+  "errors": []
 }
