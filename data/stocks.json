@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T00:43:23+09:00",
+  "updated_at": "2026-09-25T10:27:07+09:00",
   "disclaimer": "이 목록은 공개 시세 데이터(거래량, 변동률)를 기준으로 자동 정렬한 결과이며 특정 종목의 매수/매도를 추천하지 않습니다. 투자 판단과 책임은 본인에게 있습니다.",
   "criteria": {
     "min_price": 5.0,
@@ -13,244 +13,242 @@
     {
       "symbol": "VKTX",
       "name": "Viking Therapeutics, Inc.",
-      "price": 35.3409,
-      "change_percent": -15.15,
-      "volume": 16836039,
+      "price": 36.75,
+      "change_percent": -11.76,
+      "volume": 28574672,
       "avg_volume_3m": 3000701,
-      "relative_volume": 5.61,
-      "market_cap": 4122619904,
+      "relative_volume": 9.52,
+      "market_cap": 4286995456,
       "exchange": "NasdaqCM",
       "sources": [
         "most_actives"
       ],
-      "reason": "장중 -15.1% 하락, 거래량 3개월 평균 대비 5.6배, 거래대금 상위 종목",
-      "score": 84.99
-    },
-    {
-      "symbol": "P",
-      "name": "Everpure, Inc.",
-      "price": 129.49,
-      "change_percent": 18.09,
-      "volume": 6014941,
-      "avg_volume_3m": 4186717,
-      "relative_volume": 1.44,
-      "market_cap": 43149598720,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +18.1% 상승, 거래량 3개월 평균 대비 1.4배",
-      "score": 26.0
+      "reason": "장중 -11.8% 하락, 거래량 3개월 평균 대비 9.5배, 거래대금 상위 종목",
+      "score": 112.03
     },
     {
       "symbol": "GEN",
       "name": "Gen Digital Inc.",
-      "price": 24.305,
-      "change_percent": -7.34,
-      "volume": 15859056,
+      "price": 23.07,
+      "change_percent": -12.05,
+      "volume": 32094457,
       "avg_volume_3m": 5603963,
-      "relative_volume": 2.83,
-      "market_cap": 14548657152,
+      "relative_volume": 5.73,
+      "market_cap": 13809401856,
       "exchange": "NasdaqGS",
       "sources": [
         "most_actives"
       ],
-      "reason": "장중 -7.3% 하락, 거래량 3개월 평균 대비 2.8배, 거래대금 상위 종목",
-      "score": 20.77
+      "reason": "장중 -12.0% 하락, 거래량 3개월 평균 대비 5.7배, 거래대금 상위 종목",
+      "score": 69.0
+    },
+    {
+      "symbol": "GRAL",
+      "name": "GRAIL, Inc.",
+      "price": 125.21,
+      "change_percent": 15.38,
+      "volume": 3441644,
+      "avg_volume_3m": 796334,
+      "relative_volume": 4.32,
+      "market_cap": 5592658944,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +15.4% 상승, 거래량 3개월 평균 대비 4.3배",
+      "score": 66.47
     },
     {
       "symbol": "SECZ",
       "name": "Securitize Corp.",
-      "price": 15.085,
-      "change_percent": 5.05,
-      "volume": 5118996,
+      "price": 16.53,
+      "change_percent": 15.11,
+      "volume": 10352138,
       "avg_volume_3m": 2428225,
-      "relative_volume": 2.11,
-      "market_cap": 2462862848,
+      "relative_volume": 4.26,
+      "market_cap": 2698781696,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +5.0% 상승, 거래량 3개월 평균 대비 2.1배",
-      "score": 10.64
+      "reason": "장중 +15.1% 상승, 거래량 3개월 평균 대비 4.3배",
+      "score": 64.42
+    },
+    {
+      "symbol": "WRBY",
+      "name": "Warby Parker Inc.",
+      "price": 26.27,
+      "change_percent": 12.51,
+      "volume": 8427792,
+      "avg_volume_3m": 2678220,
+      "relative_volume": 3.15,
+      "market_cap": 3247183616,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +12.5% 상승, 거래량 3개월 평균 대비 3.1배",
+      "score": 39.35
     },
     {
       "symbol": "TWST",
       "name": "Twist Bioscience Corporation",
-      "price": 171.525,
-      "change_percent": 8.21,
-      "volume": 1522281,
+      "price": 184.03,
+      "change_percent": 16.11,
+      "volume": 3527858,
       "avg_volume_3m": 1723874,
-      "relative_volume": 0.88,
-      "market_cap": 11372308480,
+      "relative_volume": 2.05,
+      "market_cap": 12201405440,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +8.2% 상승, 거래량 3개월 평균 대비 0.9배",
-      "score": 7.25
+      "reason": "장중 +16.1% 상승, 거래량 3개월 평균 대비 2.0배",
+      "score": 32.96
+    },
+    {
+      "symbol": "P",
+      "name": "Everpure, Inc.",
+      "price": 121.88,
+      "change_percent": 11.15,
+      "volume": 11602529,
+      "avg_volume_3m": 4186717,
+      "relative_volume": 2.77,
+      "market_cap": 40613736448,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +11.2% 상승, 거래량 3개월 평균 대비 2.8배",
+      "score": 30.91
     },
     {
       "symbol": "CDNA",
       "name": "CareDx, Inc.",
-      "price": 59.21,
-      "change_percent": 9.02,
-      "volume": 676412,
+      "price": 61.37,
+      "change_percent": 13.0,
+      "volume": 2499360,
       "avg_volume_3m": 1156836,
-      "relative_volume": 0.58,
-      "market_cap": 3063183360,
+      "relative_volume": 2.16,
+      "market_cap": 3174929152,
       "exchange": "NasdaqGM",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +9.0% 상승, 거래량 3개월 평균 대비 0.6배",
-      "score": 5.28
+      "reason": "장중 +13.0% 상승, 거래량 3개월 평균 대비 2.2배",
+      "score": 28.09
     },
     {
-      "symbol": "OWL",
-      "name": "Blue Owl Capital Inc.",
-      "price": 9.145,
-      "change_percent": -4.74,
-      "volume": 20945723,
-      "avg_volume_3m": 18920068,
-      "relative_volume": 1.11,
-      "market_cap": 14331646976,
+      "symbol": "VCYT",
+      "name": "Veracyte, Inc.",
+      "price": 48.54,
+      "change_percent": 10.77,
+      "volume": 2879976,
+      "avg_volume_3m": 1332217,
+      "relative_volume": 2.16,
+      "market_cap": 3902166016,
+      "exchange": "NasdaqGM",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +10.8% 상승, 거래량 3개월 평균 대비 2.2배",
+      "score": 23.29
+    },
+    {
+      "symbol": "GDDY",
+      "name": "GoDaddy Inc.",
+      "price": 100.81,
+      "change_percent": 4.6,
+      "volume": 9520324,
+      "avg_volume_3m": 2078138,
+      "relative_volume": 4.58,
+      "market_cap": 12767354880,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +4.6% 상승, 거래량 3개월 평균 대비 4.6배",
+      "score": 21.06
+    },
+    {
+      "symbol": "U",
+      "name": "Unity Software Inc.",
+      "price": 41.42,
+      "change_percent": -6.08,
+      "volume": 31651224,
+      "avg_volume_3m": 9416152,
+      "relative_volume": 3.36,
+      "market_cap": 18228482048,
       "exchange": "NYSE",
       "sources": [
         "most_actives"
       ],
-      "reason": "장중 -4.7% 하락, 거래량 3개월 평균 대비 1.1배, 거래대금 상위 종목",
-      "score": 5.25
+      "reason": "장중 -6.1% 하락, 거래량 3개월 평균 대비 3.4배, 거래대금 상위 종목",
+      "score": 20.43
     },
     {
-      "symbol": "ORCL",
-      "name": "Oracle Corporation",
-      "price": 137.5,
-      "change_percent": -4.88,
-      "volume": 35055791,
-      "avg_volume_3m": 32975398,
-      "relative_volume": 1.06,
-      "market_cap": 415763693568,
-      "exchange": "NYSE",
-      "sources": [
-        "most_actives"
-      ],
-      "reason": "장중 -4.9% 하락, 거래량 3개월 평균 대비 1.1배, 거래대금 상위 종목",
-      "score": 5.19
-    },
-    {
-      "symbol": "WGS",
-      "name": "GeneDx Holdings Corp.",
-      "price": 88.28,
-      "change_percent": 3.62,
-      "volume": 950676,
-      "avg_volume_3m": 726647,
-      "relative_volume": 1.31,
-      "market_cap": 2632733696,
+      "symbol": "TXG",
+      "name": "10x Genomics, Inc.",
+      "price": 84.11,
+      "change_percent": 11.23,
+      "volume": 4085689,
+      "avg_volume_3m": 3072176,
+      "relative_volume": 1.33,
+      "market_cap": 10958790656,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +3.6% 상승, 거래량 3개월 평균 대비 1.3배",
-      "score": 4.73
-    },
-    {
-      "symbol": "BB",
-      "name": "BlackBerry Limited",
-      "price": 8.0603,
-      "change_percent": -3.82,
-      "volume": 18185823,
-      "avg_volume_3m": 17689079,
-      "relative_volume": 1.03,
-      "market_cap": 4724145152,
-      "exchange": "NYSE",
-      "sources": [
-        "most_actives"
-      ],
-      "reason": "장중 -3.8% 하락, 거래량 3개월 평균 대비 1.0배, 거래대금 상위 종목",
-      "score": 3.92
+      "reason": "장중 +11.2% 상승, 거래량 3개월 평균 대비 1.3배",
+      "score": 14.93
     },
     {
       "symbol": "PRGO",
       "name": "Perrigo Company plc",
-      "price": 14.85,
-      "change_percent": 7.3,
-      "volume": 1642208,
+      "price": 14.68,
+      "change_percent": 6.07,
+      "volume": 7733864,
       "avg_volume_3m": 3166595,
-      "relative_volume": 0.52,
-      "market_cap": 2054761472,
+      "relative_volume": 2.44,
+      "market_cap": 2037132544,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +7.3% 상승, 거래량 3개월 평균 대비 0.5배",
-      "score": 3.78
-    },
-    {
-      "symbol": "NBIS",
-      "name": "Nebius Group N.V.",
-      "price": 240.2937,
-      "change_percent": 6.04,
-      "volume": 12727850,
-      "avg_volume_3m": 20469033,
-      "relative_volume": 0.62,
-      "market_cap": 65325101056,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers",
-        "most_actives"
-      ],
-      "reason": "장중 +6.0% 상승, 거래량 3개월 평균 대비 0.6배, 거래대금 상위 종목",
-      "score": 3.75
-    },
-    {
-      "symbol": "META",
-      "name": "Meta Platforms, Inc.",
-      "price": 767.2707,
-      "change_percent": 3.11,
-      "volume": 18014615,
-      "avg_volume_3m": 19339701,
-      "relative_volume": 0.93,
-      "market_cap": 1954626797568,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers",
-        "most_actives"
-      ],
-      "reason": "장중 +3.1% 상승, 거래량 3개월 평균 대비 0.9배, 거래대금 상위 종목",
-      "score": 2.9
+      "reason": "장중 +6.1% 상승, 거래량 3개월 평균 대비 2.4배",
+      "score": 14.82
     },
     {
       "symbol": "BLLN",
       "name": "BillionToOne, Inc.",
-      "price": 120.65,
-      "change_percent": 5.44,
-      "volume": 364037,
+      "price": 124.9,
+      "change_percent": 9.16,
+      "volume": 997908,
       "avg_volume_3m": 703574,
-      "relative_volume": 0.52,
-      "market_cap": 5693116416,
+      "relative_volume": 1.42,
+      "market_cap": 5893661184,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +5.4% 상승, 거래량 3개월 평균 대비 0.5배",
-      "score": 2.82
+      "reason": "장중 +9.2% 상승, 거래량 3개월 평균 대비 1.4배",
+      "score": 12.99
     },
     {
-      "symbol": "ASST",
-      "name": "Strive, Inc.",
-      "price": 30.23,
-      "change_percent": 4.28,
-      "volume": 3728852,
-      "avg_volume_3m": 6350941,
-      "relative_volume": 0.59,
-      "market_cap": 2932389888,
-      "exchange": "NasdaqGM",
+      "symbol": "PL",
+      "name": "Planet Labs PBC",
+      "price": 17.62,
+      "change_percent": 7.57,
+      "volume": 15476864,
+      "avg_volume_3m": 9338228,
+      "relative_volume": 1.66,
+      "market_cap": 6411001856,
+      "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +4.3% 상승, 거래량 3개월 평균 대비 0.6배",
-      "score": 2.51
+      "reason": "장중 +7.6% 상승, 거래량 3개월 평균 대비 1.7배",
+      "score": 12.55
     }
   ]
 }
