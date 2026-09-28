@@ -1,22 +1,22 @@
 {
-  "updated_at": "2026-09-28T20:38:02+09:00",
+  "updated_at": "2026-09-29T03:29:24+09:00",
   "quote": {
     "symbol": "META",
-    "price": 751.66,
+    "price": 723.35,
     "previous_close": 747.85,
-    "change": 3.81,
-    "change_percent": 0.51,
+    "change": -24.5,
+    "change_percent": -3.28,
     "currency": "USD",
-    "day_high": 769.5700073242188,
-    "day_low": 746.5399780273438,
-    "market_cap": 1914858460669.0261
+    "day_high": 750.5759887695312,
+    "day_low": 717.25,
+    "market_cap": 1842751315628.894
   },
   "articles": [
     {
-      "title": "Meta's Muse Shakes Up The AI Battle. Here's What Investors Should Know. - Investor's Business Daily",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdGhSYW9nSjJicHpKWk44bjlkYVZ6bl9lNkVlYTk3NmhCSGQ4SXJSTEUtNlcyQmpSelpzQUpubmVpRW1rSFRaS3NuSnZrYkxVa0dmQ08zUmxKRlZUcVYwLWoxUDk1VTJwVTRLQThzZVVhckpvQzRvTzRseWlTRW5TTlNLUQ?oc=5",
+      "title": "Meta Stock Pulls Back After Muse-Fueled Rally. What Investors Are Watching Next. - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOG1ua0pCczJCRlIwcEFUalp2MmgwdDdfcXloOTh1SnJlcU9Pbk5MelN5WnZBOXNEU1FWeVp6eXFQV3MzWTJqNlhub1BLVk1aTEFrQ0tnZnNwaFk1Z2kxaS1xcURBdVpTLWRQdUZVU3lVRFJWcngtN0UwUWRab3pXZW84NVJYemZsd1M5RmRiOU5JRDJGM283dUhHZDRtRjN5UlEwdDVKUk5LOW9nempVTkNqQWhnUFR0YXhEMXV3?oc=5",
       "source": "Investor's Business Daily",
-      "published": "Fri, 25 Sep 2026 14:12:00 GMT"
+      "published": "Mon, 28 Sep 2026 14:46:00 GMT"
     },
     {
       "title": "Why Meta Platforms Stock Reversed Today - Yahoo Finance",
@@ -37,15 +37,9 @@
       "published": "Sun, 27 Sep 2026 04:58:00 GMT"
     },
     {
-      "title": "Meta Platforms, Inc. $META Stock Holdings Raised by Saudi Central Bank - MarketBeat",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVXdBQzdwMUFGX1lBVGhpUDFoUURaT3hHYUZwMTRIamRKVzZJWWxhUWF1ODRHU3lEdnoyV3hSSDBvMjRQVW1sY3IzVDN5OWdlNW9PODhaZ2htYVhBcDJoQm9aWW11NTh5eVBhQ3RWbm5Bb3YzNWx2SlpUNWstTExKTFhYWU5hY3FjYzhoMndLSGNYUHh2c25mTjl2N3d3NkNkbGtob0I0Sy1tQ0tjOURGQVF2YlI3SFNWRHRVelFyTjRZaXdYT21R?oc=5",
-      "source": "MarketBeat",
-      "published": "Sun, 27 Sep 2026 07:38:28 GMT"
-    },
-    {
-      "title": "META Stock Drops 3.3% After New Mexico Jury Finds that Meta Platforms Misled Facebook Users Over Data Safety Rules - tipranks.com",
+      "title": "META Stock Drops 3.3% After New Mexico Jury Finds that Meta Platforms Misled Facebook Users Over Data Safety Rules - TipRanks",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOV3psTzFBeDI0SEVnZHQ1TmtpeVgtdjFqSjhnenluQTliRHNNQ1VsTHpqdkx2bGRfVldkbmFiVlNBVmN5Z3FxR25EeUc4LXo1QWtUeXZFb1M0UFhJRkpTRmtrWXJBXzJ3d1M3ZmdKcVVNSmFKWXA3X2UxTG9VTnFYRllSRXQ2OXVEb0czdmtyd19KUVliWC1NOGNUcExyb2R4azJncmtGM21ueXdSeWgxbWI2WURWRlc3M3hUN2NLVEhDNlQtWldkUUhSTThrUGxqS0kxX1pMSHN4b2s?oc=5",
-      "source": "tipranks.com",
+      "source": "TipRanks",
       "published": "Sat, 26 Sep 2026 16:08:56 GMT"
     },
     {
@@ -55,10 +49,10 @@
       "published": "Fri, 25 Sep 2026 13:10:34 GMT"
     },
     {
-      "title": "Gene Munster Admits He Got Meta's Stock Rally Wrong - Meta Platforms (NASDAQ:META) - Benzinga",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRk5zOFJpVTV0VVhQOFJiWWs5LXpQUy1DaV9UOVVuR3djRUJfcTdGYjRqSzE0dUtMaWhIRFlfbVJidlpLZU1iNFRVaHZxSXBGb21JT21adDhTdTg4cTBUZlZONzVZbmY1bFBfbkk5V0hZLVBuM1FCQXFHYWRPTmtCWkFwVkN3allvNWpnV2xpYjhEOVhmTmRaQVdTMWZIOGZCbVItdHE1cVVhSVdaR0xuZkhSdzFoVGdwUEhmUjRDRnpTQQ?oc=5",
-      "source": "Benzinga",
-      "published": "Fri, 25 Sep 2026 07:24:29 GMT"
+      "title": "Meta Platforms, Inc. $META Stock Sold by Angeles Wealth Management LLC - MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdnJoMzVzaVBmQkxKSlJTR2xzeXJsQW12X2FIVm5BQzVrMVpRaWlxY3VVenFLak5vLXg1NG85LVJhVXJ0VTNLUTJsclRGZThEUDQ5TlZjTWdiZHlYZ3dfRFJTNVV4bFlTbUZwQXVGQjdNNXdBUDh4SHVEeUJGUENGQ2M3Z2VZejg0ejB5aWdHelNab2NNVW1PdG12OWpmbGpnYk1VcFpNaFZ1NnZlajIwT0VTcGVnMHZmdENZbFNITWpLU1U1UFFF?oc=5",
+      "source": "MarketBeat",
+      "published": "Sun, 27 Sep 2026 07:10:28 GMT"
     },
     {
       "title": "Why Meta Platforms Stock Reversed Today - The Motley Fool",
@@ -79,58 +73,64 @@
       "published": "Fri, 25 Sep 2026 12:25:00 GMT"
     },
     {
-      "title": "Why Meta Platforms Stock Jumped 13% This Week - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRWh4WUFPblJZMGh4Vm5DQjA1aHhUMHljS1RQd0lWNHBMNW5hUml1TFhuSnh3ZnFSdG1nVnJYbEV0VFJDSEJwakRZU2Y2XzRQZy1qSmFPSUYzYjBPWW5GRHRzM0hrenNVUHduWWhVcmkwUnVFTTBSZzhaRnA2eHBWZ25vSjNPMlg0Vmp5ZXJSR1IwTVB0ZzFLS3Z6SXU?oc=5",
-      "source": "Yahoo Finance",
-      "published": "Sun, 27 Sep 2026 20:45:55 GMT"
+      "title": "Meta's Muse Shakes Up The AI Battle. Here's What Investors Should Know. - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdGhSYW9nSjJicHpKWk44bjlkYVZ6bl9lNkVlYTk3NmhCSGQ4SXJSTEUtNlcyQmpSelpzQUpubmVpRW1rSFRaS3NuSnZrYkxVa0dmQ08zUmxKRlZUcVYwLWoxUDk1VTJwVTRLQThzZVVhckpvQzRvTzRseWlTRW5TTlNLUQ?oc=5",
+      "source": "Investor's Business Daily",
+      "published": "Fri, 25 Sep 2026 14:12:00 GMT"
     },
     {
-      "title": "Jefferies reiterates Meta stock rating on Muse AI product strength - Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcF92Mi1qQ2FwRW5ySHVRWkthOWkxME9NR2I4N2hIUG90ek1taWVMQ0ZENDZtOEp6OUhpZ1A1bTZUcVdDMG1FaFViM21JTDU0WVZtNVZjM096NmM0RHNja0t6SkN3QWw1UG0ta2tranRndktWc3hBaHpzTEUweXNyYjR0QTduc1BUUWdYdy1DSFJtdjJiUVZSWE5Qd0Jxc3hFRndLS1BObUxTQkQycldIaFB0VE1iZFlpZkV0UFNQUVJnU1pL?oc=5",
+      "title": "Bank of America backs Meta stock after Muse surprise - thestreet.com",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVk84YnRzUTdvZGw3Snh2c29LZ1ExUDFhXzlNcW1SY2QyNnEtLXB0VnRseU9rbFBtc0RCV0x4Z3VqMGl4b1RFSXNWUFl6bXRDZ1JKUVliTi10UFR4RHJTLWxTNEd4R0xWdkxpRVJGSFc2TXc1eEdUSUNmcm16b0RSVzVXSi1xWVVyaGJNM1V4NW1FNXlFWEp6b0ZNcw?oc=5",
+      "source": "thestreet.com",
+      "published": "Wed, 23 Sep 2026 00:14:00 GMT"
+    },
+    {
+      "title": "Meta stock cuts losses after major executive hire confirmed - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONG0tNzdTZU12ekQ3RWdVNTZmN1V6dk1hR2RZX042bkZISkFySGtDV0lPQ0lWSFJjbjB3V2NTMUJOUjZLSHBLa05jS3NVbmJPMGI1V21iYW9jcXY2VFlESENBTm5ISGlGYlVGS0dGd0t5bm9UTFYxVHJpU1ZYTEYzREZCbmVZMTQ5NzlEbmYwNnhwYjdEQzctempNZEFUUDctRVFXUkxMQVc2R1k2RWIwd1hkLW9hZlZIbEpxSTFR?oc=5",
       "source": "Investing.com",
-      "published": "Mon, 28 Sep 2026 10:15:47 GMT"
+      "published": "Mon, 28 Sep 2026 12:49:35 GMT"
     },
     {
-      "title": "Why Meta Platforms Stock Keeps Going Up - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNjEzS2VIb0FUT19zR29YRzZadXdhWFFKX2tFcFZneEJqdHIydXVrOThEcWJDMkJocmxYckZDTDRabjMtbjNHU0lSWGlKU3gwUFpldlNVRHBKYnBZWDBKMEo4Mi0xS3Q3S0NRbDNfc0w1RTg5V0hIdTBCVmFOU3l1TUtMWWR3NmY5M3c?oc=5",
-      "source": "The Motley Fool",
-      "published": "Thu, 24 Sep 2026 16:57:00 GMT"
+      "title": "Meta stock falls as OpenAI ’o’ agent threatens historic rally - Yahoo! Finance Canada",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB3VDlQeUkzNG8wWC1HejBtdmkwcTllcnc1RWZjeVV5anRpNHVYS3hiRXRlUjJkS0FzODJZRXg5M0FvX1VoVUVaZGxnMnJFUUx3M0ZXZnpzX0lycVhCclZrbEN4LWh4bC1sUURXVHVYSW1jV0JFcVNZLW1oVDBPXzQ?oc=5",
+      "source": "Yahoo! Finance Canada",
+      "published": "Mon, 28 Sep 2026 16:10:12 GMT"
     },
     {
-      "title": "Meta Stock Is Having Its Best Month Since 2013. History Says Every 20% Month Has Led to Gains a Year Later. - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVXh4NWxkRUh4YjBhQ0pmTDFSWk5aMENYTlJkcHM3RUJacEZTM0tEaEpYMXRNcmtjRG9SR3VrcUloUms2WGQ2QzVHWXdBZFNjZVJXTFRacTJMVDd0M29HYVZyZWRTQVFXblJMY05YeV9MWDVxZzMwbFgzQXJIYUFYS3A0THBlTnFiUkc0UnJFUkpiNlJCTTRCQklIX2VwWENwYWpBTGpKMlRDanAwM09QNEliTGRiZEw0VmR0bUVpUGNuSHoxbnFRT3hGN0ZJUkVLVXJoUmxFbG1ic29ZT2kwMQ?oc=5",
-      "source": "The Motley Fool",
-      "published": "Sun, 27 Sep 2026 03:52:00 GMT"
+      "title": "Muse AI agent led Meta Platforms into the Best Stocks in the Market list. What Josh Brown thinks - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbTZQUW1lVUNuSVk5ZVpGUFptLXVMYWgyNWI4cDBhQndMVWxvU29xMXVHVzk3X1lUTXpmTkF3M2FwVGJYX3JUajZRbmpaZ1lNSDNQYXB1Zzd6Vk1zWjMyQmc2QUxJZ3JpRkRFMm9UQV9VWFozYVRsdG9fNXNUMzQ0dTFTTWQ3MFFMZUFCWTJnaFlUNHFmOXEwTl8ycTFQWEdpQlFzNTdIaEF6dEF0RHc?oc=5",
+      "source": "CNBC",
+      "published": "Mon, 28 Sep 2026 15:07:40 GMT"
     },
     {
-      "title": "Muse Could Be the Third ‘S-Curve’ in AI So Buy Meta Platforms Stock Now - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPck5jZWZYZHprTHEwa185OWUtaWE5NHRwY0p0Wmk4b0Z6WGFGR3VUOUpMM0l4cmZ1djZBUl84bnVJTERNN1RYVFJWbGlMY0RmSHZtTVd1ckdFejBwcHBpaFJXVzY3UzhpSU9RNGljTFdSQk1PWXF1aGo5YV8xUU9JckVPM1VqamFGQ1o0blhXTUl0b0E?oc=5",
-      "source": "Yahoo Finance",
-      "published": "Sun, 27 Sep 2026 20:30:02 GMT"
+      "title": "Why Meta (META) Stock Is Trading Lower Today - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOY0dYWEVnZXNTYmlLUFhzTkZYUzBrcnIzSmVNR3NVOE5oV0lxRnhRWTJhX2tLa3JyeWdpOXZvWXp0YWpnelBmRERNNGV2ZFg0bzBYTFdaU0xBRHROdkpCeGwzY1pWXzZpZ0FuV19HYzhZMzB1NnZMd3BSMzhjWDZLUzlPZVE1RE5XVmp1TjZZZ3JFMWx4NHVMWmFnMS1YMHFlVVhTbkZB?oc=5",
+      "source": "TradingView",
+      "published": "Mon, 28 Sep 2026 14:45:42 GMT"
     },
     {
-      "title": "News About Muse Drove a 1-Day 11% Jump in Meta Stock. But the AI Agent Could Be Even More Valuable Than the Market Is Giving It Credit For. - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTk5PT2JLbFQwU3dzeFMxbTd5RXczWUE2QkEyN2x6U2YxenBmUmF4X0pXZHMzeU9sMHdqOUl4XzBfdDJ5dE8xdTNNcWJCZG9JWUNGZ1Joam05ZThvQkF4bThtTjZLVTNvaVBkSW41czZLYlN3c0dMM05leVktOHdBUHhYUWIxcEdhblFhZjZYcUg1aDVvYWc0?oc=5",
-      "source": "The Motley Fool",
-      "published": "Thu, 24 Sep 2026 17:32:00 GMT"
+      "title": "Meta taps MongoDB CEO Desai to drive enterprise AI push - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWEtXZ3gxSXRQejgzMEFqZFdudGYwSWdvUDB5cGVmckloeG9OLWR0Ml8xbWVmLTZjSmI0TWw5QnQ4WGY5cVppYjVDbUhZYUpTSVhFUFFtbjExeUEwRTBVSVUxRTRxRFU3M0hvUXdKcWpVRndxSjJuNEZXc0VtRnhfa1ZiLThJSWdIcFlZbjBLTFlJZHc0RE5QVFIzUkE1SkZyQTFXT1RxMWlWZw?oc=5",
+      "source": "Reuters",
+      "published": "Mon, 28 Sep 2026 14:47:44 GMT"
     },
     {
-      "title": "Does Meta (META)’s Advertising Scale Make Brief Outages Financially Irrelevant? - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRzZZU0R0MzAwVzgzUlNiQW1PR2tyRUNOaFh3RGhiaEgyblVXc3ZzNURCaE5MR0NadXY1eHg1MVZMWHhhS3QxeTRNU1dNcmltb1RaaWFLVTM1VTk0TWVPeXpqUWt2YmJPaHBveDlLVjZaQW51SHRWX3N5LUhud25scEFCN3FXUkcyQWJybTR0SmN2ajI3OFRTQUhsbTJ6QWZHQ1E?oc=5",
-      "source": "Yahoo Finance",
-      "published": "Mon, 28 Sep 2026 01:58:00 GMT"
+      "title": "Meta Seeks Payoff From AI Spending With New Push for Business Customers - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPLTRBYlNmX2VrMlk4eDF2UmVqdXBRNW5jOHlQYWZLUGFCblJMNGhybm92M29tb1dRNC1COVlXdW1qa2hXeHE2THpsN0lhcGlLcnYtNHFTcFN1aldjYVZsYS1id3Z4LVVSaUM5YXAwVXdjMWY1ei1lZi1ucS1rY3Q4LXNnV3FFUi1GdVhwbkxRVWZ4Z3luT0FzeUF3RWRjZFk3UTZrZXFGT0p5UkJS?oc=5",
+      "source": "WSJ",
+      "published": "Mon, 28 Sep 2026 12:32:00 GMT"
     },
     {
-      "title": "Why Meta Platforms Stock Jumped 13% This Week - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeDF2d1Bqa2FzSEFobC1FVmlkQXQwQlBVS0JMMy0wVi1iRFBnLU9ZdHZTMjUyOGdTSDBmR0JGZWVSbFpRUlliQm9QWlhTaU5DcGJKNnBFU3ZCTXFSel82T3JwZTJDN0FjSXFvUUI4Zm16MjJPZXREVklBOXNlcVlRVzR3aDFaMVByQ09CeQ?oc=5",
-      "source": "The Motley Fool",
-      "published": "Sun, 27 Sep 2026 21:25:00 GMT"
+      "title": "Meta: This Was Just A Warm-Up (NASDAQ:META) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBrU0VvbFUxMEhsN1NMYVhmd3RwUHpZazJwUERoM3A0em5tXzh4NjNROW5TWVhTX1l4dEJ3NVdBdWlrdjZ2ZDJXT0t5dFFMakZaU2FRUUpuZ3hadDFxVjRKV0l2ZDNoXzhZSjhZX1J3VWZZaDV6TXZmcQ?oc=5",
+      "source": "Seeking Alpha",
+      "published": "Mon, 28 Sep 2026 13:16:58 GMT"
     },
     {
-      "title": "'Out of nowhere came Muse': Wall Street weighs in on Meta's AI catch-up moment - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWVZSNnJHbGFENnhFOExMZHlEdndHMW1TeXU4RUo0V2p1QmZmcnlUSGJ1akcxUU5NdlJBaWZTTEdiWGdLRlIwLVF5dFBaamVLRDBVd0VMT0hwZnAzMEdySEFkSTBiZUNKUG5KeTZqal9Ua3JsMTJmOHVwTE5PS2VFcGpHcUNkQ09WSW9tNHVOUnRYbmg5Y20wRmU0RU5HNHhmS2h3U2dCdnFLVGxzc2FpbWVzNnAyVXVWa2Z0OGlabFdwOXRpb3V6NUtmOA?oc=5",
-      "source": "Yahoo Finance",
-      "published": "Sun, 27 Sep 2026 13:11:34 GMT"
+      "title": "Meta Hires MongoDB CEO For Enterprise Push. MongoDB Stock Tumbles On 'Shocker' News. - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNT1BFM1RaTXZmX0pQUWNHeE5xcS1LZGlDUmFGN1BYdk1HT2N0NllTSXhhYldweHloaS1LOVNMQmJtY1FBVmJqeE1rMzhFbXZyczMwUlhPRC1CbFlEYTUzMDBxVUhlcjVyNFZ2NFg1TV9wbU5TVUJPWFpTS3N5NkhUWDF2X2dWUnJpbG5GaS1XUQ?oc=5",
+      "source": "Investor's Business Daily",
+      "published": "Mon, 28 Sep 2026 14:15:00 GMT"
     }
   ]
 }

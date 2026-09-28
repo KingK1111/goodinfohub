@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-28T10:26:42+09:00",
-  "last_attempt_at": "2026-09-28T20:38:01+09:00",
+  "updated_at": "2026-09-29T03:29:23+09:00",
+  "last_attempt_at": "2026-09-29T03:29:23+09:00",
   "districts": [
     "성동구",
     "중구",
@@ -83,6 +83,30 @@
     },
     {
       "district": "동대문구",
+      "case_no": "서울북부지방법원 2024타경116782",
+      "item_no": "1",
+      "address": "서울특별시 동대문구 이문로 127 11층1104호 (이문동,이문스카이뷰) [집합건물 철근콘크리트구조 25.99㎡]",
+      "remarks": "",
+      "appraisal_amount": "347,000,000",
+      "court_and_date": "경매8계 2026.10.13",
+      "usage": "아파트",
+      "min_sale_price": "23,846,000 (6%)",
+      "status": "유찰 12회"
+    },
+    {
+      "district": "동대문구",
+      "case_no": "서울북부지방법원 2025타경5698",
+      "item_no": "1",
+      "address": "서울특별시 동대문구 답십리동 268-3 엘림스퀘어3 9층902호 [집합건물 철근콘크리트구조 14.76㎡]",
+      "remarks": "",
+      "appraisal_amount": "179,000,000",
+      "court_and_date": "경매8계 2026.10.13",
+      "usage": "아파트",
+      "min_sale_price": "179,000,000 (100%)",
+      "status": "신건"
+    },
+    {
+      "district": "동대문구",
       "case_no": "서울북부지방법원 2025타경11973",
       "item_no": "1",
       "address": "서울특별시 동대문구 장안동 372-12 아르떼하임 14층1401호 [집합건물 철근콘크리트구조 공동주택 29.53㎡]",
@@ -131,6 +155,18 @@
     },
     {
       "district": "동대문구",
+      "case_no": "서울북부지방법원 2025타경13089 2026타경11231 (중복)",
+      "item_no": "1",
+      "address": "서울특별시 동대문구 용두동 779 제5동 제10층 제1009호 [집합건물 철근콘크리트조 58.59㎡]",
+      "remarks": "",
+      "appraisal_amount": "711,000,000",
+      "court_and_date": "경매9계 2026.10.13",
+      "usage": "아파트",
+      "min_sale_price": "711,000,000 (100%)",
+      "status": "신건"
+    },
+    {
+      "district": "동대문구",
       "case_no": "서울북부지방법원 2025타경13152",
       "item_no": "1",
       "address": "서울특별시 동대문구 장안동 302-2 장안동파크뷰아파트 9층 901호 [집합건물 철근콘크리트구조 84.84㎡]",
@@ -164,42 +200,6 @@
       "usage": "아파트",
       "min_sale_price": "528,000,000 (80%)",
       "status": "유찰 1회"
-    },
-    {
-      "district": "동대문구",
-      "case_no": "서울북부지방법원 2025타경13608",
-      "item_no": "1",
-      "address": "서울특별시 동대문구 장안동 416-1 에스아이팰리스장안센텀 12층1203호 [집합건물 철근콘크리트구조 13.88㎡]",
-      "remarks": "",
-      "appraisal_amount": "231,000,000",
-      "court_and_date": "경매5계 2026.10.07",
-      "usage": "아파트",
-      "min_sale_price": "118,272,000 (51%)",
-      "status": "유찰 3회"
-    },
-    {
-      "district": "동대문구",
-      "case_no": "서울북부지방법원 2025타경13673",
-      "item_no": "1",
-      "address": "서울특별시 동대문구 답십리동 530-15 현대썬앤빌청계 제5층 제528호 [집합건물 철근콘크리트구조 14.21㎡]",
-      "remarks": "",
-      "appraisal_amount": "112,000,000",
-      "court_and_date": "경매7계 2026.10.07",
-      "usage": "연립주택,다세대,빌라",
-      "min_sale_price": "57,344,000 (51%)",
-      "status": "유찰 3회"
-    },
-    {
-      "district": "동대문구",
-      "case_no": "서울북부지방법원 2025타경13754",
-      "item_no": "1",
-      "address": "서울특별시 동대문구 장안동 373-3 현대썬앤빌601 10층에이1010호 [집합건물 철근콘크리트구조 18.35㎡]",
-      "remarks": "",
-      "appraisal_amount": "103,000,000",
-      "court_and_date": "경매7계 2026.10.07",
-      "usage": "연립주택,다세대,빌라",
-      "min_sale_price": "82,400,000 (80%)",
-      "status": "유찰 3회"
     },
     {
       "district": "광진구",
@@ -275,18 +275,6 @@
     },
     {
       "district": "송파구",
-      "case_no": "서울동부지방법원 2025타경51733",
-      "item_no": "1",
-      "address": "서울특별시 송파구 방이동 39-2 신동아타워 16층1607호 [집합건물 철근콘크리트조 58.38㎡]",
-      "remarks": "",
-      "appraisal_amount": "803,000,000",
-      "court_and_date": "경매3계 2026.09.28",
-      "usage": "아파트",
-      "min_sale_price": "642,400,000 (80%)",
-      "status": "유찰 1회"
-    },
-    {
-      "district": "송파구",
       "case_no": "서울동부지방법원 2025타경51976",
       "item_no": "1",
       "address": "서울특별시 송파구 방이동 223-13 아쿠아드카사스 5층501호 [집합건물 철근콘크리트조 59.3㎡]",
@@ -346,11 +334,5 @@
       "status": "유찰 1회"
     }
   ],
-  "errors": [
-    "성동구: HTTPConnectionPool(host='localhost', port=44099): Read timed out. (read timeout=120)",
-    "중구: HTTPConnectionPool(host='localhost', port=44099): Read timed out. (read timeout=120)",
-    "동대문구: HTTPConnectionPool(host='localhost', port=44099): Read timed out. (read timeout=120)",
-    "광진구: HTTPConnectionPool(host='localhost', port=44099): Read timed out. (read timeout=120)",
-    "송파구: HTTPConnectionPool(host='localhost', port=44099): Read timed out. (read timeout=120)"
-  ]
+  "errors": []
 }
