@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T20:01:35+09:00",
+  "updated_at": "2026-09-30T01:49:53+09:00",
   "disclaimer": "이 목록은 공개 시세 데이터(거래량, 변동률)를 기준으로 자동 정렬한 결과이며 특정 종목의 매수/매도를 추천하지 않습니다. 투자 판단과 책임은 본인에게 있습니다.",
   "criteria": {
     "min_price": 5.0,
@@ -11,246 +11,249 @@
   },
   "candidates": [
     {
-      "symbol": "KOD",
-      "name": "Kodiak Sciences Inc",
-      "price": 89.92,
-      "change_percent": 177.96,
-      "volume": 38398805,
-      "avg_volume_3m": 1297866,
-      "relative_volume": 29.59,
-      "market_cap": 5651422720,
+      "symbol": "IOVA",
+      "name": "Iovance Biotherapeutics, Inc.",
+      "price": 14.7467,
+      "change_percent": 34.17,
+      "volume": 45681324,
+      "avg_volume_3m": 16595700,
+      "relative_volume": 2.75,
+      "market_cap": 6679833600,
       "exchange": "NasdaqGM",
       "sources": [
         "day_gainers",
         "most_actives"
       ],
-      "reason": "장중 +178.0% 상승, 거래량 3개월 평균 대비 29.6배, 거래대금 상위 종목",
-      "score": 5265.14
+      "reason": "장중 +34.2% 상승, 거래량 3개월 평균 대비 2.8배, 거래대금 상위 종목",
+      "score": 94.06
     },
     {
-      "symbol": "HHH",
-      "name": "Howard Hughes Holdings Inc.",
-      "price": 73.95,
-      "change_percent": 8.07,
-      "volume": 1887444,
-      "avg_volume_3m": 518684,
-      "relative_volume": 3.64,
-      "market_cap": 4416253952,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +8.1% 상승, 거래량 3개월 평균 대비 3.6배",
-      "score": 29.35
-    },
-    {
-      "symbol": "AUR",
-      "name": "Aurora Innovation, Inc.",
-      "price": 5.29,
-      "change_percent": -12.42,
-      "volume": 46377556,
-      "avg_volume_3m": 28863715,
-      "relative_volume": 1.61,
-      "market_cap": 10601980928,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "most_actives"
-      ],
-      "reason": "장중 -12.4% 하락, 거래량 3개월 평균 대비 1.6배, 거래대금 상위 종목",
-      "score": 19.95
-    },
-    {
-      "symbol": "NU",
-      "name": "Nu Holdings Ltd.",
-      "price": 12.23,
-      "change_percent": -10.01,
-      "volume": 143251890,
-      "avg_volume_3m": 80834987,
-      "relative_volume": 1.77,
-      "market_cap": 59079319552,
-      "exchange": "NYSE",
-      "sources": [
-        "most_actives"
-      ],
-      "reason": "장중 -10.0% 하락, 거래량 3개월 평균 대비 1.8배, 거래대금 상위 종목",
-      "score": 17.73
-    },
-    {
-      "symbol": "BB",
-      "name": "BlackBerry Limited",
-      "price": 8.8,
-      "change_percent": 7.19,
-      "volume": 30091690,
-      "avg_volume_3m": 16596017,
-      "relative_volume": 1.81,
-      "market_cap": 5165883904,
+      "symbol": "CCL",
+      "name": "Carnival Corporation Ltd.",
+      "price": 24.88,
+      "change_percent": 12.38,
+      "volume": 49660072,
+      "avg_volume_3m": 19653290,
+      "relative_volume": 2.53,
+      "market_cap": 34076870656,
       "exchange": "NYSE",
       "sources": [
         "day_gainers",
         "most_actives"
       ],
-      "reason": "장중 +7.2% 상승, 거래량 3개월 평균 대비 1.8배, 거래대금 상위 종목",
-      "score": 13.03
+      "reason": "장중 +12.4% 상승, 거래량 3개월 평균 대비 2.5배, 거래대금 상위 종목",
+      "score": 31.27
     },
     {
-      "symbol": "CLF",
-      "name": "Cleveland-Cliffs Inc.",
-      "price": 11.22,
-      "change_percent": -7.88,
-      "volume": 26436834,
-      "avg_volume_3m": 19073000,
-      "relative_volume": 1.39,
-      "market_cap": 6401459200,
-      "exchange": "NYSE",
+      "symbol": "SMMT",
+      "name": "Summit Therapeutics Inc.",
+      "price": 16.23,
+      "change_percent": 4.84,
+      "volume": 20340089,
+      "avg_volume_3m": 5094663,
+      "relative_volume": 3.99,
+      "market_cap": 12947476480,
+      "exchange": "NasdaqGM",
       "sources": [
+        "day_gainers",
         "most_actives"
       ],
-      "reason": "장중 -7.9% 하락, 거래량 3개월 평균 대비 1.4배, 거래대금 상위 종목",
+      "reason": "장중 +4.8% 상승, 거래량 3개월 평균 대비 4.0배, 거래대금 상위 종목",
+      "score": 19.34
+    },
+    {
+      "symbol": "BE",
+      "name": "Bloom Energy Corporation",
+      "price": 297.035,
+      "change_percent": 13.0,
+      "volume": 17256769,
+      "avg_volume_3m": 15623577,
+      "relative_volume": 1.1,
+      "market_cap": 87484932096,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers",
+        "most_actives"
+      ],
+      "reason": "장중 +13.0% 상승, 거래량 3개월 평균 대비 1.1배, 거래대금 상위 종목",
+      "score": 14.36
+    },
+    {
+      "symbol": "KMX",
+      "name": "CarMax Inc",
+      "price": 59.14,
+      "change_percent": 4.58,
+      "volume": 7078085,
+      "avg_volume_3m": 2352287,
+      "relative_volume": 3.01,
+      "market_cap": 8392622592,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +4.6% 상승, 거래량 3개월 평균 대비 3.0배",
+      "score": 13.78
+    },
+    {
+      "symbol": "WRBY",
+      "name": "Warby Parker Inc.",
+      "price": 27.24,
+      "change_percent": 10.46,
+      "volume": 2862390,
+      "avg_volume_3m": 2741192,
+      "relative_volume": 1.04,
+      "market_cap": 3367083520,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +10.5% 상승, 거래량 3개월 평균 대비 1.0배",
       "score": 10.92
     },
     {
-      "symbol": "TFX",
-      "name": "Teleflex Incorporated",
-      "price": 127.38,
-      "change_percent": 4.35,
-      "volume": 1564276,
-      "avg_volume_3m": 625014,
-      "relative_volume": 2.5,
-      "market_cap": 5397395456,
+      "symbol": "HAFN",
+      "name": "Hafnia Limited",
+      "price": 9.635,
+      "change_percent": 5.53,
+      "volume": 2679413,
+      "avg_volume_3m": 1779788,
+      "relative_volume": 1.51,
+      "market_cap": 5157916160,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +4.3% 상승, 거래량 3개월 평균 대비 2.5배",
-      "score": 10.89
+      "reason": "장중 +5.5% 상승, 거래량 3개월 평균 대비 1.5배",
+      "score": 8.33
     },
     {
-      "symbol": "ABCL",
-      "name": "AbCellera Biologics Inc.",
-      "price": 13.92,
-      "change_percent": 9.61,
-      "volume": 7772249,
-      "avg_volume_3m": 6979568,
-      "relative_volume": 1.11,
-      "market_cap": 4510739456,
+      "symbol": "CBOE",
+      "name": "Cboe Global Markets, Inc.",
+      "price": 264.8,
+      "change_percent": 4.56,
+      "volume": 1386884,
+      "avg_volume_3m": 1070517,
+      "relative_volume": 1.3,
+      "market_cap": 27653330944,
+      "exchange": "Cboe US",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +4.6% 상승, 거래량 3개월 평균 대비 1.3배",
+      "score": 5.9
+    },
+    {
+      "symbol": "LITE",
+      "name": "Lumentum Holdings Inc.",
+      "price": 978.998,
+      "change_percent": 6.26,
+      "volume": 3950417,
+      "avg_volume_3m": 4584269,
+      "relative_volume": 0.86,
+      "market_cap": 87816118272,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +9.6% 상승, 거래량 3개월 평균 대비 1.1배",
-      "score": 10.7
+      "reason": "장중 +6.3% 상승, 거래량 3개월 평균 대비 0.9배",
+      "score": 5.39
     },
     {
-      "symbol": "ADMA",
-      "name": "ADMA Biologics Inc",
-      "price": 10.12,
-      "change_percent": 7.89,
-      "volume": 3567999,
-      "avg_volume_3m": 2635684,
-      "relative_volume": 1.35,
-      "market_cap": 2266724864,
-      "exchange": "NasdaqGM",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +7.9% 상승, 거래량 3개월 평균 대비 1.4배",
-      "score": 10.68
-    },
-    {
-      "symbol": "ALVO",
-      "name": "Alvotech",
-      "price": 6.15,
-      "change_percent": 6.96,
-      "volume": 1434275,
-      "avg_volume_3m": 976414,
-      "relative_volume": 1.47,
-      "market_cap": 2194424832,
-      "exchange": "NasdaqGM",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +7.0% 상승, 거래량 3개월 평균 대비 1.5배",
-      "score": 10.22
-    },
-    {
-      "symbol": "VOYG",
-      "name": "Voyager Technologies, Inc.",
-      "price": 33.18,
-      "change_percent": 5.84,
-      "volume": 2772961,
-      "avg_volume_3m": 1868768,
-      "relative_volume": 1.48,
-      "market_cap": 2024944256,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +5.8% 상승, 거래량 3개월 평균 대비 1.5배",
-      "score": 8.66
-    },
-    {
-      "symbol": "GIL",
-      "name": "Gildan Activewear, Inc.",
-      "price": 42.62,
-      "change_percent": 4.0,
-      "volume": 3002497,
-      "avg_volume_3m": 1409222,
-      "relative_volume": 2.13,
-      "market_cap": 7892875776,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +4.0% 상승, 거래량 3개월 평균 대비 2.1배",
-      "score": 8.53
-    },
-    {
-      "symbol": "DFTX",
-      "name": "Definium Therapeutics, Inc.",
-      "price": 38.41,
-      "change_percent": 6.19,
-      "volume": 2993758,
-      "avg_volume_3m": 2244226,
-      "relative_volume": 1.33,
-      "market_cap": 5161034240,
+      "symbol": "AXTI",
+      "name": "AXT Inc",
+      "price": 79.35,
+      "change_percent": 7.71,
+      "volume": 6425094,
+      "avg_volume_3m": 9933661,
+      "relative_volume": 0.65,
+      "market_cap": 5203234304,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +6.2% 상승, 거래량 3개월 평균 대비 1.3배",
-      "score": 8.26
+      "reason": "장중 +7.7% 상승, 거래량 3개월 평균 대비 0.6배",
+      "score": 4.99
     },
     {
-      "symbol": "BURL",
-      "name": "Burlington Stores, Inc.",
-      "price": 266.39,
-      "change_percent": 4.59,
-      "volume": 2080791,
-      "avg_volume_3m": 1162357,
-      "relative_volume": 1.79,
-      "market_cap": 16733340672,
+      "symbol": "RCL",
+      "name": "Royal Caribbean Cruises Ltd.",
+      "price": 257.12,
+      "change_percent": 5.99,
+      "volume": 1813646,
+      "avg_volume_3m": 2326395,
+      "relative_volume": 0.78,
+      "market_cap": 68767277056,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +4.6% 상승, 거래량 3개월 평균 대비 1.8배",
-      "score": 8.22
+      "reason": "장중 +6.0% 상승, 거래량 3개월 평균 대비 0.8배",
+      "score": 4.67
     },
     {
-      "symbol": "VSXY",
-      "name": "Victorias Secret & Co.",
-      "price": 88.29,
-      "change_percent": 6.49,
-      "volume": 2231613,
-      "avg_volume_3m": 1773009,
-      "relative_volume": 1.26,
-      "market_cap": 7042366976,
+      "symbol": "CBRS",
+      "name": "Cerebras Systems Inc.",
+      "price": 210.0382,
+      "change_percent": 6.76,
+      "volume": 4299150,
+      "avg_volume_3m": 6391944,
+      "relative_volume": 0.67,
+      "market_cap": 49897525248,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +6.8% 상승, 거래량 3개월 평균 대비 0.7배",
+      "score": 4.55
+    },
+    {
+      "symbol": "TTAN",
+      "name": "ServiceTitan, Inc.",
+      "price": 63.37,
+      "change_percent": 5.76,
+      "volume": 1660036,
+      "avg_volume_3m": 2257993,
+      "relative_volume": 0.74,
+      "market_cap": 6113170944,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +5.8% 상승, 거래량 3개월 평균 대비 0.7배",
+      "score": 4.23
+    },
+    {
+      "symbol": "GFI",
+      "name": "Gold Fields Limited",
+      "price": 36.51,
+      "change_percent": 3.78,
+      "volume": 3833541,
+      "avg_volume_3m": 3660185,
+      "relative_volume": 1.05,
+      "market_cap": 32526630912,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +6.5% 상승, 거래량 3개월 평균 대비 1.3배",
-      "score": 8.17
+      "reason": "장중 +3.8% 상승, 거래량 3개월 평균 대비 1.0배",
+      "score": 3.96
+    },
+    {
+      "symbol": "ORCL",
+      "name": "Oracle Corporation",
+      "price": 138.05,
+      "change_percent": 4.11,
+      "volume": 30863844,
+      "avg_volume_3m": 33097661,
+      "relative_volume": 0.93,
+      "market_cap": 418498740224,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers",
+        "most_actives"
+      ],
+      "reason": "장중 +4.1% 상승, 거래량 3개월 평균 대비 0.9배, 거래대금 상위 종목",
+      "score": 3.83
     }
   ]
 }
