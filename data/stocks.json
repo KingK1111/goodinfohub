@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T11:31:06+09:00",
+  "updated_at": "2026-09-29T20:01:35+09:00",
   "disclaimer": "이 목록은 공개 시세 데이터(거래량, 변동률)를 기준으로 자동 정렬한 결과이며 특정 종목의 매수/매도를 추천하지 않습니다. 투자 판단과 책임은 본인에게 있습니다.",
   "criteria": {
     "min_price": 5.0,
@@ -33,15 +33,15 @@
       "price": 73.95,
       "change_percent": 8.07,
       "volume": 1887444,
-      "avg_volume_3m": 516926,
-      "relative_volume": 3.65,
+      "avg_volume_3m": 518684,
+      "relative_volume": 3.64,
       "market_cap": 4416253952,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +8.1% 상승, 거래량 3개월 평균 대비 3.7배",
-      "score": 29.45
+      "reason": "장중 +8.1% 상승, 거래량 3개월 평균 대비 3.6배",
+      "score": 29.35
     },
     {
       "symbol": "AUR",
@@ -65,15 +65,15 @@
       "price": 12.23,
       "change_percent": -10.01,
       "volume": 143251890,
-      "avg_volume_3m": 80132334,
-      "relative_volume": 1.79,
+      "avg_volume_3m": 80834987,
+      "relative_volume": 1.77,
       "market_cap": 59079319552,
       "exchange": "NYSE",
       "sources": [
         "most_actives"
       ],
       "reason": "장중 -10.0% 하락, 거래량 3개월 평균 대비 1.8배, 거래대금 상위 종목",
-      "score": 17.89
+      "score": 17.73
     },
     {
       "symbol": "BB",
@@ -98,7 +98,7 @@
       "price": 11.22,
       "change_percent": -7.88,
       "volume": 26436834,
-      "avg_volume_3m": 18979655,
+      "avg_volume_3m": 19073000,
       "relative_volume": 1.39,
       "market_cap": 6401459200,
       "exchange": "NYSE",
@@ -106,23 +106,7 @@
         "most_actives"
       ],
       "reason": "장중 -7.9% 하락, 거래량 3개월 평균 대비 1.4배, 거래대금 상위 종목",
-      "score": 10.98
-    },
-    {
-      "symbol": "ABCL",
-      "name": "AbCellera Biologics Inc.",
-      "price": 13.92,
-      "change_percent": 9.61,
-      "volume": 7772249,
-      "avg_volume_3m": 6832547,
-      "relative_volume": 1.14,
-      "market_cap": 4510739456,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +9.6% 상승, 거래량 3개월 평균 대비 1.1배",
-      "score": 10.93
+      "score": 10.92
     },
     {
       "symbol": "TFX",
@@ -139,6 +123,22 @@
       ],
       "reason": "장중 +4.3% 상승, 거래량 3개월 평균 대비 2.5배",
       "score": 10.89
+    },
+    {
+      "symbol": "ABCL",
+      "name": "AbCellera Biologics Inc.",
+      "price": 13.92,
+      "change_percent": 9.61,
+      "volume": 7772249,
+      "avg_volume_3m": 6979568,
+      "relative_volume": 1.11,
+      "market_cap": 4510739456,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +9.6% 상승, 거래량 3개월 평균 대비 1.1배",
+      "score": 10.7
     },
     {
       "symbol": "ADMA",
@@ -205,22 +205,6 @@
       "score": 8.53
     },
     {
-      "symbol": "BURL",
-      "name": "Burlington Stores, Inc.",
-      "price": 266.39,
-      "change_percent": 4.59,
-      "volume": 2080791,
-      "avg_volume_3m": 1156279,
-      "relative_volume": 1.8,
-      "market_cap": 16733340672,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +4.6% 상승, 거래량 3개월 평균 대비 1.8배",
-      "score": 8.27
-    },
-    {
       "symbol": "DFTX",
       "name": "Definium Therapeutics, Inc.",
       "price": 38.41,
@@ -235,6 +219,22 @@
       ],
       "reason": "장중 +6.2% 상승, 거래량 3개월 평균 대비 1.3배",
       "score": 8.26
+    },
+    {
+      "symbol": "BURL",
+      "name": "Burlington Stores, Inc.",
+      "price": 266.39,
+      "change_percent": 4.59,
+      "volume": 2080791,
+      "avg_volume_3m": 1162357,
+      "relative_volume": 1.79,
+      "market_cap": 16733340672,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +4.6% 상승, 거래량 3개월 평균 대비 1.8배",
+      "score": 8.22
     },
     {
       "symbol": "VSXY",
