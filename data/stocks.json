@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T19:51:40+09:00",
+  "updated_at": "2026-10-01T01:42:00+09:00",
   "disclaimer": "이 목록은 공개 시세 데이터(거래량, 변동률)를 기준으로 자동 정렬한 결과이며 특정 종목의 매수/매도를 추천하지 않습니다. 투자 판단과 책임은 본인에게 있습니다.",
   "criteria": {
     "min_price": 5.0,
@@ -11,247 +11,248 @@
   },
   "candidates": [
     {
-      "symbol": "IOVA",
-      "name": "Iovance Biotherapeutics, Inc.",
-      "price": 14.45,
-      "change_percent": 31.48,
-      "volume": 78030223,
-      "avg_volume_3m": 17672992,
-      "relative_volume": 4.42,
-      "market_cap": 6545437184,
-      "exchange": "NasdaqGM",
+      "symbol": "UTHR",
+      "name": "United Therapeutics Corporation",
+      "price": 544.5,
+      "change_percent": 13.09,
+      "volume": 1751138,
+      "avg_volume_3m": 552774,
+      "relative_volume": 3.17,
+      "market_cap": 23353980928,
+      "exchange": "NasdaqGS",
       "sources": [
-        "day_gainers",
-        "most_actives"
+        "day_gainers"
       ],
-      "reason": "장중 +31.5% 상승, 거래량 3개월 평균 대비 4.4배, 거래대금 상위 종목",
-      "score": 139.01
+      "reason": "장중 +13.1% 상승, 거래량 3개월 평균 대비 3.2배",
+      "score": 41.47
     },
     {
-      "symbol": "CCL",
-      "name": "Carnival Corporation Ltd.",
-      "price": 25.11,
-      "change_percent": 13.41,
-      "volume": 75324198,
-      "avg_volume_3m": 20571312,
-      "relative_volume": 3.66,
-      "market_cap": 33763162112,
-      "exchange": "NYSE",
+      "symbol": "IBRX",
+      "name": "ImmunityBio, Inc.",
+      "price": 9.885,
+      "change_percent": 11.95,
+      "volume": 16166984,
+      "avg_volume_3m": 9647042,
+      "relative_volume": 1.68,
+      "market_cap": 10476481536,
+      "exchange": "NasdaqGS",
       "sources": [
         "day_gainers",
         "most_actives"
       ],
-      "reason": "장중 +13.4% 상승, 거래량 3개월 평균 대비 3.7배, 거래대금 상위 종목",
-      "score": 49.12
+      "reason": "장중 +11.9% 상승, 거래량 3개월 평균 대비 1.7배, 거래대금 상위 종목",
+      "score": 20.02
+    },
+    {
+      "symbol": "MDB",
+      "name": "MongoDB, Inc.",
+      "price": 355.69,
+      "change_percent": 5.49,
+      "volume": 4136205,
+      "avg_volume_3m": 1996474,
+      "relative_volume": 2.07,
+      "market_cap": 28608833536,
+      "exchange": "NasdaqGM",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +5.5% 상승, 거래량 3개월 평균 대비 2.1배",
+      "score": 11.37
+    },
+    {
+      "symbol": "GEN",
+      "name": "Gen Digital Inc.",
+      "price": 22.29,
+      "change_percent": 6.91,
+      "volume": 9338436,
+      "avg_volume_3m": 6822706,
+      "relative_volume": 1.37,
+      "market_cap": 13342504960,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +6.9% 상승, 거래량 3개월 평균 대비 1.4배",
+      "score": 9.45
+    },
+    {
+      "symbol": "GRAL",
+      "name": "GRAIL, Inc.",
+      "price": 147.765,
+      "change_percent": 8.2,
+      "volume": 931719,
+      "avg_volume_3m": 853088,
+      "relative_volume": 1.09,
+      "market_cap": 6600105984,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +8.2% 상승, 거래량 3개월 평균 대비 1.1배",
+      "score": 8.95
     },
     {
       "symbol": "SMMT",
       "name": "Summit Therapeutics Inc.",
-      "price": 16.39,
-      "change_percent": 5.88,
-      "volume": 27223926,
+      "price": 17.355,
+      "change_percent": 5.89,
+      "volume": 7160748,
       "avg_volume_3m": 5453144,
-      "relative_volume": 4.99,
-      "market_cap": 13075116032,
+      "relative_volume": 1.31,
+      "market_cap": 13844944896,
       "exchange": "NasdaqGM",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +5.9% 상승, 거래량 3개월 평균 대비 1.3배",
+      "score": 7.73
+    },
+    {
+      "symbol": "TRMD",
+      "name": "TORM plc",
+      "price": 38.32,
+      "change_percent": 6.0,
+      "volume": 1125567,
+      "avg_volume_3m": 1021090,
+      "relative_volume": 1.1,
+      "market_cap": 3933577728,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +6.0% 상승, 거래량 3개월 평균 대비 1.1배",
+      "score": 6.62
+    },
+    {
+      "symbol": "ITUB",
+      "name": "Itau Unibanco Banco Holding SA",
+      "price": 8.535,
+      "change_percent": 5.5,
+      "volume": 22703733,
+      "avg_volume_3m": 20662660,
+      "relative_volume": 1.1,
+      "market_cap": 94071676928,
+      "exchange": "NYSE",
       "sources": [
         "day_gainers",
         "most_actives"
       ],
-      "reason": "장중 +5.9% 상승, 거래량 3개월 평균 대비 5.0배, 거래대금 상위 종목",
-      "score": 29.35
+      "reason": "장중 +5.5% 상승, 거래량 3개월 평균 대비 1.1배, 거래대금 상위 종목",
+      "score": 6.04
     },
     {
-      "symbol": "KMX",
-      "name": "CarMax Inc",
-      "price": 59.23,
-      "change_percent": 4.74,
-      "volume": 12230508,
-      "avg_volume_3m": 2505706,
-      "relative_volume": 4.88,
-      "market_cap": 8406779904,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +4.7% 상승, 거래량 3개월 평균 대비 4.9배",
-      "score": 23.13
-    },
-    {
-      "symbol": "WRBY",
-      "name": "Warby Parker Inc.",
-      "price": 27.47,
-      "change_percent": 11.39,
-      "volume": 5197594,
-      "avg_volume_3m": 2779576,
-      "relative_volume": 1.87,
-      "market_cap": 3395513088,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +11.4% 상승, 거래량 3개월 평균 대비 1.9배",
-      "score": 21.31
-    },
-    {
-      "symbol": "HAFN",
-      "name": "Hafnia Limited",
-      "price": 9.67,
-      "change_percent": 5.91,
-      "volume": 4978031,
-      "avg_volume_3m": 1799592,
-      "relative_volume": 2.77,
-      "market_cap": 5176652288,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +5.9% 상승, 거래량 3개월 평균 대비 2.8배",
-      "score": 16.36
-    },
-    {
-      "symbol": "BE",
-      "name": "Bloom Energy Corporation",
-      "price": 291.25,
-      "change_percent": 10.8,
-      "volume": 23633242,
-      "avg_volume_3m": 15769887,
-      "relative_volume": 1.5,
-      "market_cap": 85781094400,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +10.8% 상승, 거래량 3개월 평균 대비 1.5배",
-      "score": 16.18
-    },
-    {
-      "symbol": "MGNI",
-      "name": "Magnite, Inc.",
-      "price": 25.67,
-      "change_percent": 9.7,
-      "volume": 4134308,
-      "avg_volume_3m": 2531484,
-      "relative_volume": 1.63,
-      "market_cap": 3681698304,
+      "symbol": "FORM",
+      "name": "FormFactor, Inc.",
+      "price": 147.7685,
+      "change_percent": 8.45,
+      "volume": 890644,
+      "avg_volume_3m": 1298177,
+      "relative_volume": 0.69,
+      "market_cap": 11543782400,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +9.7% 상승, 거래량 3개월 평균 대비 1.6배",
-      "score": 15.84
+      "reason": "장중 +8.5% 상승, 거래량 3개월 평균 대비 0.7배",
+      "score": 5.8
     },
     {
-      "symbol": "DKNG",
-      "name": "DraftKings Inc.",
-      "price": 19.59,
-      "change_percent": -7.42,
-      "volume": 25388709,
-      "avg_volume_3m": 12270623,
-      "relative_volume": 2.07,
-      "market_cap": 9725535232,
+      "symbol": "HPE",
+      "name": "Hewlett Packard Enterprise Comp",
+      "price": 65.45,
+      "change_percent": 6.44,
+      "volume": 17906262,
+      "avg_volume_3m": 20084631,
+      "relative_volume": 0.89,
+      "market_cap": 86882566144,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers",
+        "most_actives"
+      ],
+      "reason": "장중 +6.4% 상승, 거래량 3개월 평균 대비 0.9배, 거래대금 상위 종목",
+      "score": 5.74
+    },
+    {
+      "symbol": "MRNA",
+      "name": "Moderna, Inc.",
+      "price": 188.72,
+      "change_percent": -7.24,
+      "volume": 12832426,
+      "avg_volume_3m": 17029541,
+      "relative_volume": 0.75,
+      "market_cap": 75343798272,
       "exchange": "NasdaqGS",
       "sources": [
         "most_actives"
       ],
-      "reason": "장중 -7.4% 하락, 거래량 3개월 평균 대비 2.1배, 거래대금 상위 종목",
-      "score": 15.35
+      "reason": "장중 -7.2% 하락, 거래량 3개월 평균 대비 0.8배, 거래대금 상위 종목",
+      "score": 5.46
     },
     {
-      "symbol": "GFI",
-      "name": "Gold Fields Limited",
-      "price": 36.78,
-      "change_percent": 4.55,
-      "volume": 10876712,
-      "avg_volume_3m": 3776680,
-      "relative_volume": 2.88,
-      "market_cap": 32767172608,
+      "symbol": "PGEN",
+      "name": "Precigen, Inc.",
+      "price": 8.575,
+      "change_percent": 6.52,
+      "volume": 3798605,
+      "avg_volume_3m": 4883566,
+      "relative_volume": 0.78,
+      "market_cap": 3070151936,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +6.5% 상승, 거래량 3개월 평균 대비 0.8배",
+      "score": 5.07
+    },
+    {
+      "symbol": "BB",
+      "name": "BlackBerry Limited",
+      "price": 9.1676,
+      "change_percent": 5.13,
+      "volume": 15145730,
+      "avg_volume_3m": 16355888,
+      "relative_volume": 0.93,
+      "market_cap": 5381676544,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers",
+        "most_actives"
+      ],
+      "reason": "장중 +5.1% 상승, 거래량 3개월 평균 대비 0.9배, 거래대금 상위 종목",
+      "score": 4.75
+    },
+    {
+      "symbol": "CBOE",
+      "name": "Cboe Global Markets, Inc.",
+      "price": 277.58,
+      "change_percent": 6.05,
+      "volume": 827858,
+      "avg_volume_3m": 1077823,
+      "relative_volume": 0.77,
+      "market_cap": 28987959296,
+      "exchange": "Cboe US",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +6.0% 상승, 거래량 3개월 평균 대비 0.8배",
+      "score": 4.65
+    },
+    {
+      "symbol": "HIMS",
+      "name": "Hims & Hers Health, Inc.",
+      "price": 30.67,
+      "change_percent": 6.86,
+      "volume": 8479174,
+      "avg_volume_3m": 12597303,
+      "relative_volume": 0.67,
+      "market_cap": 7155722240,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +4.5% 상승, 거래량 3개월 평균 대비 2.9배",
-      "score": 13.1
-    },
-    {
-      "symbol": "RCL",
-      "name": "Royal Caribbean Cruises Ltd.",
-      "price": 260.67,
-      "change_percent": 7.45,
-      "volume": 4022769,
-      "avg_volume_3m": 2356753,
-      "relative_volume": 1.71,
-      "market_cap": 69716738048,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +7.5% 상승, 거래량 3개월 평균 대비 1.7배",
-      "score": 12.72
-    },
-    {
-      "symbol": "WING",
-      "name": "Wingstop Inc.",
-      "price": 108.62,
-      "change_percent": 6.7,
-      "volume": 1887908,
-      "avg_volume_3m": 1283323,
-      "relative_volume": 1.47,
-      "market_cap": 2959085312,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +6.7% 상승, 거래량 3개월 평균 대비 1.5배",
-      "score": 9.86
-    },
-    {
-      "symbol": "ABCL",
-      "name": "AbCellera Biologics Inc.",
-      "price": 14.82,
-      "change_percent": 6.47,
-      "volume": 9066455,
-      "avg_volume_3m": 6853573,
-      "relative_volume": 1.32,
-      "market_cap": 4802381824,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +6.5% 상승, 거래량 3개월 평균 대비 1.3배",
-      "score": 8.55
-    },
-    {
-      "symbol": "PTON",
-      "name": "Peloton Interactive, Inc.",
-      "price": 5.04,
-      "change_percent": 5.0,
-      "volume": 13764904,
-      "avg_volume_3m": 8593487,
-      "relative_volume": 1.6,
-      "market_cap": 2211913984,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +5.0% 상승, 거래량 3개월 평균 대비 1.6배",
-      "score": 8.01
-    },
-    {
-      "symbol": "BRVE",
-      "name": "Braveheart Bio, Inc.",
-      "price": 22.34,
-      "change_percent": 6.03,
-      "volume": 717674,
-      "avg_volume_3m": 547950,
-      "relative_volume": 1.31,
-      "market_cap": 2011470592,
-      "exchange": "NasdaqGM",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +6.0% 상승, 거래량 3개월 평균 대비 1.3배",
-      "score": 7.89
+      "reason": "장중 +6.9% 상승, 거래량 3개월 평균 대비 0.7배",
+      "score": 4.62
     }
   ]
 }
