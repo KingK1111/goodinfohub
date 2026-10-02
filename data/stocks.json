@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T02:18:30+09:00",
+  "updated_at": "2026-10-02T11:18:31+09:00",
   "disclaimer": "이 목록은 공개 시세 데이터(거래량, 변동률)를 기준으로 자동 정렬한 결과이며 특정 종목의 매수/매도를 추천하지 않습니다. 투자 판단과 책임은 본인에게 있습니다.",
   "criteria": {
     "min_price": 5.0,
@@ -13,244 +13,243 @@
     {
       "symbol": "CTVA",
       "name": "Corteva, Inc.",
-      "price": 12.205,
-      "change_percent": -84.28,
-      "volume": 54731146,
-      "avg_volume_3m": 4449701,
-      "relative_volume": 12.3,
-      "market_cap": 8143127552,
+      "price": 12.57,
+      "change_percent": -83.81,
+      "volume": 87997473,
+      "avg_volume_3m": 5798260,
+      "relative_volume": 15.18,
+      "market_cap": 8386653696,
       "exchange": "NYSE",
       "sources": [
         "most_actives"
       ],
-      "reason": "장중 -84.3% 하락, 거래량 3개월 평균 대비 12.3배, 거래대금 상위 종목",
-      "score": 1036.67
+      "reason": "장중 -83.8% 하락, 거래량 3개월 평균 대비 15.2배, 거래대금 상위 종목",
+      "score": 1271.98
     },
     {
-      "symbol": "LQDA",
-      "name": "Liquidia Corporation",
-      "price": 26.9415,
-      "change_percent": -10.96,
-      "volume": 15133997,
-      "avg_volume_3m": 1736514,
-      "relative_volume": 8.72,
-      "market_cap": 2411503616,
-      "exchange": "NasdaqCM",
+      "symbol": "MAT",
+      "name": "Mattel, Inc.",
+      "price": 15.04,
+      "change_percent": 18.8,
+      "volume": 35660694,
+      "avg_volume_3m": 4910942,
+      "relative_volume": 7.26,
+      "market_cap": 4296927744,
+      "exchange": "NasdaqGS",
       "sources": [
+        "day_gainers",
         "most_actives"
       ],
-      "reason": "장중 -11.0% 하락, 거래량 3개월 평균 대비 8.7배, 거래대금 상위 종목",
-      "score": 95.55
+      "reason": "장중 +18.8% 상승, 거래량 3개월 평균 대비 7.3배, 거래대금 상위 종목",
+      "score": 136.51
     },
     {
       "symbol": "ACN",
       "name": "Accenture plc",
-      "price": 216.15,
-      "change_percent": 17.88,
-      "volume": 19916524,
-      "avg_volume_3m": 6302785,
-      "relative_volume": 3.16,
-      "market_cap": 132271276032,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers",
-        "most_actives"
-      ],
-      "reason": "장중 +17.9% 상승, 거래량 3개월 평균 대비 3.2배, 거래대금 상위 종목",
-      "score": 56.49
-    },
-    {
-      "symbol": "EFXT",
-      "name": "Enerflex Ltd",
-      "price": 25.665,
-      "change_percent": 12.62,
-      "volume": 1169402,
-      "avg_volume_3m": 603873,
-      "relative_volume": 1.94,
-      "market_cap": 3133770496,
+      "price": 212.3,
+      "change_percent": 15.78,
+      "volume": 28957560,
+      "avg_volume_3m": 6543125,
+      "relative_volume": 4.43,
+      "market_cap": 129915305984,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +12.6% 상승, 거래량 3개월 평균 대비 1.9배",
-      "score": 24.43
+      "reason": "장중 +15.8% 상승, 거래량 3개월 평균 대비 4.4배",
+      "score": 69.82
     },
     {
       "symbol": "SNPS",
       "name": "Synopsys, Inc.",
-      "price": 483.92,
-      "change_percent": 11.26,
-      "volume": 3696403,
-      "avg_volume_3m": 1867230,
-      "relative_volume": 1.98,
-      "market_cap": 92736806912,
+      "price": 490.54,
+      "change_percent": 12.78,
+      "volume": 6317284,
+      "avg_volume_3m": 1950442,
+      "relative_volume": 3.24,
+      "market_cap": 94005436416,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +11.3% 상승, 거래량 3개월 평균 대비 2.0배",
-      "score": 22.29
+      "reason": "장중 +12.8% 상승, 거래량 3개월 평균 대비 3.2배",
+      "score": 41.4
     },
     {
-      "symbol": "COHR",
-      "name": "Coherent Corp.",
-      "price": 318.5,
-      "change_percent": 10.66,
-      "volume": 7907760,
-      "avg_volume_3m": 6177077,
-      "relative_volume": 1.28,
-      "market_cap": 62372569088,
+      "symbol": "EFXT",
+      "name": "Enerflex Ltd",
+      "price": 25.44,
+      "change_percent": 11.63,
+      "volume": 1829421,
+      "avg_volume_3m": 628657,
+      "relative_volume": 2.91,
+      "market_cap": 3106297344,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +10.7% 상승, 거래량 3개월 평균 대비 1.3배",
-      "score": 13.65
+      "reason": "장중 +11.6% 상승, 거래량 3개월 평균 대비 2.9배",
+      "score": 33.84
     },
     {
       "symbol": "PSKY",
       "name": "Paramount Skydance Corporation",
-      "price": 9.485,
-      "change_percent": -8.18,
-      "volume": 24257709,
-      "avg_volume_3m": 15034904,
-      "relative_volume": 1.61,
-      "market_cap": 10615356416,
+      "price": 9.34,
+      "change_percent": -9.58,
+      "volume": 44206385,
+      "avg_volume_3m": 15646115,
+      "relative_volume": 2.83,
+      "market_cap": 10478972928,
       "exchange": "NasdaqGS",
       "sources": [
         "most_actives"
       ],
-      "reason": "장중 -8.2% 하락, 거래량 3개월 평균 대비 1.6배, 거래대금 상위 종목",
-      "score": 13.2
-    },
-    {
-      "symbol": "UTHR",
-      "name": "United Therapeutics Corporation",
-      "price": 580.375,
-      "change_percent": 7.1,
-      "volume": 964589,
-      "avg_volume_3m": 598458,
-      "relative_volume": 1.61,
-      "market_cap": 24892686336,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +7.1% 상승, 거래량 3개월 평균 대비 1.6배",
-      "score": 11.45
-    },
-    {
-      "symbol": "VICR",
-      "name": "Vicor Corporation",
-      "price": 316.77,
-      "change_percent": 9.63,
-      "volume": 926198,
-      "avg_volume_3m": 859498,
-      "relative_volume": 1.08,
-      "market_cap": 14605229056,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +9.6% 상승, 거래량 3개월 평균 대비 1.1배",
-      "score": 10.38
-    },
-    {
-      "symbol": "INFY",
-      "name": "Infosys Limited",
-      "price": 11.4299,
-      "change_percent": 6.23,
-      "volume": 29148782,
-      "avg_volume_3m": 19654495,
-      "relative_volume": 1.48,
-      "market_cap": 46295023616,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers",
-        "most_actives"
-      ],
-      "reason": "장중 +6.2% 상승, 거래량 3개월 평균 대비 1.5배, 거래대금 상위 종목",
-      "score": 9.23
-    },
-    {
-      "symbol": "LITE",
-      "name": "Lumentum Holdings Inc.",
-      "price": 1043.97,
-      "change_percent": 7.48,
-      "volume": 5376709,
-      "avg_volume_3m": 4609863,
-      "relative_volume": 1.17,
-      "market_cap": 93644103680,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +7.5% 상승, 거래량 3개월 평균 대비 1.2배",
-      "score": 8.72
-    },
-    {
-      "symbol": "XENE",
-      "name": "Xenon Pharmaceuticals Inc.",
-      "price": 39.255,
-      "change_percent": 5.55,
-      "volume": 2022323,
-      "avg_volume_3m": 1408201,
-      "relative_volume": 1.44,
-      "market_cap": 3801471232,
-      "exchange": "NasdaqGM",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +5.6% 상승, 거래량 3개월 평균 대비 1.4배",
-      "score": 7.97
-    },
-    {
-      "symbol": "CTSH",
-      "name": "Cognizant Technology Solutions ",
-      "price": 61.195,
-      "change_percent": 6.54,
-      "volume": 8065655,
-      "avg_volume_3m": 7952695,
-      "relative_volume": 1.01,
-      "market_cap": 28945233920,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +6.5% 상승, 거래량 3개월 평균 대비 1.0배",
-      "score": 6.63
-    },
-    {
-      "symbol": "INOD",
-      "name": "Innodata Inc.",
-      "price": 71.935,
-      "change_percent": 9.39,
-      "volume": 892234,
-      "avg_volume_3m": 1333158,
-      "relative_volume": 0.67,
-      "market_cap": 2473316096,
-      "exchange": "NasdaqGM",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +9.4% 상승, 거래량 3개월 평균 대비 0.7배",
-      "score": 6.28
+      "reason": "장중 -9.6% 하락, 거래량 3개월 평균 대비 2.8배, 거래대금 상위 종목",
+      "score": 27.08
     },
     {
       "symbol": "KD",
       "name": "Kyndryl Holdings, Inc.",
-      "price": 12.04,
-      "change_percent": 6.93,
-      "volume": 3180231,
-      "avg_volume_3m": 3948401,
-      "relative_volume": 0.81,
-      "market_cap": 2622531840,
+      "price": 12.12,
+      "change_percent": 7.64,
+      "volume": 10544739,
+      "avg_volume_3m": 4052969,
+      "relative_volume": 2.6,
+      "market_cap": 2639957248,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +6.9% 상승, 거래량 3개월 평균 대비 0.8배",
-      "score": 5.58
+      "reason": "장중 +7.6% 상승, 거래량 3개월 평균 대비 2.6배",
+      "score": 19.87
+    },
+    {
+      "symbol": "COHR",
+      "name": "Coherent Corp.",
+      "price": 319.19,
+      "change_percent": 10.9,
+      "volume": 11318428,
+      "avg_volume_3m": 6247520,
+      "relative_volume": 1.81,
+      "market_cap": 62507692032,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +10.9% 상승, 거래량 3개월 평균 대비 1.8배",
+      "score": 19.75
+    },
+    {
+      "symbol": "INOD",
+      "name": "Innodata Inc.",
+      "price": 71.85,
+      "change_percent": 9.26,
+      "volume": 2430710,
+      "avg_volume_3m": 1346338,
+      "relative_volume": 1.81,
+      "market_cap": 2470393600,
+      "exchange": "NasdaqGM",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +9.3% 상승, 거래량 3개월 평균 대비 1.8배",
+      "score": 16.72
+    },
+    {
+      "symbol": "LIND",
+      "name": "Lindblad Expeditions Holdings I",
+      "price": 33.63,
+      "change_percent": 7.0,
+      "volume": 1800146,
+      "avg_volume_3m": 850241,
+      "relative_volume": 2.12,
+      "market_cap": 2206790144,
+      "exchange": "NasdaqCM",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +7.0% 상승, 거래량 3개월 평균 대비 2.1배",
+      "score": 14.82
+    },
+    {
+      "symbol": "LITE",
+      "name": "Lumentum Holdings Inc.",
+      "price": 1045.78,
+      "change_percent": 7.67,
+      "volume": 7469106,
+      "avg_volume_3m": 4646644,
+      "relative_volume": 1.61,
+      "market_cap": 93806469120,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +7.7% 상승, 거래량 3개월 평균 대비 1.6배",
+      "score": 12.33
+    },
+    {
+      "symbol": "EXPO",
+      "name": "Exponent, Inc.",
+      "price": 69.9,
+      "change_percent": 6.85,
+      "volume": 860191,
+      "avg_volume_3m": 505033,
+      "relative_volume": 1.7,
+      "market_cap": 3323471360,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +6.8% 상승, 거래량 3개월 평균 대비 1.7배",
+      "score": 11.66
+    },
+    {
+      "symbol": "SLDE",
+      "name": "Slide Insurance Holdings, Inc.",
+      "price": 23.63,
+      "change_percent": 5.92,
+      "volume": 2320541,
+      "avg_volume_3m": 1179523,
+      "relative_volume": 1.97,
+      "market_cap": 2760260864,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +5.9% 상승, 거래량 3개월 평균 대비 2.0배",
+      "score": 11.64
+    },
+    {
+      "symbol": "VICR",
+      "name": "Vicor Corporation",
+      "price": 308.59,
+      "change_percent": 6.8,
+      "volume": 1460996,
+      "avg_volume_3m": 864593,
+      "relative_volume": 1.69,
+      "market_cap": 14228076544,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +6.8% 상승, 거래량 3개월 평균 대비 1.7배",
+      "score": 11.49
+    },
+    {
+      "symbol": "FRVO",
+      "name": "Fervo Energy Company",
+      "price": 14.46,
+      "change_percent": 6.4,
+      "volume": 8956244,
+      "avg_volume_3m": 5248777,
+      "relative_volume": 1.71,
+      "market_cap": 4262275840,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +6.4% 상승, 거래량 3개월 평균 대비 1.7배",
+      "score": 10.92
     }
   ]
 }
