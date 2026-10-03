@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T01:31:14+09:00",
+  "updated_at": "2026-10-03T10:45:19+09:00",
   "disclaimer": "이 목록은 공개 시세 데이터(거래량, 변동률)를 기준으로 자동 정렬한 결과이며 특정 종목의 매수/매도를 추천하지 않습니다. 투자 판단과 책임은 본인에게 있습니다.",
   "criteria": {
     "min_price": 5.0,
@@ -13,243 +13,243 @@
     {
       "symbol": "SYNA",
       "name": "Synaptics Incorporated",
-      "price": 121.25,
-      "change_percent": 14.23,
-      "volume": 5694164,
-      "avg_volume_3m": 707061,
-      "relative_volume": 8.05,
-      "market_cap": 4812704768,
+      "price": 121.1,
+      "change_percent": 14.08,
+      "volume": 7666638,
+      "avg_volume_3m": 707769,
+      "relative_volume": 10.83,
+      "market_cap": 4807838208,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +14.2% 상승, 거래량 3개월 평균 대비 8.1배",
-      "score": 114.56
-    },
-    {
-      "symbol": "WDC",
-      "name": "Western Digital Corporation",
-      "price": 405.3309,
-      "change_percent": -12.37,
-      "volume": 15339682,
-      "avg_volume_3m": 7218012,
-      "relative_volume": 2.13,
-      "market_cap": 146138382336,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "most_actives"
-      ],
-      "reason": "장중 -12.4% 하락, 거래량 3개월 평균 대비 2.1배, 거래대금 상위 종목",
-      "score": 26.29
+      "reason": "장중 +14.1% 상승, 거래량 3개월 평균 대비 10.8배",
+      "score": 152.56
     },
     {
       "symbol": "CTVA",
       "name": "Corteva, Inc.",
-      "price": 12.115,
-      "change_percent": -3.62,
-      "volume": 37277027,
-      "avg_volume_3m": 5798260,
-      "relative_volume": 6.43,
-      "market_cap": 8083079680,
+      "price": 11.92,
+      "change_percent": -5.17,
+      "volume": 78665510,
+      "avg_volume_3m": 5802200,
+      "relative_volume": 13.56,
+      "market_cap": 7952976896,
       "exchange": "NYSE",
       "sources": [
         "most_actives"
       ],
-      "reason": "장중 -3.6% 하락, 거래량 3개월 평균 대비 6.4배, 거래대금 상위 종목",
-      "score": 23.27
+      "reason": "장중 -5.2% 하락, 거래량 3개월 평균 대비 13.6배, 거래대금 상위 종목",
+      "score": 70.11
     },
     {
       "symbol": "IBRX",
       "name": "ImmunityBio, Inc.",
-      "price": 10.275,
-      "change_percent": 10.72,
-      "volume": 17901152,
-      "avg_volume_3m": 9782246,
-      "relative_volume": 1.83,
-      "market_cap": 10889817088,
+      "price": 10.285,
+      "change_percent": 10.83,
+      "volume": 31128179,
+      "avg_volume_3m": 9782461,
+      "relative_volume": 3.18,
+      "market_cap": 10900416512,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers",
         "most_actives"
       ],
-      "reason": "장중 +10.7% 상승, 거래량 3개월 평균 대비 1.8배, 거래대금 상위 종목",
-      "score": 19.62
-    },
-    {
-      "symbol": "NKE",
-      "name": "Nike, Inc.",
-      "price": 33.225,
-      "change_percent": -5.48,
-      "volume": 88631049,
-      "avg_volume_3m": 27550706,
-      "relative_volume": 3.22,
-      "market_cap": 49202470912,
-      "exchange": "NYSE",
-      "sources": [
-        "most_actives"
-      ],
-      "reason": "장중 -5.5% 하락, 거래량 3개월 평균 대비 3.2배, 거래대금 상위 종목",
-      "score": 17.62
+      "reason": "장중 +10.8% 상승, 거래량 3개월 평균 대비 3.2배, 거래대금 상위 종목",
+      "score": 34.46
     },
     {
       "symbol": "MXL",
       "name": "MaxLinear, Inc",
-      "price": 103.8703,
-      "change_percent": 12.76,
-      "volume": 2651478,
+      "price": 105.93,
+      "change_percent": 14.99,
+      "volume": 4760558,
       "avg_volume_3m": 3063339,
-      "relative_volume": 0.87,
-      "market_cap": 9420328960,
+      "relative_volume": 1.55,
+      "market_cap": 9607130112,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +12.8% 상승, 거래량 3개월 평균 대비 0.9배",
-      "score": 11.04
-    },
-    {
-      "symbol": "VECO",
-      "name": "Veeco Instruments Inc.",
-      "price": 58.575,
-      "change_percent": 10.12,
-      "volume": 807788,
-      "avg_volume_3m": 772896,
-      "relative_volume": 1.05,
-      "market_cap": 3580668672,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +10.1% 상승, 거래량 3개월 평균 대비 1.0배",
-      "score": 10.58
-    },
-    {
-      "symbol": "ALGM",
-      "name": "Allegro MicroSystems, Inc.",
-      "price": 39.56,
-      "change_percent": 8.74,
-      "volume": 2511187,
-      "avg_volume_3m": 2359125,
-      "relative_volume": 1.06,
-      "market_cap": 7374065152,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +8.7% 상승, 거래량 3개월 평균 대비 1.1배",
-      "score": 9.3
-    },
-    {
-      "symbol": "QGEN",
-      "name": "Qiagen N.V.",
-      "price": 45.115,
-      "change_percent": 7.31,
-      "volume": 3097828,
-      "avg_volume_3m": 2723511,
-      "relative_volume": 1.14,
-      "market_cap": 9316022272,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +7.3% 상승, 거래량 3개월 평균 대비 1.1배",
-      "score": 8.32
+      "reason": "장중 +15.0% 상승, 거래량 3개월 평균 대비 1.6배",
+      "score": 23.3
     },
     {
       "symbol": "VSH",
       "name": "Vishay Intertechnology, Inc.",
-      "price": 37.94,
-      "change_percent": 10.71,
-      "volume": 3279033,
+      "price": 38.18,
+      "change_percent": 11.41,
+      "volume": 8869484,
       "avg_volume_3m": 4443952,
-      "relative_volume": 0.74,
-      "market_cap": 5819205632,
+      "relative_volume": 2.0,
+      "market_cap": 5856016896,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +10.7% 상승, 거래량 3개월 평균 대비 0.7배",
-      "score": 7.9
+      "reason": "장중 +11.4% 상승, 거래량 3개월 평균 대비 2.0배",
+      "score": 22.77
     },
     {
-      "symbol": "VIAV",
-      "name": "Viavi Solutions Inc.",
-      "price": 47.92,
-      "change_percent": 7.01,
-      "volume": 4934022,
-      "avg_volume_3m": 4978553,
-      "relative_volume": 0.99,
-      "market_cap": 11824250880,
+      "symbol": "ALGM",
+      "name": "Allegro MicroSystems, Inc.",
+      "price": 39.53,
+      "change_percent": 8.66,
+      "volume": 5902691,
+      "avg_volume_3m": 2359125,
+      "relative_volume": 2.5,
+      "market_cap": 7368472576,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +7.0% 상승, 거래량 3개월 평균 대비 1.0배",
-      "score": 6.95
+      "reason": "장중 +8.7% 상승, 거래량 3개월 평균 대비 2.5배",
+      "score": 21.66
+    },
+    {
+      "symbol": "RXO",
+      "name": "RXO, Inc.",
+      "price": 23.38,
+      "change_percent": 9.46,
+      "volume": 3673984,
+      "avg_volume_3m": 1779933,
+      "relative_volume": 2.06,
+      "market_cap": 3855972608,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +9.5% 상승, 거래량 3개월 평균 대비 2.1배",
+      "score": 19.52
+    },
+    {
+      "symbol": "NKE",
+      "name": "Nike, Inc.",
+      "price": 33.87,
+      "change_percent": -3.64,
+      "volume": 141948809,
+      "avg_volume_3m": 27666104,
+      "relative_volume": 5.13,
+      "market_cap": 50157641728,
+      "exchange": "NYSE",
+      "sources": [
+        "most_actives"
+      ],
+      "reason": "장중 -3.6% 하락, 거래량 3개월 평균 대비 5.1배, 거래대금 상위 종목",
+      "score": 18.68
+    },
+    {
+      "symbol": "LW",
+      "name": "Lamb Weston Holdings, Inc.",
+      "price": 43.6,
+      "change_percent": 5.88,
+      "volume": 4090873,
+      "avg_volume_3m": 1610771,
+      "relative_volume": 2.54,
+      "market_cap": 5994265088,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +5.9% 상승, 거래량 3개월 평균 대비 2.5배",
+      "score": 14.92
+    },
+    {
+      "symbol": "PENG",
+      "name": "Penguin Solutions, Inc.",
+      "price": 61.36,
+      "change_percent": 11.6,
+      "volume": 3339481,
+      "avg_volume_3m": 2609642,
+      "relative_volume": 1.28,
+      "market_cap": 3144252160,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +11.6% 상승, 거래량 3개월 평균 대비 1.3배",
+      "score": 14.85
+    },
+    {
+      "symbol": "VECO",
+      "name": "Veeco Instruments Inc.",
+      "price": 57.38,
+      "change_percent": 7.88,
+      "volume": 1451287,
+      "avg_volume_3m": 772896,
+      "relative_volume": 1.88,
+      "market_cap": 3507618816,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +7.9% 상승, 거래량 3개월 평균 대비 1.9배",
+      "score": 14.79
     },
     {
       "symbol": "PL",
       "name": "Planet Labs PBC",
-      "price": 17.43,
-      "change_percent": 7.99,
-      "volume": 6503703,
+      "price": 17.5,
+      "change_percent": 8.43,
+      "volume": 14900372,
       "avg_volume_3m": 8676719,
-      "relative_volume": 0.75,
-      "market_cap": 6341870592,
+      "relative_volume": 1.72,
+      "market_cap": 6367340032,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +8.0% 상승, 거래량 3개월 평균 대비 0.7배",
-      "score": 5.99
+      "reason": "장중 +8.4% 상승, 거래량 3개월 평균 대비 1.7배",
+      "score": 14.47
     },
     {
-      "symbol": "STM",
-      "name": "STMicroelectronics N.V.",
-      "price": 56.57,
-      "change_percent": 5.74,
-      "volume": 9307810,
-      "avg_volume_3m": 9510465,
-      "relative_volume": 0.98,
-      "market_cap": 50463666176,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +5.7% 상승, 거래량 3개월 평균 대비 1.0배",
-      "score": 5.62
-    },
-    {
-      "symbol": "SMTC",
-      "name": "Semtech Corporation",
-      "price": 199.74,
-      "change_percent": 7.05,
-      "volume": 2331354,
-      "avg_volume_3m": 2934023,
-      "relative_volume": 0.79,
-      "market_cap": 18640861184,
+      "symbol": "ON",
+      "name": "ON Semiconductor Corporation",
+      "price": 84.89,
+      "change_percent": 6.01,
+      "volume": 22883034,
+      "avg_volume_3m": 9821839,
+      "relative_volume": 2.33,
+      "market_cap": 33049257984,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +7.0% 상승, 거래량 3개월 평균 대비 0.8배",
-      "score": 5.6
+      "reason": "장중 +6.0% 상승, 거래량 3개월 평균 대비 2.3배",
+      "score": 13.99
     },
     {
-      "symbol": "AAOI",
-      "name": "Applied Optoelectronics, Inc.",
-      "price": 114.66,
-      "change_percent": 6.84,
-      "volume": 7581866,
-      "avg_volume_3m": 9295133,
-      "relative_volume": 0.82,
-      "market_cap": 9735355392,
-      "exchange": "NasdaqGM",
+      "symbol": "PPC",
+      "name": "Pilgrim's Pride Corporation",
+      "price": 27.5,
+      "change_percent": 9.13,
+      "volume": 2171962,
+      "avg_volume_3m": 1539814,
+      "relative_volume": 1.41,
+      "market_cap": 6547984384,
+      "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +6.8% 상승, 거래량 3개월 평균 대비 0.8배",
-      "score": 5.58
+      "reason": "장중 +9.1% 상승, 거래량 3개월 평균 대비 1.4배",
+      "score": 12.87
+    },
+    {
+      "symbol": "AADX",
+      "name": "Applied Aerospace & Defense, In",
+      "price": 12.63,
+      "change_percent": 8.04,
+      "volume": 2266985,
+      "avg_volume_3m": 1523904,
+      "relative_volume": 1.49,
+      "market_cap": 2177330176,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +8.0% 상승, 거래량 3개월 평균 대비 1.5배",
+      "score": 11.96
     }
   ]
 }
