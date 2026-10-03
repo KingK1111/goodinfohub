@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T10:45:19+09:00",
+  "updated_at": "2026-10-03T19:10:22+09:00",
   "disclaimer": "이 목록은 공개 시세 데이터(거래량, 변동률)를 기준으로 자동 정렬한 결과이며 특정 종목의 매수/매도를 추천하지 않습니다. 투자 판단과 책임은 본인에게 있습니다.",
   "criteria": {
     "min_price": 5.0,
@@ -81,7 +81,7 @@
       "price": 38.18,
       "change_percent": 11.41,
       "volume": 8869484,
-      "avg_volume_3m": 4443952,
+      "avg_volume_3m": 4444142,
       "relative_volume": 2.0,
       "market_cap": 5856016896,
       "exchange": "NYSE",
@@ -131,7 +131,7 @@
       "volume": 141948809,
       "avg_volume_3m": 27666104,
       "relative_volume": 5.13,
-      "market_cap": 50157641728,
+      "market_cap": 50246103040,
       "exchange": "NYSE",
       "sources": [
         "most_actives"
@@ -179,7 +179,7 @@
       "volume": 1451287,
       "avg_volume_3m": 772896,
       "relative_volume": 1.88,
-      "market_cap": 3507618816,
+      "market_cap": 3502101504,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
@@ -193,7 +193,7 @@
       "price": 17.5,
       "change_percent": 8.43,
       "volume": 14900372,
-      "avg_volume_3m": 8676719,
+      "avg_volume_3m": 8677052,
       "relative_volume": 1.72,
       "market_cap": 6367340032,
       "exchange": "NYSE",
@@ -209,7 +209,7 @@
       "price": 84.89,
       "change_percent": 6.01,
       "volume": 22883034,
-      "avg_volume_3m": 9821839,
+      "avg_volume_3m": 9823187,
       "relative_volume": 2.33,
       "market_cap": 33049257984,
       "exchange": "NasdaqGS",
