@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-05T00:42:42+09:00",
+  "updated_at": "2026-10-05T10:38:06+09:00",
   "disclaimer": "이 목록은 공개 시세 데이터(거래량, 변동률)를 기준으로 자동 정렬한 결과이며 특정 종목의 매수/매도를 추천하지 않습니다. 투자 판단과 책임은 본인에게 있습니다.",
   "criteria": {
     "min_price": 5.0,
@@ -15,7 +15,7 @@
       "name": "Synaptics Incorporated",
       "price": 121.1,
       "change_percent": 14.08,
-      "volume": 7666638,
+      "volume": 7668306,
       "avg_volume_3m": 816506,
       "relative_volume": 9.39,
       "market_cap": 4807838208,
@@ -24,7 +24,7 @@
         "day_gainers"
       ],
       "reason": "장중 +14.1% 상승, 거래량 3개월 평균 대비 9.4배",
-      "score": 132.24
+      "score": 132.27
     },
     {
       "symbol": "CTVA",
@@ -47,9 +47,9 @@
       "name": "ImmunityBio, Inc.",
       "price": 10.285,
       "change_percent": 10.83,
-      "volume": 31128179,
+      "volume": 31251554,
       "avg_volume_3m": 10116496,
-      "relative_volume": 3.08,
+      "relative_volume": 3.09,
       "market_cap": 10900416512,
       "exchange": "NasdaqGS",
       "sources": [
@@ -57,23 +57,23 @@
         "most_actives"
       ],
       "reason": "장중 +10.8% 상승, 거래량 3개월 평균 대비 3.1배, 거래대금 상위 종목",
-      "score": 33.32
+      "score": 33.45
     },
     {
       "symbol": "MXL",
       "name": "MaxLinear, Inc",
       "price": 105.93,
       "change_percent": 14.99,
-      "volume": 4760558,
+      "volume": 4790159,
       "avg_volume_3m": 3090215,
-      "relative_volume": 1.54,
+      "relative_volume": 1.55,
       "market_cap": 9607130112,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +15.0% 상승, 거래량 3개월 평균 대비 1.5배",
-      "score": 23.09
+      "reason": "장중 +15.0% 상승, 거래량 3개월 평균 대비 1.6배",
+      "score": 23.24
     },
     {
       "symbol": "VSH",
@@ -96,16 +96,16 @@
       "name": "Allegro MicroSystems, Inc.",
       "price": 39.53,
       "change_percent": 8.66,
-      "volume": 5902691,
+      "volume": 5907088,
       "avg_volume_3m": 2414543,
-      "relative_volume": 2.44,
+      "relative_volume": 2.45,
       "market_cap": 7368472576,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +8.7% 상승, 거래량 3개월 평균 대비 2.4배",
-      "score": 21.17
+      "score": 21.18
     },
     {
       "symbol": "RXO",
@@ -131,7 +131,7 @@
       "volume": 141948809,
       "avg_volume_3m": 29461442,
       "relative_volume": 4.82,
-      "market_cap": 50157641728,
+      "market_cap": 50246103040,
       "exchange": "NYSE",
       "sources": [
         "most_actives"
@@ -144,26 +144,26 @@
       "name": "Penguin Solutions, Inc.",
       "price": 61.36,
       "change_percent": 11.6,
-      "volume": 3339481,
+      "volume": 3563303,
       "avg_volume_3m": 2624484,
-      "relative_volume": 1.27,
+      "relative_volume": 1.36,
       "market_cap": 3144252160,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +11.6% 상승, 거래량 3개월 평균 대비 1.3배",
-      "score": 14.77
+      "reason": "장중 +11.6% 상승, 거래량 3개월 평균 대비 1.4배",
+      "score": 15.76
     },
     {
       "symbol": "VECO",
       "name": "Veeco Instruments Inc.",
       "price": 57.38,
       "change_percent": 7.88,
-      "volume": 1451287,
+      "volume": 1451438,
       "avg_volume_3m": 783498,
       "relative_volume": 1.85,
-      "market_cap": 3507618816,
+      "market_cap": 3502101504,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
@@ -208,7 +208,7 @@
       "name": "ON Semiconductor Corporation",
       "price": 84.89,
       "change_percent": 6.01,
-      "volume": 22883034,
+      "volume": 22908331,
       "avg_volume_3m": 10027373,
       "relative_volume": 2.28,
       "market_cap": 33049257984,
@@ -217,14 +217,14 @@
         "day_gainers"
       ],
       "reason": "장중 +6.0% 상승, 거래량 3개월 평균 대비 2.3배",
-      "score": 13.71
+      "score": 13.72
     },
     {
       "symbol": "PPC",
       "name": "Pilgrim's Pride Corporation",
       "price": 27.5,
       "change_percent": 9.13,
-      "volume": 2171962,
+      "volume": 2172038,
       "avg_volume_3m": 1549692,
       "relative_volume": 1.4,
       "market_cap": 6547984384,
