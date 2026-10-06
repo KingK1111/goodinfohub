@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T20:38:39+09:00",
+  "updated_at": "2026-10-07T02:05:16+09:00",
   "disclaimer": "이 목록은 공개 시세 데이터(거래량, 변동률)를 기준으로 자동 정렬한 결과이며 특정 종목의 매수/매도를 추천하지 않습니다. 투자 판단과 책임은 본인에게 있습니다.",
   "criteria": {
     "min_price": 5.0,
@@ -11,251 +11,246 @@
   },
   "candidates": [
     {
-      "symbol": "PTC",
-      "name": "PTC Inc.",
-      "price": 192.26,
-      "change_percent": 33.49,
-      "volume": 29525582,
-      "avg_volume_3m": 1494319,
-      "relative_volume": 19.76,
-      "market_cap": 20861413376,
+      "symbol": "OPCH",
+      "name": "Option Care Health, Inc.",
+      "price": 31.1,
+      "change_percent": 33.07,
+      "volume": 41565501,
+      "avg_volume_3m": 2191401,
+      "relative_volume": 18.97,
+      "market_cap": 4658321408,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers",
         "most_actives"
       ],
-      "reason": "장중 +33.5% 상승, 거래량 3개월 평균 대비 19.8배, 거래대금 상위 종목",
-      "score": 661.64
+      "reason": "장중 +33.1% 상승, 거래량 3개월 평균 대비 19.0배, 거래대금 상위 종목",
+      "score": 627.25
     },
     {
-      "symbol": "PCVX",
-      "name": "Vaxcyte, Inc.",
-      "price": 73.82,
-      "change_percent": 30.7,
-      "volume": 14838609,
-      "avg_volume_3m": 1366870,
-      "relative_volume": 10.86,
-      "market_cap": 10984805376,
+      "symbol": "CEG",
+      "name": "Constellation Energy Corporatio",
+      "price": 307.19,
+      "change_percent": 14.79,
+      "volume": 8126806,
+      "avg_volume_3m": 2802829,
+      "relative_volume": 2.9,
+      "market_cap": 108839690240,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +30.7% 상승, 거래량 3개월 평균 대비 10.9배",
-      "score": 333.29
+      "reason": "장중 +14.8% 상승, 거래량 3개월 평균 대비 2.9배",
+      "score": 42.87
     },
     {
-      "symbol": "RXO",
-      "name": "RXO, Inc.",
-      "price": 28.65,
-      "change_percent": 22.54,
-      "volume": 20296313,
-      "avg_volume_3m": 1814601,
-      "relative_volume": 11.19,
-      "market_cap": 4725133312,
+      "symbol": "VST",
+      "name": "Vistra Corp.",
+      "price": 162.1,
+      "change_percent": 11.88,
+      "volume": 12337344,
+      "avg_volume_3m": 4718410,
+      "relative_volume": 2.61,
+      "market_cap": 54406467584,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +22.5% 상승, 거래량 3개월 평균 대비 11.2배",
-      "score": 252.12
-    },
-    {
-      "symbol": "XP",
-      "name": "XP Inc.",
-      "price": 28.15,
-      "change_percent": 30.93,
-      "volume": 47829489,
-      "avg_volume_3m": 6119073,
-      "relative_volume": 7.82,
-      "market_cap": 14284519424,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers",
-        "most_actives"
-      ],
-      "reason": "장중 +30.9% 상승, 거래량 3개월 평균 대비 7.8배, 거래대금 상위 종목",
-      "score": 241.76
-    },
-    {
-      "symbol": "PAGS",
-      "name": "PagSeguro Digital Ltd.",
-      "price": 10.95,
-      "change_percent": 21.4,
-      "volume": 18000625,
-      "avg_volume_3m": 2926528,
-      "relative_volume": 6.15,
-      "market_cap": 3018323712,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +21.4% 상승, 거래량 3개월 평균 대비 6.2배",
-      "score": 131.61
-    },
-    {
-      "symbol": "NVAX",
-      "name": "Novavax, Inc.",
-      "price": 12.56,
-      "change_percent": 20.08,
-      "volume": 28495693,
-      "avg_volume_3m": 4853007,
-      "relative_volume": 5.87,
-      "market_cap": 2071718400,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers",
-        "most_actives"
-      ],
-      "reason": "장중 +20.1% 상승, 거래량 3개월 평균 대비 5.9배, 거래대금 상위 종목",
-      "score": 117.88
-    },
-    {
-      "symbol": "STNE",
-      "name": "StoneCo Ltd.",
-      "price": 11.54,
-      "change_percent": 20.84,
-      "volume": 29376869,
-      "avg_volume_3m": 5357232,
-      "relative_volume": 5.48,
-      "market_cap": 2661073664,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers",
-        "most_actives"
-      ],
-      "reason": "장중 +20.8% 상승, 거래량 3개월 평균 대비 5.5배, 거래대금 상위 종목",
-      "score": 114.27
-    },
-    {
-      "symbol": "INTR",
-      "name": "Inter & Co. Inc.",
-      "price": 6.56,
-      "change_percent": 19.71,
-      "volume": 27227136,
-      "avg_volume_3m": 4762712,
-      "relative_volume": 5.72,
-      "market_cap": 2896328448,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +19.7% 상승, 거래량 3개월 평균 대비 5.7배",
-      "score": 112.67
+      "reason": "장중 +11.9% 상승, 거래량 3개월 평균 대비 2.6배",
+      "score": 31.06
     },
     {
       "symbol": "CTVA",
       "name": "Corteva, Inc.",
-      "price": 12.39,
-      "change_percent": 3.94,
-      "volume": 183061500,
-      "avg_volume_3m": 6985636,
-      "relative_volume": 26.21,
-      "market_cap": 8266558976,
-      "exchange": "NYSE",
-      "sources": [
-        "most_actives"
-      ],
-      "reason": "장중 +3.9% 상승, 거래량 3개월 평균 대비 26.2배, 거래대금 상위 종목",
-      "score": 103.33
-    },
-    {
-      "symbol": "ITUB",
-      "name": "Itau Unibanco Banco Holding SA",
-      "price": 9.92,
-      "change_percent": 15.48,
-      "volume": 113265593,
-      "avg_volume_3m": 22224169,
-      "relative_volume": 5.1,
-      "market_cap": 109336969216,
+      "price": 13.87,
+      "change_percent": 11.95,
+      "volume": 24131444,
+      "avg_volume_3m": 9740425,
+      "relative_volume": 2.48,
+      "market_cap": 9254008832,
       "exchange": "NYSE",
       "sources": [
         "day_gainers",
         "most_actives"
       ],
-      "reason": "장중 +15.5% 상승, 거래량 3개월 평균 대비 5.1배, 거래대금 상위 종목",
-      "score": 78.91
+      "reason": "장중 +11.9% 상승, 거래량 3개월 평균 대비 2.5배, 거래대금 상위 종목",
+      "score": 29.59
     },
     {
-      "symbol": "PBR-A",
-      "name": "Petroleo Brasileiro S.A. Petrob",
-      "price": 22.12,
-      "change_percent": 12.86,
-      "volume": 37587568,
-      "avg_volume_3m": 7656135,
-      "relative_volume": 4.91,
-      "market_cap": 151444897792,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers",
-        "most_actives"
-      ],
-      "reason": "장중 +12.9% 상승, 거래량 3개월 평균 대비 4.9배, 거래대금 상위 종목",
-      "score": 63.12
-    },
-    {
-      "symbol": "SBS",
-      "name": "Companhia de saneamento Basico ",
-      "price": 6.26,
-      "change_percent": 16.36,
-      "volume": 28184587,
-      "avg_volume_3m": 8059445,
-      "relative_volume": 3.5,
-      "market_cap": 22013874176,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +16.4% 상승, 거래량 3개월 평균 대비 3.5배",
-      "score": 57.2
-    },
-    {
-      "symbol": "GMAB",
-      "name": "Genmab A/S",
-      "price": 38.48,
-      "change_percent": 10.73,
-      "volume": 12398378,
-      "avg_volume_3m": 2700503,
-      "relative_volume": 4.59,
-      "market_cap": 24013772800,
+      "symbol": "TLN",
+      "name": "Talen Energy Corporation",
+      "price": 375.975,
+      "change_percent": 13.29,
+      "volume": 1503849,
+      "avg_volume_3m": 804846,
+      "relative_volume": 1.87,
+      "market_cap": 17783617536,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +10.7% 상승, 거래량 3개월 평균 대비 4.6배",
-      "score": 49.28
+      "reason": "장중 +13.3% 상승, 거래량 3개월 평균 대비 1.9배",
+      "score": 24.83
     },
     {
-      "symbol": "PBR",
-      "name": "Petroleo Brasileiro S.A. Petrob",
-      "price": 24.14,
-      "change_percent": 11.5,
-      "volume": 70054977,
-      "avg_volume_3m": 18815301,
-      "relative_volume": 3.72,
-      "market_cap": 155566997504,
+      "symbol": "LW",
+      "name": "Lamb Weston Holdings, Inc.",
+      "price": 49.775,
+      "change_percent": 11.68,
+      "volume": 3557525,
+      "avg_volume_3m": 1731850,
+      "relative_volume": 2.05,
+      "market_cap": 6843224064,
       "exchange": "NYSE",
       "sources": [
-        "day_gainers",
-        "most_actives"
+        "day_gainers"
       ],
-      "reason": "장중 +11.5% 상승, 거래량 3개월 평균 대비 3.7배, 거래대금 상위 종목",
-      "score": 42.82
+      "reason": "장중 +11.7% 상승, 거래량 3개월 평균 대비 2.1배",
+      "score": 23.99
     },
     {
-      "symbol": "ALVO",
-      "name": "Alvotech",
-      "price": 6.11,
-      "change_percent": 12.11,
-      "volume": 2898431,
-      "avg_volume_3m": 1028634,
-      "relative_volume": 2.82,
-      "market_cap": 2180152064,
+      "symbol": "CIEN",
+      "name": "Ciena Corporation",
+      "price": 432.22,
+      "change_percent": 10.91,
+      "volume": 3205238,
+      "avg_volume_3m": 2282193,
+      "relative_volume": 1.4,
+      "market_cap": 61292482560,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +10.9% 상승, 거래량 3개월 평균 대비 1.4배",
+      "score": 15.33
+    },
+    {
+      "symbol": "LEU",
+      "name": "Centrus Energy Corp.",
+      "price": 156.75,
+      "change_percent": 10.82,
+      "volume": 983441,
+      "avg_volume_3m": 717243,
+      "relative_volume": 1.37,
+      "market_cap": 3206024704,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +10.8% 상승, 거래량 3개월 평균 대비 1.4배",
+      "score": 14.84
+    },
+    {
+      "symbol": "INIO",
+      "name": "INNIO N.V.",
+      "price": 21.29,
+      "change_percent": 12.17,
+      "volume": 4344873,
+      "avg_volume_3m": 4740314,
+      "relative_volume": 0.92,
+      "market_cap": 15967500288,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +12.2% 상승, 거래량 3개월 평균 대비 0.9배",
+      "score": 11.16
+    },
+    {
+      "symbol": "UEC",
+      "name": "Uranium Energy Corp.",
+      "price": 10.325,
+      "change_percent": 10.43,
+      "volume": 8736732,
+      "avg_volume_3m": 8566439,
+      "relative_volume": 1.02,
+      "market_cap": 5116911616,
+      "exchange": "NYSE American",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +10.4% 상승, 거래량 3개월 평균 대비 1.0배",
+      "score": 10.64
+    },
+    {
+      "symbol": "CCJ",
+      "name": "Cameco Corporation",
+      "price": 94.16,
+      "change_percent": 7.65,
+      "volume": 3777366,
+      "avg_volume_3m": 3187043,
+      "relative_volume": 1.19,
+      "market_cap": 41009786880,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +7.6% 상승, 거래량 3개월 평균 대비 1.2배",
+      "score": 9.07
+    },
+    {
+      "symbol": "XE",
+      "name": "X-Energy, Inc.",
+      "price": 15.88,
+      "change_percent": 10.2,
+      "volume": 5238677,
+      "avg_volume_3m": 5961404,
+      "relative_volume": 0.88,
+      "market_cap": 6453093888,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +10.2% 상승, 거래량 3개월 평균 대비 0.9배",
+      "score": 8.96
+    },
+    {
+      "symbol": "INTR",
+      "name": "Inter & Co. Inc.",
+      "price": 7.015,
+      "change_percent": 6.94,
+      "volume": 6351114,
+      "avg_volume_3m": 5130525,
+      "relative_volume": 1.24,
+      "market_cap": 3097217024,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +6.9% 상승, 거래량 3개월 평균 대비 1.2배",
+      "score": 8.59
+    },
+    {
+      "symbol": "GDS",
+      "name": "GDS Holdings Limited",
+      "price": 31.69,
+      "change_percent": 8.19,
+      "volume": 1629820,
+      "avg_volume_3m": 1573123,
+      "relative_volume": 1.04,
+      "market_cap": 6349966848,
       "exchange": "NasdaqGM",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +12.1% 상승, 거래량 3개월 평균 대비 2.8배",
-      "score": 34.12
+      "reason": "장중 +8.2% 상승, 거래량 3개월 평균 대비 1.0배",
+      "score": 8.49
+    },
+    {
+      "symbol": "OKLO",
+      "name": "Oklo Inc.",
+      "price": 38.75,
+      "change_percent": 7.73,
+      "volume": 10119788,
+      "avg_volume_3m": 9480662,
+      "relative_volume": 1.07,
+      "market_cap": 7208183808,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +7.7% 상승, 거래량 3개월 평균 대비 1.1배",
+      "score": 8.25
     }
   ]
 }
