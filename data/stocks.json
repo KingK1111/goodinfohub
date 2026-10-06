@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T11:59:23+09:00",
+  "updated_at": "2026-10-06T20:38:39+09:00",
   "disclaimer": "이 목록은 공개 시세 데이터(거래량, 변동률)를 기준으로 자동 정렬한 결과이며 특정 종목의 매수/매도를 추천하지 않습니다. 투자 판단과 책임은 본인에게 있습니다.",
   "criteria": {
     "min_price": 5.0,
@@ -33,15 +33,15 @@
       "price": 73.82,
       "change_percent": 30.7,
       "volume": 14838609,
-      "avg_volume_3m": 1154593,
-      "relative_volume": 12.85,
+      "avg_volume_3m": 1366870,
+      "relative_volume": 10.86,
       "market_cap": 10984805376,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +30.7% 상승, 거래량 3개월 평균 대비 12.9배",
-      "score": 394.56
+      "reason": "장중 +30.7% 상승, 거래량 3개월 평균 대비 10.9배",
+      "score": 333.29
     },
     {
       "symbol": "RXO",
@@ -98,15 +98,16 @@
       "price": 12.56,
       "change_percent": 20.08,
       "volume": 28495693,
-      "avg_volume_3m": 4475833,
-      "relative_volume": 6.37,
+      "avg_volume_3m": 4853007,
+      "relative_volume": 5.87,
       "market_cap": 2071718400,
       "exchange": "NasdaqGS",
       "sources": [
-        "day_gainers"
+        "day_gainers",
+        "most_actives"
       ],
-      "reason": "장중 +20.1% 상승, 거래량 3개월 평균 대비 6.4배",
-      "score": 127.82
+      "reason": "장중 +20.1% 상승, 거래량 3개월 평균 대비 5.9배, 거래대금 상위 종목",
+      "score": 117.88
     },
     {
       "symbol": "STNE",
@@ -114,16 +115,16 @@
       "price": 11.54,
       "change_percent": 20.84,
       "volume": 29376869,
-      "avg_volume_3m": 4973198,
-      "relative_volume": 5.91,
+      "avg_volume_3m": 5357232,
+      "relative_volume": 5.48,
       "market_cap": 2661073664,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers",
         "most_actives"
       ],
-      "reason": "장중 +20.8% 상승, 거래량 3개월 평균 대비 5.9배, 거래대금 상위 종목",
-      "score": 123.09
+      "reason": "장중 +20.8% 상승, 거래량 3개월 평균 대비 5.5배, 거래대금 상위 종목",
+      "score": 114.27
     },
     {
       "symbol": "INTR",
@@ -180,16 +181,16 @@
       "price": 22.12,
       "change_percent": 12.86,
       "volume": 37587568,
-      "avg_volume_3m": 7122232,
-      "relative_volume": 5.28,
+      "avg_volume_3m": 7656135,
+      "relative_volume": 4.91,
       "market_cap": 151444897792,
       "exchange": "NYSE",
       "sources": [
         "day_gainers",
         "most_actives"
       ],
-      "reason": "장중 +12.9% 상승, 거래량 3개월 평균 대비 5.3배, 거래대금 상위 종목",
-      "score": 67.85
+      "reason": "장중 +12.9% 상승, 거래량 3개월 평균 대비 4.9배, 거래대금 상위 종목",
+      "score": 63.12
     },
     {
       "symbol": "SBS",
@@ -197,16 +198,15 @@
       "price": 6.26,
       "change_percent": 16.36,
       "volume": 28184587,
-      "avg_volume_3m": 8113395,
-      "relative_volume": 3.47,
+      "avg_volume_3m": 8059445,
+      "relative_volume": 3.5,
       "market_cap": 22013874176,
       "exchange": "NYSE",
       "sources": [
-        "day_gainers",
-        "most_actives"
+        "day_gainers"
       ],
-      "reason": "장중 +16.4% 상승, 거래량 3개월 평균 대비 3.5배, 거래대금 상위 종목",
-      "score": 56.82
+      "reason": "장중 +16.4% 상승, 거래량 3개월 평균 대비 3.5배",
+      "score": 57.2
     },
     {
       "symbol": "GMAB",
@@ -214,15 +214,15 @@
       "price": 38.48,
       "change_percent": 10.73,
       "volume": 12398378,
-      "avg_volume_3m": 2546522,
-      "relative_volume": 4.87,
+      "avg_volume_3m": 2700503,
+      "relative_volume": 4.59,
       "market_cap": 24013772800,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +10.7% 상승, 거래량 3개월 평균 대비 4.9배",
-      "score": 52.26
+      "reason": "장중 +10.7% 상승, 거래량 3개월 평균 대비 4.6배",
+      "score": 49.28
     },
     {
       "symbol": "PBR",
@@ -247,15 +247,15 @@
       "price": 6.11,
       "change_percent": 12.11,
       "volume": 2898431,
-      "avg_volume_3m": 998950,
-      "relative_volume": 2.9,
+      "avg_volume_3m": 1028634,
+      "relative_volume": 2.82,
       "market_cap": 2180152064,
       "exchange": "NasdaqGM",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +12.1% 상승, 거래량 3개월 평균 대비 2.9배",
-      "score": 35.14
+      "reason": "장중 +12.1% 상승, 거래량 3개월 평균 대비 2.8배",
+      "score": 34.12
     }
   ]
 }
