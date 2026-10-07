@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-07T11:07:22+09:00",
+  "updated_at": "2026-10-07T20:28:18+09:00",
   "quote": {
     "symbol": "META",
     "price": 738.88,
-    "previous_close": 742.55,
-    "change": -3.67,
-    "change_percent": -0.49,
+    "previous_close": 740.5,
+    "change": -1.62,
+    "change_percent": -0.22,
     "currency": "USD",
     "day_high": 747.5999755859375,
     "day_low": 736.6900024414062,
@@ -13,16 +13,22 @@
   },
   "articles": [
     {
-      "title": "Here’s Why I’m Very Skeptical of the META Stock Rally (And You Should Be Too) - Barchart.com",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcjliQnJEOGNzYmJLdVpSbm9lUGlpUTRCaDI5V2NGNzFSNjBxMy1lb1lTVmlLd29FZ2pva3hEMlpFYkdyZ19XWUs0RTlUVlM0WFpwTmRPUllMNjBCZ1hNaFJrOHBLLTducjFVOWI2eDQ0QnVOSzF6aUlSWW1YdEFMYW5vclloRjI5dGJkU3ZZUlhkVGpKTXptY1RFTVhaSEY5LXNuTWFKelM1N01rZkZzbFhRZnJoTHI2?oc=5",
-      "source": "Barchart.com",
-      "published": "Mon, 05 Oct 2026 20:19:03 GMT"
-    },
-    {
       "title": "Meta Stock Could Have Another Big Run Ahead. Here’s My 2027 Price Prediction - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQzIwNERZWWtxbEkzdVJpXzBFV0FkUTRhOGpheWJwdTV1Z0RPS1JzWWM2YndmOHUyV2I3cmdDdFJoV3RVX0RrcnZNeXlyWjZLVS1rYVhWVnFVQWR4ekM2cmpwYmd4R09va1VMNnpEcXFvY1JUdlhWZE8tQjRza1BDaDUxd29pY1p2M1F2MGpFWjk3eVNvbkxOaA?oc=5",
       "source": "Yahoo Finance",
       "published": "Mon, 05 Oct 2026 16:00:56 GMT"
+    },
+    {
+      "title": "Meta’s stock sees a golden cross as shares thrive since Muse introduction - MarketWatch",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdHpKVlV2WUZuY09leGUzd3lEeTVnZDVrQWp4ZlYtSWw5R0ktWUp4UllKZUY0TGkzc2ZqcWFFMjVfV0JyQzM5SGNYcnVpT3g3QWR2cFlOdkZSRU5NU1Q1TjNMU01rS3h1a2JobjNGa2hOT0dsejd6WGdtWlpfeWdoc0dLemNPb3B4aGdpVFV4Nm1ncGU0MXRaMThQd1FfR05CQ2pvVHJpYndtSkdvMjdyRG5UeXN2Z0EtdHc?oc=5",
+      "source": "MarketWatch",
+      "published": "Wed, 07 Oct 2026 08:07:00 GMT"
+    },
+    {
+      "title": "Why New Mexico Wants $40 Billion from Meta Platforms and What It Means for META Stock - Barchart.com",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRDFZYWV1TnBjUTBncnhPSGNzbXh4YmZ2WUZybWo4MkMyaHNQb05RQW9jZFNiTU03aTNhb0RCQUE1bnNpcDBDS0tCTlpXN1VjbXlRRjR2WVM1OUtXOU1qOEN2OVR4cmVIUElHU3VtQ1NySWtIeDNkaVBFN2t2VDVEaXRZc19NaXpuRWpQVzN6aDhTdkRTUVplTUNWOFdLeEhQTWFieVdUQnl5OHFwd25oM1RtQldTMV9VX0dsUy1EY1Q5RTdBSW1V?oc=5",
+      "source": "Barchart.com",
+      "published": "Mon, 05 Oct 2026 17:49:40 GMT"
     },
     {
       "title": "Meta Platforms, Inc. $META Stock Acquired by Legacy Private Trust Co. - MarketBeat",
@@ -37,12 +43,6 @@
       "published": "Mon, 05 Oct 2026 11:05:00 GMT"
     },
     {
-      "title": "Why New Mexico Wants $40 Billion from Meta Platforms and What It Means for META Stock - Barchart.com",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRDFZYWV1TnBjUTBncnhPSGNzbXh4YmZ2WUZybWo4MkMyaHNQb05RQW9jZFNiTU03aTNhb0RCQUE1bnNpcDBDS0tCTlpXN1VjbXlRRjR2WVM1OUtXOU1qOEN2OVR4cmVIUElHU3VtQ1NySWtIeDNkaVBFN2t2VDVEaXRZc19NaXpuRWpQVzN6aDhTdkRTUVplTUNWOFdLeEhQTWFieVdUQnl5OHFwd25oM1RtQldTMV9VX0dsUy1EY1Q5RTdBSW1V?oc=5",
-      "source": "Barchart.com",
-      "published": "Mon, 05 Oct 2026 17:49:40 GMT"
-    },
-    {
       "title": "Meta stock enjoys best month since 2022 on AI momentum - CNBC",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1JU2Z5QzZ5cDZaZmhqYzJIR3lHeEduQWNfZnMyMTNNSENwdUh0cXNaOTRaZTRweS13STVyckg3MkVoNnB0aUFDV3R1YVU0YlFJbjA1YlhmRmM3cFN1eFRLQmpwUS1hZ0k2dUg4SXpuZ25LLXBU0gF6QVVfeXFMTnpwYnd1RXlTR25obHhCa28zeVhkUDFEbTZBcjA1ZklfSklPc3p0VVoxZHduRUwwdURtYVlXc0NDb1Q3U3Z1cjIwRmg0M284SUYwczV0U081MVliN0s1bkZtU1p0NWgyOUZPUnhPQkJ4bjc2OHE2RXNrNmc?oc=5",
       "source": "CNBC",
@@ -55,16 +55,10 @@
       "published": "Tue, 06 Oct 2026 15:39:00 GMT"
     },
     {
-      "title": "Meta (NASDAQ:META) Stock Gets US$1,000 Price Target as Wells Fargo Bets Big on Muse AI - Stocks Down Under",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBIYTQ3cmpSdmJIQ2w2c1VUUGJvTHBadU1Od3Jyb1NXVzV0RVdSaDZacEkxMUl0ajJyTURQaVFSSU12TVZBUDlGeGZUc3JwYkZoeDFIQTZjVzByWHNEYjRvVDZqSmQ2dDV2LVFSa0Q2MkVPVTl1X3ItS21GMA?oc=5",
-      "source": "Stocks Down Under",
-      "published": "Tue, 06 Oct 2026 21:45:14 GMT"
-    },
-    {
-      "title": "How Meta's Stock Can Surge to $1,000, According to the Biggest Bull on Wall Street - Moomoo",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOeWhDTU92Q2xjbFpCMlE3ODZnM05IZEMxamNRck9QMVNrNzgtVC1BdnAyekhiMnB2OV9fVjdwRUlTeGtuc21JcXp1MFpTVzA0UUNnVi1lT2xOQk5NMlBpU0dhcmVCTkY3dkx6QVJHdVZweHpTczlkelB1Qk82aHdzV3d6akJjWUhUWG14aG96aWhRTEIyQ3c?oc=5",
-      "source": "Moomoo",
-      "published": "Tue, 06 Oct 2026 18:23:41 GMT"
+      "title": "Meta Threatened With Major Fines In Europe Over 'Addictive' Features - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeGc5Q0ExX2swcWR0WTBPUlpNSzF4V3EyYVV4TG5ycFlrWDNqeFZXbm5xQTB3dGFLNWUzd2ljVDFGU3RLVEZSSGNobUg4ZU9sMkpmMTVEcEtVNXJNRzRhYmwzamVlbFJYTDlJWUtCTVk4MFZ6NjlqampabEh0NnZqclpuWQ?oc=5",
+      "source": "Investor's Business Daily",
+      "published": "Wed, 07 Oct 2026 02:31:43 GMT"
     },
     {
       "title": "Meta Stock Could Have Another Big Run Ahead. Here’s My 2027 Price Prediction - 24/7 Wall St.",
@@ -73,34 +67,22 @@
       "published": "Mon, 05 Oct 2026 16:00:00 GMT"
     },
     {
-      "title": "Why I Don't Think Meta's AI Strategy Will Be Successful - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRW43aVdWQVV3WWlpWm02akY2X2V6WHNpQS1VLU1GTk1BVDdtTUdQeWpDS3A3dkY2cWRrQ2YwNDE2Y1RhOFhxSllpSHFmQVlKc0xhQ0tLQ0NmUC10QWZUQmJEam1XaXFmSXJ3NHEzUmxhN0NzX0dMQ2JaU2lDR1JZZmpnSTRUVGhUZk92RVdsNW93TlNBX0ptendxM2NDcHc?oc=5",
-      "source": "The Motley Fool",
-      "published": "Tue, 06 Oct 2026 19:10:00 GMT"
-    },
-    {
-      "title": "Meta Threatened With Major Fines In Europe Over 'Addictive' Features - Investor's Business Daily",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeGc5Q0ExX2swcWR0WTBPUlpNSzF4V3EyYVV4TG5ycFlrWDNqeFZXbm5xQTB3dGFLNWUzd2ljVDFGU3RLVEZSSGNobUg4ZU9sMkpmMTVEcEtVNXJNRzRhYmwzamVlbFJYTDlJWUtCTVk4MFZ6NjlqampabEh0NnZqclpuWQ?oc=5",
-      "source": "Investor's Business Daily",
-      "published": "Tue, 06 Oct 2026 07:13:13 GMT"
-    },
-    {
       "title": "Which Dates Could Move Meta Stock Most? - Trefis",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcjBEMUNIQVp6dE1md0N3c0hkWHpiYnBsNzgzVVdvVFVIZXZtUVVjYXhLN2wxYWRMSlZsTmZrSXVfcGEtdktkZThsWGhPOHRwUC1sVEJXbUVoLWprVXNoNklXcVFuQnhaWEMwSmxQSDZUbDdHV3dOYWpicUEzN09xdWFOWmtnaTF5TldCcjAwVGpfNWZCenlULWlGYWNQZU5K?oc=5",
       "source": "Trefis",
       "published": "Mon, 05 Oct 2026 14:55:28 GMT"
     },
     {
-      "title": "Meta Stock Up 21% in One Month: New Movie About ‘Antihero’ Mark Zuckerberg Could Hurt Momentum - Benzinga",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVXF1SnFSOGkzV2k2TjNPTVlfc0w4aW13WkxybkpUejZvbHdNdU1FbVR0TjR4VXVWMnBCWkstcXRNWEdiTGhPejRxSGluLVk3aEp5TTRNdTV6b2xtOWdwaS1UY2dVeUp5VG5lU3NvS25CZ1p3Q2hac2JWbDBnTFZva0cxLVZlYXpJTUQzWTMzVmt4VVRwanlzNk9veU1QNzJuaUxkNzBLTTh1Nmg0dml2UGtVTWRZQkd4TV94RUJleFhNS3VnYzVmQm5vTTlTVXQ0cTJKdFkwY2tlbjY0NDlSOXdVNA?oc=5",
-      "source": "Benzinga",
-      "published": "Tue, 06 Oct 2026 20:06:57 GMT"
+      "title": "Meta (NASDAQ:META) Stock Gets US$1,000 Price Target as Wells Fargo Bets Big on Muse AI - Stocks Down Under",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBIYTQ3cmpSdmJIQ2w2c1VUUGJvTHBadU1Od3Jyb1NXVzV0RVdSaDZacEkxMUl0ajJyTURQaVFSSU12TVZBUDlGeGZUc3JwYkZoeDFIQTZjVzByWHNEYjRvVDZqSmQ2dDV2LVFSa0Q2MkVPVTl1X3ItS21GMA?oc=5",
+      "source": "Stocks Down Under",
+      "published": "Tue, 06 Oct 2026 21:48:16 GMT"
     },
     {
-      "title": "Wells Fargo raises Meta stock price target on AI product cycle potential - Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMl9vR0RVa1E3MEJfOXEyYU1mWVVyeVJOaGxock1EVUI5clJLSmYtSDVyQTM1RkJIeVRnczdGcFJSQk1KdEtXWE1mVTg0YlZ3TkpDaDFNbzhGUmIxcHVXVktaaUhtbTNuc2s2cnBQMHpBeExIOTJjS3h2dWhMM2lRckRVa0doNTdudVE5S1FibFdhWjRDRUxkeV9tQU9pNUVBcmFXZkRoSzcyVzVpLUxYX3o5Rk9UdERNR3hfeGhJOGk0UnkwOVkyc3VySXY?oc=5",
-      "source": "Investing.com",
-      "published": "Tue, 06 Oct 2026 11:07:28 GMT"
+      "title": "How Meta's Stock Can Surge to $1,000, According to the Biggest Bull on Wall Street - Moomoo",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOeWhDTU92Q2xjbFpCMlE3ODZnM05IZEMxamNRck9QMVNrNzgtVC1BdnAyekhiMnB2OV9fVjdwRUlTeGtuc21JcXp1MFpTVzA0UUNnVi1lT2xOQk5NMlBpU0dhcmVCTkY3dkx6QVJHdVZweHpTczlkelB1Qk82aHdzV3d6akJjWUhUWG14aG96aWhRTEIyQ3c?oc=5",
+      "source": "Moomoo",
+      "published": "Tue, 06 Oct 2026 18:23:41 GMT"
     },
     {
       "title": "1 Internet Stock with Exciting Potential and 2 We Brush Off - StockStory",
@@ -109,16 +91,28 @@
       "published": "Mon, 05 Oct 2026 10:33:53 GMT"
     },
     {
+      "title": "Why I Don't Think Meta's AI Strategy Will Be Successful - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRW43aVdWQVV3WWlpWm02akY2X2V6WHNpQS1VLU1GTk1BVDdtTUdQeWpDS3A3dkY2cWRrQ2YwNDE2Y1RhOFhxSllpSHFmQVlKc0xhQ0tLQ0NmUC10QWZUQmJEam1XaXFmSXJ3NHEzUmxhN0NzX0dMQ2JaU2lDR1JZZmpnSTRUVGhUZk92RVdsNW93TlNBX0ptendxM2NDcHc?oc=5",
+      "source": "The Motley Fool",
+      "published": "Tue, 06 Oct 2026 19:10:00 GMT"
+    },
+    {
+      "title": "Meta Stock Up 21% in One Month: New Movie About ‘Antihero’ Mark Zuckerberg Could Hurt Momentum - Benzinga",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVXF1SnFSOGkzV2k2TjNPTVlfc0w4aW13WkxybkpUejZvbHdNdU1FbVR0TjR4VXVWMnBCWkstcXRNWEdiTGhPejRxSGluLVk3aEp5TTRNdTV6b2xtOWdwaS1UY2dVeUp5VG5lU3NvS25CZ1p3Q2hac2JWbDBnTFZva0cxLVZlYXpJTUQzWTMzVmt4VVRwanlzNk9veU1QNzJuaUxkNzBLTTh1Nmg0dml2UGtVTWRZQkd4TV94RUJleFhNS3VnYzVmQm5vTTlTVXQ0cTJKdFkwY2tlbjY0NDlSOXdVNA?oc=5",
+      "source": "Benzinga",
+      "published": "Tue, 06 Oct 2026 20:06:57 GMT"
+    },
+    {
+      "title": "Here’s Why I’m Very Skeptical of the META Stock Rally (And You Should Be Too) - Barchart.com",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcjliQnJEOGNzYmJLdVpSbm9lUGlpUTRCaDI5V2NGNzFSNjBxMy1lb1lTVmlLd29FZ2pva3hEMlpFYkdyZ19XWUs0RTlUVlM0WFpwTmRPUllMNjBCZ1hNaFJrOHBLLTducjFVOWI2eDQ0QnVOSzF6aUlSWW1YdEFMYW5vclloRjI5dGJkU3ZZUlhkVGpKTXptY1RFTVhaSEY5LXNuTWFKelM1N01rZkZzbFhRZnJoTHI2?oc=5",
+      "source": "Barchart.com",
+      "published": "Mon, 05 Oct 2026 20:19:03 GMT"
+    },
+    {
       "title": "Meta Platforms, Inc. $META Shares Sold by Congress Asset Management Co. - MarketBeat",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUDZEMkNETHhIbGxDRGlwWEROVXFKcUNpYnRidWgzdlNXajA0S2loQTZLWW52Zl9jTGx4MGw2NV9WUnN6NXc5MjBsNm5wWllsTmlzdWVaam5LdnIzRGt5Rm1EdGRJZ3VzUWs3bU1hTHdDQkFBOXNNLXhDYXZXVjE5cnZ6YWxDX0JaeFJhbFIyMkVZT2pWYXNFZ0tUMHFJTm8tcUZ0N1NPa0ZNS1U0UmlPaEQ2akNfeTA4SmlCZUpUNndQRkRobXl3?oc=5",
       "source": "MarketBeat",
       "published": "Tue, 06 Oct 2026 23:14:43 GMT"
-    },
-    {
-      "title": "Alphabet vs. Meta Platforms: Which AI Stock Will Make You Richer? - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQXUycXRZX1RMT0d6WllPM0xmOXdSdmVkTG5xbUFSWGhYbU9JTVVCeDd1X3NFdTZNQWFsVGRsNlN6TGNMVzk4cm1ZQWdKSjBhdThoOTdIVVhLU1VIVVIyRTctaEdoeWlMMlU3d096Z3JNTW41LXJGa2lHVmRnSElTRFA5VEN3SVc0LTlqblQxSHUtZ0RIQnc?oc=5",
-      "source": "The Motley Fool",
-      "published": "Tue, 06 Oct 2026 16:00:00 GMT"
     },
     {
       "title": "Jim Cramer Believes META Muse Will “Have Much More Market Share Than OpenAI” - Yahoo Finance",
@@ -127,10 +121,16 @@
       "published": "Mon, 05 Oct 2026 20:25:06 GMT"
     },
     {
-      "title": "Meta Platforms, Inc. $META Shares Sold by Iowa State Bank - MarketBeat",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQakFTY3Y3b3NvRy16eTFBR1FHWVQySDY2QTJhT184RFZURVhJNkdPZlhhamRnTXZ2T25jcjFMenNONXJ3Vlh6V3gzbmFtZVZ2cEdORGVKaUpiY0ZLbnFTckVPSXFESXU2cWxndzJhc2c2Y05CczZybTg0N0hXNVVSLVN1Ry0zX1JqTWoxYTRxVUM2WnR2RDZZb09tQ3A1RHV0WW1GYVRnVkR0TEFSc3ZUU2JFbEFlZw?oc=5",
-      "source": "MarketBeat",
-      "published": "Tue, 06 Oct 2026 17:15:08 GMT"
+      "title": "Alphabet vs. Meta Platforms: Which AI Stock Will Make You Richer? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaTdIUGtwWXpjVWlXQS1HOURpTmZkY0VvUkRxb2FHcFF3VXdiV0UwRTRLTEZyUzNiYzdta1N1U1ZMaXFoa0VST2NlVjhmaDVFNThZYVRuZGROUzdhYnY3LXJaLTdkTXNsUTA2RW5HbEp2b0JreGxId2tzYmxWZm1WZldKX2xvRDhYQVE1UlVrbWQzMGdVejliYg?oc=5",
+      "source": "Yahoo Finance",
+      "published": "Tue, 06 Oct 2026 15:20:00 GMT"
+    },
+    {
+      "title": "Pay Attention to Meta’s Quiet Dismantling of Its Biggest Mistake - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMG5uWHI1WEJFdXI0SkhUbkZYOE8taklmb1dOdXlScmdSdm9Xekc5M0lPN0RycE12YzVMbWJJNk9OUktKYjNYeTF1YndxVnJuU2gyOEFFTmUwQmtDbE9yY3dicmdHemphMzVoU002ZnRNVDQ1Y2x6cFlxdU9CSFQtemVCeGVIbGdpTFp4UG1TVVRadjU4VDJEM21JOTBPbFNMSlZZ?oc=5",
+      "source": "Yahoo Finance",
+      "published": "Mon, 05 Oct 2026 16:45:06 GMT"
     }
   ]
 }
