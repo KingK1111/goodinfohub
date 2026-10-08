@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T20:59:29+09:00",
+  "updated_at": "2026-10-09T03:00:57+09:00",
   "disclaimer": "이 목록은 공개 시세 데이터(거래량, 변동률)를 기준으로 자동 정렬한 결과이며 특정 종목의 매수/매도를 추천하지 않습니다. 투자 판단과 책임은 본인에게 있습니다.",
   "criteria": {
     "min_price": 5.0,
@@ -11,244 +11,246 @@
   },
   "candidates": [
     {
-      "symbol": "BULL",
-      "name": "Webull Corporation",
-      "price": 5.89,
-      "change_percent": -19.09,
-      "volume": 80935317,
-      "avg_volume_3m": 14062106,
-      "relative_volume": 5.76,
-      "market_cap": 3178781184,
-      "exchange": "NasdaqCM",
-      "sources": [
-        "most_actives"
-      ],
-      "reason": "장중 -19.1% 하락, 거래량 3개월 평균 대비 5.8배, 거래대금 상위 종목",
-      "score": 109.89
-    },
-    {
-      "symbol": "PENG",
-      "name": "Penguin Solutions, Inc.",
-      "price": 72.61,
-      "change_percent": 13.08,
-      "volume": 20973895,
-      "avg_volume_3m": 2856700,
-      "relative_volume": 7.34,
-      "market_cap": 3720732416,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +13.1% 상승, 거래량 3개월 평균 대비 7.3배",
-      "score": 96.05
-    },
-    {
-      "symbol": "BSP",
-      "name": "Bending Spoons S.p.A.",
-      "price": 41.07,
-      "change_percent": 24.19,
-      "volume": 8803139,
-      "avg_volume_3m": 2357143,
-      "relative_volume": 3.73,
-      "market_cap": 26088458240,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +24.2% 상승, 거래량 3개월 평균 대비 3.7배",
-      "score": 90.35
-    },
-    {
-      "symbol": "BKH",
-      "name": "Black Hills Corporation",
-      "price": 75.84,
-      "change_percent": 7.21,
-      "volume": 4209566,
-      "avg_volume_3m": 921940,
-      "relative_volume": 4.57,
-      "market_cap": 5783037952,
+      "symbol": "MANE",
+      "name": "Veradermics, Incorporated",
+      "price": 126.19,
+      "change_percent": 13.74,
+      "volume": 2611572,
+      "avg_volume_3m": 729806,
+      "relative_volume": 3.58,
+      "market_cap": 5272235520,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +7.2% 상승, 거래량 3개월 평균 대비 4.6배",
-      "score": 32.92
+      "reason": "장중 +13.7% 상승, 거래량 3개월 평균 대비 3.6배",
+      "score": 49.15
     },
     {
-      "symbol": "BKV",
-      "name": "BKV Corporation",
-      "price": 23.68,
+      "symbol": "HAE",
+      "name": "Haemonetics Corporation",
+      "price": 118.305,
+      "change_percent": 16.3,
+      "volume": 1871475,
+      "avg_volume_3m": 678940,
+      "relative_volume": 2.76,
+      "market_cap": 5382528512,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +16.3% 상승, 거래량 3개월 평균 대비 2.8배",
+      "score": 44.92
+    },
+    {
+      "symbol": "SECZ",
+      "name": "Securitize Corp.",
+      "price": 12.58,
+      "change_percent": 10.35,
+      "volume": 6241637,
+      "avg_volume_3m": 2754062,
+      "relative_volume": 2.27,
+      "market_cap": 2053882240,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +10.4% 상승, 거래량 3개월 평균 대비 2.3배",
+      "score": 23.46
+    },
+    {
+      "symbol": "CMG",
+      "name": "Chipotle Mexican Grill, Inc.",
+      "price": 33.045,
       "change_percent": 7.39,
-      "volume": 4599572,
-      "avg_volume_3m": 1497001,
-      "relative_volume": 3.07,
-      "market_cap": 2591488000,
+      "volume": 42928188,
+      "avg_volume_3m": 16466875,
+      "relative_volume": 2.61,
+      "market_cap": 41815736320,
       "exchange": "NYSE",
       "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +7.4% 상승, 거래량 3개월 평균 대비 3.1배",
-      "score": 22.71
-    },
-    {
-      "symbol": "SKYD",
-      "name": "Paramount Skydance Corporation",
-      "price": 8.89,
-      "change_percent": -6.72,
-      "volume": 43231834,
-      "avg_volume_3m": 17276798,
-      "relative_volume": 2.5,
-      "market_cap": 44824965120,
-      "exchange": "NYSE",
-      "sources": [
+        "day_gainers",
         "most_actives"
       ],
-      "reason": "장중 -6.7% 하락, 거래량 3개월 평균 대비 2.5배, 거래대금 상위 종목",
-      "score": 16.8
-    },
-    {
-      "symbol": "QXO",
-      "name": "QXO, Inc.",
-      "price": 11.31,
-      "change_percent": -6.61,
-      "volume": 46448264,
-      "avg_volume_3m": 20102995,
-      "relative_volume": 2.31,
-      "market_cap": 11734020096,
-      "exchange": "NYSE",
-      "sources": [
-        "most_actives"
-      ],
-      "reason": "장중 -6.6% 하락, 거래량 3개월 평균 대비 2.3배, 거래대금 상위 종목",
-      "score": 15.26
-    },
-    {
-      "symbol": "APLD",
-      "name": "Applied Digital Corporation",
-      "price": 23.81,
-      "change_percent": -6.04,
-      "volume": 44658026,
-      "avg_volume_3m": 18145437,
-      "relative_volume": 2.46,
-      "market_cap": 7123241984,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "most_actives"
-      ],
-      "reason": "장중 -6.0% 하락, 거래량 3개월 평균 대비 2.5배, 거래대금 상위 종목",
-      "score": 14.86
-    },
-    {
-      "symbol": "BRZE",
-      "name": "Braze, Inc.",
-      "price": 28.46,
-      "change_percent": 8.05,
-      "volume": 4043815,
-      "avg_volume_3m": 2519106,
-      "relative_volume": 1.61,
-      "market_cap": 3232612608,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +8.0% 상승, 거래량 3개월 평균 대비 1.6배",
-      "score": 12.92
-    },
-    {
-      "symbol": "PGNY",
-      "name": "Progyny, Inc.",
-      "price": 27.55,
-      "change_percent": 6.33,
-      "volume": 2261578,
-      "avg_volume_3m": 1143864,
-      "relative_volume": 1.98,
-      "market_cap": 2113823232,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +6.3% 상승, 거래량 3개월 평균 대비 2.0배",
-      "score": 12.51
-    },
-    {
-      "symbol": "GKOS",
-      "name": "Glaukos Corporation",
-      "price": 172.18,
-      "change_percent": 6.55,
-      "volume": 1405586,
-      "avg_volume_3m": 798612,
-      "relative_volume": 1.76,
-      "market_cap": 10155853824,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +6.6% 상승, 거래량 3개월 평균 대비 1.8배",
-      "score": 11.53
-    },
-    {
-      "symbol": "VST",
-      "name": "Vistra Corp.",
-      "price": 166.72,
-      "change_percent": 3.88,
-      "volume": 11969036,
-      "avg_volume_3m": 5085981,
-      "relative_volume": 2.35,
-      "market_cap": 55957102592,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +3.9% 상승, 거래량 3개월 평균 대비 2.4배",
-      "score": 9.12
-    },
-    {
-      "symbol": "NRG",
-      "name": "NRG Energy, Inc.",
-      "price": 108.61,
-      "change_percent": 4.84,
-      "volume": 5365870,
-      "avg_volume_3m": 2884975,
-      "relative_volume": 1.86,
-      "market_cap": 22830960640,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +4.8% 상승, 거래량 3개월 평균 대비 1.9배",
-      "score": 8.99
+      "reason": "장중 +7.4% 상승, 거래량 3개월 평균 대비 2.6배, 거래대금 상위 종목",
+      "score": 19.27
     },
     {
       "symbol": "MDT",
       "name": "Medtronic plc.",
-      "price": 85.51,
-      "change_percent": -1.81,
-      "volume": 55890185,
+      "price": 88.04,
+      "change_percent": 2.96,
+      "volume": 56947947,
       "avg_volume_3m": 11488817,
-      "relative_volume": 4.86,
-      "market_cap": 109379084288,
+      "relative_volume": 4.96,
+      "market_cap": 112615301120,
       "exchange": "NYSE",
       "sources": [
         "most_actives"
       ],
-      "reason": "장중 -1.8% 하락, 거래량 3개월 평균 대비 4.9배, 거래대금 상위 종목",
-      "score": 8.83
+      "reason": "장중 +3.0% 상승, 거래량 3개월 평균 대비 5.0배, 거래대금 상위 종목",
+      "score": 14.67
     },
     {
-      "symbol": "IREN",
-      "name": "IREN LIMITED",
-      "price": 38.69,
-      "change_percent": -6.27,
-      "volume": 51114233,
-      "avg_volume_3m": 42514359,
-      "relative_volume": 1.2,
-      "market_cap": 15246129152,
+      "symbol": "RIOT",
+      "name": "Riot Platforms, Inc.",
+      "price": 16.6,
+      "change_percent": -10.46,
+      "volume": 23061569,
+      "avg_volume_3m": 18463201,
+      "relative_volume": 1.25,
+      "market_cap": 6229298688,
+      "exchange": "NasdaqCM",
+      "sources": [
+        "most_actives"
+      ],
+      "reason": "장중 -10.5% 하락, 거래량 3개월 평균 대비 1.2배, 거래대금 상위 종목",
+      "score": 13.07
+    },
+    {
+      "symbol": "CIFR",
+      "name": "Cipher Digital Inc.",
+      "price": 13.015,
+      "change_percent": -10.61,
+      "volume": 38275425,
+      "avg_volume_3m": 32953701,
+      "relative_volume": 1.16,
+      "market_cap": 5401625088,
       "exchange": "NasdaqGS",
       "sources": [
         "most_actives"
       ],
-      "reason": "장중 -6.3% 하락, 거래량 3개월 평균 대비 1.2배, 거래대금 상위 종목",
-      "score": 7.54
+      "reason": "장중 -10.6% 하락, 거래량 3개월 평균 대비 1.2배, 거래대금 상위 종목",
+      "score": 12.32
+    },
+    {
+      "symbol": "SBUX",
+      "name": "Starbucks Corporation",
+      "price": 89.72,
+      "change_percent": -4.12,
+      "volume": 20275503,
+      "avg_volume_3m": 6917864,
+      "relative_volume": 2.93,
+      "market_cap": 102280798208,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "most_actives"
+      ],
+      "reason": "장중 -4.1% 하락, 거래량 3개월 평균 대비 2.9배, 거래대금 상위 종목",
+      "score": 12.09
+    },
+    {
+      "symbol": "COCO",
+      "name": "The Vita Coco Company, Inc.",
+      "price": 55.06,
+      "change_percent": 8.71,
+      "volume": 1160456,
+      "avg_volume_3m": 1185148,
+      "relative_volume": 0.98,
+      "market_cap": 3186000384,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +8.7% 상승, 거래량 3개월 평균 대비 1.0배",
+      "score": 8.53
+    },
+    {
+      "symbol": "SKYD",
+      "name": "Paramount Skydance Corporation",
+      "price": 9.3596,
+      "change_percent": 5.28,
+      "volume": 25736760,
+      "avg_volume_3m": 17276798,
+      "relative_volume": 1.49,
+      "market_cap": 47192768512,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers",
+        "most_actives"
+      ],
+      "reason": "장중 +5.3% 상승, 거래량 3개월 평균 대비 1.5배, 거래대금 상위 종목",
+      "score": 7.87
+    },
+    {
+      "symbol": "IREN",
+      "name": "IREN LIMITED",
+      "price": 35.46,
+      "change_percent": -8.35,
+      "volume": 39313848,
+      "avg_volume_3m": 42514359,
+      "relative_volume": 0.92,
+      "market_cap": 13973319680,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "most_actives"
+      ],
+      "reason": "장중 -8.3% 하락, 거래량 3개월 평균 대비 0.9배, 거래대금 상위 종목",
+      "score": 7.72
+    },
+    {
+      "symbol": "APLD",
+      "name": "Applied Digital Corporation",
+      "price": 23.015,
+      "change_percent": -3.34,
+      "volume": 40813265,
+      "avg_volume_3m": 18145437,
+      "relative_volume": 2.25,
+      "market_cap": 6885401600,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "most_actives"
+      ],
+      "reason": "장중 -3.3% 하락, 거래량 3개월 평균 대비 2.2배, 거래대금 상위 종목",
+      "score": 7.51
+    },
+    {
+      "symbol": "SSL",
+      "name": "Sasol Ltd.",
+      "price": 15.165,
+      "change_percent": 6.8,
+      "volume": 1612143,
+      "avg_volume_3m": 1494246,
+      "relative_volume": 1.08,
+      "market_cap": 9721336832,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +6.8% 상승, 거래량 3개월 평균 대비 1.1배",
+      "score": 7.33
+    },
+    {
+      "symbol": "FRO",
+      "name": "Frontline Plc",
+      "price": 56.015,
+      "change_percent": 5.57,
+      "volume": 3709099,
+      "avg_volume_3m": 2818209,
+      "relative_volume": 1.32,
+      "market_cap": 12470221824,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +5.6% 상승, 거래량 3개월 평균 대비 1.3배",
+      "score": 7.33
+    },
+    {
+      "symbol": "CRWV",
+      "name": "CoreWeave, Inc.",
+      "price": 81.98,
+      "change_percent": -7.32,
+      "volume": 26633294,
+      "avg_volume_3m": 27814423,
+      "relative_volume": 0.96,
+      "market_cap": 45214969856,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "most_actives"
+      ],
+      "reason": "장중 -7.3% 하락, 거래량 3개월 평균 대비 1.0배, 거래대금 상위 종목",
+      "score": 7.0
     }
   ]
 }
