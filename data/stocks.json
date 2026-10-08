@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T11:32:46+09:00",
+  "updated_at": "2026-10-08T20:59:29+09:00",
   "disclaimer": "이 목록은 공개 시세 데이터(거래량, 변동률)를 기준으로 자동 정렬한 결과이며 특정 종목의 매수/매도를 추천하지 않습니다. 투자 판단과 책임은 본인에게 있습니다.",
   "criteria": {
     "min_price": 5.0,
@@ -16,15 +16,15 @@
       "price": 5.89,
       "change_percent": -19.09,
       "volume": 80935317,
-      "avg_volume_3m": 12996930,
-      "relative_volume": 6.23,
+      "avg_volume_3m": 14062106,
+      "relative_volume": 5.76,
       "market_cap": 3178781184,
       "exchange": "NasdaqCM",
       "sources": [
         "most_actives"
       ],
-      "reason": "장중 -19.1% 하락, 거래량 3개월 평균 대비 6.2배, 거래대금 상위 종목",
-      "score": 118.9
+      "reason": "장중 -19.1% 하락, 거래량 3개월 평균 대비 5.8배, 거래대금 상위 종목",
+      "score": 109.89
     },
     {
       "symbol": "PENG",
@@ -32,15 +32,15 @@
       "price": 72.61,
       "change_percent": 13.08,
       "volume": 20973895,
-      "avg_volume_3m": 2744392,
-      "relative_volume": 7.64,
+      "avg_volume_3m": 2856700,
+      "relative_volume": 7.34,
       "market_cap": 3720732416,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +13.1% 상승, 거래량 3개월 평균 대비 7.6배",
-      "score": 99.98
+      "reason": "장중 +13.1% 상승, 거래량 3개월 평균 대비 7.3배",
+      "score": 96.05
     },
     {
       "symbol": "BSP",
@@ -48,15 +48,15 @@
       "price": 41.07,
       "change_percent": 24.19,
       "volume": 8803139,
-      "avg_volume_3m": 2254804,
-      "relative_volume": 3.9,
+      "avg_volume_3m": 2357143,
+      "relative_volume": 3.73,
       "market_cap": 26088458240,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +24.2% 상승, 거래량 3개월 평균 대비 3.9배",
-      "score": 94.45
+      "reason": "장중 +24.2% 상승, 거래량 3개월 평균 대비 3.7배",
+      "score": 90.35
     },
     {
       "symbol": "BKH",
@@ -64,15 +64,15 @@
       "price": 75.84,
       "change_percent": 7.21,
       "volume": 4209566,
-      "avg_volume_3m": 869752,
-      "relative_volume": 4.84,
+      "avg_volume_3m": 921940,
+      "relative_volume": 4.57,
       "market_cap": 5783037952,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +7.2% 상승, 거래량 3개월 평균 대비 4.8배",
-      "score": 34.89
+      "reason": "장중 +7.2% 상승, 거래량 3개월 평균 대비 4.6배",
+      "score": 32.92
     },
     {
       "symbol": "BKV",
@@ -80,15 +80,15 @@
       "price": 23.68,
       "change_percent": 7.39,
       "volume": 4599572,
-      "avg_volume_3m": 1447750,
-      "relative_volume": 3.18,
+      "avg_volume_3m": 1497001,
+      "relative_volume": 3.07,
       "market_cap": 2591488000,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +7.4% 상승, 거래량 3개월 평균 대비 3.2배",
-      "score": 23.49
+      "reason": "장중 +7.4% 상승, 거래량 3개월 평균 대비 3.1배",
+      "score": 22.71
     },
     {
       "symbol": "SKYD",
@@ -96,15 +96,15 @@
       "price": 8.89,
       "change_percent": -6.72,
       "volume": 43231834,
-      "avg_volume_3m": 16864511,
-      "relative_volume": 2.56,
+      "avg_volume_3m": 17276798,
+      "relative_volume": 2.5,
       "market_cap": 44824965120,
       "exchange": "NYSE",
       "sources": [
         "most_actives"
       ],
-      "reason": "장중 -6.7% 하락, 거래량 3개월 평균 대비 2.6배, 거래대금 상위 종목",
-      "score": 17.22
+      "reason": "장중 -6.7% 하락, 거래량 3개월 평균 대비 2.5배, 거래대금 상위 종목",
+      "score": 16.8
     },
     {
       "symbol": "QXO",
@@ -112,15 +112,15 @@
       "price": 11.31,
       "change_percent": -6.61,
       "volume": 46448264,
-      "avg_volume_3m": 19684638,
-      "relative_volume": 2.36,
+      "avg_volume_3m": 20102995,
+      "relative_volume": 2.31,
       "market_cap": 11734020096,
       "exchange": "NYSE",
       "sources": [
         "most_actives"
       ],
-      "reason": "장중 -6.6% 하락, 거래량 3개월 평균 대비 2.4배, 거래대금 상위 종목",
-      "score": 15.59
+      "reason": "장중 -6.6% 하락, 거래량 3개월 평균 대비 2.3배, 거래대금 상위 종목",
+      "score": 15.26
     },
     {
       "symbol": "APLD",
@@ -128,32 +128,15 @@
       "price": 23.81,
       "change_percent": -6.04,
       "volume": 44658026,
-      "avg_volume_3m": 17681171,
-      "relative_volume": 2.53,
+      "avg_volume_3m": 18145437,
+      "relative_volume": 2.46,
       "market_cap": 7123241984,
       "exchange": "NasdaqGS",
       "sources": [
         "most_actives"
       ],
       "reason": "장중 -6.0% 하락, 거래량 3개월 평균 대비 2.5배, 거래대금 상위 종목",
-      "score": 15.25
-    },
-    {
-      "symbol": "CTVA",
-      "name": "Corteva, Inc.",
-      "price": 14.45,
-      "change_percent": 3.88,
-      "volume": 41241255,
-      "avg_volume_3m": 10842922,
-      "relative_volume": 3.8,
-      "market_cap": 9640982528,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers",
-        "most_actives"
-      ],
-      "reason": "장중 +3.9% 상승, 거래량 3개월 평균 대비 3.8배, 거래대금 상위 종목",
-      "score": 14.77
+      "score": 14.86
     },
     {
       "symbol": "BRZE",
@@ -161,15 +144,15 @@
       "price": 28.46,
       "change_percent": 8.05,
       "volume": 4043815,
-      "avg_volume_3m": 2527870,
-      "relative_volume": 1.6,
+      "avg_volume_3m": 2519106,
+      "relative_volume": 1.61,
       "market_cap": 3232612608,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +8.0% 상승, 거래량 3개월 평균 대비 1.6배",
-      "score": 12.88
+      "score": 12.92
     },
     {
       "symbol": "PGNY",
@@ -177,15 +160,15 @@
       "price": 27.55,
       "change_percent": 6.33,
       "volume": 2261578,
-      "avg_volume_3m": 1126104,
-      "relative_volume": 2.01,
+      "avg_volume_3m": 1143864,
+      "relative_volume": 1.98,
       "market_cap": 2113823232,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +6.3% 상승, 거래량 3개월 평균 대비 2.0배",
-      "score": 12.71
+      "score": 12.51
     },
     {
       "symbol": "GKOS",
@@ -193,31 +176,15 @@
       "price": 172.18,
       "change_percent": 6.55,
       "volume": 1405586,
-      "avg_volume_3m": 791912,
-      "relative_volume": 1.77,
+      "avg_volume_3m": 798612,
+      "relative_volume": 1.76,
       "market_cap": 10155853824,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +6.6% 상승, 거래량 3개월 평균 대비 1.8배",
-      "score": 11.63
-    },
-    {
-      "symbol": "MDT",
-      "name": "Medtronic plc.",
-      "price": 85.51,
-      "change_percent": -1.81,
-      "volume": 55890185,
-      "avg_volume_3m": 10705314,
-      "relative_volume": 5.22,
-      "market_cap": 109379084288,
-      "exchange": "NYSE",
-      "sources": [
-        "most_actives"
-      ],
-      "reason": "장중 -1.8% 하락, 거래량 3개월 평균 대비 5.2배, 거래대금 상위 종목",
-      "score": 9.47
+      "score": 11.53
     },
     {
       "symbol": "VST",
@@ -225,15 +192,15 @@
       "price": 166.72,
       "change_percent": 3.88,
       "volume": 11969036,
-      "avg_volume_3m": 4955134,
-      "relative_volume": 2.42,
+      "avg_volume_3m": 5085981,
+      "relative_volume": 2.35,
       "market_cap": 55957102592,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +3.9% 상승, 거래량 3개월 평균 대비 2.4배",
-      "score": 9.36
+      "score": 9.12
     },
     {
       "symbol": "NRG",
@@ -241,15 +208,47 @@
       "price": 108.61,
       "change_percent": 4.84,
       "volume": 5365870,
-      "avg_volume_3m": 2836504,
-      "relative_volume": 1.89,
+      "avg_volume_3m": 2884975,
+      "relative_volume": 1.86,
       "market_cap": 22830960640,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +4.8% 상승, 거래량 3개월 평균 대비 1.9배",
-      "score": 9.15
+      "score": 8.99
+    },
+    {
+      "symbol": "MDT",
+      "name": "Medtronic plc.",
+      "price": 85.51,
+      "change_percent": -1.81,
+      "volume": 55890185,
+      "avg_volume_3m": 11488817,
+      "relative_volume": 4.86,
+      "market_cap": 109379084288,
+      "exchange": "NYSE",
+      "sources": [
+        "most_actives"
+      ],
+      "reason": "장중 -1.8% 하락, 거래량 3개월 평균 대비 4.9배, 거래대금 상위 종목",
+      "score": 8.83
+    },
+    {
+      "symbol": "IREN",
+      "name": "IREN LIMITED",
+      "price": 38.69,
+      "change_percent": -6.27,
+      "volume": 51114233,
+      "avg_volume_3m": 42514359,
+      "relative_volume": 1.2,
+      "market_cap": 15246129152,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "most_actives"
+      ],
+      "reason": "장중 -6.3% 하락, 거래량 3개월 평균 대비 1.2배, 거래대금 상위 종목",
+      "score": 7.54
     }
   ]
 }
