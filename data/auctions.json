@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-08T11:32:43+09:00",
-  "last_attempt_at": "2026-10-09T03:00:54+09:00",
+  "updated_at": "2026-10-09T11:49:30+09:00",
+  "last_attempt_at": "2026-10-09T11:49:30+09:00",
   "districts": [
     "성동구",
     "중구",
@@ -176,18 +176,6 @@
       "usage": "아파트",
       "min_sale_price": "94,618,000 (40%)",
       "status": "유찰 4회"
-    },
-    {
-      "district": "동대문구",
-      "case_no": "서울북부지방법원 2025타경13089 2026타경11231 (중복)",
-      "item_no": "1",
-      "address": "서울특별시 동대문구 용두동 779 제5동 제10층 제1009호 [집합건물 철근콘크리트조 58.59㎡]",
-      "remarks": "",
-      "appraisal_amount": "711,000,000",
-      "court_and_date": "경매9계 2026.10.13",
-      "usage": "아파트",
-      "min_sale_price": "711,000,000 (100%)",
-      "status": "신건"
     },
     {
       "district": "동대문구",
@@ -370,11 +358,5 @@
       "status": "유찰 1회"
     }
   ],
-  "errors": [
-    "성동구: HTTPConnectionPool(host='localhost', port=49475): Read timed out. (read timeout=120)",
-    "중구: HTTPConnectionPool(host='localhost', port=49475): Read timed out. (read timeout=120)",
-    "동대문구: HTTPConnectionPool(host='localhost', port=49475): Read timed out. (read timeout=120)",
-    "광진구: HTTPConnectionPool(host='localhost', port=49475): Read timed out. (read timeout=120)",
-    "송파구: HTTPConnectionPool(host='localhost', port=49475): Read timed out. (read timeout=120)"
-  ]
+  "errors": []
 }
