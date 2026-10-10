@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T19:54:51+09:00",
+  "updated_at": "2026-10-11T01:24:15+09:00",
   "quote": {
     "symbol": "META",
     "price": 718.67,
@@ -13,16 +13,16 @@
   },
   "articles": [
     {
-      "title": "Trump Reportedly Bought Up To $25M In Meta Stock, The Largest Reported Purchase Among 517 Transactions in August - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRVdIY2xmSkZudURWbE55SnMxYXJhc3JVMlBIWnA3ODVXNHpReUVwdjZBbzV1b2pDQ1NDUEtCRUstcEFCbzRfcWkwRDBaTmFKdkdGVnlacXVoVXlHeUZzYTNIeDhXaDM5UXhLY0JXeXdGSEVFc2NoSDBUNnhXQnFUVzJUR3dtREdiTjJJOUk3aFNNbkhaZGFvamlnZDN3dw?oc=5",
-      "source": "Yahoo Finance",
-      "published": "Thu, 08 Oct 2026 17:24:04 GMT"
-    },
-    {
       "title": "Meta's Muse Is Running Into The 'Internet's Bouncers.' Why Google Has A Key Advantage. - Investor's Business Daily",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVzEwWWpmQ1pqTGt4dHFsSHREOWJWSEs5MEZieXR6SnZud3NmeWdJeGNvNUtjQXNrSUZudlZsRHEydXhiTlpTMjcxMzFUTUNQX0RqOFdoOHRoMFh5WDRvMlEyLThUdXRhTXVQbGZYalg5cmtIbUdxMGZRLVVPMDREVnUxOHJWMmZO?oc=5",
       "source": "Investor's Business Daily",
       "published": "Thu, 08 Oct 2026 15:07:00 GMT"
+    },
+    {
+      "title": "Trump Reportedly Bought Up To $25M In Meta Stock, The Largest Reported Purchase Among 517 Transactions in August - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRVdIY2xmSkZudURWbE55SnMxYXJhc3JVMlBIWnA3ODVXNHpReUVwdjZBbzV1b2pDQ1NDUEtCRUstcEFCbzRfcWkwRDBaTmFKdkdGVnlacXVoVXlHeUZzYTNIeDhXaDM5UXhLY0JXeXdGSEVFc2NoSDBUNnhXQnFUVzJUR3dtREdiTjJJOUk3aFNNbkhaZGFvamlnZDN3dw?oc=5",
+      "source": "Yahoo Finance",
+      "published": "Thu, 08 Oct 2026 17:24:04 GMT"
     },
     {
       "title": "Meta Platforms, Inc. $META Stock Acquired by Wedmont Private Capital - MarketBeat",
@@ -43,16 +43,16 @@
       "published": "Thu, 08 Oct 2026 13:13:00 GMT"
     },
     {
-      "title": "What's Going On With Meta Platforms Stock Wednesday? - Benzinga",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMlNRdEVlVUlGOVVWWnRTQzl4VnhVc1JkWmlqYjE1X2VOcnRmdlFuLU1LU211aG9tSl9rMFBrWkJpcWV1WFVIck1VM0JrUzhsWF9CbjBBRmRoTS00OVJfbERhaHctbURDbDdzNkVUaXlKMkZjZ3JhN3pSXzc0ZmV5ZVdjaG1VN1F4MWFGbHBQeHJYaFNIWGNLTFN0cmF4b3ozR2txWUp6a2M?oc=5",
-      "source": "Benzinga",
-      "published": "Wed, 07 Oct 2026 16:15:27 GMT"
-    },
-    {
       "title": "Meta’s stock scores a rare ‘golden cross’ buy signal as investors swarm to its chart-topping AI agent Muse - MarketWatch",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdHpKVlV2WUZuY09leGUzd3lEeTVnZDVrQWp4ZlYtSWw5R0ktWUp4UllKZUY0TGkzc2ZqcWFFMjVfV0JyQzM5SGNYcnVpT3g3QWR2cFlOdkZSRU5NU1Q1TjNMU01rS3h1a2JobjNGa2hOT0dsejd6WGdtWlpfeWdoc0dLemNPb3B4aGdpVFV4Nm1ncGU0MXRaMThQd1FfR05CQ2pvVHJpYndtSkdvMjdyRG5UeXN2Z0EtdHc?oc=5",
       "source": "MarketWatch",
       "published": "Wed, 07 Oct 2026 11:18:00 GMT"
+    },
+    {
+      "title": "What's Going On With Meta Platforms Stock Wednesday? - Benzinga",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMlNRdEVlVUlGOVVWWnRTQzl4VnhVc1JkWmlqYjE1X2VOcnRmdlFuLU1LU211aG9tSl9rMFBrWkJpcWV1WFVIck1VM0JrUzhsWF9CbjBBRmRoTS00OVJfbERhaHctbURDbDdzNkVUaXlKMkZjZ3JhN3pSXzc0ZmV5ZVdjaG1VN1F4MWFGbHBQeHJYaFNIWGNLTFN0cmF4b3ozR2txWUp6a2M?oc=5",
+      "source": "Benzinga",
+      "published": "Wed, 07 Oct 2026 16:15:27 GMT"
     },
     {
       "title": "Trump Bought Up to $25 Million of Meta Platforms (META) Stock, New Disclosure Shows - TipRanks",
@@ -65,12 +65,6 @@
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1JU2Z5QzZ5cDZaZmhqYzJIR3lHeEduQWNfZnMyMTNNSENwdUh0cXNaOTRaZTRweS13STVyckg3MkVoNnB0aUFDV3R1YVU0YlFJbjA1YlhmRmM3cFN1eFRLQmpwUS1hZ0k2dUg4SXpuZ25LLXBU0gF6QVVfeXFMTnpwYnd1RXlTR25obHhCa28zeVhkUDFEbTZBcjA1ZklfSklPc3p0VVoxZHduRUwwdURtYVlXc0NDb1Q3U3Z1cjIwRmg0M284SUYwczV0U081MVliN0s1bkZtU1p0NWgyOUZPUnhPQkJ4bjc2OHE2RXNrNmc?oc=5",
       "source": "CNBC",
       "published": "Wed, 30 Sep 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Muse Is Nearing 2 Million Daily Users. How Investors Should View META Stock as a Result. - Barchart.com",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZFU2MFZmVnR2RkRZSDRzODRhMEZTRzRMd2dqWm00NHhSN002N3lWSV92VElsZGVudE1YVFlCaWFrTTR4S2RMSmNXeXl1dVg3WFFDN19nZUhEZHJ6N0lac2tIaWNrQlRkczFuS211VXJ4cTRMLXpRZ0VFRnpxMWZqSnYzdE9FZjZiMGgxUzJlMU5IaTNiRWhMblV1YTNLVUJsSm04WGlpMWtPOVVIdDBQTDdGeThTMTV6Nm9BaXdJTnpIOHd2T0llSXF3?oc=5",
-      "source": "Barchart.com",
-      "published": "Fri, 09 Oct 2026 18:58:46 GMT"
     },
     {
       "title": "Meta Stock Could Have Another Big Run Ahead. Here’s My 2027 Price Prediction - 24/7 Wall St.",
@@ -91,16 +85,16 @@
       "published": "Thu, 08 Oct 2026 13:42:34 GMT"
     },
     {
+      "title": "Here’s Why I’m Very Skeptical of the META Stock Rally (And You Should Be Too) - Barchart.com",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcjliQnJEOGNzYmJLdVpSbm9lUGlpUTRCaDI5V2NGNzFSNjBxMy1lb1lTVmlLd29FZ2pva3hEMlpFYkdyZ19XWUs0RTlUVlM0WFpwTmRPUllMNjBCZ1hNaFJrOHBLLTducjFVOWI2eDQ0QnVOSzF6aUlSWW1YdEFMYW5vclloRjI5dGJkU3ZZUlhkVGpKTXptY1RFTVhaSEY5LXNuTWFKelM1N01rZkZzbFhRZnJoTHI2?oc=5",
+      "source": "Barchart.com",
+      "published": "Mon, 05 Oct 2026 20:19:03 GMT"
+    },
+    {
       "title": "Which Dates Could Move Meta Stock Most? - Trefis",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcjBEMUNIQVp6dE1md0N3c0hkWHpiYnBsNzgzVVdvVFVIZXZtUVVjYXhLN2wxYWRMSlZsTmZrSXVfcGEtdktkZThsWGhPOHRwUC1sVEJXbUVoLWprVXNoNklXcVFuQnhaWEMwSmxQSDZUbDdHV3dOYWpicUEzN09xdWFOWmtnaTF5TldCcjAwVGpfNWZCenlULWlGYWNQZU5K?oc=5",
       "source": "Trefis",
       "published": "Mon, 05 Oct 2026 14:55:28 GMT"
-    },
-    {
-      "title": "Meta Platforms, Inc. $META Stock: WoodTrust Financial Corp Raises Holdings - MarketBeat",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbENpYlF6THBxU3pSbVd2cWEwamJxU0ZxNW93SlRnSHNBN25KbmZhdmQ4MGkteGxiNlFCRDZ0cWZET1BaR0tVSUJIV0tvOE9ZM1ZkczMxWmVVSTVBdzZJZmJrOUU2ZklTYk51MS1OUThXV3NYZk1hQ3F0MlZTUnJQd2ZUdUxMaWxmb295c0FoQ0FDRXhBZFNuMkJwZmw3TVdRc0tBVExMT2l4T3RJTW5ybDVXdG45bmdfRTB0aWlLZzRCSndqNlVFZ1VnYw?oc=5",
-      "source": "MarketBeat",
-      "published": "Sat, 10 Oct 2026 09:06:46 GMT"
     },
     {
       "title": "Meta (META) Stock Looks Fully Priced On Cash Flow Grounds - Yahoo Finance",
@@ -109,10 +103,16 @@
       "published": "Fri, 09 Oct 2026 12:14:02 GMT"
     },
     {
-      "title": "Here’s Why I’m Very Skeptical of the META Stock Rally (And You Should Be Too) - Barchart.com",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcjliQnJEOGNzYmJLdVpSbm9lUGlpUTRCaDI5V2NGNzFSNjBxMy1lb1lTVmlLd29FZ2pva3hEMlpFYkdyZ19XWUs0RTlUVlM0WFpwTmRPUllMNjBCZ1hNaFJrOHBLLTducjFVOWI2eDQ0QnVOSzF6aUlSWW1YdEFMYW5vclloRjI5dGJkU3ZZUlhkVGpKTXptY1RFTVhaSEY5LXNuTWFKelM1N01rZkZzbFhRZnJoTHI2?oc=5",
+      "title": "Meta Platforms, Inc. $META Stock: WoodTrust Financial Corp Raises Holdings - MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbENpYlF6THBxU3pSbVd2cWEwamJxU0ZxNW93SlRnSHNBN25KbmZhdmQ4MGkteGxiNlFCRDZ0cWZET1BaR0tVSUJIV0tvOE9ZM1ZkczMxWmVVSTVBdzZJZmJrOUU2ZklTYk51MS1OUThXV3NYZk1hQ3F0MlZTUnJQd2ZUdUxMaWxmb295c0FoQ0FDRXhBZFNuMkJwZmw3TVdRc0tBVExMT2l4T3RJTW5ybDVXdG45bmdfRTB0aWlLZzRCSndqNlVFZ1VnYw?oc=5",
+      "source": "MarketBeat",
+      "published": "Sat, 10 Oct 2026 09:06:46 GMT"
+    },
+    {
+      "title": "Why New Mexico Wants $40 Billion from Meta Platforms and What It Means for META Stock - Barchart.com",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRDFZYWV1TnBjUTBncnhPSGNzbXh4YmZ2WUZybWo4MkMyaHNQb05RQW9jZFNiTU03aTNhb0RCQUE1bnNpcDBDS0tCTlpXN1VjbXlRRjR2WVM1OUtXOU1qOEN2OVR4cmVIUElHU3VtQ1NySWtIeDNkaVBFN2t2VDVEaXRZc19NaXpuRWpQVzN6aDhTdkRTUVplTUNWOFdLeEhQTWFieVdUQnl5OHFwd25oM1RtQldTMV9VX0dsUy1EY1Q5RTdBSW1V?oc=5",
       "source": "Barchart.com",
-      "published": "Mon, 05 Oct 2026 20:19:03 GMT"
+      "published": "Mon, 05 Oct 2026 17:49:40 GMT"
     },
     {
       "title": "Meta Platforms, Inc. $META Stock Sold by Cypress Asset Management Inc. TX - MarketBeat",
