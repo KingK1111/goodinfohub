@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T02:21:33+09:00",
+  "updated_at": "2026-10-10T11:06:53+09:00",
   "disclaimer": "이 목록은 공개 시세 데이터(거래량, 변동률)를 기준으로 자동 정렬한 결과이며 특정 종목의 매수/매도를 추천하지 않습니다. 투자 판단과 책임은 본인에게 있습니다.",
   "criteria": {
     "min_price": 5.0,
@@ -11,245 +11,245 @@
   },
   "candidates": [
     {
-      "symbol": "ASTS",
-      "name": "AST SpaceMobile, Inc.",
-      "price": 48.415,
-      "change_percent": -14.96,
-      "volume": 39139502,
-      "avg_volume_3m": 12241889,
-      "relative_volume": 3.2,
-      "market_cap": 18841544704,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "most_actives"
-      ],
-      "reason": "장중 -15.0% 하락, 거래량 3개월 평균 대비 3.2배, 거래대금 상위 종목",
-      "score": 47.82
-    },
-    {
-      "symbol": "HUM",
-      "name": "Humana Inc.",
-      "price": 434.05,
-      "change_percent": 12.12,
-      "volume": 3179956,
-      "avg_volume_3m": 1260607,
-      "relative_volume": 2.52,
-      "market_cap": 52120854528,
+      "symbol": "CCI",
+      "name": "Crown Castle Inc.",
+      "price": 79.64,
+      "change_percent": 15.6,
+      "volume": 14173417,
+      "avg_volume_3m": 3579100,
+      "relative_volume": 3.96,
+      "market_cap": 34802679808,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +12.1% 상승, 거래량 3개월 평균 대비 2.5배",
-      "score": 30.58
+      "reason": "장중 +15.6% 상승, 거래량 3개월 평균 대비 4.0배",
+      "score": 61.8
     },
     {
       "symbol": "NVAX",
       "name": "Novavax, Inc.",
-      "price": 12.5086,
-      "change_percent": 13.61,
-      "volume": 10747351,
-      "avg_volume_3m": 5213318,
-      "relative_volume": 2.06,
-      "market_cap": 2063240192,
+      "price": 12.75,
+      "change_percent": 15.8,
+      "volume": 18978090,
+      "avg_volume_3m": 5215184,
+      "relative_volume": 3.64,
+      "market_cap": 2103058048,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +13.6% 상승, 거래량 3개월 평균 대비 2.1배",
-      "score": 28.06
+      "reason": "장중 +15.8% 상승, 거래량 3개월 평균 대비 3.6배",
+      "score": 57.51
+    },
+    {
+      "symbol": "ASTS",
+      "name": "AST SpaceMobile, Inc.",
+      "price": 50.965,
+      "change_percent": -10.48,
+      "volume": 54011382,
+      "avg_volume_3m": 12246932,
+      "relative_volume": 4.41,
+      "market_cap": 19833921536,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "most_actives"
+      ],
+      "reason": "장중 -10.5% 하락, 거래량 3개월 평균 대비 4.4배, 거래대금 상위 종목",
+      "score": 46.21
+    },
+    {
+      "symbol": "HUM",
+      "name": "Humana Inc.",
+      "price": 431.87,
+      "change_percent": 11.56,
+      "volume": 4989138,
+      "avg_volume_3m": 1260971,
+      "relative_volume": 3.96,
+      "market_cap": 51859079168,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +11.6% 상승, 거래량 3개월 평균 대비 4.0배",
+      "score": 45.74
     },
     {
       "symbol": "VZ",
       "name": "Verizon Communications Inc.",
-      "price": 41.285,
-      "change_percent": -9.55,
-      "volume": 62496181,
-      "avg_volume_3m": 21815339,
-      "relative_volume": 2.86,
-      "market_cap": 171529895936,
+      "price": 41.65,
+      "change_percent": -8.75,
+      "volume": 94888715,
+      "avg_volume_3m": 21824990,
+      "relative_volume": 4.35,
+      "market_cap": 173046398976,
       "exchange": "NYSE",
       "sources": [
         "most_actives"
       ],
-      "reason": "장중 -9.5% 하락, 거래량 3개월 평균 대비 2.9배, 거래대금 상위 종목",
-      "score": 27.35
-    },
-    {
-      "symbol": "CCI",
-      "name": "Crown Castle Inc.",
-      "price": 77.545,
-      "change_percent": 12.56,
-      "volume": 7708058,
-      "avg_volume_3m": 3578664,
-      "relative_volume": 2.15,
-      "market_cap": 33887164416,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +12.6% 상승, 거래량 3개월 평균 대비 2.2배",
-      "score": 27.06
+      "reason": "장중 -8.7% 하락, 거래량 3개월 평균 대비 4.3배, 거래대금 상위 종목",
+      "score": 38.03
     },
     {
       "symbol": "FSLY",
       "name": "Fastly, Inc.",
-      "price": 29.4,
-      "change_percent": 16.25,
-      "volume": 8773688,
+      "price": 29.3,
+      "change_percent": 15.86,
+      "volume": 15145871,
       "avg_volume_3m": 6360710,
-      "relative_volume": 1.38,
-      "market_cap": 4683420160,
+      "relative_volume": 2.38,
+      "market_cap": 4667489792,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +16.3% 상승, 거래량 3개월 평균 대비 1.4배",
-      "score": 22.42
+      "reason": "장중 +15.9% 상승, 거래량 3개월 평균 대비 2.4배",
+      "score": 37.76
     },
     {
       "symbol": "T",
       "name": "AT&T Inc.",
-      "price": 22.1835,
-      "change_percent": -9.8,
-      "volume": 99105845,
-      "avg_volume_3m": 48350221,
-      "relative_volume": 2.05,
-      "market_cap": 152009900032,
+      "price": 22.18,
+      "change_percent": -9.81,
+      "volume": 150217381,
+      "avg_volume_3m": 48333984,
+      "relative_volume": 3.11,
+      "market_cap": 151985913856,
       "exchange": "NYSE",
       "sources": [
         "most_actives"
       ],
-      "reason": "장중 -9.8% 하락, 거래량 3개월 평균 대비 2.0배, 거래대금 상위 종목",
-      "score": 20.08
+      "reason": "장중 -9.8% 하락, 거래량 3개월 평균 대비 3.1배, 거래대금 상위 종목",
+      "score": 30.49
     },
     {
       "symbol": "AMT",
       "name": "American Tower Corporation (REI",
-      "price": 179.17,
-      "change_percent": 7.46,
-      "volume": 5032898,
+      "price": 182.24,
+      "change_percent": 9.3,
+      "volume": 8468306,
       "avg_volume_3m": 2619104,
-      "relative_volume": 1.92,
-      "market_cap": 83486064640,
+      "relative_volume": 3.23,
+      "market_cap": 84916568064,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +7.5% 상승, 거래량 3개월 평균 대비 1.9배",
-      "score": 14.34
+      "reason": "장중 +9.3% 상승, 거래량 3개월 평균 대비 3.2배",
+      "score": 30.08
     },
     {
-      "symbol": "SECZ",
-      "name": "Securitize Corp.",
-      "price": 13.86,
-      "change_percent": 9.48,
-      "volume": 4032642,
-      "avg_volume_3m": 2856754,
-      "relative_volume": 1.41,
-      "market_cap": 2262862336,
-      "exchange": "NYSE",
+      "symbol": "PCVX",
+      "name": "Vaxcyte, Inc.",
+      "price": 71.38,
+      "change_percent": 9.79,
+      "volume": 4380939,
+      "avg_volume_3m": 1698735,
+      "relative_volume": 2.58,
+      "market_cap": 10621720576,
+      "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +9.5% 상승, 거래량 3개월 평균 대비 1.4배",
-      "score": 13.38
+      "reason": "장중 +9.8% 상승, 거래량 3개월 평균 대비 2.6배",
+      "score": 25.25
     },
     {
       "symbol": "MRNA",
       "name": "Moderna, Inc.",
-      "price": 219.685,
-      "change_percent": 11.52,
-      "volume": 19592787,
-      "avg_volume_3m": 17953867,
-      "relative_volume": 1.09,
-      "market_cap": 87706140672,
+      "price": 225.0,
+      "change_percent": 14.21,
+      "volume": 28817183,
+      "avg_volume_3m": 17954073,
+      "relative_volume": 1.61,
+      "market_cap": 89828081664,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers",
         "most_actives"
       ],
-      "reason": "장중 +11.5% 상승, 거래량 3개월 평균 대비 1.1배, 거래대금 상위 종목",
-      "score": 12.57
+      "reason": "장중 +14.2% 상승, 거래량 3개월 평균 대비 1.6배, 거래대금 상위 종목",
+      "score": 22.81
     },
     {
-      "symbol": "IBRX",
-      "name": "ImmunityBio, Inc.",
-      "price": 10.7799,
-      "change_percent": 8.78,
-      "volume": 11970058,
-      "avg_volume_3m": 10276970,
-      "relative_volume": 1.16,
-      "market_cap": 11424928768,
-      "exchange": "NasdaqGS",
+      "symbol": "CRGY",
+      "name": "Crescent Energy Company",
+      "price": 12.66,
+      "change_percent": -2.69,
+      "volume": 41805696,
+      "avg_volume_3m": 6000131,
+      "relative_volume": 6.97,
+      "market_cap": 4980483072,
+      "exchange": "NYSE",
       "sources": [
-        "day_gainers"
+        "most_actives"
       ],
-      "reason": "장중 +8.8% 상승, 거래량 3개월 평균 대비 1.2배",
-      "score": 10.22
+      "reason": "장중 -2.7% 하락, 거래량 3개월 평균 대비 7.0배, 거래대금 상위 종목",
+      "score": 18.74
     },
     {
-      "symbol": "PCVX",
-      "name": "Vaxcyte, Inc.",
-      "price": 71.25,
-      "change_percent": 9.59,
-      "volume": 1766031,
-      "avg_volume_3m": 1698735,
-      "relative_volume": 1.04,
-      "market_cap": 10602376192,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +9.6% 상승, 거래량 3개월 평균 대비 1.0배",
-      "score": 9.97
-    },
-    {
-      "symbol": "TEVA",
-      "name": "Teva Pharmaceutical Industries ",
-      "price": 41.58,
-      "change_percent": 5.94,
-      "volume": 8891426,
-      "avg_volume_3m": 5300579,
-      "relative_volume": 1.68,
-      "market_cap": 48494448640,
+      "symbol": "SECZ",
+      "name": "Securitize Corp.",
+      "price": 13.82,
+      "change_percent": 9.16,
+      "volume": 5671442,
+      "avg_volume_3m": 2879052,
+      "relative_volume": 1.97,
+      "market_cap": 2256331520,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +5.9% 상승, 거래량 3개월 평균 대비 1.7배",
-      "score": 9.96
-    },
-    {
-      "symbol": "MNSO",
-      "name": "MINISO Group Holding Limited",
-      "price": 9.69,
-      "change_percent": 6.83,
-      "volume": 1234673,
-      "avg_volume_3m": 855859,
-      "relative_volume": 1.44,
-      "market_cap": 2832599808,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +6.8% 상승, 거래량 3개월 평균 대비 1.4배",
-      "score": 9.86
+      "reason": "장중 +9.2% 상승, 거래량 3개월 평균 대비 2.0배",
+      "score": 18.05
     },
     {
       "symbol": "SBAC",
       "name": "SBA Communications Corporation",
-      "price": 180.635,
-      "change_percent": 6.25,
-      "volume": 1280232,
+      "price": 182.49,
+      "change_percent": 7.34,
+      "volume": 2355496,
       "avg_volume_3m": 963382,
-      "relative_volume": 1.33,
-      "market_cap": 19163226112,
+      "relative_volume": 2.45,
+      "market_cap": 19360020480,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +6.2% 상승, 거래량 3개월 평균 대비 1.3배",
-      "score": 8.31
+      "reason": "장중 +7.3% 상승, 거래량 3개월 평균 대비 2.4배",
+      "score": 17.95
+    },
+    {
+      "symbol": "INTR",
+      "name": "Inter & Co. Inc.",
+      "price": 7.68,
+      "change_percent": 6.08,
+      "volume": 13269060,
+      "avg_volume_3m": 5653150,
+      "relative_volume": 2.35,
+      "market_cap": 3390823424,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +6.1% 상승, 거래량 3개월 평균 대비 2.3배",
+      "score": 14.26
+    },
+    {
+      "symbol": "AUGO",
+      "name": "Aura Minerals Inc.",
+      "price": 91.26,
+      "change_percent": 10.63,
+      "volume": 1259483,
+      "avg_volume_3m": 958639,
+      "relative_volume": 1.31,
+      "market_cap": 7650950144,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +10.6% 상승, 거래량 3개월 평균 대비 1.3배",
+      "score": 13.97
     }
   ]
 }
