@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T12:24:14+09:00",
+  "updated_at": "2026-10-13T21:21:36+09:00",
   "disclaimer": "이 목록은 공개 시세 데이터(거래량, 변동률)를 기준으로 자동 정렬한 결과이며 특정 종목의 매수/매도를 추천하지 않습니다. 투자 판단과 책임은 본인에게 있습니다.",
   "criteria": {
     "min_price": 5.0,
@@ -16,15 +16,15 @@
       "price": 18.8,
       "change_percent": -4.62,
       "volume": 38550243,
-      "avg_volume_3m": 3657513,
-      "relative_volume": 10.54,
+      "avg_volume_3m": 3692604,
+      "relative_volume": 10.44,
       "market_cap": 5289378304,
       "exchange": "NasdaqGS",
       "sources": [
         "most_actives"
       ],
-      "reason": "장중 -4.6% 하락, 거래량 3개월 평균 대비 10.5배, 거래대금 상위 종목",
-      "score": 48.66
+      "reason": "장중 -4.6% 하락, 거래량 3개월 평균 대비 10.4배, 거래대금 상위 종목",
+      "score": 48.2
     },
     {
       "symbol": "FIGS",
@@ -48,15 +48,15 @@
       "price": 740.0,
       "change_percent": 10.85,
       "volume": 1962355,
-      "avg_volume_3m": 623606,
-      "relative_volume": 3.15,
+      "avg_volume_3m": 628921,
+      "relative_volume": 3.12,
       "market_cap": 15982251008,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +10.8% 상승, 거래량 3개월 평균 대비 3.1배",
-      "score": 34.14
+      "score": 33.85
     },
     {
       "symbol": "CCC",
@@ -64,7 +64,7 @@
       "price": 7.59,
       "change_percent": 8.12,
       "volume": 34095658,
-      "avg_volume_3m": 10958590,
+      "avg_volume_3m": 10965200,
       "relative_volume": 3.11,
       "market_cap": 4470469632,
       "exchange": "NasdaqGS",
@@ -73,7 +73,7 @@
         "most_actives"
       ],
       "reason": "장중 +8.1% 상승, 거래량 3개월 평균 대비 3.1배, 거래대금 상위 종목",
-      "score": 25.26
+      "score": 25.25
     },
     {
       "symbol": "DHT",
@@ -81,7 +81,7 @@
       "price": 26.22,
       "change_percent": 6.41,
       "volume": 8080947,
-      "avg_volume_3m": 3608803,
+      "avg_volume_3m": 3611820,
       "relative_volume": 2.24,
       "market_cap": 4227596544,
       "exchange": "NYSE",
@@ -89,7 +89,7 @@
         "day_gainers"
       ],
       "reason": "장중 +6.4% 상승, 거래량 3개월 평균 대비 2.2배",
-      "score": 14.36
+      "score": 14.35
     },
     {
       "symbol": "IONQ",
@@ -97,15 +97,15 @@
       "price": 36.27,
       "change_percent": -9.07,
       "volume": 31729062,
-      "avg_volume_3m": 21400084,
-      "relative_volume": 1.48,
+      "avg_volume_3m": 21361440,
+      "relative_volume": 1.49,
       "market_cap": 14694269952,
       "exchange": "NYSE",
       "sources": [
         "most_actives"
       ],
       "reason": "장중 -9.1% 하락, 거래량 3개월 평균 대비 1.5배, 거래대금 상위 종목",
-      "score": 13.46
+      "score": 13.48
     },
     {
       "symbol": "VFC",
@@ -129,15 +129,15 @@
       "price": 11.97,
       "change_percent": 6.4,
       "volume": 1438630,
-      "avg_volume_3m": 820793,
-      "relative_volume": 1.75,
+      "avg_volume_3m": 824725,
+      "relative_volume": 1.74,
       "market_cap": 2283437056,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +6.4% 상승, 거래량 3개월 평균 대비 1.8배",
-      "score": 11.22
+      "reason": "장중 +6.4% 상승, 거래량 3개월 평균 대비 1.7배",
+      "score": 11.16
     },
     {
       "symbol": "FRO",
@@ -161,8 +161,8 @@
       "price": 91.93,
       "change_percent": 3.9,
       "volume": 36561952,
-      "avg_volume_3m": 13902280,
-      "relative_volume": 2.63,
+      "avg_volume_3m": 14043171,
+      "relative_volume": 2.6,
       "market_cap": 117591146496,
       "exchange": "NYSE",
       "sources": [
@@ -170,7 +170,7 @@
         "most_actives"
       ],
       "reason": "장중 +3.9% 상승, 거래량 3개월 평균 대비 2.6배, 거래대금 상위 종목",
-      "score": 10.25
+      "score": 10.15
     },
     {
       "symbol": "MANH",
@@ -178,7 +178,7 @@
       "price": 217.89,
       "change_percent": 6.34,
       "volume": 1233871,
-      "avg_volume_3m": 769323,
+      "avg_volume_3m": 772473,
       "relative_volume": 1.6,
       "market_cap": 12704070656,
       "exchange": "NasdaqGS",
@@ -186,7 +186,7 @@
         "day_gainers"
       ],
       "reason": "장중 +6.3% 상승, 거래량 3개월 평균 대비 1.6배",
-      "score": 10.18
+      "score": 10.13
     },
     {
       "symbol": "TALO",
@@ -242,7 +242,7 @@
       "price": 6.7,
       "change_percent": -6.94,
       "volume": 40865576,
-      "avg_volume_3m": 34352390,
+      "avg_volume_3m": 34278343,
       "relative_volume": 1.19,
       "market_cap": 2749609728,
       "exchange": "NYSE",
@@ -250,7 +250,7 @@
         "most_actives"
       ],
       "reason": "장중 -6.9% 하락, 거래량 3개월 평균 대비 1.2배, 거래대금 상위 종목",
-      "score": 8.26
+      "score": 8.28
     }
   ]
 }
