@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-10-15T10:15:10+09:00",
+  "updated_at": "2026-10-15T18:33:17+09:00",
   "quote": {
     "symbol": "META",
     "price": 737.54,
-    "previous_close": 762.5,
-    "change": -24.96,
-    "change_percent": -3.27,
+    "previous_close": 730.2,
+    "change": 7.34,
+    "change_percent": 1.0,
     "currency": "USD",
-    "day_high": 761.47998046875,
-    "day_low": 734.2864990234375,
-    "market_cap": 1878887741186.5
+    "day_high": 761.5,
+    "day_low": 734.2899780273438,
+    "market_cap": 1878887685211.0215
   },
   "articles": [
     {
@@ -31,16 +31,22 @@
       "published": "Tue, 13 Oct 2026 15:23:00 GMT"
     },
     {
+      "title": "Meta Platforms, Inc. $META Stock Bought by Citrine Capital LLC - MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVU5UR1NzYTlNOEQ1Mzlsc2RrQlJ6NHB1eFhBcDRoM19KMlpkNGJlLVExRnc0ZGdpNzVMd2dmUzBwaU1JY2VEak53R2N1cGNJajlKSlJBNEhuLUVDMHZyOG9YeFZ5RmRKSm5KSDROMUdjS3p0ZnVNUFdFWWZGbThNNmoyNmFFMGtoYUotWDRaOWV6Vzd2WlpLZXZUUGptOWNfQTBfYkxESVJnOWR2UzZsWUFXSHc1blZRdXJVVQ?oc=5",
+      "source": "MarketBeat",
+      "published": "Wed, 14 Oct 2026 11:21:35 GMT"
+    },
+    {
       "title": "Is Meta Platforms Stock Heading for $1,000? - The Motley Fool",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaUNPT25FcHNBMUd2aGdTaEo3cTlfZ3hMXzYwdm16ZjByT2xkLXJ3OXc4VFc4c0pBT0o3QkRYUTNLVllNZDUxTFNRVjdTV0JtXzIxUGNhMzhMeC0tWGpaSHVmTnpKZkJyNjNOeXZBMURPSGdFbE1xaUZqM0w3MV9lZVJPeXBsdFFacnQ0Ng?oc=5",
       "source": "The Motley Fool",
       "published": "Tue, 13 Oct 2026 17:45:00 GMT"
     },
     {
-      "title": "Meta Platforms, Inc. $META Stock Bought by Citrine Capital LLC - MarketBeat",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVU5UR1NzYTlNOEQ1Mzlsc2RrQlJ6NHB1eFhBcDRoM19KMlpkNGJlLVExRnc0ZGdpNzVMd2dmUzBwaU1JY2VEak53R2N1cGNJajlKSlJBNEhuLUVDMHZyOG9YeFZ5RmRKSm5KSDROMUdjS3p0ZnVNUFdFWWZGbThNNmoyNmFFMGtoYUotWDRaOWV6Vzd2WlpLZXZUUGptOWNfQTBfYkxESVJnOWR2UzZsWUFXSHc1blZRdXJVVQ?oc=5",
-      "source": "MarketBeat",
-      "published": "Wed, 14 Oct 2026 11:21:35 GMT"
+      "title": "Meta: The Muse Rally Has Priced In The Good News Before Q3 - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNS2h1N05pMk03UjZfT1lVZmR3UDhCQUFLaHoxZzhUVGJHZlgyYlA1VHFXR2NNM2g4ZHJMMUxtaklyelVpY2Ntd2FYaG5JR3NHdlBPakdOS1VzQTdYTXZCUmxHck1KYkd1SHl0ZGJVbWZBTkRnQ0VnSEtqdXR4OTNqYmJXSW9ZNWprVGxfaHR1aU82STBqQlVuNy1Lb1picEU?oc=5",
+      "source": "Seeking Alpha",
+      "published": "Thu, 15 Oct 2026 03:15:42 GMT"
     },
     {
       "title": "Why is Meta Platforms stock rallying today? - Investing.com",
@@ -73,58 +79,52 @@
       "published": "Tue, 13 Oct 2026 14:50:00 GMT"
     },
     {
+      "title": "Meta to Announce Third Quarter 2026 Results - Meta Investor Relations",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbk5xX3lQc0w3TWhsYXdVQm5EZVVQU1lPd0xOQWJldmp0eFRGcl9DdnJGWFZTX3JnVFN2V0lvY1gyeTdhZUt0VFk1ci11SmpnQnZDQWh4Uko2YXNEenYwNUtueGtvZ1ZVSThWZnBWc1VzU0J2dk5qME1JdzNqUU5sbTZTMXlIODZ2S3RoRlVlekJlYWdjTDJhQUFBZUM2Zm9laFFkZjZ2LXJHYzJIQi1ucDlFWEpsd0U4Z1cxWktZNlQ1bFk?oc=5",
+      "source": "Meta Investor Relations",
+      "published": "Mon, 12 Oct 2026 20:38:41 GMT"
+    },
+    {
+      "title": "Meta Platforms, Inc. $META Stock Bought by N10 Wealth LLC - MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaXM4bk1HR1JKUm8taE85Q25LREVMVWhIek90Qk5hTm4yaDNCRE9xSlJNMjdTTzhuM2tOYnBmVUxFSHpaenY4Q1ViSzlHa2NIV3h4V3M4M2doZlFTbVhmWHNMdUs5MzYxeGJYalBpX0pGY1l0alVNd25kRXhXa1RtS0pnQU5PaEROZDc4dWlRSnl1NlBXYTdkSnNZUS1mQU1XWGdQeWZ1bmIxOVZ2QWg5cnlsVkNmQQ?oc=5",
+      "source": "MarketBeat",
+      "published": "Thu, 15 Oct 2026 08:38:43 GMT"
+    },
+    {
+      "title": "Meta Reports on Oct. 21. I'd Consider Buying the Stock Before It Does. - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZjIyX2RMTlNDVEdjWHZfTTBHZjdpMFdCdmdKVmNaZGdjXzZDZnhQdmlrZ0phUl9FV1NSVjJ4bjFQS2paeEt0MjZfakwybkJCS0dQVFp3UG13eGwyd19wQzh6UHctN2laVjVHdkt2VXNOdUpBeUlLbFlpZURSOUQxQzEwV21iTXMtdTlLSk9SVFQ0WkZkVHBUUVNvZUhJdDA?oc=5",
+      "source": "The Motley Fool",
+      "published": "Thu, 15 Oct 2026 03:49:43 GMT"
+    },
+    {
       "title": "Meta Platforms shares may move 4.9% on Oct. 21 earnings - Investing.com",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQkU3UUlYLXNTTGgtY24talRCeUM5cmxsWjVnSEVBZmd5S21ZbDlEOUk5RkpjeE5CUjFwT3pIX1VyOFgwWDZ5eFU4RlEtSExUOG5STDVVbzNZeEdDMjhWOWdkZ2I4MmhycVZTOEREbzhERXY5YWpKV3ZfaU9yM1o2cEFVa0VBVmRrNm9xcFBvaUpVMHh5UFZWRTFKYTI3YVVlNmU2R3h0SWdpNmEwUjVpd0FaRUo?oc=5",
       "source": "Investing.com",
       "published": "Wed, 14 Oct 2026 17:14:57 GMT"
     },
     {
-      "title": "Cathie Wood buys $17.3 million of surging AI stock - TheStreet",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPU2RZU3pDeHBZUVBka3lQeG9tV21UZXdBRXBCNWRCMjVUWXRhcHdYa2pTbnVDODRpYzhHWnNxNnc4aE43YTZBRU9EbW1aeENpX3FKbU1XYmtSZjJPZy1LOVZyR05JNUdnLW1SU2FXbFRfYzFSLUd2ZmxvSE1nbEVWdGd1WWF0SVZ6WmF6R3E1ZE1YT0lybm40Q2hROUZQSEZRVElkT0M3anRmUm5xbVZudQ?oc=5",
-      "source": "TheStreet",
-      "published": "Wed, 14 Oct 2026 17:29:07 GMT"
+      "title": "Meta Reports on Oct. 21. I'd Consider Buying the Stock Before It Does. - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQamtOeGNGblVhbllmQlV1a3VQak04LTdzR29QUXB5bFRtXzNpYTBScHoteXA1ZFlnRW9qcWxfSHEwV1k3QnEtWDUzd0d1M2F1dGpqZGhObk1ZZE1KWjJYQVJRY05qbVF4YkxYeWdZUjRUcFY3cERIdlNwbGdIeVIyb0l6bnd5Zi1Vc050Y1hjdHo?oc=5",
+      "source": "Yahoo Finance",
+      "published": "Thu, 15 Oct 2026 04:07:00 GMT"
     },
     {
-      "title": "Meta Platforms (META) COO and related entities sell shares at $728.10 under a trading plan - Stock Titan",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTTlmTFRndjdBMUhOMDEtZ0NQcGVQNnYzV0VMYXJuUjRldTdsR2x4ajNocWtsVDhhcEFQWmE4Q29iR1EtTWRLaFpWTFhJOUhUUGpJR1QyTzBkZ2pCVFBMWUR3V2JBU29yWWh1TDE4Wkg2N1BKUnZnVU9Hb2ZVY0tCdWVEcEhjaGFvQVFPdVpaZE5paWwtdDk1aHNpZUZ4RHJiWXZUZ2pVQXJOOEFVYXNSRGZR?oc=5",
-      "source": "Stock Titan",
-      "published": "Wed, 14 Oct 2026 22:21:07 GMT"
-    },
-    {
-      "title": "Truist Says $1,000 for Meta. Our Bull Case Goes Higher - 24/7 Wall St.",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMUVOdTFaeUxoRFlwaDIyNEQyNUwzMTFuS0JGQ2xCRXVZN2gzR044b0hFYTNqYXJqT0tkZXZNVnkwQUhZV3QyLVhqOGRZNWltbGtvZS14S0ZvT1NFNG1sZ1l3Yk80Yjh3NGNSODZqRkx1MGIydl9TR0FBNVlPMVpWVW1IeEpoc2RJdURUVEx4ek8tSVVYQjZNNHBnNA?oc=5",
-      "source": "24/7 Wall St.",
-      "published": "Wed, 14 Oct 2026 16:30:00 GMT"
-    },
-    {
-      "title": "Meta Platforms: Muse Wonder Exposes The AI Trade's Biggest Disconnect (NASDAQ:META) - Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNnl6WVlSV2RBbHVlZmNCZXFlbUtBQnppSnJTbXdSTTl2V1FhODQ0NWpfbXU0LWtiTVQ3RkhUMnRFcnpPZFVXZXViRjRwb0dlbjBITTRqTXlRSmNGYUhiWnJ0RW9yUVZIcDh4dnVBWi1VR0tPT0QxSlI3endxaU5NenZaNTIzV2J5STdRQ1VfbTF1NUt1OXlXZnVVNHo5clV5SWh2Y2RXN0dxZmc?oc=5",
-      "source": "Seeking Alpha",
-      "published": "Wed, 14 Oct 2026 15:34:54 GMT"
-    },
-    {
-      "title": "The Goldman Sachs Group Issues Pessimistic Forecast for Meta Platforms (NASDAQ:META) Stock Price - MarketBeat",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQOWJscFNGc3N5bE1uRjl6clZGT2lKNHZDOGk4T3B4ejNBWENJcHFHQUotMlZLcy1CYWc5OEtBUFFEa3ZqQ3YzS2JjTm1NTFpoSnhkR3Q5dkdoRndQa1dqYUZOMlJTTDFjTFJYanhiREtXeUhoRlBwSmVYd1JJZ21CZG9vMGZGN0JJUl9rcHFEY1JPekZCSkFmT3BCY3FmNWlrX3JNV01McW9qMFhFWGFMb1J3enpNNkFGYzJnU0pKZ0x2OGJWNXA5Unl3RlQ4ZUNvRnVGODYxTlR6M3BrQV90Z3ZDYWtSUnVNWUwyQQ?oc=5",
+      "title": "Meta Platforms, Inc. $META Stock Holdings Increased by LDIC Inc. - MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSVhCV2psRGhWajJ0cERJeU1YREJ0S1hsbGZkaGotYks3eVNxZUc5QmVqUVE4ZzdlbTIxd0JZUk1aU0xWSWZxOUlYZUVwOUp2NVZGU21XTXhMZW8zdHdGQ2YtYXdYeElvaG1RNUhkZFJBekM3OTlvT1RLQUxHTU5kMmlIX05SU3U2ckdxUWo5cElZbllWREdoV25nLVlYcC1vQ3lOdjBobVdtSmhOZGVxR2l5N3I0S0MyN3lqd09R?oc=5",
       "source": "MarketBeat",
-      "published": "Wed, 14 Oct 2026 18:13:36 GMT"
+      "published": "Thu, 15 Oct 2026 08:38:43 GMT"
     },
     {
-      "title": "Prediction: Meta Platforms Stock Will Drop After Earnings, and That Could Be an Incredible Buying Opportunity - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNV3JVZDdIdmUzZWVGTHRrS09GbXJvYUpmeWxnalJFV1puZzJfZ1ZXYTFFUmRCZ0ptTzVBSm45UFphVXlRNVg5MHNLeTlyNEZhN0dTeXk1UWk4dzhNamRFYVNkWE1Sem9QOFNkT2stV0xZdFlibzhZb051bGV4RE1HNVVuOFNYOUhCcDA1eldOdHJPYjdoUjN6eg?oc=5",
-      "source": "The Motley Fool",
-      "published": "Sun, 11 Oct 2026 14:33:00 GMT"
-    },
-    {
-      "title": "Guggenheim raises Meta stock price target to $850 on Muse growth - Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWnZPUzE4aDBzMXlOT2lyMkdvUjBHM3VKMGMtcVhGR0ROWXozVXVZTGZRUktTbFQ1Y2ZLa3labW16YnQyTlFoTkZpVExoem1wQlAxWjZBbjhjM2wxRmE4OE5mZFItWFNIMFdMdDI4cG9mS3pkR1V1MnNJRllMbUxKRzR3OHBGOVlTdzYzamFLcHhySE0xWHNGWmZlUXZhcFB4VVRsbS1tVEZ0X3NHcU5mNWgzWEJYNDgzbEllVGxhR2U?oc=5",
-      "source": "Investing.com",
-      "published": "Wed, 14 Oct 2026 12:01:21 GMT"
-    },
-    {
-      "title": "Meta Platforms (NASDAQ:META) Shares Down 3.3% Following Analyst Downgrade - MarketBeat",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaGRfckdLRWJqWW9DRGNFVHY4STVMTThneDkyQ3F0LWdmWVAyU0F2bUdZaldscklvWm8wR1J0TmZ1TWRraFpUWV9tS1FoZnVuRkR5YWVGelZBamZzNHFXVHhhZjY3cnJsel9sZlczM2E0c1NvcVN4NzRzT2NMVWNlTGFNTmxkU0Jydm5KWVlsS0o0T3plVDZfckVGUzluTEJyRktDVDFsU0xMVVROdFE3MDlITGRYblY5TF8wRjJ6LVVoUktRbDRVLQ?oc=5",
+      "title": "Meta Platforms, Inc. $META Stock Acquired by N10 Assets LLC - MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZWp0VG05M1ZOWWJHS1Brd2FsWTQ0ZnN4NERocFRQcDZNME52Q21DVlYwbF93UndoZHNMQVZlRVVaVk1qaV9BNm5nd3IyZlplVFI2eE40bVZLVndKNUNpWTBudC15N3RmRzA3Tkc0WmxvM1V0OU9ETWx4ZXJtS2tGV1ZDMW5Vc283MDBvSFFmendMSi1hZXBnaXh0aFdBN0E3T1ZsbmcxUUxmTjhOOGFiRzFnRnNMVkt6?oc=5",
       "source": "MarketBeat",
-      "published": "Wed, 14 Oct 2026 21:06:38 GMT"
+      "published": "Thu, 15 Oct 2026 08:38:43 GMT"
+    },
+    {
+      "title": "Meta Platforms, Inc. $META Stock: First Citizens Bank & Trust Co. Raises Stake - MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWDk2UnBhR05Xa0g1ZUVqQ0NXclZIemlLcnV1OGF3a1UxR2VzaloxMVdNOFJaM2hpVlZ6aHB0QzdQbjZMbFFobHpJQThzRXFCTUltUHNTd2M5ZVZKU21VTExXbllkNzZQN2VXd3hOSVdTSzBPTjZsR1hKSmNPZEdIS1pNVlItMDJMek1FQXdGYU16SmhrM21uR193c2F3Q2lMOXcxWmVlMDhYZ21CTllsZ1F6b1ZJNldlbmhIckJ5aTJWUGw2ZVZOaVA2U24?oc=5",
+      "source": "MarketBeat",
+      "published": "Thu, 15 Oct 2026 07:38:27 GMT"
     },
     {
       "title": "Can Muse AI Really Help Meta (META) Stock? - Yahoo Finance",
