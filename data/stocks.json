@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T10:02:35+09:00",
+  "updated_at": "2026-10-16T18:26:43+09:00",
   "disclaimer": "이 목록은 공개 시세 데이터(거래량, 변동률)를 기준으로 자동 정렬한 결과이며 특정 종목의 매수/매도를 추천하지 않습니다. 투자 판단과 책임은 본인에게 있습니다.",
   "criteria": {
     "min_price": 5.0,
@@ -16,16 +16,16 @@
       "price": 10.71,
       "change_percent": 11.8,
       "volume": 41035194,
-      "avg_volume_3m": 9954287,
-      "relative_volume": 4.12,
+      "avg_volume_3m": 10432627,
+      "relative_volume": 3.93,
       "market_cap": 34759794688,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers",
         "most_actives"
       ],
-      "reason": "장중 +11.8% 상승, 거래량 3개월 평균 대비 4.1배, 거래대금 상위 종목",
-      "score": 48.62
+      "reason": "장중 +11.8% 상승, 거래량 3개월 평균 대비 3.9배, 거래대금 상위 종목",
+      "score": 46.4
     },
     {
       "symbol": "Z",
@@ -33,15 +33,15 @@
       "price": 31.46,
       "change_percent": 11.05,
       "volume": 13188501,
-      "avg_volume_3m": 3910360,
-      "relative_volume": 3.37,
+      "avg_volume_3m": 3928801,
+      "relative_volume": 3.36,
       "market_cap": 7074566144,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +11.0% 상승, 거래량 3개월 평균 대비 3.4배",
-      "score": 37.26
+      "score": 37.09
     },
     {
       "symbol": "WULF",
@@ -49,16 +49,16 @@
       "price": 12.62,
       "change_percent": 9.36,
       "volume": 107552186,
-      "avg_volume_3m": 30683601,
-      "relative_volume": 3.51,
+      "avg_volume_3m": 31769810,
+      "relative_volume": 3.39,
       "market_cap": 6296984576,
       "exchange": "NasdaqCM",
       "sources": [
         "day_gainers",
         "most_actives"
       ],
-      "reason": "장중 +9.4% 상승, 거래량 3개월 평균 대비 3.5배, 거래대금 상위 종목",
-      "score": 32.8
+      "reason": "장중 +9.4% 상승, 거래량 3개월 평균 대비 3.4배, 거래대금 상위 종목",
+      "score": 31.68
     },
     {
       "symbol": "CRWV",
@@ -66,15 +66,15 @@
       "price": 69.69,
       "change_percent": 5.94,
       "volume": 128884246,
-      "avg_volume_3m": 29656662,
-      "relative_volume": 4.35,
+      "avg_volume_3m": 29773887,
+      "relative_volume": 4.33,
       "market_cap": 38436585472,
       "exchange": "NasdaqGS",
       "sources": [
         "most_actives"
       ],
       "reason": "장중 +5.9% 상승, 거래량 3개월 평균 대비 4.3배, 거래대금 상위 종목",
-      "score": 25.83
+      "score": 25.73
     },
     {
       "symbol": "APPN",
@@ -82,15 +82,15 @@
       "price": 43.82,
       "change_percent": 13.97,
       "volume": 1319124,
-      "avg_volume_3m": 860495,
-      "relative_volume": 1.53,
+      "avg_volume_3m": 865915,
+      "relative_volume": 1.52,
       "market_cap": 3138721536,
       "exchange": "NasdaqGM",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +14.0% 상승, 거래량 3개월 평균 대비 1.5배",
-      "score": 21.41
+      "score": 21.28
     },
     {
       "symbol": "IONQ",
@@ -98,7 +98,7 @@
       "price": 34.35,
       "change_percent": 9.33,
       "volume": 47713286,
-      "avg_volume_3m": 21781951,
+      "avg_volume_3m": 21745198,
       "relative_volume": 2.19,
       "market_cap": 13916408832,
       "exchange": "NYSE",
@@ -107,7 +107,7 @@
         "most_actives"
       ],
       "reason": "장중 +9.3% 상승, 거래량 3개월 평균 대비 2.2배, 거래대금 상위 종목",
-      "score": 20.43
+      "score": 20.46
     },
     {
       "symbol": "TRU",
@@ -115,15 +115,15 @@
       "price": 74.12,
       "change_percent": 10.73,
       "volume": 4511792,
-      "avg_volume_3m": 2398718,
-      "relative_volume": 1.88,
+      "avg_volume_3m": 2409519,
+      "relative_volume": 1.87,
       "market_cap": 14201392128,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +10.7% 상승, 거래량 3개월 평균 대비 1.9배",
-      "score": 20.17
+      "score": 20.08
     },
     {
       "symbol": "SIG",
@@ -131,15 +131,15 @@
       "price": 118.16,
       "change_percent": 9.45,
       "volume": 1750495,
-      "avg_volume_3m": 834868,
-      "relative_volume": 2.1,
+      "avg_volume_3m": 847617,
+      "relative_volume": 2.07,
       "market_cap": 4527565824,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +9.4% 상승, 거래량 3개월 평균 대비 2.1배",
-      "score": 19.81
+      "score": 19.51
     },
     {
       "symbol": "CORZ",
@@ -147,31 +147,15 @@
       "price": 14.455,
       "change_percent": 6.99,
       "volume": 33718858,
-      "avg_volume_3m": 12343776,
-      "relative_volume": 2.73,
+      "avg_volume_3m": 12431046,
+      "relative_volume": 2.71,
       "market_cap": 4644976128,
       "exchange": "NasdaqGS",
       "sources": [
         "most_actives"
       ],
       "reason": "장중 +7.0% 상승, 거래량 3개월 평균 대비 2.7배, 거래대금 상위 종목",
-      "score": 19.11
-    },
-    {
-      "symbol": "ARQT",
-      "name": "Arcutis Biotherapeutics, Inc.",
-      "price": 29.1,
-      "change_percent": 10.19,
-      "volume": 3922416,
-      "avg_volume_3m": 2252476,
-      "relative_volume": 1.74,
-      "market_cap": 3657636096,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +10.2% 상승, 거래량 3개월 평균 대비 1.7배",
-      "score": 17.74
+      "score": 18.97
     },
     {
       "symbol": "KRMN",
@@ -179,15 +163,31 @@
       "price": 33.9,
       "change_percent": 12.48,
       "volume": 4806448,
-      "avg_volume_3m": 3487584,
-      "relative_volume": 1.38,
+      "avg_volume_3m": 3244560,
+      "relative_volume": 1.48,
       "market_cap": 4492893184,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +12.5% 상승, 거래량 3개월 평균 대비 1.4배",
-      "score": 17.19
+      "reason": "장중 +12.5% 상승, 거래량 3개월 평균 대비 1.5배",
+      "score": 18.48
+    },
+    {
+      "symbol": "ARQT",
+      "name": "Arcutis Biotherapeutics, Inc.",
+      "price": 29.1,
+      "change_percent": 10.19,
+      "volume": 3922416,
+      "avg_volume_3m": 2260453,
+      "relative_volume": 1.74,
+      "market_cap": 3657636096,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +10.2% 상승, 거래량 3개월 평균 대비 1.7배",
+      "score": 17.67
     },
     {
       "symbol": "RKLB",
@@ -195,15 +195,15 @@
       "price": 55.25,
       "change_percent": -6.64,
       "volume": 48106607,
-      "avg_volume_3m": 19368140,
-      "relative_volume": 2.48,
+      "avg_volume_3m": 19205574,
+      "relative_volume": 2.5,
       "market_cap": 35327459328,
       "exchange": "NasdaqGS",
       "sources": [
         "most_actives"
       ],
       "reason": "장중 -6.6% 하락, 거래량 3개월 평균 대비 2.5배, 거래대금 상위 종목",
-      "score": 16.49
+      "score": 16.63
     },
     {
       "symbol": "BBWI",
@@ -211,31 +211,15 @@
       "price": 20.44,
       "change_percent": 7.86,
       "volume": 12620878,
-      "avg_volume_3m": 6341321,
-      "relative_volume": 1.99,
+      "avg_volume_3m": 6447737,
+      "relative_volume": 1.96,
       "market_cap": 4121630208,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +7.9% 상승, 거래량 3개월 평균 대비 2.0배",
-      "score": 15.65
-    },
-    {
-      "symbol": "PATK",
-      "name": "Patrick Industries, Inc.",
-      "price": 68.13,
-      "change_percent": 7.61,
-      "volume": 1101143,
-      "avg_volume_3m": 548792,
-      "relative_volume": 2.01,
-      "market_cap": 2188217344,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +7.6% 상승, 거래량 3개월 평균 대비 2.0배",
-      "score": 15.28
+      "score": 15.39
     },
     {
       "symbol": "KD",
@@ -243,7 +227,7 @@
       "price": 13.19,
       "change_percent": 11.87,
       "volume": 5281323,
-      "avg_volume_3m": 4107273,
+      "avg_volume_3m": 4092190,
       "relative_volume": 1.29,
       "market_cap": 2873022720,
       "exchange": "NYSE",
@@ -251,7 +235,23 @@
         "day_gainers"
       ],
       "reason": "장중 +11.9% 상승, 거래량 3개월 평균 대비 1.3배",
-      "score": 15.27
+      "score": 15.33
+    },
+    {
+      "symbol": "PATK",
+      "name": "Patrick Industries, Inc.",
+      "price": 68.13,
+      "change_percent": 7.61,
+      "volume": 1101143,
+      "avg_volume_3m": 549978,
+      "relative_volume": 2.0,
+      "market_cap": 2188217344,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +7.6% 상승, 거래량 3개월 평균 대비 2.0배",
+      "score": 15.24
     }
   ]
 }
