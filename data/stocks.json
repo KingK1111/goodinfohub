@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T17:58:19+09:00",
+  "updated_at": "2026-10-17T23:06:17+09:00",
   "disclaimer": "이 목록은 공개 시세 데이터(거래량, 변동률)를 기준으로 자동 정렬한 결과이며 특정 종목의 매수/매도를 추천하지 않습니다. 투자 판단과 책임은 본인에게 있습니다.",
   "criteria": {
     "min_price": 5.0,
@@ -79,16 +79,16 @@
       "name": "Applied Digital Corporation",
       "price": 18.05,
       "change_percent": -11.48,
-      "volume": 34707999,
+      "volume": 32197118,
       "avg_volume_3m": 19731070,
-      "relative_volume": 1.76,
+      "relative_volume": 1.63,
       "market_cap": 5458087424,
       "exchange": "NasdaqGS",
       "sources": [
         "most_actives"
       ],
-      "reason": "장중 -11.5% 하락, 거래량 3개월 평균 대비 1.8배, 거래대금 상위 종목",
-      "score": 20.19
+      "reason": "장중 -11.5% 하락, 거래량 3개월 평균 대비 1.6배, 거래대금 상위 종목",
+      "score": 18.73
     },
     {
       "symbol": "IREN",
@@ -192,15 +192,15 @@
       "price": 60.0,
       "change_percent": 3.45,
       "volume": 13319712,
-      "avg_volume_3m": 4562479,
-      "relative_volume": 2.92,
+      "avg_volume_3m": 4674996,
+      "relative_volume": 2.85,
       "market_cap": 129025523712,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +3.4% 상승, 거래량 3개월 평균 대비 2.9배",
-      "score": 10.07
+      "reason": "장중 +3.4% 상승, 거래량 3개월 평균 대비 2.8배",
+      "score": 9.82
     },
     {
       "symbol": "SMCI",
@@ -240,7 +240,7 @@
       "price": 7.53,
       "change_percent": -9.6,
       "volume": 40466352,
-      "avg_volume_3m": 45828779,
+      "avg_volume_3m": 45779390,
       "relative_volume": 0.88,
       "market_cap": 2908833792,
       "exchange": "NasdaqCM",
@@ -248,7 +248,7 @@
         "most_actives"
       ],
       "reason": "장중 -9.6% 하락, 거래량 3개월 평균 대비 0.9배, 거래대금 상위 종목",
-      "score": 8.48
+      "score": 8.49
     }
   ]
 }
