@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T00:15:13+09:00",
+  "updated_at": "2026-10-17T10:05:09+09:00",
   "disclaimer": "이 목록은 공개 시세 데이터(거래량, 변동률)를 기준으로 자동 정렬한 결과이며 특정 종목의 매수/매도를 추천하지 않습니다. 투자 판단과 책임은 본인에게 있습니다.",
   "criteria": {
     "min_price": 5.0,
@@ -13,242 +13,242 @@
     {
       "symbol": "VRNS",
       "name": "Varonis Systems, Inc.",
-      "price": 48.735,
-      "change_percent": 2.95,
-      "volume": 21588350,
+      "price": 48.72,
+      "change_percent": 2.92,
+      "volume": 36026588,
       "avg_volume_3m": 1747835,
-      "relative_volume": 12.35,
-      "market_cap": 5597726208,
+      "relative_volume": 20.61,
+      "market_cap": 5596003328,
       "exchange": "NasdaqGS",
       "sources": [
         "most_actives"
       ],
-      "reason": "장중 +2.9% 상승, 거래량 3개월 평균 대비 12.4배, 거래대금 상위 종목",
-      "score": 36.4
-    },
-    {
-      "symbol": "AA",
-      "name": "Alcoa Corporation",
-      "price": 43.63,
-      "change_percent": 7.94,
-      "volume": 6083493,
-      "avg_volume_3m": 4639978,
-      "relative_volume": 1.31,
-      "market_cap": 11514369024,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +7.9% 상승, 거래량 3개월 평균 대비 1.3배",
-      "score": 10.41
+      "reason": "장중 +2.9% 상승, 거래량 3개월 평균 대비 20.6배, 거래대금 상위 종목",
+      "score": 60.09
     },
     {
       "symbol": "CRWV",
       "name": "CoreWeave, Inc.",
-      "price": 63.42,
-      "change_percent": -9.0,
-      "volume": 33517043,
+      "price": 61.39,
+      "change_percent": -11.91,
+      "volume": 94362732,
       "avg_volume_3m": 31339926,
-      "relative_volume": 1.07,
-      "market_cap": 34978447360,
+      "relative_volume": 3.01,
+      "market_cap": 33858830336,
       "exchange": "NasdaqGS",
       "sources": [
         "most_actives"
       ],
-      "reason": "장중 -9.0% 하락, 거래량 3개월 평균 대비 1.1배, 거래대금 상위 종목",
-      "score": 9.62
+      "reason": "장중 -11.9% 하락, 거래량 3개월 평균 대비 3.0배, 거래대금 상위 종목",
+      "score": 35.86
     },
     {
-      "symbol": "MRNA",
-      "name": "Moderna, Inc.",
-      "price": 215.1958,
-      "change_percent": -9.01,
-      "volume": 10948940,
-      "avg_volume_3m": 18838356,
-      "relative_volume": 0.58,
-      "market_cap": 85913886720,
-      "exchange": "NasdaqGS",
+      "symbol": "CRGY",
+      "name": "Crescent Energy Company",
+      "price": 13.77,
+      "change_percent": 10.07,
+      "volume": 22337914,
+      "avg_volume_3m": 7178276,
+      "relative_volume": 3.11,
+      "market_cap": 4549659136,
+      "exchange": "NYSE",
       "sources": [
-        "most_actives"
+        "day_gainers"
       ],
-      "reason": "장중 -9.0% 하락, 거래량 3개월 평균 대비 0.6배, 거래대금 상위 종목",
-      "score": 5.24
+      "reason": "장중 +10.1% 상승, 거래량 3개월 평균 대비 3.1배",
+      "score": 31.34
     },
     {
       "symbol": "NBIS",
       "name": "Nebius Group N.V.",
-      "price": 172.4,
-      "change_percent": -8.5,
-      "volume": 11235130,
+      "price": 165.47,
+      "change_percent": -12.18,
+      "volume": 34790499,
       "avg_volume_3m": 20743359,
-      "relative_volume": 0.54,
-      "market_cap": 46867841024,
+      "relative_volume": 1.68,
+      "market_cap": 42012532736,
       "exchange": "NasdaqGS",
       "sources": [
         "most_actives"
       ],
-      "reason": "장중 -8.5% 하락, 거래량 3개월 평균 대비 0.5배, 거래대금 상위 종목",
-      "score": 4.6
-    },
-    {
-      "symbol": "IREN",
-      "name": "IREN LIMITED",
-      "price": 27.97,
-      "change_percent": -7.96,
-      "volume": 23200445,
-      "avg_volume_3m": 45058562,
-      "relative_volume": 0.51,
-      "market_cap": 11021819904,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "most_actives"
-      ],
-      "reason": "장중 -8.0% 하락, 거래량 3개월 평균 대비 0.5배, 거래대금 상위 종목",
-      "score": 4.1
+      "reason": "장중 -12.2% 하락, 거래량 3개월 평균 대비 1.7배, 거래대금 상위 종목",
+      "score": 20.42
     },
     {
       "symbol": "APLD",
       "name": "Applied Digital Corporation",
-      "price": 18.965,
-      "change_percent": -6.99,
-      "volume": 9630627,
+      "price": 18.05,
+      "change_percent": -11.48,
+      "volume": 34707999,
       "avg_volume_3m": 19553739,
-      "relative_volume": 0.49,
-      "market_cap": 5734772224,
+      "relative_volume": 1.78,
+      "market_cap": 5458087424,
       "exchange": "NasdaqGS",
       "sources": [
         "most_actives"
       ],
-      "reason": "장중 -7.0% 하락, 거래량 3개월 평균 대비 0.5배, 거래대금 상위 종목",
-      "score": 3.44
+      "reason": "장중 -11.5% 하락, 거래량 3개월 평균 대비 1.8배, 거래대금 상위 종목",
+      "score": 20.37
     },
     {
-      "symbol": "PAYP",
-      "name": "PayPay Corporation - American D",
-      "price": 15.64,
-      "change_percent": 6.72,
-      "volume": 373192,
-      "avg_volume_3m": 768304,
-      "relative_volume": 0.49,
-      "market_cap": 10590518272,
+      "symbol": "IREN",
+      "name": "IREN LIMITED",
+      "price": 26.99,
+      "change_percent": -11.19,
+      "volume": 67813888,
+      "avg_volume_3m": 45058562,
+      "relative_volume": 1.51,
+      "market_cap": 10635642880,
       "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +6.7% 상승, 거래량 3개월 평균 대비 0.5배",
-      "score": 3.26
-    },
-    {
-      "symbol": "IONQ",
-      "name": "IonQ, Inc.",
-      "price": 32.31,
-      "change_percent": -5.94,
-      "volume": 10048472,
-      "avg_volume_3m": 22154998,
-      "relative_volume": 0.45,
-      "market_cap": 13089933312,
-      "exchange": "NYSE",
       "sources": [
         "most_actives"
       ],
-      "reason": "장중 -5.9% 하락, 거래량 3개월 평균 대비 0.5배, 거래대금 상위 종목",
-      "score": 2.69
+      "reason": "장중 -11.2% 하락, 거래량 3개월 평균 대비 1.5배, 거래대금 상위 종목",
+      "score": 16.84
     },
     {
       "symbol": "CIFR",
       "name": "Cipher Digital Inc.",
-      "price": 9.325,
-      "change_percent": -7.12,
-      "volume": 13336543,
+      "price": 8.98,
+      "change_percent": -10.56,
+      "volume": 49075518,
       "avg_volume_3m": 37175509,
-      "relative_volume": 0.36,
-      "market_cap": 3870161408,
+      "relative_volume": 1.32,
+      "market_cap": 3726975744,
       "exchange": "NasdaqGS",
       "sources": [
         "most_actives"
       ],
-      "reason": "장중 -7.1% 하락, 거래량 3개월 평균 대비 0.4배, 거래대금 상위 종목",
-      "score": 2.55
-    },
-    {
-      "symbol": "SKHY",
-      "name": "SK hynix Inc.",
-      "price": 138.7,
-      "change_percent": -5.07,
-      "volume": 11948418,
-      "avg_volume_3m": 24647210,
-      "relative_volume": 0.48,
-      "market_cap": 1010937954304,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "most_actives"
-      ],
-      "reason": "장중 -5.1% 하락, 거래량 3개월 평균 대비 0.5배, 거래대금 상위 종목",
-      "score": 2.46
-    },
-    {
-      "symbol": "HPE",
-      "name": "Hewlett Packard Enterprise Comp",
-      "price": 55.93,
-      "change_percent": -4.61,
-      "volume": 10531296,
-      "avg_volume_3m": 20563123,
-      "relative_volume": 0.51,
-      "market_cap": 74245111808,
-      "exchange": "NYSE",
-      "sources": [
-        "most_actives"
-      ],
-      "reason": "장중 -4.6% 하락, 거래량 3개월 평균 대비 0.5배, 거래대금 상위 종목",
-      "score": 2.36
-    },
-    {
-      "symbol": "SHO",
-      "name": "Sunstone Hotel Investors, Inc. ",
-      "price": 12.245,
-      "change_percent": 3.16,
-      "volume": 1591566,
-      "avg_volume_3m": 2200957,
-      "relative_volume": 0.72,
-      "market_cap": 2276883456,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +3.2% 상승, 거래량 3개월 평균 대비 0.7배",
-      "score": 2.28
-    },
-    {
-      "symbol": "KRMN",
-      "name": "Karman Holdings Inc.",
-      "price": 35.5375,
-      "change_percent": 4.83,
-      "volume": 1513718,
-      "avg_volume_3m": 3268978,
-      "relative_volume": 0.46,
-      "market_cap": 4709916672,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +4.8% 상승, 거래량 3개월 평균 대비 0.5배",
-      "score": 2.24
+      "reason": "장중 -10.6% 하락, 거래량 3개월 평균 대비 1.3배, 거래대금 상위 종목",
+      "score": 13.94
     },
     {
       "symbol": "MSTR",
       "name": "Strategy Inc",
-      "price": 142.065,
-      "change_percent": -6.1,
-      "volume": 8022778,
+      "price": 136.83,
+      "change_percent": -9.56,
+      "volume": 31774229,
       "avg_volume_3m": 21932254,
-      "relative_volume": 0.37,
-      "market_cap": 60157009920,
+      "relative_volume": 1.45,
+      "market_cap": 57940262912,
       "exchange": "NasdaqGS",
       "sources": [
         "most_actives"
       ],
-      "reason": "장중 -6.1% 하락, 거래량 3개월 평균 대비 0.4배, 거래대금 상위 종목",
-      "score": 2.23
+      "reason": "장중 -9.6% 하락, 거래량 3개월 평균 대비 1.4배, 거래대금 상위 종목",
+      "score": 13.85
+    },
+    {
+      "symbol": "WULF",
+      "name": "TeraWulf Inc.",
+      "price": 11.68,
+      "change_percent": -7.45,
+      "volume": 55540243,
+      "avg_volume_3m": 31769810,
+      "relative_volume": 1.75,
+      "market_cap": 5827954176,
+      "exchange": "NasdaqCM",
+      "sources": [
+        "most_actives"
+      ],
+      "reason": "장중 -7.4% 하락, 거래량 3개월 평균 대비 1.7배, 거래대금 상위 종목",
+      "score": 13.02
+    },
+    {
+      "symbol": "TALO",
+      "name": "Talos Energy, Inc.",
+      "price": 17.77,
+      "change_percent": 4.65,
+      "volume": 6220972,
+      "avg_volume_3m": 2262171,
+      "relative_volume": 2.75,
+      "market_cap": 2966976512,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +4.7% 상승, 거래량 3개월 평균 대비 2.8배",
+      "score": 12.79
+    },
+    {
+      "symbol": "PAYP",
+      "name": "PayPay Corporation - American D",
+      "price": 15.68,
+      "change_percent": 6.99,
+      "volume": 1172790,
+      "avg_volume_3m": 768304,
+      "relative_volume": 1.53,
+      "market_cap": 10617604096,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +7.0% 상승, 거래량 3개월 평균 대비 1.5배",
+      "score": 10.68
+    },
+    {
+      "symbol": "BTI",
+      "name": "British American Tobacco  Indus",
+      "price": 60.0,
+      "change_percent": 3.45,
+      "volume": 13319712,
+      "avg_volume_3m": 4562479,
+      "relative_volume": 2.92,
+      "market_cap": 129025523712,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +3.4% 상승, 거래량 3개월 평균 대비 2.9배",
+      "score": 10.07
+    },
+    {
+      "symbol": "SMCI",
+      "name": "Super Micro Computer, Inc.",
+      "price": 31.63,
+      "change_percent": -9.86,
+      "volume": 43734093,
+      "avg_volume_3m": 44710718,
+      "relative_volume": 0.98,
+      "market_cap": 20460593152,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "most_actives"
+      ],
+      "reason": "장중 -9.9% 하락, 거래량 3개월 평균 대비 1.0배, 거래대금 상위 종목",
+      "score": 9.64
+    },
+    {
+      "symbol": "HPE",
+      "name": "Hewlett Packard Enterprise Comp",
+      "price": 55.13,
+      "change_percent": -5.97,
+      "volume": 30996368,
+      "avg_volume_3m": 20563123,
+      "relative_volume": 1.51,
+      "market_cap": 73183133696,
+      "exchange": "NYSE",
+      "sources": [
+        "most_actives"
+      ],
+      "reason": "장중 -6.0% 하락, 거래량 3개월 평균 대비 1.5배, 거래대금 상위 종목",
+      "score": 9.0
+    },
+    {
+      "symbol": "MARA",
+      "name": "MARA Holdings, Inc.",
+      "price": 7.53,
+      "change_percent": -9.6,
+      "volume": 40466352,
+      "avg_volume_3m": 45827564,
+      "relative_volume": 0.88,
+      "market_cap": 2908833792,
+      "exchange": "NasdaqCM",
+      "sources": [
+        "most_actives"
+      ],
+      "reason": "장중 -9.6% 하락, 거래량 3개월 평균 대비 0.9배, 거래대금 상위 종목",
+      "score": 8.48
     }
   ]
 }
