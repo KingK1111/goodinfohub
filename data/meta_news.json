@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-19T09:50:23+09:00",
+  "updated_at": "2026-10-19T19:26:07+09:00",
   "quote": {
     "symbol": "META",
     "price": 709.33,
-    "previous_close": 733.39,
-    "change": -24.06,
-    "change_percent": -3.28,
+    "previous_close": 705.32,
+    "change": 4.01,
+    "change_percent": 0.57,
     "currency": "USD",
     "day_high": 738.489990234375,
     "day_low": 702.7100219726562,
@@ -23,6 +23,12 @@
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMmhIS29MUURmVlF2U3dweEIyQkRFT1gtWHdMdDdYNTdtcGNrQ3k1c1NvYWZnVGxjb2phVWp4bG5UbkJjM041MHphMlE0Y0M0ekZpY3ZXaTFfdi1LUzZlQnk4MDdWYkl6OEZPVFozUVh2M2VpalFTRXJ5WHI3TUFrejRZenhTWUk0aUhkZTFicEJvYmktd3pneHhB?oc=5",
       "source": "Yahoo Finance",
       "published": "Fri, 16 Oct 2026 21:26:29 GMT"
+    },
+    {
+      "title": "Meta Stock Is Up 9% This Year. Is It Still a Buy Ahead of Earnings? - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYW53T09LUW5JZFlzME14aTZUTTJoa2w1LWJrYUpZZHhBVmhTTjBFYjBFcDNZZldOZE94cE00VVRZS0lCeW9ld21lbUwxRFc1QllETDFJdUZHamx6VVNXY3NWYjZjeUFqaGl5QTZKVF9JNF9KV1Bpd0pGa0JmWkRzTnQ5T3VETnE1WE9sVUZJYXBwUk53N09WRUdR?oc=5",
+      "source": "Morningstar",
+      "published": "Mon, 19 Oct 2026 10:08:39 GMT"
     },
     {
       "title": "Meta Platforms: Strong Money’s Holding Price Is Only $566 (NASDAQ:META) - Seeking Alpha",
@@ -43,16 +49,10 @@
       "published": "Fri, 16 Oct 2026 15:54:31 GMT"
     },
     {
-      "title": "Meta's Muse Agent Is a Massive Hit. I'm Still Not Sold on Meta Stock. - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQemxvVVpIU3JqdkNHUm9jWTBvcG1NWTV2eTZ5SC1lWXMzcEJsbTBFU09zRUl1Y2xvTl9IZTlhT3FTX2ZkdUhZQ3BJY3FKbS1kQUFUMmxDQ3B3X1BxeTNwR3AwMEdmVElWcGdjZnVROHFsNWY2Z3FFSjBNMVZDM1AzaE5MQUVsRXNjWEpZa2NRUDgtbXluLV81VA?oc=5",
-      "source": "The Motley Fool",
-      "published": "Thu, 15 Oct 2026 15:00:00 GMT"
-    },
-    {
-      "title": "Meta Stock Has a New AI Catalyst. Is META Headed Back Toward Its All-Time High? - 24/7 Wall St.",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQU21PU3haYkdEVUl2V1JRY0lSZHF3MDJjREhybDZMS1I4VGR5N0pKeUhGQ00xQ0JDaE5tcWdFa0l6Y0tHVlVQdHNtRk1fM2xiYkRURVF0cVBGX1B1UUU5UTJISHZKWEgwVXIxRDZJajlsQWVfVXpvTnk1MVVrbmJia3BwSnp0WVZvWkhoXzlrSGtUckZGWGVZUWtVcmpwelYwRVg5YWtTdzRRNXZaT2hycmJ4VUlxN0xUbDJ0eFdn?oc=5",
-      "source": "24/7 Wall St.",
-      "published": "Thu, 03 Sep 2026 07:00:00 GMT"
+      "title": "Should You Buy, Sell, or Hold META Stock Before Q3 Earnings Release? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWUROT2p3bkhvQU9YRHFCU2xNcTBKYmpLM1R6WUE2cVNzUHVZU3lHY2w5Wk4tMFU5U3VDZ3BJbmNhY0RIc2p6T0xtNDVFT0hLRDZEcWlsZmRfM0R5SnNMUlpOSUJoMjA1TF96LS1odXNWbzcwNGZxRENPTk50R1ZXdE9MUEd6MzE2SENNOEpmMVJzZkk?oc=5",
+      "source": "Yahoo Finance",
+      "published": "Mon, 19 Oct 2026 08:37:00 GMT"
     },
     {
       "title": "Here’s How Much Meta Stock Is Expected to Move After Earnings - Investopedia",
@@ -61,22 +61,10 @@
       "published": "Fri, 16 Oct 2026 21:26:29 GMT"
     },
     {
-      "title": "Meta Platforms Rises 12% in 3 Months: Buy, Sell, or Hold the Stock? - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONzFiTGVlalRpQ2NmWGs5alJNejF6Z0kzcDhvRFJEOEQzS0tpc1l3LXg1akNwRWJReUNpSVZyeDZFd1poS0lQLV9Ia1pOZExabTdrWTRtbXg0N2gyLWRlOXh2N3hqUE9oOThkeWotZVd4eUNNb3NqMWtGQkJVMWRzX2tlZDlFWUowZ25paHpubmdLWXZD?oc=5",
-      "source": "Yahoo Finance",
-      "published": "Tue, 13 Oct 2026 14:50:00 GMT"
-    },
-    {
       "title": "Meta to Announce Third Quarter 2026 Results - Meta Investor Relations",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbk5xX3lQc0w3TWhsYXdVQm5EZVVQU1lPd0xOQWJldmp0eFRGcl9DdnJGWFZTX3JnVFN2V0lvY1gyeTdhZUt0VFk1ci11SmpnQnZDQWh4Uko2YXNEenYwNUtueGtvZ1ZVSThWZnBWc1VzU0J2dk5qME1JdzNqUU5sbTZTMXlIODZ2S3RoRlVlekJlYWdjTDJhQUFBZUM2Zm9laFFkZjZ2LXJHYzJIQi1ucDlFWEpsd0U4Z1cxWktZNlQ1bFk?oc=5",
       "source": "Meta Investor Relations",
       "published": "Mon, 12 Oct 2026 20:38:41 GMT"
-    },
-    {
-      "title": "Meta (NASDAQ:META) Stock Faces $63 Billion Earnings Test as AI Selloff Deepens - Stocks Down Under",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5xSms5U1h0SUFDQ1dZb1U3QVBjWUdqNTNJb3ZlenFuZzR4aDh4bEZVaENEMl9LaktWZmFyWTlSMEgzLTJWVlJkTUxSOHItNWJkaEhyRTdhYWY0aVhDdGRpaE11NHFYWENBU0F0Yk5EOVMwT3gzRF93?oc=5",
-      "source": "Stocks Down Under",
-      "published": "Sun, 18 Oct 2026 20:14:11 GMT"
     },
     {
       "title": "Meta Stock Can Still Rise 35% After Muse Boost. Here’s How. - Barron's",
@@ -85,22 +73,40 @@
       "published": "Tue, 13 Oct 2026 20:15:00 GMT"
     },
     {
-      "title": "Is Meta Platforms Stock Heading for $1,000? - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaUNPT25FcHNBMUd2aGdTaEo3cTlfZ3hMXzYwdm16ZjByT2xkLXJ3OXc4VFc4c0pBT0o3QkRYUTNLVllNZDUxTFNRVjdTV0JtXzIxUGNhMzhMeC0tWGpaSHVmTnpKZkJyNjNOeXZBMURPSGdFbE1xaUZqM0w3MV9lZVJPeXBsdFFacnQ0Ng?oc=5",
-      "source": "The Motley Fool",
-      "published": "Tue, 13 Oct 2026 17:45:00 GMT"
+      "title": "Meta (NASDAQ:META) Stock Faces $63 Billion Earnings Test as AI Selloff Deepens - Stocks Down Under",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5xSms5U1h0SUFDQ1dZb1U3QVBjWUdqNTNJb3ZlenFuZzR4aDh4bEZVaENEMl9LaktWZmFyWTlSMEgzLTJWVlJkTUxSOHItNWJkaEhyRTdhYWY0aVhDdGRpaE11NHFYWENBU0F0Yk5EOVMwT3gzRF93?oc=5",
+      "source": "Stocks Down Under",
+      "published": "Sun, 18 Oct 2026 20:14:51 GMT"
     },
     {
-      "title": "Meta Claims Frontier-Class AI Status With New Muse Wonder Models - MarketBeat",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSGcyWkVJbTV4cGFBclhjMkltVEZhdU5RQUk2OFpSNlZpdXhCaHR5d0tqcHA2ckhZS3VLX1FzU1hLc3lOdWVjY0VJU28zLUJQcjFqcFdtLU1lWVJLWDRGTmF3Y3BoeGtxdGFGZGgydzdOakdiYThGVDFaSGN2RDhkbVFXcEotR1V4OUVfNHdqQlpzUTEzanQ1TEp6cU43cmlVTnBR?oc=5",
+      "title": "934 Meta Platforms, Inc. $META Shares Acquired by Perryman Financial Advisory Inc. AD - MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMEJTMUtFUG1iY1lWWXRNZ29TelFLOGxnMGRidkxmWksxbXBjejhlczF5Y2NBSVZWR0MxLS1FS0UzOTJpc2s4TVZCLTVLY0xXeFE1NUIwR2toZ0RUSnEya2h4NHA2UFh2ZWc4d2JvSzB1d1kwSS1GREtlUzdQQWlhYk1kMjc4Umt4SlI1M3BHWFB1aGUwcG56WldfT1NoTFNSNXVtaWNaSGNGRWpsOUtiN0VPTUtHbTU4TDFIWnFlQzNRYVdpSXFnZHEwWlBFT3k0WmxVQ2QyR1pzdw?oc=5",
       "source": "MarketBeat",
-      "published": "Sun, 18 Oct 2026 15:40:16 GMT"
+      "published": "Mon, 19 Oct 2026 08:38:31 GMT"
+    },
+    {
+      "title": "Meta's Muse Agent Is a Massive Hit. I'm Still Not Sold on Meta Stock. - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQemxvVVpIU3JqdkNHUm9jWTBvcG1NWTV2eTZ5SC1lWXMzcEJsbTBFU09zRUl1Y2xvTl9IZTlhT3FTX2ZkdUhZQ3BJY3FKbS1kQUFUMmxDQ3B3X1BxeTNwR3AwMEdmVElWcGdjZnVROHFsNWY2Z3FFSjBNMVZDM1AzaE5MQUVsRXNjWEpZa2NRUDgtbXluLV81VA?oc=5",
+      "source": "The Motley Fool",
+      "published": "Thu, 15 Oct 2026 15:00:00 GMT"
+    },
+    {
+      "title": "Meta: What You Need To Know Before Earnings (NASDAQ:META) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQS1QtZDVPUnlidUFocTVYaUsyYUhNall6YVJlajhVeTBlNTY3My1wQ2Vnd2pqUHpDekpCbUVXRFljSlMtZzZId0xSd05odFNWajFtNlJ5dmN5MlVoZHo5OHFMOE91VUJ0WnhpWnUwT2NDMnd4VWhQbFF4RFVoMWM2N3oyU3NzMW1tQ3g4?oc=5",
+      "source": "Seeking Alpha",
+      "published": "Fri, 16 Oct 2026 21:15:59 GMT"
     },
     {
       "title": "Does Muse Wonder Launch Change The Bull Case For Meta Stock? - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRElXNTVLMjV2anNzYmJIek5ySWdCWFhtbVRydjRSUTBrQkZpdFVVbGhNLWY2UnVTNzBZVWV6MHR0THN6LUZpN193OHlxcXh6c0tmWmViUVl4UVAycmxJOWVTMWRncGpjOGZTMlJiMmw2dWVIM0llcjRIUERBRDVfVFluNmhESmtBdEVrOEtHdWlzaDRWdDRpYjczMA?oc=5",
       "source": "Yahoo Finance",
       "published": "Fri, 16 Oct 2026 08:10:34 GMT"
+    },
+    {
+      "title": "Annex Advisory Services LLC Sells 3,450 Shares of Meta Platforms, Inc. $META - MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNYlNTUXdzemtzOEZkSVZGdWJUZzBxaXNtNlZmcHpGcVZsRG5sdmlEang3a05PcnVQN0ZHMU9VQ3N2c25BZnlRUjFTRm14ZURKNU0zMEhQbGZyZWktVEZlRjhzRWRoX0dPZnhLWDl3VjU0QmE4SGNvektGbjBLNTJEQUc5YldvdDZnU3UtMG5Yel9BSFNjbW14VFhvUFRYT0R6aXZ2UlZ6aThyRTlyMHU2Sk5IQlR1YTFyWTVuRlQtdW1naG9ORU51cVItX0ozUQ?oc=5",
+      "source": "MarketBeat",
+      "published": "Mon, 19 Oct 2026 07:40:15 GMT"
     },
     {
       "title": "Meta Stock Rallies Again As Wall Street Praises 'AI Reset' - Investor's Business Daily",
@@ -119,12 +125,6 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWWtQYlhmNk5NNXhsOFBDdFYxVF9jUHc0dW9TMHlhQ05MMjBXZnIxcUJ1YWNKQ3JySXRrZkNtQnh2Y1QtLWpUYUtYc0pienpLN3pYRnZBaWt6Z1FIejRIblJTOTlFSDZDZnFOMWZPdWg1eVd6dkxQdGJoSHNxV1RQRF9wRjFYZjVKMkVUUUlYUkFWTS11eVFuTGNlR0tpQQ?oc=5",
       "source": "Yahoo Finance",
       "published": "Fri, 16 Oct 2026 15:16:42 GMT"
-    },
-    {
-      "title": "Meta Just Climbed 12% in a Month: Take Profits, or Hold On for the Ride? - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZjhWWE9LYndXQ2ZpNlVGbndCaUdIdmJlNF9vMGM1eGRaWTVlYTBOMDd5ZXFVWHhUSXd6OU9JX2ZpUnlNVVU2VGFySG5QRl9haDB1X25Ebkx6VEJPZFVfaDBMRkJTQlRKQjVVVnZObEVxUDlfSGFFd2dHWkNJNlBTZlgxbjFGbkpoSzRkOXFiYVRDOGNDQ3c?oc=5",
-      "source": "Yahoo Finance",
-      "published": "Thu, 15 Oct 2026 18:24:41 GMT"
     },
     {
       "title": "Meta Stock Just Scored a New Street-High Price Target. Here's Why. - Yahoo Finance",
