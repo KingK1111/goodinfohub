@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T02:22:02+09:00",
+  "updated_at": "2026-10-20T10:37:35+09:00",
   "disclaimer": "이 목록은 공개 시세 데이터(거래량, 변동률)를 기준으로 자동 정렬한 결과이며 특정 종목의 매수/매도를 추천하지 않습니다. 투자 판단과 책임은 본인에게 있습니다.",
   "criteria": {
     "min_price": 5.0,
@@ -13,244 +13,244 @@
     {
       "symbol": "CLF",
       "name": "Cleveland-Cliffs Inc.",
-      "price": 14.095,
-      "change_percent": 16.3,
-      "volume": 53863877,
+      "price": 14.1,
+      "change_percent": 16.34,
+      "volume": 88331455,
       "avg_volume_3m": 18849264,
-      "relative_volume": 2.86,
-      "market_cap": 8041761792,
+      "relative_volume": 4.69,
+      "market_cap": 8044614656,
       "exchange": "NYSE",
       "sources": [
         "day_gainers",
         "most_actives"
       ],
-      "reason": "장중 +16.3% 상승, 거래량 3개월 평균 대비 2.9배, 거래대금 상위 종목",
-      "score": 46.57
-    },
-    {
-      "symbol": "DXC",
-      "name": "DXC Technology Company",
-      "price": 14.99,
-      "change_percent": 10.06,
-      "volume": 10689355,
-      "avg_volume_3m": 3402964,
-      "relative_volume": 3.14,
-      "market_cap": 2395082496,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +10.1% 상승, 거래량 3개월 평균 대비 3.1배",
-      "score": 31.6
+      "reason": "장중 +16.3% 상승, 거래량 3개월 평균 대비 4.7배, 거래대금 상위 종목",
+      "score": 76.56
     },
     {
       "symbol": "PBLS",
       "name": "Parabilis Medicines, Inc.",
-      "price": 25.635,
-      "change_percent": 12.71,
-      "volume": 928034,
+      "price": 25.35,
+      "change_percent": 11.43,
+      "volume": 2142521,
       "avg_volume_3m": 737532,
-      "relative_volume": 1.26,
-      "market_cap": 3166774528,
+      "relative_volume": 2.9,
+      "market_cap": 3131567616,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +12.7% 상승, 거래량 3개월 평균 대비 1.3배",
-      "score": 15.99
+      "reason": "장중 +11.4% 상승, 거래량 3개월 평균 대비 2.9배",
+      "score": 33.2
     },
     {
       "symbol": "ARQT",
       "name": "Arcutis Biotherapeutics, Inc.",
-      "price": 32.35,
-      "change_percent": 12.25,
-      "volume": 2652386,
+      "price": 31.89,
+      "change_percent": 10.65,
+      "volume": 5789790,
       "avg_volume_3m": 2295318,
-      "relative_volume": 1.16,
-      "market_cap": 4066134784,
+      "relative_volume": 2.52,
+      "market_cap": 4008316416,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +12.2% 상승, 거래량 3개월 평균 대비 1.2배",
-      "score": 14.15
+      "reason": "장중 +10.7% 상승, 거래량 3개월 평균 대비 2.5배",
+      "score": 26.87
     },
     {
       "symbol": "MANE",
       "name": "Veradermics, Incorporated",
-      "price": 120.2,
-      "change_percent": 10.46,
-      "volume": 864381,
+      "price": 122.28,
+      "change_percent": 12.37,
+      "volume": 1463236,
       "avg_volume_3m": 775056,
-      "relative_volume": 1.12,
-      "market_cap": 5021971968,
+      "relative_volume": 1.89,
+      "market_cap": 5108874752,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +10.5% 상승, 거래량 3개월 평균 대비 1.1배",
-      "score": 11.66
+      "reason": "장중 +12.4% 상승, 거래량 3개월 평균 대비 1.9배",
+      "score": 23.35
+    },
+    {
+      "symbol": "AGIO",
+      "name": "Agios Pharmaceuticals, Inc.",
+      "price": 34.9,
+      "change_percent": 11.43,
+      "volume": 1972948,
+      "avg_volume_3m": 1106617,
+      "relative_volume": 1.78,
+      "market_cap": 2083595648,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +11.4% 상승, 거래량 3개월 평균 대비 1.8배",
+      "score": 20.38
+    },
+    {
+      "symbol": "AXTI",
+      "name": "AXT Inc",
+      "price": 56.79,
+      "change_percent": 10.34,
+      "volume": 13479757,
+      "avg_volume_3m": 9974842,
+      "relative_volume": 1.35,
+      "market_cap": 3723902720,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +10.3% 상승, 거래량 3개월 평균 대비 1.4배",
+      "score": 13.97
+    },
+    {
+      "symbol": "VRDN",
+      "name": "Viridian Therapeutics, Inc.",
+      "price": 20.8,
+      "change_percent": 9.3,
+      "volume": 2575984,
+      "avg_volume_3m": 1779171,
+      "relative_volume": 1.45,
+      "market_cap": 2356479232,
+      "exchange": "NasdaqCM",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +9.3% 상승, 거래량 3개월 평균 대비 1.4배",
+      "score": 13.47
     },
     {
       "symbol": "APLD",
       "name": "Applied Digital Corporation",
-      "price": 19.785,
-      "change_percent": 9.61,
-      "volume": 22280410,
+      "price": 19.25,
+      "change_percent": 6.65,
+      "volume": 36045947,
       "avg_volume_3m": 19731070,
-      "relative_volume": 1.13,
-      "market_cap": 5982729216,
+      "relative_volume": 1.83,
+      "market_cap": 5820952576,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers",
         "most_actives"
       ],
-      "reason": "장중 +9.6% 상승, 거래량 3개월 평균 대비 1.1배, 거래대금 상위 종목",
-      "score": 10.85
-    },
-    {
-      "symbol": "XERS",
-      "name": "Xeris Biopharma Holdings, Inc.",
-      "price": 11.27,
-      "change_percent": 9.31,
-      "volume": 2582354,
-      "avg_volume_3m": 2233796,
-      "relative_volume": 1.16,
-      "market_cap": 2054749952,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +9.3% 상승, 거래량 3개월 평균 대비 1.2배",
-      "score": 10.76
-    },
-    {
-      "symbol": "AXTI",
-      "name": "AXT Inc",
-      "price": 57.73,
-      "change_percent": 12.16,
-      "volume": 8735710,
-      "avg_volume_3m": 9974842,
-      "relative_volume": 0.88,
-      "market_cap": 3785541376,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +12.2% 상승, 거래량 3개월 평균 대비 0.9배",
-      "score": 10.65
-    },
-    {
-      "symbol": "MXL",
-      "name": "MaxLinear, Inc",
-      "price": 78.12,
-      "change_percent": 9.53,
-      "volume": 2363963,
-      "avg_volume_3m": 3119220,
-      "relative_volume": 0.76,
-      "market_cap": 7084952576,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +9.5% 상승, 거래량 3개월 평균 대비 0.8배",
-      "score": 7.23
-    },
-    {
-      "symbol": "IBRX",
-      "name": "ImmunityBio, Inc.",
-      "price": 8.625,
-      "change_percent": -6.05,
-      "volume": 12086444,
-      "avg_volume_3m": 11205264,
-      "relative_volume": 1.08,
-      "market_cap": 9141088256,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "most_actives"
-      ],
-      "reason": "장중 -6.0% 하락, 거래량 3개월 평균 대비 1.1배, 거래대금 상위 종목",
-      "score": 6.52
+      "reason": "장중 +6.6% 상승, 거래량 3개월 평균 대비 1.8배, 거래대금 상위 종목",
+      "score": 12.15
     },
     {
       "symbol": "SLGN",
       "name": "Silgan Holdings Inc.",
-      "price": 40.8,
-      "change_percent": 7.94,
-      "volume": 924162,
+      "price": 40.06,
+      "change_percent": 5.98,
+      "volume": 2367535,
       "avg_volume_3m": 1299045,
-      "relative_volume": 0.71,
-      "market_cap": 4311825920,
+      "relative_volume": 1.82,
+      "market_cap": 4233621760,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +7.9% 상승, 거래량 3개월 평균 대비 0.7배",
-      "score": 5.65
-    },
-    {
-      "symbol": "VRDN",
-      "name": "Viridian Therapeutics, Inc.",
-      "price": 20.455,
-      "change_percent": 7.49,
-      "volume": 1085643,
-      "avg_volume_3m": 1779171,
-      "relative_volume": 0.61,
-      "market_cap": 2317393408,
-      "exchange": "NasdaqCM",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +7.5% 상승, 거래량 3개월 평균 대비 0.6배",
-      "score": 4.57
-    },
-    {
-      "symbol": "ASTS",
-      "name": "AST SpaceMobile, Inc.",
-      "price": 43.275,
-      "change_percent": 6.43,
-      "volume": 8924705,
-      "avg_volume_3m": 12842237,
-      "relative_volume": 0.69,
-      "market_cap": 16841223168,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +6.4% 상승, 거래량 3개월 평균 대비 0.7배",
-      "score": 4.47
-    },
-    {
-      "symbol": "ASST",
-      "name": "Strive, Inc.",
-      "price": 25.49,
-      "change_percent": 5.81,
-      "volume": 5783057,
-      "avg_volume_3m": 7544862,
-      "relative_volume": 0.77,
-      "market_cap": 2572934656,
-      "exchange": "NasdaqGM",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +5.8% 상승, 거래량 3개월 평균 대비 0.8배",
-      "score": 4.45
+      "reason": "장중 +6.0% 상승, 거래량 3개월 평균 대비 1.8배",
+      "score": 10.9
     },
     {
       "symbol": "WRBY",
       "name": "Warby Parker Inc.",
-      "price": 24.925,
-      "change_percent": 6.79,
-      "volume": 1802343,
+      "price": 24.99,
+      "change_percent": 7.07,
+      "volume": 4401376,
       "avg_volume_3m": 2889014,
-      "relative_volume": 0.62,
-      "market_cap": 3080930816,
+      "relative_volume": 1.52,
+      "market_cap": 3088965376,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +6.8% 상승, 거래량 3개월 평균 대비 0.6배",
-      "score": 4.24
+      "reason": "장중 +7.1% 상승, 거래량 3개월 평균 대비 1.5배",
+      "score": 10.77
+    },
+    {
+      "symbol": "MXL",
+      "name": "MaxLinear, Inc",
+      "price": 77.11,
+      "change_percent": 8.12,
+      "volume": 4052108,
+      "avg_volume_3m": 3119220,
+      "relative_volume": 1.3,
+      "market_cap": 6993352192,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +8.1% 상승, 거래량 3개월 평균 대비 1.3배",
+      "score": 10.55
+    },
+    {
+      "symbol": "CLDX",
+      "name": "Celldex Therapeutics, Inc.",
+      "price": 29.67,
+      "change_percent": 7.77,
+      "volume": 1719325,
+      "avg_volume_3m": 1354542,
+      "relative_volume": 1.27,
+      "market_cap": 2329971456,
+      "exchange": "NasdaqCM",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +7.8% 상승, 거래량 3개월 평균 대비 1.3배",
+      "score": 9.87
+    },
+    {
+      "symbol": "SUPN",
+      "name": "Supernus Pharmaceuticals, Inc.",
+      "price": 39.84,
+      "change_percent": 5.17,
+      "volume": 1453840,
+      "avg_volume_3m": 787390,
+      "relative_volume": 1.85,
+      "market_cap": 2319649792,
+      "exchange": "NasdaqGM",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +5.2% 상승, 거래량 3개월 평균 대비 1.8배",
+      "score": 9.55
+    },
+    {
+      "symbol": "PHVS",
+      "name": "Pharvaris N.V.",
+      "price": 29.77,
+      "change_percent": 7.32,
+      "volume": 917063,
+      "avg_volume_3m": 749310,
+      "relative_volume": 1.22,
+      "market_cap": 2089988096,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +7.3% 상승, 거래량 3개월 평균 대비 1.2배",
+      "score": 8.96
+    },
+    {
+      "symbol": "FROG",
+      "name": "JFrog Ltd.",
+      "price": 91.0,
+      "change_percent": 7.93,
+      "volume": 2181772,
+      "avg_volume_3m": 2024401,
+      "relative_volume": 1.08,
+      "market_cap": 11220419584,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +7.9% 상승, 거래량 3개월 평균 대비 1.1배",
+      "score": 8.55
     }
   ]
 }
