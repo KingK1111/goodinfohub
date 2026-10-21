@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T00:35:40+09:00",
+  "updated_at": "2026-10-21T10:19:22+09:00",
   "disclaimer": "이 목록은 공개 시세 데이터(거래량, 변동률)를 기준으로 자동 정렬한 결과이며 특정 종목의 매수/매도를 추천하지 않습니다. 투자 판단과 책임은 본인에게 있습니다.",
   "criteria": {
     "min_price": 5.0,
@@ -13,243 +13,243 @@
     {
       "symbol": "BRZE",
       "name": "Braze, Inc.",
-      "price": 45.32,
-      "change_percent": 50.87,
-      "volume": 47511626,
+      "price": 45.57,
+      "change_percent": 51.7,
+      "volume": 64608302,
       "avg_volume_3m": 2447365,
-      "relative_volume": 19.41,
-      "market_cap": 5147645952,
+      "relative_volume": 26.4,
+      "market_cap": 5176041984,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers",
         "most_actives"
       ],
-      "reason": "장중 +50.9% 상승, 거래량 3개월 평균 대비 19.4배, 거래대금 상위 종목",
-      "score": 987.47
+      "reason": "장중 +51.7% 상승, 거래량 3개월 평균 대비 26.4배, 거래대금 상위 종목",
+      "score": 1364.77
+    },
+    {
+      "symbol": "LION",
+      "name": "Lionsgate Studios Corp",
+      "price": 12.15,
+      "change_percent": 14.41,
+      "volume": 14345836,
+      "avg_volume_3m": 2606276,
+      "relative_volume": 5.5,
+      "market_cap": 3615350016,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +14.4% 상승, 거래량 3개월 평균 대비 5.5배",
+      "score": 79.3
     },
     {
       "symbol": "TLK",
       "name": "PT Telekomunikasi Indonesia, Tb",
-      "price": 11.445,
-      "change_percent": 9.52,
-      "volume": 2975902,
+      "price": 11.64,
+      "change_percent": 11.39,
+      "volume": 5966521,
       "avg_volume_3m": 1104334,
-      "relative_volume": 2.69,
-      "market_cap": 11282588672,
+      "relative_volume": 5.4,
+      "market_cap": 11474822144,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +9.5% 상승, 거래량 3개월 평균 대비 2.7배",
-      "score": 25.66
-    },
-    {
-      "symbol": "RCUS",
-      "name": "Arcus Biosciences, Inc.",
-      "price": 24.105,
-      "change_percent": 8.88,
-      "volume": 3484291,
-      "avg_volume_3m": 1410823,
-      "relative_volume": 2.47,
-      "market_cap": 3031761920,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +8.9% 상승, 거래량 3개월 평균 대비 2.5배",
-      "score": 21.92
+      "reason": "장중 +11.4% 상승, 거래량 3개월 평균 대비 5.4배",
+      "score": 61.53
     },
     {
       "symbol": "HAS",
       "name": "Hasbro, Inc.",
-      "price": 104.67,
-      "change_percent": 6.27,
-      "volume": 3859246,
+      "price": 109.52,
+      "change_percent": 11.2,
+      "volume": 8007351,
       "avg_volume_3m": 1837529,
-      "relative_volume": 2.1,
-      "market_cap": 14763123712,
+      "relative_volume": 4.36,
+      "market_cap": 15447189504,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +6.3% 상승, 거래량 3개월 평균 대비 2.1배",
-      "score": 13.18
+      "reason": "장중 +11.2% 상승, 거래량 3개월 평균 대비 4.4배",
+      "score": 48.8
     },
     {
-      "symbol": "EFX",
-      "name": "Equifax, Inc.",
-      "price": 177.41,
-      "change_percent": 11.88,
-      "volume": 1524494,
-      "avg_volume_3m": 1643212,
-      "relative_volume": 0.93,
-      "market_cap": 20842995712,
+      "symbol": "RCUS",
+      "name": "Arcus Biosciences, Inc.",
+      "price": 23.75,
+      "change_percent": 7.27,
+      "volume": 6232057,
+      "avg_volume_3m": 1410823,
+      "relative_volume": 4.42,
+      "market_cap": 2987112448,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +11.9% 상승, 거래량 3개월 평균 대비 0.9배",
-      "score": 11.02
+      "reason": "장중 +7.3% 상승, 거래량 3개월 평균 대비 4.4배",
+      "score": 32.12
     },
     {
-      "symbol": "KVYO",
-      "name": "Klaviyo, Inc. Series A",
-      "price": 19.2093,
-      "change_percent": 9.64,
-      "volume": 5450957,
-      "avg_volume_3m": 6063526,
-      "relative_volume": 0.9,
-      "market_cap": 5748955136,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +9.6% 상승, 거래량 3개월 평균 대비 0.9배",
-      "score": 8.67
-    },
-    {
-      "symbol": "HSAI",
-      "name": "Hesai Group",
-      "price": 13.96,
-      "change_percent": 8.05,
-      "volume": 1504082,
-      "avg_volume_3m": 1448812,
-      "relative_volume": 1.04,
-      "market_cap": 17549641728,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +8.0% 상승, 거래량 3개월 평균 대비 1.0배",
-      "score": 8.36
-    },
-    {
-      "symbol": "XPEV",
-      "name": "XPeng Inc.",
-      "price": 9.855,
-      "change_percent": 7.01,
-      "volume": 6572617,
-      "avg_volume_3m": 6980392,
-      "relative_volume": 0.94,
-      "market_cap": 9440860160,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +7.0% 상승, 거래량 3개월 평균 대비 0.9배",
-      "score": 6.6
-    },
-    {
-      "symbol": "ABVX",
-      "name": "Abivax SA",
-      "price": 93.82,
-      "change_percent": 7.24,
-      "volume": 946357,
-      "avg_volume_3m": 1120553,
-      "relative_volume": 0.84,
-      "market_cap": 8187814912,
-      "exchange": "NasdaqGM",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +7.2% 상승, 거래량 3개월 평균 대비 0.8배",
-      "score": 6.11
-    },
-    {
-      "symbol": "VICR",
-      "name": "Vicor Corporation",
-      "price": 201.385,
-      "change_percent": 5.61,
-      "volume": 972157,
-      "avg_volume_3m": 938076,
-      "relative_volume": 1.04,
-      "market_cap": 9285203968,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +5.6% 상승, 거래량 3개월 평균 대비 1.0배",
-      "score": 5.82
-    },
-    {
-      "symbol": "MSCI",
-      "name": "MSCI Inc.",
-      "price": 595.59,
-      "change_percent": 5.7,
-      "volume": 504589,
-      "avg_volume_3m": 635639,
-      "relative_volume": 0.79,
-      "market_cap": 43299393536,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +5.7% 상승, 거래량 3개월 평균 대비 0.8배",
-      "score": 4.52
-    },
-    {
-      "symbol": "CLF",
-      "name": "Cleveland-Cliffs Inc.",
-      "price": 13.4702,
-      "change_percent": -4.47,
-      "volume": 18819264,
-      "avg_volume_3m": 19825481,
-      "relative_volume": 0.95,
-      "market_cap": 7685287936,
-      "exchange": "NYSE",
-      "sources": [
-        "most_actives"
-      ],
-      "reason": "장중 -4.5% 하락, 거래량 3개월 평균 대비 0.9배, 거래대금 상위 종목",
-      "score": 4.24
-    },
-    {
-      "symbol": "SLS",
-      "name": "SELLAS Life Sciences Group, Inc",
-      "price": 11.29,
-      "change_percent": 7.63,
-      "volume": 3534554,
-      "avg_volume_3m": 6414064,
-      "relative_volume": 0.55,
-      "market_cap": 2279966976,
+      "symbol": "NESR",
+      "name": "National Energy Services Reunit",
+      "price": 21.09,
+      "change_percent": 11.12,
+      "volume": 6174748,
+      "avg_volume_3m": 2282929,
+      "relative_volume": 2.7,
+      "market_cap": 2126963456,
       "exchange": "NasdaqCM",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +7.6% 상승, 거래량 3개월 평균 대비 0.6배",
-      "score": 4.2
+      "reason": "장중 +11.1% 상승, 거래량 3개월 평균 대비 2.7배",
+      "score": 30.07
     },
     {
-      "symbol": "RVMD",
-      "name": "Revolution Medicines, Inc.",
-      "price": 195.34,
-      "change_percent": 7.24,
-      "volume": 1113588,
-      "avg_volume_3m": 1963742,
-      "relative_volume": 0.57,
-      "market_cap": 41868476416,
+      "symbol": "EFX",
+      "name": "Equifax, Inc.",
+      "price": 176.54,
+      "change_percent": 11.33,
+      "volume": 3985790,
+      "avg_volume_3m": 1643212,
+      "relative_volume": 2.43,
+      "market_cap": 20740782080,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +11.3% 상승, 거래량 3개월 평균 대비 2.4배",
+      "score": 27.49
+    },
+    {
+      "symbol": "KVYO",
+      "name": "Klaviyo, Inc. Series A",
+      "price": 19.61,
+      "change_percent": 11.93,
+      "volume": 12641086,
+      "avg_volume_3m": 6063526,
+      "relative_volume": 2.08,
+      "market_cap": 5868877312,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +11.9% 상승, 거래량 3개월 평균 대비 2.1배",
+      "score": 24.87
+    },
+    {
+      "symbol": "SLS",
+      "name": "SELLAS Life Sciences Group, Inc",
+      "price": 11.98,
+      "change_percent": 14.2,
+      "volume": 10117115,
+      "avg_volume_3m": 6414064,
+      "relative_volume": 1.58,
+      "market_cap": 2419309568,
+      "exchange": "NasdaqCM",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +14.2% 상승, 거래량 3개월 평균 대비 1.6배",
+      "score": 22.4
+    },
+    {
+      "symbol": "CWST",
+      "name": "Casella Waste Systems, Inc.",
+      "price": 93.07,
+      "change_percent": 7.55,
+      "volume": 1461099,
+      "avg_volume_3m": 565596,
+      "relative_volume": 2.58,
+      "market_cap": 5922979328,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +7.2% 상승, 거래량 3개월 평균 대비 0.6배",
-      "score": 4.11
+      "reason": "장중 +7.5% 상승, 거래량 3개월 평균 대비 2.6배",
+      "score": 19.49
     },
     {
-      "symbol": "LIFE",
-      "name": "Ethos Technologies Inc.",
-      "price": 41.42,
-      "change_percent": 6.57,
-      "volume": 878353,
-      "avg_volume_3m": 1481837,
-      "relative_volume": 0.59,
-      "market_cap": 2691636736,
+      "symbol": "SPHR",
+      "name": "Sphere Entertainment Co.",
+      "price": 112.84,
+      "change_percent": 9.67,
+      "volume": 1486630,
+      "avg_volume_3m": 789459,
+      "relative_volume": 1.88,
+      "market_cap": 4052491520,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +9.7% 상승, 거래량 3개월 평균 대비 1.9배",
+      "score": 18.21
+    },
+    {
+      "symbol": "XPEV",
+      "name": "XPeng Inc.",
+      "price": 9.91,
+      "change_percent": 7.6,
+      "volume": 15469535,
+      "avg_volume_3m": 6980392,
+      "relative_volume": 2.22,
+      "market_cap": 9493549056,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +7.6% 상승, 거래량 3개월 평균 대비 2.2배",
+      "score": 16.84
+    },
+    {
+      "symbol": "EQPT",
+      "name": "EquipmentShare.com Inc",
+      "price": 15.6,
+      "change_percent": 11.83,
+      "volume": 4676780,
+      "avg_volume_3m": 3358040,
+      "relative_volume": 1.39,
+      "market_cap": 3952665088,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +6.6% 상승, 거래량 3개월 평균 대비 0.6배",
-      "score": 3.9
+      "reason": "장중 +11.8% 상승, 거래량 3개월 평균 대비 1.4배",
+      "score": 16.47
+    },
+    {
+      "symbol": "HSAI",
+      "name": "Hesai Group",
+      "price": 13.99,
+      "change_percent": 8.28,
+      "volume": 2739567,
+      "avg_volume_3m": 1448812,
+      "relative_volume": 1.89,
+      "market_cap": 17587355648,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +8.3% 상승, 거래량 3개월 평균 대비 1.9배",
+      "score": 15.66
+    },
+    {
+      "symbol": "VICR",
+      "name": "Vicor Corporation",
+      "price": 204.14,
+      "change_percent": 7.06,
+      "volume": 1968762,
+      "avg_volume_3m": 938076,
+      "relative_volume": 2.1,
+      "market_cap": 9412228096,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +7.1% 상승, 거래량 3개월 평균 대비 2.1배",
+      "score": 14.81
     }
   ]
 }
