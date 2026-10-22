@@ -1,22 +1,28 @@
 {
-  "updated_at": "2026-10-22T10:15:20+09:00",
+  "updated_at": "2026-10-22T18:46:29+09:00",
   "quote": {
     "symbol": "META",
     "price": 697.52,
-    "previous_close": 695.0,
-    "change": 2.52,
-    "change_percent": 0.36,
+    "previous_close": 712.31,
+    "change": -14.79,
+    "change_percent": -2.08,
     "currency": "USD",
     "day_high": 713.219970703125,
-    "day_low": 690.0999755859375,
-    "market_cap": 1776936542062.0
+    "day_low": 689.6799926757812,
+    "market_cap": 1776936591817.981
   },
   "articles": [
     {
       "title": "Meta Will Split Stock, Create New Class to Fund AI Spending - WSJ",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOY20xcVZmaDh6bkhCTVVoQVJIOFhWZU1McXpENHNVTEdvMVY0YUQyUVdqOFBldFhJU1VXZ3lIY3FOSDN0ZFdBbXJDOXluVlA2WU9mcUJfM3FrVkQ1YXJBcDNSbXM0RlVib19UMFlsTFBBeFIyVGlEdUxVZS0wRDhWWl81ZjVXU0ZlQjJPeFRTaw?oc=5",
       "source": "WSJ",
-      "published": "Thu, 22 Oct 2026 00:33:45 GMT"
+      "published": "Thu, 22 Oct 2026 00:32:00 GMT"
+    },
+    {
+      "title": "Here’s How Much Meta Stock Is Expected to Move After Earnings - Investopedia",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNDlGN05oelNLdkV4ZXJWRFVsZl80RDlnVFBhY044cjFTNEc5a3ZoU2NVeFdmejZYQTlZMXFQdm9POU5mcFlEcmhCLVhFZ2NDN3dFM1hrU2Zmdm42NlVGNTZWTE95YnF0ZlBjSzMyM2FqelpxR0ljMXZHYjF4THRCcEMwaTNDRUpvdlR2UndBanpMa0dVSGtTaWZWUFJVNEpCQ1NhLWdNaTR3SGpLNlBpZVdzb0UxVWdy?oc=5",
+      "source": "Investopedia",
+      "published": "Tue, 20 Oct 2026 20:12:00 GMT"
     },
     {
       "title": "Meta Stock Climbs After Q3 Results Beat Expectations, Adding To Muse AI Momentum - Investor's Business Daily",
@@ -25,10 +31,10 @@
       "published": "Wed, 21 Oct 2026 21:20:00 GMT"
     },
     {
-      "title": "Here’s How Much Meta Stock Is Expected to Move After Earnings - Investopedia",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNDlGN05oelNLdkV4ZXJWRFVsZl80RDlnVFBhY044cjFTNEc5a3ZoU2NVeFdmejZYQTlZMXFQdm9POU5mcFlEcmhCLVhFZ2NDN3dFM1hrU2Zmdm42NlVGNTZWTE95YnF0ZlBjSzMyM2FqelpxR0ljMXZHYjF4THRCcEMwaTNDRUpvdlR2UndBanpMa0dVSGtTaWZWUFJVNEpCQ1NhLWdNaTR3SGpLNlBpZVdzb0UxVWdy?oc=5",
-      "source": "Investopedia",
-      "published": "Tue, 20 Oct 2026 20:12:00 GMT"
+      "title": "Meta Platforms, Inc. $META Stock Holdings Trimmed by Baskin Financial Services Inc. - MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNcTVfaFhsUk5HeW51Qk9wYzNxdE5qLXkxNW4yZHZ1SHM2S25OWFFBeEVwNHNBNTk4RFBmalFnVVNfeVA2c3JfbTR5UWV5TmlqWXpvOFJMNDNZeENVTnN2Z3ZockJjdkREV1hhdEM3TTlKZjY2dEZVa3QzWHdNZk9EZzZpd3JZZGR6RDJoS2xMZmxjd3VoLVp2YzExYVFQdy16Wm5vUzlqeUhMRG9OdWRJLW10cWN4ektQVFhueURPNmZOTkNQb1ZoQjkxVGMwR29YLUVHNVFHbw?oc=5",
+      "source": "MarketBeat",
+      "published": "Thu, 22 Oct 2026 07:16:23 GMT"
     },
     {
       "title": "Meta Stock Is Up 9% This Year. Is It Still a Buy Ahead of Earnings? - Morningstar",
@@ -85,28 +91,34 @@
       "published": "Wed, 09 Sep 2026 07:00:00 GMT"
     },
     {
+      "title": "Meta Touts AI Progress While Escalating Its Bet on the Market - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcWw2TXFoSmlmM18yRERkMXpHSGdDN0lWbzl1ZGVNczh4aUYxU1JmZkJualZKREM2Q3JmcjFtWE50a0JUR283UU5XdFk0d1UwSGh0QzdDM3puaU51MjlQM2k1dVdUSVBpZnVOTWI1SWg4eUN0OU5SY0ZfT2ljT0JOemxvd0JDb2tlY2lYWEZFT2VNZ1lka3RIbklORkgwUWJLMzE1XzNUQ0VReEtTaTl5U0Ezcw?oc=5",
+      "source": "Bloomberg.com",
+      "published": "Thu, 22 Oct 2026 09:16:14 GMT"
+    },
+    {
+      "title": "Meta puts Muse agent at heart of AI strategy, plans new stock to power investments - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRFFieGdGQjNVTEpWeTlmUG5ZOW5rRjgwSmpnV1RWdTUzRG5fZW1BQmxBdElRdEtfOVYzcWlaMjR1SGJqZWdPR200RzJuV2JZajJMYmhiSmh4VFdYVjdLQXNxRWo1ZEprRWpKQW1vQkhoMm5jT1RKNzJVczV4aUxHdDNWQ0JoSXVOYzN0WDhFMmh4cjg5RWNmZFhtaHlQTlJ0NmVnRlNpQjg?oc=5",
+      "source": "Reuters",
+      "published": "Wed, 21 Oct 2026 20:05:00 GMT"
+    },
+    {
+      "title": "Meta's Mark Zuckerberg Bets 'n Superintelligence 'Through Scaling' - Meta Platforms (NASDAQ:META) - Benzinga",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQV0Q5bGtjSGh4X2pkMzJhLWdrbmtyUHNzS1dPWTRKcEtRb0lLellVMTRzVmY1WkNOd244Y3Y4ODRablBRaDZCaFBGVDB4U1JpMEJFMEV0NEZRVkxzS1ZmZ01sbmhud1BURVVXMjYtd1d3ZlU5ZFhRMG51bms0WHE1N1hWZDlrZFhrcERwQWdtTU5Hd2tfaGx6dEg3R0RYMVVxTmxOVUpCMlU5MnVRV2J0T2tJR2F2YjhI?oc=5",
+      "source": "Benzinga",
+      "published": "Thu, 22 Oct 2026 07:26:43 GMT"
+    },
+    {
+      "title": "Meta Delivers Another Blowout Earnings Report. Here's What Investors Need To Know - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQkZONVotMDQwTzNBUUNvem1lZVp2WktldjlJR0xjZ3VmV0d3WXFBLUJuakkwZ1Fpank0R0NYbklHWngxSlJnQlQ3YW10OHVtMVY3a18yRDAwMTFvVUNBLUFtemxpY0FnVmRfNWFZMkI1a1lXZllXSmdkUXFpSlAzQXVPbjVzLUtTQ2hoY0VBd2Rzc3JFN1lxQVNHLUI3bFZLZkVsdHNR?oc=5",
+      "source": "Yahoo Finance",
+      "published": "Thu, 22 Oct 2026 04:05:00 GMT"
+    },
+    {
       "title": "Meta Plans to Issue New Non-Voting Stock, Semafor Reports - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWFR2U0NFRy1FZk9mNnNldWh5bDE0UjlKc1dGZlpjZjd2Y0pTWXV1LWNtS1VtY2ZIcWZYZUZiRmZiT1VFNVZXWGNodmkzLV9ldUs2aEVVYzVtYmJkQ3VOaFNFTC1MVjBoVUdHZWp2NzExZW1TYnhTREh2V0dKUkNxTFZ4bDNRS0VDWThHMm4wb00zV2ZLaDN3dWZXbnlZQ2xPcFZzQWt6WS1PaTQ?oc=5",
       "source": "Bloomberg.com",
       "published": "Wed, 21 Oct 2026 20:48:54 GMT"
-    },
-    {
-      "title": "Meta agrees deal to keep Mark Zuckerberg in California despite wealth tax proposal - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZk4zZnUwaDAxMVZIU0NjeUk3Z0RIUEZDX0JBeUhUYVBSOWFzNThhVXVZT2duZnhvSGItS3Vtejl2VjBuOW10bzB6Sl9hYWJjRzZYUFlnR2h1TnlQWnR3dERUdXhfMkdncDUtYWx4RXpZMHRreGhkUXNzN1FwNG1TTGFHUDM?oc=5",
-      "source": "Financial Times",
-      "published": "Wed, 21 Oct 2026 20:07:01 GMT"
-    },
-    {
-      "title": "Meta Boosts Bet on AI With Spending Outlook, New Stock Class - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcWw2TXFoSmlmM18yRERkMXpHSGdDN0lWbzl1ZGVNczh4aUYxU1JmZkJualZKREM2Q3JmcjFtWE50a0JUR283UU5XdFk0d1UwSGh0QzdDM3puaU51MjlQM2k1dVdUSVBpZnVOTWI1SWg4eUN0OU5SY0ZfT2ljT0JOemxvd0JDb2tlY2lYWEZFT2VNZ1lka3RIbklORkgwUWJLMzE1XzNUQ0VReEtTaTl5U0Ezcw?oc=5",
-      "source": "Bloomberg.com",
-      "published": "Wed, 21 Oct 2026 23:27:05 GMT"
-    },
-    {
-      "title": "Jim Cramer and a Billionaire Like Meta (META) Stock Despite AI CapEx Concerns - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYk4xdjNFSnYwblR5a1hqNG5mRE5CUDN6SG1MUUh3S0hReWprbXBZYnJtek9RQ3k3R0ZCZHh4MENsNGRpWjBmQ0hRU0UweGxJbXFiWUN4cldXZjdIcGgtbTRIQnM5QTJzNnlYbl85ZFQ2VFdFZ3lQZnlaZnUzREZROHhPMXNja3V1QW1KYkRCaFQxSUs0TjNnUGFWSE5Idw?oc=5",
-      "source": "Yahoo Finance",
-      "published": "Wed, 21 Oct 2026 13:23:19 GMT"
     },
     {
       "title": "Meta Stock Climbs With Earnings On Deck. These Are The Numbers To Watch. - Investor's Business Daily",
@@ -115,22 +127,10 @@
       "published": "Wed, 21 Oct 2026 15:03:00 GMT"
     },
     {
-      "title": "BMO Has Strong Message For Meta Stock Investors - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbGdKTzg3LXZyZVR4YnJLazl0QWc5b2ZtSUtVVlZIZ01GcEpiOG1QNXRFSDZTSkZhU2JmM2UwelV6X21LOGVoUlBNVTBWaURGek01aHd5NTM2dW1tcDV0alBsM19tc3dmVVRuQnJzaE9DWVVYa0VlWVgycFpSZXRHbHo0bGt1Z3JMUkpaTUdXWTFYSHREaUhLd2JR?oc=5",
-      "source": "Yahoo Finance",
-      "published": "Wed, 21 Oct 2026 22:10:25 GMT"
-    },
-    {
-      "title": "Meta Hit With $25 Billion Penalty In New Mexico Data Privacy Case - Investor's Business Daily",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOc3dCdHk0NEhrYVZqaTZ4MU5DMjBoekdtZWh5dFoxSTUzanhrR1MtSGtTdGo5alJON3ZScE5xX0xZQ0w1V1A4UTFHeHVKTG83SHR2VWw1NkhJZHhrdnZwck5LWjJ1eXYwVnhrdDZSSjhlbmlPLXhiVHNfWGxjYUZjTzgtWlVMdjA?oc=5",
-      "source": "Investor's Business Daily",
-      "published": "Wed, 21 Oct 2026 19:13:00 GMT"
-    },
-    {
-      "title": "Meta Platforms, Inc. Q3 2026 Earnings: Live Updates of $META Earnings Call, Stock Forecast - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSlNBbFdvUThkNmc5bGVTMUhEaHUtaU5kWXFBbW9uM3J2OXEyTmFjUjhqdlZaNm1wbjFtS0g3YkdsVTk1cnVjYUJwR0FzeFdqcUVTbTBhU2dwOWd3QUtBU2E1YmRNWkhIbUtzVDUtQkdLRnJKcVFYN3lrQWNRYzM3Y0t1SzJPYnN0S3pqdmh0MDhBT0VwWVE?oc=5",
-      "source": "Yahoo Finance",
-      "published": "Wed, 21 Oct 2026 21:53:56 GMT"
+      "title": "Meta stock advances ahead of after-the-bell earnings. What we're looking for - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUGJtOGdjRWNsNlR3Vk9GU2dCaGtCTnBXSk82NmVqN3ptY2VHbC00TFIxSVQwYVRNMFh2cjNQbXBLcVFWSTEyWUY4UWFSUkhCTmpnUUpEeHRESDd4OVNpWGtzWHZ6dFBId0RwZWpLZHRsaDRjaGszenRRSDNlUV9IMmJEU01lbzlnOVpRMnJEX3c1QnVEUUxuWWRzdm5rSG55WGtiSGpEbjJ0dUZubzhuc0t2MjlCTE82RWtGN0tlSmxBRzQ?oc=5",
+      "source": "CNBC",
+      "published": "Wed, 21 Oct 2026 16:00:25 GMT"
     }
   ]
 }
