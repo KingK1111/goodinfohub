@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T00:49:31+09:00",
+  "updated_at": "2026-10-23T10:14:16+09:00",
   "disclaimer": "이 목록은 공개 시세 데이터(거래량, 변동률)를 기준으로 자동 정렬한 결과이며 특정 종목의 매수/매도를 추천하지 않습니다. 투자 판단과 책임은 본인에게 있습니다.",
   "criteria": {
     "min_price": 5.0,
@@ -13,244 +13,242 @@
     {
       "symbol": "BHVN",
       "name": "Biohaven Ltd.",
-      "price": 14.665,
-      "change_percent": 24.84,
-      "volume": 24052338,
+      "price": 14.69,
+      "change_percent": 25.02,
+      "volume": 30491335,
       "avg_volume_3m": 2598814,
-      "relative_volume": 9.26,
-      "market_cap": 2215056896,
+      "relative_volume": 11.73,
+      "market_cap": 2218832896,
       "exchange": "NYSE",
       "sources": [
-        "day_gainers",
-        "most_actives"
+        "day_gainers"
       ],
-      "reason": "장중 +24.8% 상승, 거래량 3개월 평균 대비 9.3배, 거래대금 상위 종목",
-      "score": 229.9
+      "reason": "장중 +25.0% 상승, 거래량 3개월 평균 대비 11.7배",
+      "score": 293.57
     },
     {
       "symbol": "FPS",
       "name": "Forgent Power Solutions, Inc.",
-      "price": 23.99,
-      "change_percent": -24.46,
-      "volume": 20298293,
+      "price": 24.92,
+      "change_percent": -21.54,
+      "volume": 44342872,
       "avg_volume_3m": 8211334,
-      "relative_volume": 2.47,
-      "market_cap": 7652445184,
+      "relative_volume": 5.4,
+      "market_cap": 7949101056,
       "exchange": "NYSE",
       "sources": [
         "most_actives"
       ],
-      "reason": "장중 -24.5% 하락, 거래량 3개월 평균 대비 2.5배, 거래대금 상위 종목",
-      "score": 60.48
+      "reason": "장중 -21.5% 하락, 거래량 3개월 평균 대비 5.4배, 거래대금 상위 종목",
+      "score": 116.3
     },
     {
-      "symbol": "NOK",
-      "name": "Nokia Corporation Sponsored",
-      "price": 8.22,
-      "change_percent": -11.14,
-      "volume": 99179779,
-      "avg_volume_3m": 79929634,
-      "relative_volume": 1.24,
-      "market_cap": 46020861952,
-      "exchange": "NYSE",
+      "symbol": "MRNA",
+      "name": "Moderna, Inc.",
+      "price": 202.63,
+      "change_percent": -17.57,
+      "volume": 49812057,
+      "avg_volume_3m": 19703756,
+      "relative_volume": 2.53,
+      "market_cap": 80897171456,
+      "exchange": "NasdaqGS",
       "sources": [
         "most_actives"
       ],
-      "reason": "장중 -11.1% 하락, 거래량 3개월 평균 대비 1.2배, 거래대금 상위 종목",
-      "score": 13.82
-    },
-    {
-      "symbol": "SPOT",
-      "name": "Spotify Technology S.A.",
-      "price": 573.575,
-      "change_percent": 9.18,
-      "volume": 2452426,
-      "avg_volume_3m": 1681164,
-      "relative_volume": 1.46,
-      "market_cap": 117938528256,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +9.2% 상승, 거래량 3개월 평균 대비 1.5배",
-      "score": 13.39
-    },
-    {
-      "symbol": "WCN",
-      "name": "Waste Connections, Inc.",
-      "price": 183.4,
-      "change_percent": 8.99,
-      "volume": 1998201,
-      "avg_volume_3m": 1375804,
-      "relative_volume": 1.45,
-      "market_cap": 46137798656,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +9.0% 상승, 거래량 3개월 평균 대비 1.5배",
-      "score": 13.05
-    },
-    {
-      "symbol": "RTO",
-      "name": "Rentokil Initial plc",
-      "price": 22.835,
-      "change_percent": 8.53,
-      "volume": 2527517,
-      "avg_volume_3m": 1828335,
-      "relative_volume": 1.38,
-      "market_cap": 11491666944,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +8.5% 상승, 거래량 3개월 평균 대비 1.4배",
-      "score": 11.79
+      "reason": "장중 -17.6% 하락, 거래량 3개월 평균 대비 2.5배, 거래대금 상위 종목",
+      "score": 44.41
     },
     {
       "symbol": "POOL",
       "name": "Pool Corporation",
-      "price": 188.065,
-      "change_percent": 9.06,
-      "volume": 883652,
+      "price": 197.21,
+      "change_percent": 14.36,
+      "volume": 2194900,
       "avg_volume_3m": 779585,
-      "relative_volume": 1.13,
-      "market_cap": 6834422784,
+      "relative_volume": 2.82,
+      "market_cap": 7166758912,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +9.1% 상승, 거래량 3개월 평균 대비 1.1배",
-      "score": 10.27
+      "reason": "장중 +14.4% 상승, 거래량 3개월 평균 대비 2.8배",
+      "score": 40.44
+    },
+    {
+      "symbol": "NOK",
+      "name": "Nokia Corporation Sponsored",
+      "price": 7.88,
+      "change_percent": -14.81,
+      "volume": 206826972,
+      "avg_volume_3m": 79929634,
+      "relative_volume": 2.59,
+      "market_cap": 44117319680,
+      "exchange": "NYSE",
+      "sources": [
+        "most_actives"
+      ],
+      "reason": "장중 -14.8% 하락, 거래량 3개월 평균 대비 2.6배, 거래대금 상위 종목",
+      "score": 38.32
+    },
+    {
+      "symbol": "WCN",
+      "name": "Waste Connections, Inc.",
+      "price": 184.88,
+      "change_percent": 9.86,
+      "volume": 5315843,
+      "avg_volume_3m": 1375804,
+      "relative_volume": 3.86,
+      "market_cap": 46510125056,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +9.9% 상승, 거래량 3개월 평균 대비 3.9배",
+      "score": 38.11
+    },
+    {
+      "symbol": "SPOT",
+      "name": "Spotify Technology S.A.",
+      "price": 583.66,
+      "change_percent": 11.1,
+      "volume": 4735322,
+      "avg_volume_3m": 1681164,
+      "relative_volume": 2.82,
+      "market_cap": 120012201984,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +11.1% 상승, 거래량 3개월 평균 대비 2.8배",
+      "score": 31.27
     },
     {
       "symbol": "KSS",
       "name": "Kohl's Corporation",
-      "price": 24.95,
-      "change_percent": 12.59,
-      "volume": 3163340,
+      "price": 24.78,
+      "change_percent": 11.82,
+      "volume": 8970148,
       "avg_volume_3m": 4107834,
-      "relative_volume": 0.77,
-      "market_cap": 2828742400,
+      "relative_volume": 2.18,
+      "market_cap": 2809468416,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +12.6% 상승, 거래량 3개월 평균 대비 0.8배",
-      "score": 9.7
+      "reason": "장중 +11.8% 상승, 거래량 3개월 평균 대비 2.2배",
+      "score": 25.82
+    },
+    {
+      "symbol": "ROP",
+      "name": "Roper Technologies, Inc.",
+      "price": 436.23,
+      "change_percent": 9.73,
+      "volume": 1976290,
+      "avg_volume_3m": 791556,
+      "relative_volume": 2.5,
+      "market_cap": 43143528448,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +9.7% 상승, 거래량 3개월 평균 대비 2.5배",
+      "score": 24.29
     },
     {
       "symbol": "CRWV",
       "name": "CoreWeave, Inc.",
-      "price": 56.6999,
-      "change_percent": -8.28,
-      "volume": 36953641,
+      "price": 55.6,
+      "change_percent": -10.06,
+      "volume": 81234057,
       "avg_volume_3m": 35394921,
-      "relative_volume": 1.04,
-      "market_cap": 31272069120,
+      "relative_volume": 2.3,
+      "market_cap": 30665433088,
       "exchange": "NasdaqGS",
       "sources": [
         "most_actives"
       ],
-      "reason": "장중 -8.3% 하락, 거래량 3개월 평균 대비 1.0배, 거래대금 상위 종목",
-      "score": 8.65
+      "reason": "장중 -10.1% 하락, 거래량 3개월 평균 대비 2.3배, 거래대금 상위 종목",
+      "score": 23.09
     },
     {
-      "symbol": "LMT",
-      "name": "Lockheed Martin Corporation",
-      "price": 587.18,
-      "change_percent": 6.47,
-      "volume": 1517981,
-      "avg_volume_3m": 1182103,
-      "relative_volume": 1.28,
-      "market_cap": 135515709440,
+      "symbol": "BBT",
+      "name": "Beacon Financial Corporation",
+      "price": 29.95,
+      "change_percent": 6.96,
+      "volume": 2907494,
+      "avg_volume_3m": 931967,
+      "relative_volume": 3.12,
+      "market_cap": 2510291968,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +6.5% 상승, 거래량 3개월 평균 대비 1.3배",
-      "score": 8.31
+      "reason": "장중 +7.0% 상승, 거래량 3개월 평균 대비 3.1배",
+      "score": 21.73
     },
     {
-      "symbol": "SSL",
-      "name": "Sasol Ltd.",
-      "price": 17.175,
-      "change_percent": 6.08,
-      "volume": 2077685,
-      "avg_volume_3m": 1540642,
-      "relative_volume": 1.35,
-      "market_cap": 11009821696,
+      "symbol": "BX",
+      "name": "Blackstone Inc.",
+      "price": 118.75,
+      "change_percent": 8.38,
+      "volume": 11846527,
+      "avg_volume_3m": 4631906,
+      "relative_volume": 2.56,
+      "market_cap": 141941620736,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +6.1% 상승, 거래량 3개월 평균 대비 1.3배",
-      "score": 8.2
+      "reason": "장중 +8.4% 상승, 거래량 3개월 평균 대비 2.6배",
+      "score": 21.43
     },
     {
-      "symbol": "CSX",
-      "name": "CSX Corporation",
-      "price": 51.555,
-      "change_percent": 6.52,
-      "volume": 12151916,
-      "avg_volume_3m": 10668210,
-      "relative_volume": 1.14,
-      "market_cap": 95504343040,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers",
-        "most_actives"
-      ],
-      "reason": "장중 +6.5% 상승, 거래량 3개월 평균 대비 1.1배, 거래대금 상위 종목",
-      "score": 7.43
-    },
-    {
-      "symbol": "PG",
-      "name": "Procter & Gamble Company (The)",
-      "price": 166.545,
-      "change_percent": 6.19,
-      "volume": 10656294,
-      "avg_volume_3m": 8911742,
-      "relative_volume": 1.2,
-      "market_cap": 387122724864,
+      "symbol": "RTO",
+      "name": "Rentokil Initial plc",
+      "price": 22.88,
+      "change_percent": 8.75,
+      "volume": 4031177,
+      "avg_volume_3m": 1828335,
+      "relative_volume": 2.2,
+      "market_cap": 11514312704,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +6.2% 상승, 거래량 3개월 평균 대비 1.2배",
-      "score": 7.4
+      "reason": "장중 +8.7% 상승, 거래량 3개월 평균 대비 2.2배",
+      "score": 19.28
     },
     {
-      "symbol": "TSCO",
-      "name": "Tractor Supply Company",
-      "price": 34.37,
-      "change_percent": 5.14,
-      "volume": 16043833,
-      "avg_volume_3m": 11331551,
-      "relative_volume": 1.42,
-      "market_cap": 17908148224,
-      "exchange": "NasdaqGS",
+      "symbol": "RH",
+      "name": "RH",
+      "price": 140.15,
+      "change_percent": 9.48,
+      "volume": 1580527,
+      "avg_volume_3m": 786743,
+      "relative_volume": 2.01,
+      "market_cap": 2653482240,
+      "exchange": "NYSE",
       "sources": [
-        "most_actives"
+        "day_gainers"
       ],
-      "reason": "장중 +5.1% 상승, 거래량 3개월 평균 대비 1.4배, 거래대금 상위 종목",
-      "score": 7.28
+      "reason": "장중 +9.5% 상승, 거래량 3개월 평균 대비 2.0배",
+      "score": 19.05
     },
     {
-      "symbol": "IREN",
-      "name": "IREN LIMITED",
-      "price": 25.4678,
-      "change_percent": -8.52,
-      "volume": 36567959,
-      "avg_volume_3m": 45220604,
-      "relative_volume": 0.81,
-      "market_cap": 10035807232,
-      "exchange": "NasdaqGS",
+      "symbol": "ALLE",
+      "name": "Allegion plc",
+      "price": 176.52,
+      "change_percent": 11.02,
+      "volume": 2097511,
+      "avg_volume_3m": 1248175,
+      "relative_volume": 1.68,
+      "market_cap": 15010693120,
+      "exchange": "NYSE",
       "sources": [
-        "most_actives"
+        "day_gainers"
       ],
-      "reason": "장중 -8.5% 하락, 거래량 3개월 평균 대비 0.8배, 거래대금 상위 종목",
-      "score": 6.89
+      "reason": "장중 +11.0% 상승, 거래량 3개월 평균 대비 1.7배",
+      "score": 18.52
     }
   ]
 }
