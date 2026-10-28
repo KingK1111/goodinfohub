@@ -1,17 +1,23 @@
 {
-  "updated_at": "2026-10-28T01:14:07+09:00",
+  "updated_at": "2026-10-28T11:02:54+09:00",
   "quote": {
     "symbol": "META",
-    "price": 624.43,
+    "price": 620.19,
     "previous_close": 633.33,
-    "change": -8.9,
-    "change_percent": -1.41,
+    "change": -13.14,
+    "change_percent": -2.07,
     "currency": "USD",
     "day_high": 628.4600219726562,
-    "day_low": 621.3599853515625,
-    "market_cap": 1596563232693.8154
+    "day_low": 619.2100219726562,
+    "market_cap": 1585722285598.728
   },
   "articles": [
+    {
+      "title": "Meta’s $25 Billion Stock Sale Ended Five Times Oversubscribed - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdmR1WjllZWo5S013MU1kTmgzNWdZXzd3ejl4bHZFRlR6NUpLbWt5aHdaYkpzc3g4eG55M0Q2UGVHb01oSHBIUWZyY0tzTHNzMlU2clZ6NVFoZmJ3clRtYkZLWHFsWElfRHRibEw0UkZYMUNtQzNQcFVtejBQUjM4QVh6Yk9LdVMzOENZU1U3S0syTWRxSU9zdmFkQUlLY2hVQkFtVlFrN3lseGhEcWNPdA?oc=5",
+      "source": "Bloomberg.com",
+      "published": "Tue, 27 Oct 2026 14:22:52 GMT"
+    },
     {
       "title": "Meta Announces Launch of Offering of Depositary Shares Representing Series A Mandatory Convertible Preferred Stock and Offering of Class A Common Stock in Connection with Forward Sale Agreements - Meta Investor Relations",
       "link": "https://news.google.com/rss/articles/CBMijANBVV95cUxON0lNaXV6RThzZ0ltRF9MS3VXbHJpTkdETG81Y2toYkd5QXN2NUVhX3BiSnNkVWhhUU1sNzdMV1RIS1lNSm44Z05LdmZiWk42WlB4OGE2YUZZSlRIX3ZQN3ByNUVrYmFBdWFnLVBwUUNqMW14bllLZnV0OTB2WG9CMHlBWXl6SUhZWnYyU1lmdHBNNm41dDVzb2RESnFuNElWallZa2ZMamtpc3lLNms3N2VyOUxpZjl0QlZ6UzRORkpadGJ1bTV0NG5NaERaNDdTc0NFSVExWVREaHFMaGZzOFU5bFZ2anl4aFRHaW5BdjBNbzdKU01NM211OHFubTlGV2stRHJBdlVjYlRSeUVLMnE3TGpNaU9Ya2FScjJyWlBRUnd6Z0xZdUR5djdQb2ZDQkVsZUkzSEw1d1V1SzNIcXBweTBvMVRIRmNTd0JFcWhsMlZhczJlVFkxcnhNMkVER0JqQU10Tm9JQzVZU3BkM1lFWVZEaXVYYnJ2Z3FCQW9DQks4TWZmbUQyWFg?oc=5",
@@ -19,10 +25,10 @@
       "published": "Mon, 26 Oct 2026 11:47:25 GMT"
     },
     {
-      "title": "Why Is Everyone Talking About Meta Stock? - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONVNraklTTjNuYjRNSnBlLVVQejIxcjlnTHVpa2NacGdtOGduNkdmam1DWUN5Z0ZMNERJZEh6UGhUWW50ZFFSUi1hcVgxQzl0OEVKNDFuMTB0V1pra2ZnRkY5Rl9qbjFkVjZ5OUhaT3JmcFo0SDJid293X2FSS0pyTHZFZGdyQ0ZDa3hJ?oc=5",
-      "source": "The Motley Fool",
-      "published": "Tue, 27 Oct 2026 12:32:52 GMT"
+      "title": "AMD To Invest $1B In Meta Stock Offering As AI Partnership Expands — Helios Systems Now Running At Meta - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMVZONEsxU01Pa2dLUzZQWFFrM0VMQzJLWFQ1UzVkNW5zS0VIeDNCUDFYbmZMSWVnODBFWkJhLWVfWGNabFlTWEpicjYxcjItbHV5OE9pMkp2dzBKLUh3dFdGT0c5V19wWTBXQmVUQ3doNGRwa3BqalozWUx0M0lsVE9vdERua2Q1aGN2VWZzaVc3Zw?oc=5",
+      "source": "Yahoo Finance",
+      "published": "Tue, 27 Oct 2026 14:59:12 GMT"
     },
     {
       "title": "Meta eyes record $97.5 billion equity raise to fund AI expansion - Reuters",
@@ -37,16 +43,10 @@
       "published": "Mon, 26 Oct 2026 21:02:10 GMT"
     },
     {
-      "title": "Meta Launches $35B Stock Offering, Plans Another $60B Program In 2027: Nvidia, AMD, Broadcom Eye Up To $5B Investment - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRUZTaHN0QlFyYk9uM1pRZWtkcWV4T19femtzQ3FwWXpGQnhDZDh0WFdQUU1EREtESlhjeUVKRUpfTkxfUjVhVGFFNFFnSUJ6NEc4RWNoUkJqZ19WdlNUNDZMb3U3N3RKUzZKa24zaTd0dkM0R0VLdThfUThyM1lIU2NOdlRXSHJTVXJyeUxfS1AtUnZqaVotNElVakI2QQ?oc=5",
-      "source": "Yahoo Finance",
-      "published": "Mon, 26 Oct 2026 12:17:38 GMT"
-    },
-    {
-      "title": "Meta Stock Falls On Plan For $95 Billion Equity Raise. Analysts Are Offering A Positive View. - Investor's Business Daily",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRVNaVzVKMV9fbDV0TlVybC05NnZsay1zWEc3ZDBtbDVBVWxuYkltbE9DSmRVY2RsR2Z3RTJaREF1MWZ6ZWhfeVdxTHVhdV9PYS1zRG1LVGplM1ViYnBVbEZmUVhoTHh5cFduaWhkbG51SEhVaXd6OVIybjc5ekI4Z1Nrbw?oc=5",
-      "source": "Investor's Business Daily",
-      "published": "Mon, 26 Oct 2026 19:55:00 GMT"
+      "title": "Why Is Everyone Talking About Meta Stock? - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONVNraklTTjNuYjRNSnBlLVVQejIxcjlnTHVpa2NacGdtOGduNkdmam1DWUN5Z0ZMNERJZEh6UGhUWW50ZFFSUi1hcVgxQzl0OEVKNDFuMTB0V1pra2ZnRkY5Rl9qbjFkVjZ5OUhaT3JmcFo0SDJid293X2FSS0pyTHZFZGdyQ0ZDa3hJ?oc=5",
+      "source": "The Motley Fool",
+      "published": "Tue, 27 Oct 2026 13:30:00 GMT"
     },
     {
       "title": "Meta Will Offer Up to $95 Billion in Stock. What That Means for Its Big AI Push. - Barron's",
@@ -61,10 +61,10 @@
       "published": "Mon, 26 Oct 2026 12:15:00 GMT"
     },
     {
-      "title": "Meta Platforms, Inc. (META) Launches $22.5B Common Stock Offering And Preferred Issue - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZTZ5bjJiT3BLTlBsblpLWjV5SmZlXzRKRDJkRTQxWVFhUlI5RHJwUExjWFVWRVAybVVqYXN0ZUI2SkdFT1pQVkNzTDNSVGN2bzlXbTEzcmo5SGxUelNJeklpejZucDgyeTdLMlRsbkJrQUR3ME5HSU11cUFfdkV6bE1LcERRM1ZQRDNfeWluV1B1Q3JiM3htTm5GOTJmZEZIQ1EzbHpsUWRKemlXemhYQlNfUGl3OExpSVpHN0pOUElhVmR0UVZPMlJTa0o0WksxTFJhd3hlTjJfZw?oc=5",
-      "source": "TradingView",
-      "published": "Mon, 26 Oct 2026 10:58:00 GMT"
+      "title": "Meta Stock Falls On Plan For $95 Billion Equity Raise. Analysts Are Offering A Positive View. - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRVNaVzVKMV9fbDV0TlVybC05NnZsay1zWEc3ZDBtbDVBVWxuYkltbE9DSmRVY2RsR2Z3RTJaREF1MWZ6ZWhfeVdxTHVhdV9PYS1zRG1LVGplM1ViYnBVbEZmUVhoTHh5cFduaWhkbG51SEhVaXd6OVIybjc5ekI4Z1Nrbw?oc=5",
+      "source": "Investor's Business Daily",
+      "published": "Mon, 26 Oct 2026 19:55:00 GMT"
     },
     {
       "title": "Meta Platforms, Inc. $META Stock: Obermeyer Wealth Partners Increases Holdings - MarketBeat",
@@ -73,22 +73,40 @@
       "published": "Tue, 27 Oct 2026 08:56:07 GMT"
     },
     {
+      "title": "What Is Going On With Meta Stock on Tuesday? - Benzinga",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVXhUSV9oM0pCVWRtZVQtZjJMdmhrdG1hWml2dkdqdzMxb1A2UDZ4azI4a1hDVE8tX2F5b2lBanZka3phcjBmZzFKMGdCWmpjU0xzNVV4d2hfYkx4UVpoNzdUeEFPTjRxSzBBekRKSDdhVkYwN2RQb0FhemhZS0JJNU1ZRWxhTHBkQW81ZmNvZTI0Y3N4a3FUcGVqd1ZGM3c?oc=5",
+      "source": "Benzinga",
+      "published": "Tue, 27 Oct 2026 17:06:04 GMT"
+    },
+    {
       "title": "Meta Stock Sell-Off Looks Like an Overreaction - TipRanks",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcHJtRUdQWm1ocmFuMnFtMTU0Zzc4WE9QTWZVSWllaWVaejhGQW13ZTZRMjZrWmt5Qm1LS1BackpkNXdqT1ozbTlEUzNJUS02X3RhZGs4cjJNT1lyMUhVaVRHX3RFdm1vcFNYSkREUEFNblQwR01KdDFSazNIMDRYUkVB?oc=5",
       "source": "TipRanks",
       "published": "Tue, 27 Oct 2026 12:49:00 GMT"
     },
     {
-      "title": "Bank of America revamps Meta stock price target once again - TheStreet",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZ3Y4UTVnSVh3bGc5c1FkNUwwc1ZibllGZklVLXFrVDd6Q1RUVVRqNk9pb1RKTVFQaDNMeXpPMTYzek56MFpwbi1sVWlEMkR0akVWcFAxcWVKSk5oeVlaVzlXNlNqZGZiNzdteHhQOHRxOURDMkNjWmJ4UzlEUEpyeTR6NWhxdkZENmxVeHVjYVlaejhIdGhKR2hiRjdNNTIyOTk4?oc=5",
-      "source": "TheStreet",
-      "published": "Sat, 24 Oct 2026 12:07:00 GMT"
+      "title": "Meta Launches $35B Stock Offering, Plans Another $60B Program In 2027: Nvidia, AMD, Broadcom Eye Up To $5B Investment - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRUZTaHN0QlFyYk9uM1pRZWtkcWV4T19femtzQ3FwWXpGQnhDZDh0WFdQUU1EREtESlhjeUVKRUpfTkxfUjVhVGFFNFFnSUJ6NEc4RWNoUkJqZ19WdlNUNDZMb3U3N3RKUzZKa24zaTd0dkM0R0VLdThfUThyM1lIU2NOdlRXSHJTVXJyeUxfS1AtUnZqaVotNElVakI2QQ?oc=5",
+      "source": "Yahoo Finance",
+      "published": "Mon, 26 Oct 2026 12:17:38 GMT"
     },
     {
-      "title": "What Is Meta Platforms (META) Telling Investors With Its Sundial Deal And New Stock? - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQellpUEtWaVd5djc3TllEamtxdENZMlFLQnBsanVmZjlpeTRWSjVpTEtzUDRkbzhSVHE5Y2hPQ3ViS0ZtSDZveUNnTHU0RC1jY3hKUEYxbGd1NzRjbWZFal8zR0FUZy1uczROcmVna2dqY2wtdl9lSlA2bE9adk95T01NVV9HbWdxWWpUWkdYc280cmRMY1YweGZKWjRzZTY4bkFpNA?oc=5",
+      "title": "Meta Stock Has Dropped the Day After 3 Straight Earnings Reports. Is It a Buy Now? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNeklvb08xd1ZtTzkySTRZbVhLZzY2QzMyRTI4dFk5ZmlYdGx6Z1JsS21pZWl4SEVpTXBPYWJLaU5LYmhVbTFuMUxRR0wwSXhzTlZmWDN2TC1yb3BYRHNJRXVmY0gtNmtNMTVpbU84WXI4S0E4Snc5Vk8wcDBxelZOOG5pTmpfbURqZ0dVczN4OGtreFU?oc=5",
       "source": "Yahoo Finance",
-      "published": "Sun, 25 Oct 2026 16:07:15 GMT"
+      "published": "Mon, 26 Oct 2026 13:37:01 GMT"
+    },
+    {
+      "title": "Meta Is Creating a New Class of Stock. What Shareholders Need to Know - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeFFUWkhxYlJNc3labzFqU1hldXAwd3A4VHB0Wl9heUZ4d21vQnc0bWVoSVBwNlZiOERENjBTekYwODFoSk5uRGozUjdRQjdCd0JZLXpLSGplbjIxX1psNXBUY2NPeGZWM2FqemJBdU9LcHE0TTQyS1Q5TkY4OTZuUHUyVHdNRGlqRXZ2V3pvR2ZHaDR0d3pmR3Z5cS05eDFJVDBYcnVn?oc=5",
+      "source": "Yahoo Finance",
+      "published": "Mon, 26 Oct 2026 11:15:52 GMT"
+    },
+    {
+      "title": "Why You Should Buy Meta Stock Before It Touches $1,050 - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWHd0bEhHMmtQdnlmTEpiXy1fZVhjRW1HV2FLcy11R2RaUGFwdjdLbVpPcmtldkROcS1hSEFuX3FYTDVHM2VBd3BsUU12UGthNUFDa2FZWnk3RzZsNDBtTzlKbEgteXU2Mk5YSmVqejQtNm9hLTZZeEw1RkRfNm9ScG5oUXJjVlhPd0UyNEoycTVqWDVVd0E?oc=5",
+      "source": "Yahoo Finance",
+      "published": "Sat, 24 Oct 2026 18:30:02 GMT"
     },
     {
       "title": "Meta Stock Has Dropped the Day After 3 Straight Earnings Reports. Is It a Buy Now? - The Motley Fool",
@@ -97,16 +115,10 @@
       "published": "Mon, 26 Oct 2026 14:17:00 GMT"
     },
     {
-      "title": "What the New Class C Share Structure Actually Means for Meta Platforms Stock Investors - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcFljUHJ1VDNsd0ZCOWwtYUdTRWhfdkRyaVVWZXl3ejVOMHRNRnJON0NGd3RwU1Q4ZFhKcllMNlF3MTdOMzQzbWFQUjM4ZEpRMzRPdF9iUkF5cEZvUUltSEQ2bVg1Nms1bkxKNFBFX1FSNEo0T2pGTFpFUml4enk3bFk1TURBdm1oTF9tTDBINlEyQ052TUhtOElDVHdSZw?oc=5",
+      "title": "Meta stock closes out Friday down as AI spending fears continue to rattle markets - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNOVBsWC1HZmNiRnJHT3RIbzlmcmZLZVpRVVlibk5sMFhyLUJfSHVtZlhxNzBLWkJ6RkgtWWprZnl2ZUVCeVBzb3NOVzlJQkYwbjBvVzQtaFZDSk9rZGxlYWVjMEJnWFY0LVFiUVM0S2J1T0ExVTJMcFY4QjJ1ZDgwNVVrVEpENFpJMHVrRkpoVXJvSTktOE9fMU94dnpLR1UxWWlSTFVHallWRG1DTDBhNXJobzJpek5UeTk3dUFRZl9QMnJhaGo1OXo3TUhSeEg0LTVQeHZiZ0NuZw?oc=5",
       "source": "Yahoo Finance",
-      "published": "Sat, 24 Oct 2026 11:16:22 GMT"
-    },
-    {
-      "title": "What Is Driving The Move In Meta Stock? - Trefis",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdjN2SmI2TWxSYmhhbGFnSDhyQWFVS3NabndmSmVtelFvZWFCSTg3cHVrNm5Kb3h6bU9Xekw2UlpYRmp4d05BUTN4RzJ0a1U1WjdOUDI0bHRGUG9oVDdZMjF3T0tsV0xhSEtacVA4aFp3WG04WWlSTGZ6LXlDWkxYXzJOY0dkTHBJY0lkeGt6V1NsWUMxSjRkVDA3Mko0YnBR?oc=5",
-      "source": "Trefis",
-      "published": "Fri, 23 Oct 2026 09:15:15 GMT"
+      "published": "Fri, 23 Oct 2026 21:04:03 GMT"
     },
     {
       "title": "Why Meta Platforms Stock Skyrocketed Today - The Motley Fool",
@@ -115,22 +127,10 @@
       "published": "Mon, 21 Sep 2026 07:00:00 GMT"
     },
     {
-      "title": "Meta stock closes out Friday down as AI spending fears continue to rattle markets - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNOVBsWC1HZmNiRnJHT3RIbzlmcmZLZVpRVVlibk5sMFhyLUJfSHVtZlhxNzBLWkJ6RkgtWWprZnl2ZUVCeVBzb3NOVzlJQkYwbjBvVzQtaFZDSk9rZGxlYWVjMEJnWFY0LVFiUVM0S2J1T0ExVTJMcFY4QjJ1ZDgwNVVrVEpENFpJMHVrRkpoVXJvSTktOE9fMU94dnpLR1UxWWlSTFVHallWRG1DTDBhNXJobzJpek5UeTk3dUFRZl9QMnJhaGo1OXo3TUhSeEg0LTVQeHZiZ0NuZw?oc=5",
-      "source": "Yahoo Finance",
-      "published": "Fri, 23 Oct 2026 21:04:03 GMT"
-    },
-    {
-      "title": "Meta Stock Falls. Earnings Show Just How Much Future Growth Will Cost. - Barron's",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4tdTM5U2kwQ295eEpWaTdjamk4SDdmT09TWjFBNHBhZkRxcmR6SmpNT1lEbTZGZTl0LVZpYUxXUERlOEtsaWdFLXF2QTFSUG9LM0RjbkZyR21YR1dlNmN2NnhvTWFqanY4Q09IYjBqT29SOHBGeWxrZg?oc=5",
-      "source": "Barron's",
-      "published": "Thu, 22 Oct 2026 12:54:00 GMT"
-    },
-    {
-      "title": "Meta stock surges with Wall Street bullish on new AI agent - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVU5VM2xXTTFmS0lWVkU4cmgtWFNvSU1EUDItZ3FwbmlaXzBiSnBJU1paVGpqNEl5TEJGc2lBNVE5QmN2c1FpMmVycjBOUm9sRzNxZ25yY0k0M2lBb3pLLTczMU1IX0t1NmFSY3dZTi1TVEdCZW5JYk1JNW1WenZsX3BrdmN1NUNFVm5wQ3M4dTdzaE9TSHlfYmVJZDljNGdMWEwxTHNCWU9DNExRakF0d2F6RkNodUIxb2Zpb1IzNA?oc=5",
-      "source": "Yahoo Finance",
-      "published": "Wed, 09 Sep 2026 07:00:00 GMT"
+      "title": "Meta Platforms, Inc. (META) stock price, news, quote and history - Yahoo Finance UK",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB4R1puQ0Z4d0VwYXkyb1Z2LXQteDFfUE5Vd2h6ZnJ5d3UyZ1F1Vm1Ib3ZEWmZXQUJUeklBQVdwNkhBaERNeGlxQ05tRkI2VXNLU1E?oc=5",
+      "source": "Yahoo Finance UK",
+      "published": "Tue, 27 Oct 2026 18:41:32 GMT"
     }
   ]
 }
