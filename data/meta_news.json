@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-29T11:07:26+09:00",
+  "updated_at": "2026-10-29T20:13:38+09:00",
   "quote": {
     "symbol": "META",
     "price": 612.49,
-    "previous_close": 619.4,
-    "change": -6.91,
-    "change_percent": -1.12,
+    "previous_close": 616.04,
+    "change": -3.55,
+    "change_percent": -0.58,
     "currency": "USD",
     "day_high": 624.4199829101562,
     "day_low": 609.0,
@@ -31,16 +31,16 @@
       "published": "Wed, 28 Oct 2026 15:16:54 GMT"
     },
     {
-      "title": "Meta’s $25 Billion Stock Sale Ended Five Times Oversubscribed - Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdmR1WjllZWo5S013MU1kTmgzNWdZXzd3ejl4bHZFRlR6NUpLbWt5aHdaYkpzc3g4eG55M0Q2UGVHb01oSHBIUWZyY0tzTHNzMlU2clZ6NVFoZmJ3clRtYkZLWHFsWElfRHRibEw0UkZYMUNtQzNQcFVtejBQUjM4QVh6Yk9LdVMzOENZU1U3S0syTWRxSU9zdmFkQUlLY2hVQkFtVlFrN3lseGhEcWNPdA?oc=5",
-      "source": "Bloomberg",
-      "published": "Tue, 27 Oct 2026 14:22:52 GMT"
-    },
-    {
       "title": "Meta Announces Launch of Offering of Depositary Shares Representing Series A Mandatory Convertible Preferred Stock and Offering of Class A Common Stock in Connection with Forward Sale Agreements - Meta Investor Relations",
       "link": "https://news.google.com/rss/articles/CBMijANBVV95cUxON0lNaXV6RThzZ0ltRF9MS3VXbHJpTkdETG81Y2toYkd5QXN2NUVhX3BiSnNkVWhhUU1sNzdMV1RIS1lNSm44Z05LdmZiWk42WlB4OGE2YUZZSlRIX3ZQN3ByNUVrYmFBdWFnLVBwUUNqMW14bllLZnV0OTB2WG9CMHlBWXl6SUhZWnYyU1lmdHBNNm41dDVzb2RESnFuNElWallZa2ZMamtpc3lLNms3N2VyOUxpZjl0QlZ6UzRORkpadGJ1bTV0NG5NaERaNDdTc0NFSVExWVREaHFMaGZzOFU5bFZ2anl4aFRHaW5BdjBNbzdKU01NM211OHFubTlGV2stRHJBdlVjYlRSeUVLMnE3TGpNaU9Ya2FScjJyWlBRUnd6Z0xZdUR5djdQb2ZDQkVsZUkzSEw1d1V1SzNIcXBweTBvMVRIRmNTd0JFcWhsMlZhczJlVFkxcnhNMkVER0JqQU10Tm9JQzVZU3BkM1lFWVZEaXVYYnJ2Z3FCQW9DQks4TWZmbUQyWFg?oc=5",
       "source": "Meta Investor Relations",
       "published": "Mon, 26 Oct 2026 11:47:25 GMT"
+    },
+    {
+      "title": "Meta’s $25 Billion Stock Sale Ended Five Times Oversubscribed - Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdmR1WjllZWo5S013MU1kTmgzNWdZXzd3ejl4bHZFRlR6NUpLbWt5aHdaYkpzc3g4eG55M0Q2UGVHb01oSHBIUWZyY0tzTHNzMlU2clZ6NVFoZmJ3clRtYkZLWHFsWElfRHRibEw0UkZYMUNtQzNQcFVtejBQUjM4QVh6Yk9LdVMzOENZU1U3S0syTWRxSU9zdmFkQUlLY2hVQkFtVlFrN3lseGhEcWNPdA?oc=5",
+      "source": "Bloomberg",
+      "published": "Tue, 27 Oct 2026 14:22:52 GMT"
     },
     {
       "title": "Meta Loses $400 Billion, Auctions More Stock, But Analysts Still See 1.4x Upside - Yahoo Finance",
@@ -67,10 +67,16 @@
       "published": "Mon, 26 Oct 2026 15:03:00 GMT"
     },
     {
-      "title": "Meta Platforms (NASDAQ:META) Stock Falls 1.2% - Here's What Happened - MarketBeat",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbGF5WlpxNDVQeWZhVktWY0xfSnhWc0VLNE5IN1pHVFFwR2JXcUVFb05PcENMQ2R0SUI4Skk3ci1Va3oyeUNidHdUWGF5NEp3X0s2X2p1WmhZaE4waW52QkFDVWh6SDdKVVF1THBaNUdpVTJ0dWV6NDczbGlEWHppbWw5Y1YzR25Tc09RZ3IyYmFuU3k1QXJGR3EyQTV3SHFCV2k1RUh4bWp4MmQ0dENMY1pQa1pFaFBSVVd1R1h3?oc=5",
+      "title": "Meta Platforms, Inc. $META Stock Acquired by Atlatl Advisers LLC - MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWklwS2dvYjVTTkprSlhyODdEVnlhM3owTmp4SmJMWktDeGRuWWwwZmVUNUpYZEVXWE1YdC12MXdtMXl2S3FWVVpDUmx5WXB5ZFROaEZZUUpHbVVNTmJmUXBOTlRWU0xaQk53YnNib2o5WGt4d284Ul9EeFVNUDJJZi1OUVlCNlBKb2lRbEdGdWQybnFoR3FyTVI5MlZqXzVZR1YxWjcybkxUTTUxdE51clo0UlkxUmJxd2NLY1ljNA?oc=5",
       "source": "MarketBeat",
-      "published": "Wed, 28 Oct 2026 21:42:57 GMT"
+      "published": "Thu, 29 Oct 2026 07:27:52 GMT"
+    },
+    {
+      "title": "What Is Going On With Meta Stock on Tuesday? - Benzinga",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVXhUSV9oM0pCVWRtZVQtZjJMdmhrdG1hWml2dkdqdzMxb1A2UDZ4azI4a1hDVE8tX2F5b2lBanZka3phcjBmZzFKMGdCWmpjU0xzNVV4d2hfYkx4UVpoNzdUeEFPTjRxSzBBekRKSDdhVkYwN2RQb0FhemhZS0JJNU1ZRWxhTHBkQW81ZmNvZTI0Y3N4a3FUcGVqd1ZGM3c?oc=5",
+      "source": "Benzinga",
+      "published": "Tue, 27 Oct 2026 17:06:04 GMT"
     },
     {
       "title": "Meta Is Creating a New Class of Stock. What Shareholders Need to Know - 24/7 Wall St.",
@@ -79,22 +85,10 @@
       "published": "Mon, 26 Oct 2026 12:15:00 GMT"
     },
     {
-      "title": "Meta Platforms, Inc. (META) Launches $22.5B Common Stock Offering And Preferred Issue - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZTZ5bjJiT3BLTlBsblpLWjV5SmZlXzRKRDJkRTQxWVFhUlI5RHJwUExjWFVWRVAybVVqYXN0ZUI2SkdFT1pQVkNzTDNSVGN2bzlXbTEzcmo5SGxUelNJeklpejZucDgyeTdLMlRsbkJrQUR3ME5HSU11cUFfdkV6bE1LcERRM1ZQRDNfeWluV1B1Q3JiM3htTm5GOTJmZEZIQ1EzbHpsUWRKemlXemhYQlNfUGl3OExpSVpHN0pOUElhVmR0UVZPMlJTa0o0WksxTFJhd3hlTjJfZw?oc=5",
-      "source": "TradingView",
-      "published": "Mon, 26 Oct 2026 10:58:00 GMT"
-    },
-    {
       "title": "Meta Stock Sell-Off Looks Like an Overreaction - TipRanks",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcHJtRUdQWm1ocmFuMnFtMTU0Zzc4WE9QTWZVSWllaWVaejhGQW13ZTZRMjZrWmt5Qm1LS1BackpkNXdqT1ozbTlEUzNJUS02X3RhZGs4cjJNT1lyMUhVaVRHX3RFdm1vcFNYSkREUEFNblQwR01KdDFSazNIMDRYUkVB?oc=5",
       "source": "TipRanks",
       "published": "Tue, 27 Oct 2026 12:49:00 GMT"
-    },
-    {
-      "title": "What Is Going On With Meta Stock on Tuesday? - Benzinga",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVXhUSV9oM0pCVWRtZVQtZjJMdmhrdG1hWml2dkdqdzMxb1A2UDZ4azI4a1hDVE8tX2F5b2lBanZka3phcjBmZzFKMGdCWmpjU0xzNVV4d2hfYkx4UVpoNzdUeEFPTjRxSzBBekRKSDdhVkYwN2RQb0FhemhZS0JJNU1ZRWxhTHBkQW81ZmNvZTI0Y3N4a3FUcGVqd1ZGM3c?oc=5",
-      "source": "Benzinga",
-      "published": "Tue, 27 Oct 2026 17:06:04 GMT"
     },
     {
       "title": "Meta Launches $35B Stock Offering, Plans Another $60B Program In 2027: Nvidia, AMD, Broadcom Eye Up To $5B Investment - Yahoo Finance",
@@ -115,22 +109,28 @@
       "published": "Mon, 26 Oct 2026 14:17:00 GMT"
     },
     {
+      "title": "Meta Is Creating a New Class of Stock. What Shareholders Need to Know - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeFFUWkhxYlJNc3labzFqU1hldXAwd3A4VHB0Wl9heUZ4d21vQnc0bWVoSVBwNlZiOERENjBTekYwODFoSk5uRGozUjdRQjdCd0JZLXpLSGplbjIxX1psNXBUY2NPeGZWM2FqemJBdU9LcHE0TTQyS1Q5TkY4OTZuUHUyVHdNRGlqRXZ2V3pvR2ZHaDR0d3pmR3Z5cS05eDFJVDBYcnVn?oc=5",
+      "source": "Yahoo Finance",
+      "published": "Mon, 26 Oct 2026 11:15:52 GMT"
+    },
+    {
+      "title": "Bank of America backs Meta stock after Muse surprise - TheStreet",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVk84YnRzUTdvZGw3Snh2c29LZ1ExUDFhXzlNcW1SY2QyNnEtLXB0VnRseU9rbFBtc0RCV0x4Z3VqMGl4b1RFSXNWUFl6bXRDZ1JKUVliTi10UFR4RHJTLWxTNEd4R0xWdkxpRVJGSFc2TXc1eEdUSUNmcm16b0RSVzVXSi1xWVVyaGJNM1V4NW1FNXlFWEp6b0ZNcw?oc=5",
+      "source": "TheStreet",
+      "published": "Tue, 22 Sep 2026 07:00:00 GMT"
+    },
+    {
       "title": "Meta stock closes out Friday down as AI spending fears continue to rattle markets - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNOVBsWC1HZmNiRnJHT3RIbzlmcmZLZVpRVVlibk5sMFhyLUJfSHVtZlhxNzBLWkJ6RkgtWWprZnl2ZUVCeVBzb3NOVzlJQkYwbjBvVzQtaFZDSk9rZGxlYWVjMEJnWFY0LVFiUVM0S2J1T0ExVTJMcFY4QjJ1ZDgwNVVrVEpENFpJMHVrRkpoVXJvSTktOE9fMU94dnpLR1UxWWlSTFVHallWRG1DTDBhNXJobzJpek5UeTk3dUFRZl9QMnJhaGo1OXo3TUhSeEg0LTVQeHZiZ0NuZw?oc=5",
       "source": "Yahoo Finance",
       "published": "Fri, 23 Oct 2026 21:04:03 GMT"
     },
     {
-      "title": "Stock Investing & Stock Market Research - The Motley Fool",
+      "title": "Why Meta Platforms Stock Skyrocketed Today - The Motley Fool",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdS1ROWZPNXVURnpCRlBnZXlCWWNRa0Y4RlllWWZvRzRWQ044T0RfOFhRV3NrYUlCZ0NpTmpWcjl0MndPMGd2U2ZOOUlLT3l2cVdMZ0FuaUhpSmE2ejAwM3BBYlR6ZVNBT2pqTm5zN2xocnhkM0JDYlRsdmhLa3Q3Ukx1MllZQzROcDRNZ1Rn?oc=5",
       "source": "The Motley Fool",
       "published": "Mon, 21 Sep 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Meta Stock Falls. Earnings Show Just How Much Future Growth Will Cost. - Barron's",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4tdTM5U2kwQ295eEpWaTdjamk4SDdmT09TWjFBNHBhZkRxcmR6SmpNT1lEbTZGZTl0LVZpYUxXUERlOEtsaWdFLXF2QTFSUG9LM0RjbkZyR21YR1dlNmN2NnhvTWFqanY4Q09IYjBqT29SOHBGeWxrZg?oc=5",
-      "source": "Barron's",
-      "published": "Thu, 22 Oct 2026 12:54:00 GMT"
     }
   ]
 }
