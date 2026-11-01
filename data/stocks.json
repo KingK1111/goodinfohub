@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T20:52:54+09:00",
+  "updated_at": "2026-11-02T02:02:19+09:00",
   "disclaimer": "이 목록은 공개 시세 데이터(거래량, 변동률)를 기준으로 자동 정렬한 결과이며 특정 종목의 매수/매도를 추천하지 않습니다. 투자 판단과 책임은 본인에게 있습니다.",
   "criteria": {
     "min_price": 5.0,
@@ -10,22 +10,6 @@
     ]
   },
   "candidates": [
-    {
-      "symbol": "RDDT",
-      "name": "Reddit, Inc.",
-      "price": 91.73,
-      "change_percent": -29.22,
-      "volume": 33255690,
-      "avg_volume_3m": 6085082,
-      "relative_volume": 5.47,
-      "market_cap": 17712488448,
-      "exchange": "NYSE",
-      "sources": [
-        "most_actives"
-      ],
-      "reason": "장중 -29.2% 하락, 거래량 3개월 평균 대비 5.5배, 거래대금 상위 종목",
-      "score": 159.69
-    },
     {
       "symbol": "INTC",
       "name": "Intel Corporation",
@@ -250,6 +234,22 @@
       ],
       "reason": "장중 +6.2% 상승, 거래량 3개월 평균 대비 2.6배, 거래대금 상위 종목",
       "score": 16.38
+    },
+    {
+      "symbol": "CBOE",
+      "name": "Cboe Global Markets, Inc.",
+      "price": 335.53,
+      "change_percent": 6.77,
+      "volume": 2458367,
+      "avg_volume_3m": 1129459,
+      "relative_volume": 2.18,
+      "market_cap": 35005923328,
+      "exchange": "Cboe US",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +6.8% 상승, 거래량 3개월 평균 대비 2.2배",
+      "score": 14.74
     }
   ]
 }
