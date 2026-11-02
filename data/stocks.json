@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T02:02:19+09:00",
+  "updated_at": "2026-11-02T11:08:39+09:00",
   "disclaimer": "이 목록은 공개 시세 데이터(거래량, 변동률)를 기준으로 자동 정렬한 결과이며 특정 종목의 매수/매도를 추천하지 않습니다. 투자 판단과 책임은 본인에게 있습니다.",
   "criteria": {
     "min_price": 5.0,
@@ -11,20 +11,36 @@
   },
   "candidates": [
     {
+      "symbol": "RDDT",
+      "name": "Reddit, Inc.",
+      "price": 91.73,
+      "change_percent": -29.22,
+      "volume": 33255690,
+      "avg_volume_3m": 6085082,
+      "relative_volume": 5.47,
+      "market_cap": 17712488448,
+      "exchange": "NYSE",
+      "sources": [
+        "most_actives"
+      ],
+      "reason": "장중 -29.2% 하락, 거래량 3개월 평균 대비 5.5배, 거래대금 상위 종목",
+      "score": 159.69
+    },
+    {
       "symbol": "INTC",
       "name": "Intel Corporation",
       "price": 65.76,
       "change_percent": -28.58,
-      "volume": 450884426,
+      "volume": 455599430,
       "avg_volume_3m": 107654975,
-      "relative_volume": 4.19,
+      "relative_volume": 4.23,
       "market_cap": 349514399744,
       "exchange": "NasdaqGS",
       "sources": [
         "most_actives"
       ],
       "reason": "장중 -28.6% 하락, 거래량 3개월 평균 대비 4.2배, 거래대금 상위 종목",
-      "score": 119.68
+      "score": 120.93
     },
     {
       "symbol": "GPN",
@@ -47,7 +63,7 @@
       "name": "CareDx, Inc.",
       "price": 87.41,
       "change_percent": 22.22,
-      "volume": 3552531,
+      "volume": 3554610,
       "avg_volume_3m": 1306292,
       "relative_volume": 2.72,
       "market_cap": 4592764928,
@@ -56,7 +72,7 @@
         "day_gainers"
       ],
       "reason": "장중 +22.2% 상승, 거래량 3개월 평균 대비 2.7배",
-      "score": 60.42
+      "score": 60.46
     },
     {
       "symbol": "MEOH",
@@ -79,16 +95,16 @@
       "name": "Regeneron Pharmaceuticals, Inc.",
       "price": 927.89,
       "change_percent": 13.33,
-      "volume": 2851725,
+      "volume": 2870752,
       "avg_volume_3m": 733951,
-      "relative_volume": 3.89,
+      "relative_volume": 3.91,
       "market_cap": 95988236288,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +13.3% 상승, 거래량 3개월 평균 대비 3.9배",
-      "score": 51.78
+      "score": 52.13
     },
     {
       "symbol": "FDXF",
@@ -111,48 +127,48 @@
       "name": "BrightSpring Health Services, I",
       "price": 66.89,
       "change_percent": 11.08,
-      "volume": 5913908,
+      "volume": 5936213,
       "avg_volume_3m": 2467225,
-      "relative_volume": 2.4,
+      "relative_volume": 2.41,
       "market_cap": 13310080000,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +11.1% 상승, 거래량 3개월 평균 대비 2.4배",
-      "score": 26.55
+      "score": 26.65
     },
     {
       "symbol": "AMD",
       "name": "Advanced Micro Devices, Inc.",
       "price": 504.8,
       "change_percent": -10.88,
-      "volume": 39527010,
+      "volume": 39697503,
       "avg_volume_3m": 21380817,
-      "relative_volume": 1.85,
+      "relative_volume": 1.86,
       "market_cap": 824073388032,
       "exchange": "NasdaqGS",
       "sources": [
         "most_actives"
       ],
-      "reason": "장중 -10.9% 하락, 거래량 3개월 평균 대비 1.8배, 거래대금 상위 종목",
-      "score": 20.11
+      "reason": "장중 -10.9% 하락, 거래량 3개월 평균 대비 1.9배, 거래대금 상위 종목",
+      "score": 20.2
     },
     {
       "symbol": "MRVL",
       "name": "Marvell Technology, Inc.",
       "price": 196.4,
       "change_percent": -10.05,
-      "volume": 42670557,
+      "volume": 43190100,
       "avg_volume_3m": 21722898,
-      "relative_volume": 1.96,
+      "relative_volume": 1.99,
       "market_cap": 176505585664,
       "exchange": "NasdaqGS",
       "sources": [
         "most_actives"
       ],
       "reason": "장중 -10.0% 하락, 거래량 3개월 평균 대비 2.0배, 거래대금 상위 종목",
-      "score": 19.74
+      "score": 19.98
     },
     {
       "symbol": "MHK",
@@ -223,9 +239,9 @@
       "name": "Rivian Automotive, Inc.",
       "price": 12.16,
       "change_percent": 6.2,
-      "volume": 62521646,
+      "volume": 62702140,
       "avg_volume_3m": 23663779,
-      "relative_volume": 2.64,
+      "relative_volume": 2.65,
       "market_cap": 17748840448,
       "exchange": "NasdaqGS",
       "sources": [
@@ -233,23 +249,7 @@
         "most_actives"
       ],
       "reason": "장중 +6.2% 상승, 거래량 3개월 평균 대비 2.6배, 거래대금 상위 종목",
-      "score": 16.38
-    },
-    {
-      "symbol": "CBOE",
-      "name": "Cboe Global Markets, Inc.",
-      "price": 335.53,
-      "change_percent": 6.77,
-      "volume": 2458367,
-      "avg_volume_3m": 1129459,
-      "relative_volume": 2.18,
-      "market_cap": 35005923328,
-      "exchange": "Cboe US",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +6.8% 상승, 거래량 3개월 평균 대비 2.2배",
-      "score": 14.74
+      "score": 16.43
     }
   ]
 }
