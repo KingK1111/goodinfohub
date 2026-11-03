@@ -1,17 +1,23 @@
 {
-  "updated_at": "2026-11-03T05:40:14+09:00",
+  "updated_at": "2026-11-03T12:52:29+09:00",
   "quote": {
     "symbol": "META",
-    "price": 608.52,
+    "price": 606.73,
     "previous_close": 614.0,
-    "change": -5.48,
-    "change_percent": -0.89,
+    "change": -7.27,
+    "change_percent": -1.18,
     "currency": "USD",
     "day_high": 621.6900024414062,
-    "day_low": 608.469970703125,
-    "market_cap": 1555884087787.8252
+    "day_low": 606.4099731445312,
+    "market_cap": 1551307256780.6748
   },
   "articles": [
+    {
+      "title": "What Are Wall Street Analysts' Target Price for Meta Platforms Stock? - Barchart.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYmtUOURXZENzTi1wQjRHREwwczFiRUh5Y3dPYXdXaXJoSlp2S2xyS3FFX2p1cG55SG1GdHVPTkFLZ25IOTRnbGR0bEJ6YVIxZVpKTTc0QnNwZTJBV1pLVU9Ycm9QeDZTNmRxQ1NKS0EwQWtERFRNbDMzSVhyN0twdnlqWTFCQlp4b3lXWkY3N0RuQmFSWllmUVVVVmVCQkFEc3lKYTRpVmhaTm9CUU5wWQ?oc=5",
+      "source": "Barchart.com",
+      "published": "Mon, 02 Nov 2026 12:10:52 GMT"
+    },
     {
       "title": "Down 18% From Its October High, Should You Buy the Dip on Meta Stock? - The Motley Fool",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQczByTk95VmVDbS1BMl9qQUdobDhqRVZVLTBiMGxNSFpuWmNzQkxtM0VrRmlQUWZIWVdIRmtLdi0wTmk0cTRTeE9xNS1iRll1Zm5aYzdFTUg4QUhybWFqZHMtdEdqOG1oZjhfWHRHa3JlT1V6RlVQQlNTU1otM05pd2MyQXZySXFmS25LWVEySlRoVGJzaExIYg?oc=5",
@@ -19,16 +25,10 @@
       "published": "Mon, 02 Nov 2026 10:02:00 GMT"
     },
     {
-      "title": "What Are Wall Street Analysts' Target Price for Meta Platforms Stock? - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTlJYeVhYSENXbTJPTXRLZ0xFdkp3S1dKaGFNYUh5alQyd3BUc3dXb005Szh1R1VjQWg4bXVKY2diMmRWT3l2cXE3cmY5aU9Ib19JTllMMFp0ODFfS04zbGJDYks0VjNOaUNTOGY4OFdvb1FqR0FwRUM3S3hHNXJYQldya0RoRGlnMFJzMlRKeXM3RFZ4d3JZZ2Mwei1sQUU?oc=5",
-      "source": "Yahoo Finance",
-      "published": "Mon, 02 Nov 2026 12:10:52 GMT"
-    },
-    {
-      "title": "Meta Platforms, Inc. $META Stock Bought by First Interstate Bank - MarketBeat",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNajNoYkRLSHBCakpLRGo1bnNjaGFIbFNVRGRRZnc0ZldkeVItdERGVHFjRnNabEUzM1hWTmNXWW51ekhzUTZKbGstU0pvRmVIS2ZkUkdxeU80OEppMGlwZUxLN0VMNW9vRmtHakpNODN1TGFXYzNObTRxT2RoVXlXTnppMTdULVc4R3ROdlp1Wi1IczVGb01CUUVJQ0hWS0VIWHpqYm04SGpTVFJuZDVjNEFTM1BDZF82bHNqZExpRQ?oc=5",
+      "title": "Meta Platforms (NASDAQ:META) Stock Price Down 1.3% - Time to Sell? - MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWE5WeDdlOTg3QUJtSVAzcGc3WGNid25GejJiVkUzbFo5X3BRazhlSERKRGxyWmd2MDBuVEozUU1ObzFmOTZLRmM3azdSdEFYTFBzT3V0aW1NUUpwOUJhSTVrbVZMc3VjLWZvR2NyUDJYcE5zQ0xsQ3lJX2Rwcy1YZ0NSOFM5QWhtYUYzNFJGSFQ3cDdaTXJDRndnUFpJX0tZalpWczBRdVJkUDE1Zkl2TFhYVDgtVzQtSlE4?oc=5",
       "source": "MarketBeat",
-      "published": "Sun, 01 Nov 2026 08:51:11 GMT"
+      "published": "Mon, 02 Nov 2026 23:16:40 GMT"
     },
     {
       "title": "Meta Stock Fell 15% in October, Then S&P Forecasts a $71 Billion Cash Flow Deficit. Here’s Where the Stock Could Go by 2030 - TIKR.com",
@@ -73,16 +73,16 @@
       "published": "Mon, 02 Nov 2026 15:57:20 GMT"
     },
     {
+      "title": "META: 6.5% Preferreds Issuance (NASDAQ:META) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORXlORFlTRUw5NS16UmFwam5TOGdmRzRmWnZ3ZGRaTlhabEdfNEFOaThfdm50LXYwcFhGUDRXTWs0d0RabDJaM3dqYndqYzdYaDc4ZE8tWXZFMWdydkloR0x1UW1YZ3AwTWJWb3dwei1ibWlxeml4Yi1NTVlGM2o5eXJ4dw?oc=5",
+      "source": "Seeking Alpha",
+      "published": "Mon, 02 Nov 2026 22:51:28 GMT"
+    },
+    {
       "title": "Can Meta Stock Fall 30%? - Trefis",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOUQ1NmJEMHBOc3RPVDlacmEwcDE4dGl3X09RZ0tDemZTbWI0RE9DcklUazB0bEwwdWZCUFFES2dsUGRhR2FBMzJUU0RzS0FkbGMtZ0laa04wQmY2SHVxWGNIMGY1UDkzdnJkdktXSTRJR1RJQ0w2RTh4UktoTzQ1SEVEZ2tnNkNWZlZF?oc=5",
       "source": "Trefis",
       "published": "Mon, 02 Nov 2026 01:34:52 GMT"
-    },
-    {
-      "title": "Meta Stock Slips as S&P Delivers Stark Warning Over AI Spending - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNM0tTajVlck0wTDZTRk8zN2tTQndHRFNLd0I2OGFfdU5TTjZ2WHE4SXVFTkZiT0tJN2RQb1RLcURQRnlEeWVFZHhXR0FlbHZlQ2d2OFE0NkdTUFQ0OUhkMkEwMmQ2R0cyZWdleV9hWXJKRkIxSW1OQXd5RldaMDl3LWZFXzZ2Mm1kX0lSakRVeHEzT0VvRkFvZlY2cW1FRHNwX3RKTUEzSUE5MUJWaDJOZHVMWXFaZWpleG9oUkRuX1E?oc=5",
-      "source": "TradingView",
-      "published": "Mon, 02 Nov 2026 17:10:16 GMT"
     },
     {
       "title": "Meta Platforms (META) stock price forecast: AI funding and dilution risks after Q3 earnings - Beinsure",
@@ -91,16 +91,22 @@
       "published": "Fri, 30 Oct 2026 19:25:18 GMT"
     },
     {
+      "title": "Meta Stock Slips as S&P Delivers Stark Warning Over AI Spending - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNM0tTajVlck0wTDZTRk8zN2tTQndHRFNLd0I2OGFfdU5TTjZ2WHE4SXVFTkZiT0tJN2RQb1RLcURQRnlEeWVFZHhXR0FlbHZlQ2d2OFE0NkdTUFQ0OUhkMkEwMmQ2R0cyZWdleV9hWXJKRkIxSW1OQXd5RldaMDl3LWZFXzZ2Mm1kX0lSakRVeHEzT0VvRkFvZlY2cW1FRHNwX3RKTUEzSUE5MUJWaDJOZHVMWXFaZWpleG9oUkRuX1E?oc=5",
+      "source": "TradingView",
+      "published": "Mon, 02 Nov 2026 17:10:16 GMT"
+    },
+    {
+      "title": "What Are Wall Street Analysts' Target Price for Meta Platforms Stock? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTlJYeVhYSENXbTJPTXRLZ0xFdkp3S1dKaGFNYUh5alQyd3BUc3dXb005Szh1R1VjQWg4bXVKY2diMmRWT3l2cXE3cmY5aU9Ib19JTllMMFp0ODFfS04zbGJDYks0VjNOaUNTOGY4OFdvb1FqR0FwRUM3S3hHNXJYQldya0RoRGlnMFJzMlRKeXM3RFZ4d3JZZ2Mwei1sQUU?oc=5",
+      "source": "Yahoo Finance",
+      "published": "Mon, 02 Nov 2026 12:10:52 GMT"
+    },
+    {
       "title": "Meta to raise $20B from bond offering -- Bloomberg (META:NASDAQ) - Seeking Alpha",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcWhSS2lqVEM2VjJ1TFlBQlY1LWtUNEhrSnFxOW5zN21wbXVUTFNzWmg0RW1RemE5d0g5MW9SVHZlN25MS1BBd2NqeTlXZFl2cEdHS3ZTVlEta3V4dk5CX05felQ2QzdZZE9YMlNWaEUyeDNENnFlVlpSX1RUQUIzX2s0OGhPWlcyaDJXZVNPUQ?oc=5",
       "source": "Seeking Alpha",
       "published": "Mon, 02 Nov 2026 18:44:40 GMT"
-    },
-    {
-      "title": "What Is Going On With Meta Platforms Stock on Monday? - Benzinga",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa21Wd2N1eFcxaHhYbTFNZTdjLUp4QzZYMEJRcGZrWTZkalk5N3E3UkFKNTdESDc1NENYWkJ2YWE3ZlJDUTNqVVkwMFhxbFB6cnZSNEJaXzNIMk5zOVpKYmdwZENOQWJnTmZ6V3ZJT05jOGJiWXdfMXh6VkRpUjMyZmpfcVFOZU84RFJCRDlHWHRMb0gtNGIxQ2d1N1Q3aUVTanE2aUNjYmE?oc=5",
-      "source": "Benzinga",
-      "published": "Mon, 02 Nov 2026 15:34:58 GMT"
     },
     {
       "title": "Is Meta Stock’s Fall A Bargain Or A Warning? - Trefis",
@@ -125,12 +131,6 @@
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQWNueG1FVWtlamZtX2VsZ1pNcS11bDJ1SUdqakY0ek4zZE92UVJ2RGlPWU1pX1BMS1h0WmhaeGp3NGRNNmtQamJ4WTM3eXhtVzA3SU9ndjNkYmk0ZXk2U2R4aUZvMEVzZldnQUhwR3BiemdpaGM1SzRnc2c5YnY2dG5GMDFMZVVSd1p1dTVndjU?oc=5",
       "source": "Yahoo Finance",
       "published": "Fri, 30 Oct 2026 11:00:00 GMT"
-    },
-    {
-      "title": "Meta (META) Stock Sees Modest Fair Value Lift As Muse And Financing Drive Debate - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSzVnUFl0aGpRRFVlalhrS21zWkJYNmVMMmtldEpsaTR1djVpNFNqWEpfWVN1bzRELU50b0xDLUNzUGhZVjJTS3NZQURWblJCMF9vdDdmd3FzcHl2NWp5SlV5anNKWWthSG9HVk1TVVcyMGhkWWExQmlDZndUdElGSVNoamdSN0pjMlJ5ZmZvZDZYSVNPeFl3?oc=5",
-      "source": "Yahoo Finance",
-      "published": "Fri, 30 Oct 2026 18:10:04 GMT"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T05:40:16+09:00",
+  "updated_at": "2026-11-03T12:52:32+09:00",
   "disclaimer": "이 목록은 공개 시세 데이터(거래량, 변동률)를 기준으로 자동 정렬한 결과이며 특정 종목의 매수/매도를 추천하지 않습니다. 투자 판단과 책임은 본인에게 있습니다.",
   "criteria": {
     "min_price": 5.0,
@@ -13,243 +13,243 @@
     {
       "symbol": "IDXX",
       "name": "IDEXX Laboratories, Inc.",
-      "price": 666.61,
-      "change_percent": 20.94,
-      "volume": 1592819,
+      "price": 671.64,
+      "change_percent": 21.85,
+      "volume": 1977294,
       "avg_volume_3m": 553104,
-      "relative_volume": 2.88,
-      "market_cap": 52584194048,
+      "relative_volume": 3.57,
+      "market_cap": 52912553984,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +20.9% 상승, 거래량 3개월 평균 대비 2.9배",
-      "score": 60.29
-    },
-    {
-      "symbol": "MRVL",
-      "name": "Marvell Technology, Inc.",
-      "price": 168.72,
-      "change_percent": -14.09,
-      "volume": 49772030,
-      "avg_volume_3m": 21722898,
-      "relative_volume": 2.29,
-      "market_cap": 151629447168,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "most_actives"
-      ],
-      "reason": "장중 -14.1% 하락, 거래량 3개월 평균 대비 2.3배, 거래대금 상위 종목",
-      "score": 32.29
-    },
-    {
-      "symbol": "NWL",
-      "name": "Newell Brands Inc.",
-      "price": 5.965,
-      "change_percent": 15.15,
-      "volume": 12327034,
-      "avg_volume_3m": 6467360,
-      "relative_volume": 1.91,
-      "market_cap": 2541090048,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +15.2% 상승, 거래량 3개월 평균 대비 1.9배",
-      "score": 28.88
+      "reason": "장중 +21.8% 상승, 거래량 3개월 평균 대비 3.6배",
+      "score": 78.11
     },
     {
       "symbol": "SFM",
       "name": "Sprouts Farmers Market, Inc.",
-      "price": 55.14,
-      "change_percent": 10.95,
-      "volume": 5918960,
+      "price": 55.23,
+      "change_percent": 11.13,
+      "volume": 8667725,
       "avg_volume_3m": 2380462,
-      "relative_volume": 2.49,
-      "market_cap": 5085707264,
+      "relative_volume": 3.64,
+      "market_cap": 5094008320,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +10.9% 상승, 거래량 3개월 평균 대비 2.5배",
-      "score": 27.22
+      "reason": "장중 +11.1% 상승, 거래량 3개월 평균 대비 3.6배",
+      "score": 40.51
+    },
+    {
+      "symbol": "NWL",
+      "name": "Newell Brands Inc.",
+      "price": 5.96,
+      "change_percent": 15.06,
+      "volume": 16044209,
+      "avg_volume_3m": 6467360,
+      "relative_volume": 2.48,
+      "market_cap": 2538960128,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +15.1% 상승, 거래량 3개월 평균 대비 2.5배",
+      "score": 37.36
     },
     {
       "symbol": "NXT",
       "name": "Nextpower Inc.",
-      "price": 91.08,
-      "change_percent": 14.81,
-      "volume": 3968510,
+      "price": 91.13,
+      "change_percent": 14.87,
+      "volume": 5509418,
       "avg_volume_3m": 2217671,
-      "relative_volume": 1.79,
-      "market_cap": 13993381888,
+      "relative_volume": 2.48,
+      "market_cap": 14001062912,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +14.8% 상승, 거래량 3개월 평균 대비 1.8배",
-      "score": 26.51
+      "reason": "장중 +14.9% 상승, 거래량 3개월 평균 대비 2.5배",
+      "score": 36.95
     },
     {
-      "symbol": "LOAR",
-      "name": "Loar Holdings Inc.",
-      "price": 68.12,
-      "change_percent": 9.68,
-      "volume": 1782017,
-      "avg_volume_3m": 702746,
-      "relative_volume": 2.54,
-      "market_cap": 6382059008,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +9.7% 상승, 거래량 3개월 평균 대비 2.5배",
-      "score": 24.54
-    },
-    {
-      "symbol": "TEM",
-      "name": "Tempus AI, Inc.",
-      "price": 79.13,
-      "change_percent": 9.57,
-      "volume": 14048386,
-      "avg_volume_3m": 6868295,
-      "relative_volume": 2.05,
-      "market_cap": 14420809728,
+      "symbol": "MRVL",
+      "name": "Marvell Technology, Inc.",
+      "price": 171.41,
+      "change_percent": -12.72,
+      "volume": 61448759,
+      "avg_volume_3m": 21722898,
+      "relative_volume": 2.83,
+      "market_cap": 154046971904,
       "exchange": "NasdaqGS",
       "sources": [
-        "day_gainers"
+        "most_actives"
       ],
-      "reason": "장중 +9.6% 상승, 거래량 3개월 평균 대비 2.0배",
-      "score": 19.57
+      "reason": "장중 -12.7% 하락, 거래량 3개월 평균 대비 2.8배, 거래대금 상위 종목",
+      "score": 35.99
     },
     {
       "symbol": "VG",
       "name": "Venture Global, Inc.",
-      "price": 13.05,
-      "change_percent": -11.77,
-      "volume": 22978447,
+      "price": 12.87,
+      "change_percent": -12.98,
+      "volume": 34677438,
       "avg_volume_3m": 14226740,
-      "relative_volume": 1.62,
-      "market_cap": 32626212864,
+      "relative_volume": 2.44,
+      "market_cap": 32176195584,
       "exchange": "NYSE",
       "sources": [
         "most_actives"
       ],
-      "reason": "장중 -11.8% 하락, 거래량 3개월 평균 대비 1.6배, 거래대금 상위 종목",
-      "score": 19.01
+      "reason": "장중 -13.0% 하락, 거래량 3개월 평균 대비 2.4배, 거래대금 상위 종목",
+      "score": 31.64
     },
     {
-      "symbol": "SRAD",
-      "name": "Sportradar Group AG",
-      "price": 13.13,
-      "change_percent": 9.14,
-      "volume": 4339123,
-      "avg_volume_3m": 2251315,
-      "relative_volume": 1.93,
-      "market_cap": 3885845248,
-      "exchange": "NasdaqGS",
+      "symbol": "LOAR",
+      "name": "Loar Holdings Inc.",
+      "price": 67.91,
+      "change_percent": 9.34,
+      "volume": 2302549,
+      "avg_volume_3m": 702746,
+      "relative_volume": 3.28,
+      "market_cap": 6362384384,
+      "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +9.1% 상승, 거래량 3개월 평균 대비 1.9배",
-      "score": 17.62
+      "reason": "장중 +9.3% 상승, 거래량 3개월 평균 대비 3.3배",
+      "score": 30.6
     },
     {
       "symbol": "RIVN",
       "name": "Rivian Automotive, Inc.",
-      "price": 13.06,
-      "change_percent": 7.4,
-      "volume": 55444730,
+      "price": 13.19,
+      "change_percent": 8.47,
+      "volume": 65299674,
       "avg_volume_3m": 23663779,
-      "relative_volume": 2.34,
-      "market_cap": 19062489088,
+      "relative_volume": 2.76,
+      "market_cap": 19252236288,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers",
         "most_actives"
       ],
-      "reason": "장중 +7.4% 상승, 거래량 3개월 평균 대비 2.3배, 거래대금 상위 종목",
-      "score": 17.34
+      "reason": "장중 +8.5% 상승, 거래량 3개월 평균 대비 2.8배, 거래대금 상위 종목",
+      "score": 23.37
     },
     {
-      "symbol": "INTC",
-      "name": "Intel Corporation",
-      "price": 59.545,
-      "change_percent": -9.45,
-      "volume": 190333097,
-      "avg_volume_3m": 107654975,
-      "relative_volume": 1.77,
-      "market_cap": 316481667072,
+      "symbol": "TEM",
+      "name": "Tempus AI, Inc.",
+      "price": 78.48,
+      "change_percent": 8.67,
+      "volume": 17027929,
+      "avg_volume_3m": 6868295,
+      "relative_volume": 2.48,
+      "market_cap": 14302354432,
       "exchange": "NasdaqGS",
       "sources": [
-        "most_actives"
+        "day_gainers"
       ],
-      "reason": "장중 -9.5% 하락, 거래량 3개월 평균 대비 1.8배, 거래대금 상위 종목",
-      "score": 16.71
+      "reason": "장중 +8.7% 상승, 거래량 3개월 평균 대비 2.5배",
+      "score": 21.49
     },
     {
       "symbol": "WING",
       "name": "Wingstop Inc.",
-      "price": 163.3,
-      "change_percent": 9.06,
-      "volume": 2275203,
+      "price": 163.04,
+      "change_percent": 8.89,
+      "volume": 2973137,
       "avg_volume_3m": 1317873,
-      "relative_volume": 1.73,
-      "market_cap": 4417776640,
+      "relative_volume": 2.26,
+      "market_cap": 4410742272,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +9.1% 상승, 거래량 3개월 평균 대비 1.7배",
-      "score": 15.65
+      "reason": "장중 +8.9% 상승, 거래량 3개월 평균 대비 2.3배",
+      "score": 20.05
     },
     {
-      "symbol": "ORCL",
-      "name": "Oracle Corporation",
-      "price": 118.98,
-      "change_percent": -8.95,
-      "volume": 45764152,
-      "avg_volume_3m": 30471307,
-      "relative_volume": 1.5,
-      "market_cap": 360687992832,
-      "exchange": "NYSE",
+      "symbol": "INTC",
+      "name": "Intel Corporation",
+      "price": 59.97,
+      "change_percent": -8.8,
+      "volume": 230485372,
+      "avg_volume_3m": 107654975,
+      "relative_volume": 2.14,
+      "market_cap": 318740529152,
+      "exchange": "NasdaqGS",
       "sources": [
         "most_actives"
       ],
-      "reason": "장중 -9.0% 하락, 거래량 3개월 평균 대비 1.5배, 거래대금 상위 종목",
-      "score": 13.44
+      "reason": "장중 -8.8% 하락, 거래량 3개월 평균 대비 2.1배, 거래대금 상위 종목",
+      "score": 18.85
     },
     {
       "symbol": "HGV",
       "name": "Hilton Grand Vacations Inc.",
-      "price": 40.965,
-      "change_percent": 6.57,
-      "volume": 2181870,
+      "price": 41.0,
+      "change_percent": 6.66,
+      "volume": 3001714,
       "avg_volume_3m": 1087028,
-      "relative_volume": 2.01,
-      "market_cap": 3106077952,
+      "relative_volume": 2.76,
+      "market_cap": 3108731904,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +6.6% 상승, 거래량 3개월 평균 대비 2.0배",
-      "score": 13.18
+      "reason": "장중 +6.7% 상승, 거래량 3개월 평균 대비 2.8배",
+      "score": 18.39
     },
     {
-      "symbol": "ENPH",
-      "name": "Enphase Energy, Inc.",
-      "price": 28.1412,
-      "change_percent": 9.71,
-      "volume": 6429147,
-      "avg_volume_3m": 5117823,
-      "relative_volume": 1.26,
-      "market_cap": 3723482624,
-      "exchange": "NasdaqGM",
+      "symbol": "SRAD",
+      "name": "Sportradar Group AG",
+      "price": 12.87,
+      "change_percent": 6.98,
+      "volume": 5579011,
+      "avg_volume_3m": 2251315,
+      "relative_volume": 2.48,
+      "market_cap": 3808897792,
+      "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +9.7% 상승, 거래량 3개월 평균 대비 1.3배",
-      "score": 12.2
+      "reason": "장중 +7.0% 상승, 거래량 3개월 평균 대비 2.5배",
+      "score": 17.3
+    },
+    {
+      "symbol": "CHH",
+      "name": "Choice Hotels International, In",
+      "price": 118.61,
+      "change_percent": 6.7,
+      "volume": 1380119,
+      "avg_volume_3m": 542696,
+      "relative_volume": 2.54,
+      "market_cap": 5396220416,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +6.7% 상승, 거래량 3개월 평균 대비 2.5배",
+      "score": 17.04
+    },
+    {
+      "symbol": "CWK",
+      "name": "Cushman & Wakefield Ltd.",
+      "price": 14.33,
+      "change_percent": 7.74,
+      "volume": 5072709,
+      "avg_volume_3m": 2318795,
+      "relative_volume": 2.19,
+      "market_cap": 3363447552,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +7.7% 상승, 거래량 3개월 평균 대비 2.2배",
+      "score": 16.94
     }
   ]
 }
