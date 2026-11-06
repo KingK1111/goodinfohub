@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T03:34:11+09:00",
+  "updated_at": "2026-11-06T12:11:57+09:00",
   "disclaimer": "이 목록은 공개 시세 데이터(거래량, 변동률)를 기준으로 자동 정렬한 결과이며 특정 종목의 매수/매도를 추천하지 않습니다. 투자 판단과 책임은 본인에게 있습니다.",
   "criteria": {
     "min_price": 5.0,
@@ -13,243 +13,243 @@
     {
       "symbol": "ADMA",
       "name": "ADMA Biologics Inc",
-      "price": 13.59,
-      "change_percent": 29.68,
-      "volume": 10504330,
-      "avg_volume_3m": 2883565,
-      "relative_volume": 3.64,
-      "market_cap": 3043951616,
+      "price": 13.21,
+      "change_percent": 26.05,
+      "volume": 14994184,
+      "avg_volume_3m": 2883785,
+      "relative_volume": 5.2,
+      "market_cap": 2958837504,
       "exchange": "NasdaqGM",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +29.7% 상승, 거래량 3개월 평균 대비 3.6배",
-      "score": 108.1
+      "reason": "장중 +26.0% 상승, 거래량 3개월 평균 대비 5.2배",
+      "score": 135.44
     },
     {
       "symbol": "APP",
       "name": "Applovin Corporation",
-      "price": 351.07,
-      "change_percent": 29.19,
-      "volume": 16968561,
-      "avg_volume_3m": 5185306,
-      "relative_volume": 3.27,
-      "market_cap": 117485764608,
+      "price": 356.1,
+      "change_percent": 31.04,
+      "volume": 22122914,
+      "avg_volume_3m": 5191757,
+      "relative_volume": 4.26,
+      "market_cap": 119169056768,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +29.2% 상승, 거래량 3개월 평균 대비 3.3배",
-      "score": 95.52
+      "reason": "장중 +31.0% 상승, 거래량 3개월 평균 대비 4.3배",
+      "score": 132.26
     },
     {
       "symbol": "XERS",
       "name": "Xeris Biopharma Holdings, Inc.",
-      "price": 13.13,
-      "change_percent": 25.53,
-      "volume": 7840413,
-      "avg_volume_3m": 2397178,
-      "relative_volume": 3.27,
-      "market_cap": 2393865728,
+      "price": 13.08,
+      "change_percent": 25.05,
+      "volume": 12300967,
+      "avg_volume_3m": 2397335,
+      "relative_volume": 5.13,
+      "market_cap": 2384749568,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +25.5% 상승, 거래량 3개월 평균 대비 3.3배",
-      "score": 83.49
-    },
-    {
-      "symbol": "WRBY",
-      "name": "Warby Parker Inc.",
-      "price": 26.95,
-      "change_percent": 26.59,
-      "volume": 6322504,
-      "avg_volume_3m": 3017976,
-      "relative_volume": 2.09,
-      "market_cap": 3331237120,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +26.6% 상승, 거래량 3개월 평균 대비 2.1배",
-      "score": 55.69
+      "reason": "장중 +25.0% 상승, 거래량 3개월 평균 대비 5.1배",
+      "score": 128.52
     },
     {
       "symbol": "MGNI",
       "name": "Magnite, Inc.",
-      "price": 27.42,
-      "change_percent": 20.32,
-      "volume": 5599711,
+      "price": 27.52,
+      "change_percent": 20.75,
+      "volume": 9697636,
       "avg_volume_3m": 2375593,
-      "relative_volume": 2.36,
-      "market_cap": 3932690432,
+      "relative_volume": 4.08,
+      "market_cap": 3947032832,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +20.3% 상승, 거래량 3개월 평균 대비 2.4배",
-      "score": 47.89
+      "reason": "장중 +20.8% 상승, 거래량 3개월 평균 대비 4.1배",
+      "score": 84.72
+    },
+    {
+      "symbol": "WRBY",
+      "name": "Warby Parker Inc.",
+      "price": 26.08,
+      "change_percent": 22.5,
+      "volume": 11257732,
+      "avg_volume_3m": 3017976,
+      "relative_volume": 3.73,
+      "market_cap": 3223698176,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +22.5% 상승, 거래량 3개월 평균 대비 3.7배",
+      "score": 83.93
     },
     {
       "symbol": "U",
       "name": "Unity Software Inc.",
-      "price": 48.309,
-      "change_percent": 13.78,
-      "volume": 34598237,
-      "avg_volume_3m": 10730631,
-      "relative_volume": 3.22,
-      "market_cap": 21260255232,
+      "price": 48.8,
+      "change_percent": 14.93,
+      "volume": 49973128,
+      "avg_volume_3m": 10733012,
+      "relative_volume": 4.66,
+      "market_cap": 21476339712,
       "exchange": "NYSE",
       "sources": [
         "day_gainers",
         "most_actives"
       ],
-      "reason": "장중 +13.8% 상승, 거래량 3개월 평균 대비 3.2배, 거래대금 상위 종목",
-      "score": 44.42
+      "reason": "장중 +14.9% 상승, 거래량 3개월 평균 대비 4.7배, 거래대금 상위 종목",
+      "score": 69.52
     },
     {
-      "symbol": "SEZL",
-      "name": "Sezzle Inc.",
-      "price": 158.94,
-      "change_percent": 16.28,
-      "volume": 1453643,
-      "avg_volume_3m": 605262,
-      "relative_volume": 2.4,
-      "market_cap": 5369533440,
-      "exchange": "NasdaqCM",
+      "symbol": "VCEL",
+      "name": "Vericel Corporation",
+      "price": 51.78,
+      "change_percent": 13.85,
+      "volume": 2677363,
+      "avg_volume_3m": 540268,
+      "relative_volume": 4.96,
+      "market_cap": 2651478528,
+      "exchange": "NasdaqGM",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +16.3% 상승, 거래량 3개월 평균 대비 2.4배",
-      "score": 39.09
+      "reason": "장중 +13.9% 상승, 거래량 3개월 평균 대비 5.0배",
+      "score": 68.65
     },
     {
       "symbol": "EPAM",
       "name": "EPAM Systems, Inc.",
-      "price": 164.97,
-      "change_percent": 20.1,
-      "volume": 2224510,
+      "price": 165.7,
+      "change_percent": 20.63,
+      "volume": 3672402,
       "avg_volume_3m": 1182939,
-      "relative_volume": 1.88,
-      "market_cap": 8510304256,
+      "relative_volume": 3.1,
+      "market_cap": 8547962368,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +20.1% 상승, 거래량 3개월 평균 대비 1.9배",
-      "score": 37.8
+      "reason": "장중 +20.6% 상승, 거래량 3개월 평균 대비 3.1배",
+      "score": 64.05
+    },
+    {
+      "symbol": "MCHP",
+      "name": "Microchip Technology Incorporat",
+      "price": 64.85,
+      "change_percent": -13.92,
+      "volume": 43640012,
+      "avg_volume_3m": 9496440,
+      "relative_volume": 4.6,
+      "market_cap": 35214114816,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "most_actives"
+      ],
+      "reason": "장중 -13.9% 하락, 거래량 3개월 평균 대비 4.6배, 거래대금 상위 종목",
+      "score": 63.98
     },
     {
       "symbol": "AMD",
       "name": "Advanced Micro Devices, Inc.",
-      "price": 413.465,
-      "change_percent": -15.41,
-      "volume": 45166746,
-      "avg_volume_3m": 21315645,
-      "relative_volume": 2.12,
-      "market_cap": 678118686720,
+      "price": 404.4,
+      "change_percent": -17.26,
+      "volume": 70120811,
+      "avg_volume_3m": 21318112,
+      "relative_volume": 3.29,
+      "market_cap": 663251320832,
       "exchange": "NasdaqGS",
       "sources": [
         "most_actives"
       ],
-      "reason": "장중 -15.4% 하락, 거래량 3개월 평균 대비 2.1배, 거래대금 상위 종목",
-      "score": 32.65
-    },
-    {
-      "symbol": "BE",
-      "name": "Bloom Energy Corporation",
-      "price": 167.045,
-      "change_percent": -16.64,
-      "volume": 27032543,
-      "avg_volume_3m": 15026804,
-      "relative_volume": 1.8,
-      "market_cap": 49368014848,
-      "exchange": "NYSE",
-      "sources": [
-        "most_actives"
-      ],
-      "reason": "장중 -16.6% 하락, 거래량 3개월 평균 대비 1.8배, 거래대금 상위 종목",
-      "score": 29.94
-    },
-    {
-      "symbol": "MU",
-      "name": "Micron Technology, Inc.",
-      "price": 676.1401,
-      "change_percent": -14.98,
-      "volume": 50223045,
-      "avg_volume_3m": 26955489,
-      "relative_volume": 1.86,
-      "market_cap": 765000613888,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "most_actives"
-      ],
-      "reason": "장중 -15.0% 하락, 거래량 3개월 평균 대비 1.9배, 거래대금 상위 종목",
-      "score": 27.9
-    },
-    {
-      "symbol": "APLD",
-      "name": "Applied Digital Corporation",
-      "price": 14.0,
-      "change_percent": -15.71,
-      "volume": 34377621,
-      "avg_volume_3m": 20357665,
-      "relative_volume": 1.69,
-      "market_cap": 4233419776,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "most_actives"
-      ],
-      "reason": "장중 -15.7% 하락, 거래량 3개월 평균 대비 1.7배, 거래대금 상위 종목",
-      "score": 26.53
-    },
-    {
-      "symbol": "IREN",
-      "name": "IREN LIMITED",
-      "price": 18.195,
-      "change_percent": -16.19,
-      "volume": 74230073,
-      "avg_volume_3m": 46239046,
-      "relative_volume": 1.61,
-      "market_cap": 7361943040,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "most_actives"
-      ],
-      "reason": "장중 -16.2% 하락, 거래량 3개월 평균 대비 1.6배, 거래대금 상위 종목",
-      "score": 25.99
+      "reason": "장중 -17.3% 하락, 거래량 3개월 평균 대비 3.3배, 거래대금 상위 종목",
+      "score": 56.78
     },
     {
       "symbol": "RUN",
       "name": "Sunrun Inc.",
-      "price": 9.635,
-      "change_percent": 9.61,
-      "volume": 23315594,
-      "avg_volume_3m": 8662351,
-      "relative_volume": 2.69,
-      "market_cap": 2320560640,
+      "price": 9.87,
+      "change_percent": 12.29,
+      "volume": 35167990,
+      "avg_volume_3m": 8664815,
+      "relative_volume": 4.06,
+      "market_cap": 2377159680,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +9.6% 상승, 거래량 3개월 평균 대비 2.7배",
-      "score": 25.87
+      "reason": "장중 +12.3% 상승, 거래량 3개월 평균 대비 4.1배",
+      "score": 49.87
     },
     {
-      "symbol": "NBIS",
-      "name": "Nebius Group N.V.",
-      "price": 118.555,
-      "change_percent": -16.23,
-      "volume": 32360677,
-      "avg_volume_3m": 20352787,
-      "relative_volume": 1.59,
-      "market_cap": 30100899840,
+      "symbol": "MU",
+      "name": "Micron Technology, Inc.",
+      "price": 656.39,
+      "change_percent": -17.46,
+      "volume": 76138480,
+      "avg_volume_3m": 26963532,
+      "relative_volume": 2.82,
+      "market_cap": 742654935040,
       "exchange": "NasdaqGS",
       "sources": [
         "most_actives"
       ],
-      "reason": "장중 -16.2% 하락, 거래량 3개월 평균 대비 1.6배, 거래대금 상위 종목",
-      "score": 25.8
+      "reason": "장중 -17.5% 하락, 거래량 3개월 평균 대비 2.8배, 거래대금 상위 종목",
+      "score": 49.3
+    },
+    {
+      "symbol": "MRVL",
+      "name": "Marvell Technology, Inc.",
+      "price": 133.55,
+      "change_percent": -16.43,
+      "volume": 65671403,
+      "avg_volume_3m": 22905934,
+      "relative_volume": 2.87,
+      "market_cap": 120163737600,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "most_actives"
+      ],
+      "reason": "장중 -16.4% 하락, 거래량 3개월 평균 대비 2.9배, 거래대금 상위 종목",
+      "score": 47.1
+    },
+    {
+      "symbol": "IREN",
+      "name": "IREN LIMITED",
+      "price": 18.03,
+      "change_percent": -16.95,
+      "volume": 124740207,
+      "avg_volume_3m": 46253545,
+      "relative_volume": 2.7,
+      "market_cap": 7295182336,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "most_actives"
+      ],
+      "reason": "장중 -17.0% 하락, 거래량 3개월 평균 대비 2.7배, 거래대금 상위 종목",
+      "score": 45.71
+    },
+    {
+      "symbol": "SEZL",
+      "name": "Sezzle Inc.",
+      "price": 155.0,
+      "change_percent": 13.4,
+      "volume": 1966664,
+      "avg_volume_3m": 605834,
+      "relative_volume": 3.25,
+      "market_cap": 5236426752,
+      "exchange": "NasdaqCM",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +13.4% 상승, 거래량 3개월 평균 대비 3.2배",
+      "score": 43.48
     }
   ]
 }
