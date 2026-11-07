@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T20:26:34+09:00",
+  "updated_at": "2026-11-08T01:46:31+09:00",
   "disclaimer": "이 목록은 공개 시세 데이터(거래량, 변동률)를 기준으로 자동 정렬한 결과이며 특정 종목의 매수/매도를 추천하지 않습니다. 투자 판단과 책임은 본인에게 있습니다.",
   "criteria": {
     "min_price": 5.0,
@@ -16,15 +16,15 @@
       "price": 20.76,
       "change_percent": 36.8,
       "volume": 13299970,
-      "avg_volume_3m": 3022839,
-      "relative_volume": 4.4,
+      "avg_volume_3m": 3165140,
+      "relative_volume": 4.2,
       "market_cap": 3475320320,
       "exchange": "NasdaqGM",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +36.8% 상승, 거래량 3개월 평균 대비 4.4배",
-      "score": 161.93
+      "reason": "장중 +36.8% 상승, 거래량 3개월 평균 대비 4.2배",
+      "score": 154.65
     },
     {
       "symbol": "TMDX",
@@ -32,15 +32,15 @@
       "price": 88.24,
       "change_percent": 27.92,
       "volume": 3949522,
-      "avg_volume_3m": 811721,
-      "relative_volume": 4.87,
-      "market_cap": 3049654784,
+      "avg_volume_3m": 861393,
+      "relative_volume": 4.59,
+      "market_cap": 3064917760,
       "exchange": "NasdaqGM",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +27.9% 상승, 거래량 3개월 평균 대비 4.9배",
-      "score": 135.85
+      "reason": "장중 +27.9% 상승, 거래량 3개월 평균 대비 4.6배",
+      "score": 128.02
     },
     {
       "symbol": "KRMN",
@@ -48,15 +48,15 @@
       "price": 45.61,
       "change_percent": 42.13,
       "volume": 10162550,
-      "avg_volume_3m": 3300539,
-      "relative_volume": 3.08,
+      "avg_volume_3m": 3380348,
+      "relative_volume": 3.01,
       "market_cap": 6044862464,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +42.1% 상승, 거래량 3개월 평균 대비 3.1배",
-      "score": 129.73
+      "reason": "장중 +42.1% 상승, 거래량 3개월 평균 대비 3.0배",
+      "score": 126.66
     },
     {
       "symbol": "FROG",
@@ -64,15 +64,15 @@
       "price": 100.98,
       "change_percent": 35.33,
       "volume": 7027191,
-      "avg_volume_3m": 1927153,
-      "relative_volume": 3.65,
+      "avg_volume_3m": 1968703,
+      "relative_volume": 3.57,
       "market_cap": 12450966528,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +35.3% 상승, 거래량 3개월 평균 대비 3.6배",
-      "score": 128.81
+      "score": 126.09
     },
     {
       "symbol": "DKNG",
@@ -80,31 +80,15 @@
       "price": 18.51,
       "change_percent": -21.3,
       "volume": 69858379,
-      "avg_volume_3m": 12883070,
-      "relative_volume": 5.42,
+      "avg_volume_3m": 13384670,
+      "relative_volume": 5.22,
       "market_cap": 9189364736,
       "exchange": "NasdaqGS",
       "sources": [
         "most_actives"
       ],
-      "reason": "장중 -21.3% 하락, 거래량 3개월 평균 대비 5.4배, 거래대금 상위 종목",
-      "score": 115.5
-    },
-    {
-      "symbol": "CGON",
-      "name": "CG Oncology, Inc.",
-      "price": 75.99,
-      "change_percent": 17.27,
-      "volume": 3661704,
-      "avg_volume_3m": 887887,
-      "relative_volume": 4.12,
-      "market_cap": 6735781888,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +17.3% 상승, 거래량 3개월 평균 대비 4.1배",
-      "score": 71.22
+      "reason": "장중 -21.3% 하락, 거래량 3개월 평균 대비 5.2배, 거래대금 상위 종목",
+      "score": 111.18
     },
     {
       "symbol": "LASR",
@@ -112,31 +96,31 @@
       "price": 38.02,
       "change_percent": 29.58,
       "volume": 2638178,
-      "avg_volume_3m": 1188367,
-      "relative_volume": 2.22,
+      "avg_volume_3m": 1144100,
+      "relative_volume": 2.31,
       "market_cap": 2193381376,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +29.6% 상승, 거래량 3개월 평균 대비 2.2배",
-      "score": 65.68
+      "reason": "장중 +29.6% 상승, 거래량 3개월 평균 대비 2.3배",
+      "score": 68.22
     },
     {
-      "symbol": "LION",
-      "name": "Lionsgate Studios Corp",
-      "price": 14.24,
-      "change_percent": 13.38,
-      "volume": 12763820,
-      "avg_volume_3m": 3002832,
-      "relative_volume": 4.25,
-      "market_cap": 4237249792,
-      "exchange": "NYSE",
+      "symbol": "CGON",
+      "name": "CG Oncology, Inc.",
+      "price": 75.99,
+      "change_percent": 17.27,
+      "volume": 3661704,
+      "avg_volume_3m": 935545,
+      "relative_volume": 3.91,
+      "market_cap": 6735781888,
+      "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +13.4% 상승, 거래량 3개월 평균 대비 4.3배",
-      "score": 56.86
+      "reason": "장중 +17.3% 상승, 거래량 3개월 평균 대비 3.9배",
+      "score": 67.59
     },
     {
       "symbol": "OKLO",
@@ -144,15 +128,31 @@
       "price": 23.55,
       "change_percent": 22.66,
       "volume": 24843170,
-      "avg_volume_3m": 9993731,
-      "relative_volume": 2.49,
+      "avg_volume_3m": 10037042,
+      "relative_volume": 2.48,
       "market_cap": 4380715520,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +22.7% 상승, 거래량 3개월 평균 대비 2.5배",
-      "score": 56.32
+      "score": 56.08
+    },
+    {
+      "symbol": "LION",
+      "name": "Lionsgate Studios Corp",
+      "price": 14.24,
+      "change_percent": 13.38,
+      "volume": 12763820,
+      "avg_volume_3m": 3169551,
+      "relative_volume": 4.03,
+      "market_cap": 4239247872,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +13.4% 상승, 거래량 3개월 평균 대비 4.0배",
+      "score": 53.86
     },
     {
       "symbol": "SITM",
@@ -160,15 +160,15 @@
       "price": 416.915,
       "change_percent": 17.44,
       "volume": 1644833,
-      "avg_volume_3m": 521389,
-      "relative_volume": 3.15,
-      "market_cap": 12537066496,
+      "avg_volume_3m": 535754,
+      "relative_volume": 3.07,
+      "market_cap": 12594890752,
       "exchange": "NasdaqGM",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +17.4% 상승, 거래량 3개월 평균 대비 3.2배",
-      "score": 55.02
+      "reason": "장중 +17.4% 상승, 거래량 3개월 평균 대비 3.1배",
+      "score": 53.55
     },
     {
       "symbol": "XERS",
@@ -176,15 +176,15 @@
       "price": 15.2,
       "change_percent": 16.21,
       "volume": 7890465,
-      "avg_volume_3m": 2535968,
-      "relative_volume": 3.11,
-      "market_cap": 2771268608,
+      "avg_volume_3m": 2624129,
+      "relative_volume": 3.01,
+      "market_cap": 2777040384,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +16.2% 상승, 거래량 3개월 평균 대비 3.1배",
-      "score": 50.43
+      "reason": "장중 +16.2% 상승, 거래량 3개월 평균 대비 3.0배",
+      "score": 48.74
     },
     {
       "symbol": "IREN",
@@ -192,33 +192,16 @@
       "price": 21.64,
       "change_percent": 20.02,
       "volume": 112279554,
-      "avg_volume_3m": 47796821,
-      "relative_volume": 2.35,
-      "market_cap": 8755836928,
+      "avg_volume_3m": 49048350,
+      "relative_volume": 2.29,
+      "market_cap": 9183093760,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers",
         "most_actives"
       ],
       "reason": "장중 +20.0% 상승, 거래량 3개월 평균 대비 2.3배, 거래대금 상위 종목",
-      "score": 47.03
-    },
-    {
-      "symbol": "IONQ",
-      "name": "IonQ, Inc.",
-      "price": 32.62,
-      "change_percent": 23.42,
-      "volume": 42509928,
-      "avg_volume_3m": 21946456,
-      "relative_volume": 1.94,
-      "market_cap": 14007277568,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers",
-        "most_actives"
-      ],
-      "reason": "장중 +23.4% 상승, 거래량 3개월 평균 대비 1.9배, 거래대금 상위 종목",
-      "score": 45.36
+      "score": 45.83
     },
     {
       "symbol": "MCHP",
@@ -226,15 +209,32 @@
       "price": 58.35,
       "change_percent": -10.02,
       "volume": 47389996,
-      "avg_volume_3m": 10512772,
-      "relative_volume": 4.51,
-      "market_cap": 31684556800,
+      "avg_volume_3m": 10378673,
+      "relative_volume": 4.57,
+      "market_cap": 31755446272,
       "exchange": "NasdaqGS",
       "sources": [
         "most_actives"
       ],
-      "reason": "장중 -10.0% 하락, 거래량 3개월 평균 대비 4.5배, 거래대금 상위 종목",
-      "score": 45.18
+      "reason": "장중 -10.0% 하락, 거래량 3개월 평균 대비 4.6배, 거래대금 상위 종목",
+      "score": 45.77
+    },
+    {
+      "symbol": "IONQ",
+      "name": "IonQ, Inc.",
+      "price": 32.62,
+      "change_percent": 23.42,
+      "volume": 42509928,
+      "avg_volume_3m": 22075012,
+      "relative_volume": 1.93,
+      "market_cap": 15158380544,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers",
+        "most_actives"
+      ],
+      "reason": "장중 +23.4% 상승, 거래량 3개월 평균 대비 1.9배, 거래대금 상위 종목",
+      "score": 45.1
     },
     {
       "symbol": "EXTR",
@@ -242,7 +242,7 @@
       "price": 24.03,
       "change_percent": 14.16,
       "volume": 4887787,
-      "avg_volume_3m": 1555867,
+      "avg_volume_3m": 1554895,
       "relative_volume": 3.14,
       "market_cap": 3152517376,
       "exchange": "NasdaqGS",
@@ -250,7 +250,7 @@
         "day_gainers"
       ],
       "reason": "장중 +14.2% 상승, 거래량 3개월 평균 대비 3.1배",
-      "score": 44.47
+      "score": 44.5
     }
   ]
 }
