@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T01:57:15+09:00",
+  "updated_at": "2026-11-09T11:24:16+09:00",
   "disclaimer": "이 목록은 공개 시세 데이터(거래량, 변동률)를 기준으로 자동 정렬한 결과이며 특정 종목의 매수/매도를 추천하지 않습니다. 투자 판단과 책임은 본인에게 있습니다.",
   "criteria": {
     "min_price": 5.0,
@@ -15,23 +15,23 @@
       "name": "Firefly Aerospace Inc.",
       "price": 20.76,
       "change_percent": 36.8,
-      "volume": 13299970,
+      "volume": 13364596,
       "avg_volume_3m": 3165140,
-      "relative_volume": 4.2,
+      "relative_volume": 4.22,
       "market_cap": 3475320320,
       "exchange": "NasdaqGM",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +36.8% 상승, 거래량 3개월 평균 대비 4.2배",
-      "score": 154.65
+      "score": 155.4
     },
     {
       "symbol": "TMDX",
       "name": "TransMedics Group, Inc.",
       "price": 88.24,
       "change_percent": 27.92,
-      "volume": 3949522,
+      "volume": 3952848,
       "avg_volume_3m": 861393,
       "relative_volume": 4.59,
       "market_cap": 3064917760,
@@ -40,7 +40,7 @@
         "day_gainers"
       ],
       "reason": "장중 +27.9% 상승, 거래량 3개월 평균 대비 4.6배",
-      "score": 128.02
+      "score": 128.13
     },
     {
       "symbol": "KRMN",
@@ -63,39 +63,39 @@
       "name": "JFrog Ltd.",
       "price": 100.98,
       "change_percent": 35.33,
-      "volume": 7027191,
+      "volume": 7039502,
       "avg_volume_3m": 1968703,
-      "relative_volume": 3.57,
+      "relative_volume": 3.58,
       "market_cap": 12450966528,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +35.3% 상승, 거래량 3개월 평균 대비 3.6배",
-      "score": 126.09
+      "score": 126.31
     },
     {
       "symbol": "DKNG",
       "name": "DraftKings Inc.",
       "price": 18.51,
       "change_percent": -21.3,
-      "volume": 69858379,
+      "volume": 69944743,
       "avg_volume_3m": 13384670,
-      "relative_volume": 5.22,
+      "relative_volume": 5.23,
       "market_cap": 9223368704,
       "exchange": "NasdaqGS",
       "sources": [
         "most_actives"
       ],
       "reason": "장중 -21.3% 하락, 거래량 3개월 평균 대비 5.2배, 거래대금 상위 종목",
-      "score": 111.18
+      "score": 111.31
     },
     {
       "symbol": "LASR",
       "name": "nLIGHT, Inc.",
       "price": 38.02,
       "change_percent": 29.58,
-      "volume": 2638178,
+      "volume": 2639866,
       "avg_volume_3m": 1144100,
       "relative_volume": 2.31,
       "market_cap": 2214060544,
@@ -104,14 +104,14 @@
         "day_gainers"
       ],
       "reason": "장중 +29.6% 상승, 거래량 3개월 평균 대비 2.3배",
-      "score": 68.22
+      "score": 68.26
     },
     {
       "symbol": "CGON",
       "name": "CG Oncology, Inc.",
       "price": 75.99,
       "change_percent": 17.27,
-      "volume": 3661704,
+      "volume": 3661960,
       "avg_volume_3m": 935545,
       "relative_volume": 3.91,
       "market_cap": 6787343872,
@@ -159,7 +159,7 @@
       "name": "SiTime Corporation",
       "price": 416.915,
       "change_percent": 17.44,
-      "volume": 1644833,
+      "volume": 1645866,
       "avg_volume_3m": 535754,
       "relative_volume": 3.07,
       "market_cap": 12594890752,
@@ -168,14 +168,14 @@
         "day_gainers"
       ],
       "reason": "장중 +17.4% 상승, 거래량 3개월 평균 대비 3.1배",
-      "score": 53.55
+      "score": 53.58
     },
     {
       "symbol": "XERS",
       "name": "Xeris Biopharma Holdings, Inc.",
       "price": 15.2,
       "change_percent": 16.21,
-      "volume": 7890465,
+      "volume": 7897218,
       "avg_volume_3m": 2624129,
       "relative_volume": 3.01,
       "market_cap": 2777040384,
@@ -184,16 +184,16 @@
         "day_gainers"
       ],
       "reason": "장중 +16.2% 상승, 거래량 3개월 평균 대비 3.0배",
-      "score": 48.74
+      "score": 48.78
     },
     {
       "symbol": "IREN",
       "name": "IREN LIMITED",
       "price": 21.64,
       "change_percent": 20.02,
-      "volume": 112279554,
+      "volume": 112896177,
       "avg_volume_3m": 49048350,
-      "relative_volume": 2.29,
+      "relative_volume": 2.3,
       "market_cap": 9183093760,
       "exchange": "NasdaqGS",
       "sources": [
@@ -201,14 +201,14 @@
         "most_actives"
       ],
       "reason": "장중 +20.0% 상승, 거래량 3개월 평균 대비 2.3배, 거래대금 상위 종목",
-      "score": 45.83
+      "score": 46.09
     },
     {
       "symbol": "MCHP",
       "name": "Microchip Technology Incorporat",
       "price": 58.35,
       "change_percent": -10.02,
-      "volume": 47389996,
+      "volume": 47397830,
       "avg_volume_3m": 10378673,
       "relative_volume": 4.57,
       "market_cap": 31755446272,
@@ -241,7 +241,7 @@
       "name": "Extreme Networks, Inc.",
       "price": 24.03,
       "change_percent": 14.16,
-      "volume": 4887787,
+      "volume": 4888122,
       "avg_volume_3m": 1554895,
       "relative_volume": 3.14,
       "market_cap": 3152517376,
