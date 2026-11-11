@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T11:33:51+09:00",
+  "updated_at": "2026-11-11T21:19:46+09:00",
   "disclaimer": "이 목록은 공개 시세 데이터(거래량, 변동률)를 기준으로 자동 정렬한 결과이며 특정 종목의 매수/매도를 추천하지 않습니다. 투자 판단과 책임은 본인에게 있습니다.",
   "criteria": {
     "min_price": 5.0,
@@ -16,15 +16,15 @@
       "price": 19.13,
       "change_percent": -16.61,
       "volume": 58431549,
-      "avg_volume_3m": 11373200,
-      "relative_volume": 5.14,
+      "avg_volume_3m": 11926140,
+      "relative_volume": 4.9,
       "market_cap": 4463285248,
       "exchange": "NYSE",
       "sources": [
         "most_actives"
       ],
-      "reason": "장중 -16.6% 하락, 거래량 3개월 평균 대비 5.1배, 거래대금 상위 종목",
-      "score": 85.33
+      "reason": "장중 -16.6% 하락, 거래량 3개월 평균 대비 4.9배, 거래대금 상위 종목",
+      "score": 81.37
     },
     {
       "symbol": "AAON",
@@ -32,15 +32,15 @@
       "price": 75.01,
       "change_percent": 19.31,
       "volume": 5024111,
-      "avg_volume_3m": 1261944,
-      "relative_volume": 3.98,
+      "avg_volume_3m": 1250312,
+      "relative_volume": 4.02,
       "market_cap": 6184847872,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +19.3% 상승, 거래량 3개월 평균 대비 4.0배",
-      "score": 76.88
+      "score": 77.59
     },
     {
       "symbol": "CSQR",
@@ -48,15 +48,15 @@
       "price": 17.52,
       "change_percent": 14.73,
       "volume": 6628461,
-      "avg_volume_3m": 1629762,
-      "relative_volume": 4.07,
+      "avg_volume_3m": 1718415,
+      "relative_volume": 3.86,
       "market_cap": 2919427584,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +14.7% 상승, 거래량 3개월 평균 대비 4.1배",
-      "score": 59.93
+      "reason": "장중 +14.7% 상승, 거래량 3개월 평균 대비 3.9배",
+      "score": 56.84
     },
     {
       "symbol": "ACAD",
@@ -64,15 +64,15 @@
       "price": 18.28,
       "change_percent": 10.79,
       "volume": 6354150,
-      "avg_volume_3m": 2123315,
-      "relative_volume": 2.99,
+      "avg_volume_3m": 2135453,
+      "relative_volume": 2.98,
       "market_cap": 3159313920,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +10.8% 상승, 거래량 3개월 평균 대비 3.0배",
-      "score": 32.28
+      "score": 32.1
     },
     {
       "symbol": "JHX",
@@ -80,15 +80,15 @@
       "price": 29.05,
       "change_percent": -2.97,
       "volume": 101892235,
-      "avg_volume_3m": 11135667,
-      "relative_volume": 9.15,
+      "avg_volume_3m": 11227412,
+      "relative_volume": 9.08,
       "market_cap": 16897057792,
       "exchange": "NYSE",
       "sources": [
         "most_actives"
       ],
-      "reason": "장중 -3.0% 하락, 거래량 3개월 평균 대비 9.2배, 거래대금 상위 종목",
-      "score": 27.2
+      "reason": "장중 -3.0% 하락, 거래량 3개월 평균 대비 9.1배, 거래대금 상위 종목",
+      "score": 26.98
     },
     {
       "symbol": "TTWO",
@@ -96,7 +96,7 @@
       "price": 224.64,
       "change_percent": 8.31,
       "volume": 8434598,
-      "avg_volume_3m": 2711567,
+      "avg_volume_3m": 2715692,
       "relative_volume": 3.11,
       "market_cap": 42003288064,
       "exchange": "NasdaqGS",
@@ -104,7 +104,7 @@
         "day_gainers"
       ],
       "reason": "장중 +8.3% 상승, 거래량 3개월 평균 대비 3.1배",
-      "score": 25.86
+      "score": 25.82
     },
     {
       "symbol": "AKAM",
@@ -112,15 +112,15 @@
       "price": 83.71,
       "change_percent": 4.26,
       "volume": 23422864,
-      "avg_volume_3m": 5208460,
-      "relative_volume": 4.5,
+      "avg_volume_3m": 5253282,
+      "relative_volume": 4.46,
       "market_cap": 12073423872,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +4.3% 상승, 거래량 3개월 평균 대비 4.5배",
-      "score": 19.16
+      "score": 18.99
     },
     {
       "symbol": "NVDA",
@@ -128,15 +128,15 @@
       "price": 168.89,
       "change_percent": -5.47,
       "volume": 427096957,
-      "avg_volume_3m": 127443187,
-      "relative_volume": 3.35,
+      "avg_volume_3m": 127852095,
+      "relative_volume": 3.34,
       "market_cap": 4078186790912,
       "exchange": "NasdaqGS",
       "sources": [
         "most_actives"
       ],
-      "reason": "장중 -5.5% 하락, 거래량 3개월 평균 대비 3.4배, 거래대금 상위 종목",
-      "score": 18.34
+      "reason": "장중 -5.5% 하락, 거래량 3개월 평균 대비 3.3배, 거래대금 상위 종목",
+      "score": 18.29
     },
     {
       "symbol": "EMBJ",
@@ -144,15 +144,15 @@
       "price": 82.5,
       "change_percent": 7.05,
       "volume": 3545500,
-      "avg_volume_3m": 1461535,
-      "relative_volume": 2.43,
+      "avg_volume_3m": 1453715,
+      "relative_volume": 2.44,
       "market_cap": 14681559040,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +7.0% 상승, 거래량 3개월 평균 대비 2.4배",
-      "score": 17.09
+      "score": 17.18
     },
     {
       "symbol": "MARA",
@@ -160,8 +160,8 @@
       "price": 7.34,
       "change_percent": 10.54,
       "volume": 65975648,
-      "avg_volume_3m": 42989221,
-      "relative_volume": 1.53,
+      "avg_volume_3m": 43436746,
+      "relative_volume": 1.52,
       "market_cap": 2835436800,
       "exchange": "NasdaqCM",
       "sources": [
@@ -169,23 +169,7 @@
         "most_actives"
       ],
       "reason": "장중 +10.5% 상승, 거래량 3개월 평균 대비 1.5배, 거래대금 상위 종목",
-      "score": 16.18
-    },
-    {
-      "symbol": "PRCH",
-      "name": "Porch Group, Inc.",
-      "price": 21.95,
-      "change_percent": 6.35,
-      "volume": 4078000,
-      "avg_volume_3m": 1626617,
-      "relative_volume": 2.51,
-      "market_cap": 2509584896,
-      "exchange": "NasdaqCM",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +6.3% 상승, 거래량 3개월 평균 대비 2.5배",
-      "score": 15.91
+      "score": 16.01
     },
     {
       "symbol": "CHTR",
@@ -193,15 +177,31 @@
       "price": 134.06,
       "change_percent": 10.61,
       "volume": 4373533,
-      "avg_volume_3m": 2965860,
-      "relative_volume": 1.47,
+      "avg_volume_3m": 2988676,
+      "relative_volume": 1.46,
       "market_cap": 24003651584,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +10.6% 상승, 거래량 3개월 평균 대비 1.5배",
-      "score": 15.65
+      "score": 15.53
+    },
+    {
+      "symbol": "PRCH",
+      "name": "Porch Group, Inc.",
+      "price": 21.95,
+      "change_percent": 6.35,
+      "volume": 4078000,
+      "avg_volume_3m": 1677978,
+      "relative_volume": 2.43,
+      "market_cap": 2509584896,
+      "exchange": "NasdaqCM",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +6.3% 상승, 거래량 3개월 평균 대비 2.4배",
+      "score": 15.42
     },
     {
       "symbol": "ZETA",
@@ -209,15 +209,15 @@
       "price": 35.07,
       "change_percent": 8.17,
       "volume": 11435430,
-      "avg_volume_3m": 6145695,
-      "relative_volume": 1.86,
+      "avg_volume_3m": 6087410,
+      "relative_volume": 1.88,
       "market_cap": 8803046400,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +8.2% 상승, 거래량 3개월 평균 대비 1.9배",
-      "score": 15.21
+      "score": 15.36
     },
     {
       "symbol": "QBTS",
@@ -225,15 +225,15 @@
       "price": 10.48,
       "change_percent": -8.63,
       "volume": 26559389,
-      "avg_volume_3m": 15338175,
-      "relative_volume": 1.73,
+      "avg_volume_3m": 15579564,
+      "relative_volume": 1.7,
       "market_cap": 3978486784,
       "exchange": "NasdaqGS",
       "sources": [
         "most_actives"
       ],
       "reason": "장중 -8.6% 하락, 거래량 3개월 평균 대비 1.7배, 거래대금 상위 종목",
-      "score": 14.95
+      "score": 14.71
     },
     {
       "symbol": "GRDN",
@@ -241,15 +241,15 @@
       "price": 49.85,
       "change_percent": 6.02,
       "volume": 1184489,
-      "avg_volume_3m": 523964,
-      "relative_volume": 2.26,
+      "avg_volume_3m": 531453,
+      "relative_volume": 2.23,
       "market_cap": 3158192896,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +6.0% 상승, 거래량 3개월 평균 대비 2.3배",
-      "score": 13.61
+      "reason": "장중 +6.0% 상승, 거래량 3개월 평균 대비 2.2배",
+      "score": 13.41
     }
   ]
 }
