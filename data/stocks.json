@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T03:30:43+09:00",
+  "updated_at": "2026-11-11T11:33:51+09:00",
   "disclaimer": "이 목록은 공개 시세 데이터(거래량, 변동률)를 기준으로 자동 정렬한 결과이며 특정 종목의 매수/매도를 추천하지 않습니다. 투자 판단과 책임은 본인에게 있습니다.",
   "criteria": {
     "min_price": 5.0,
@@ -13,243 +13,243 @@
     {
       "symbol": "HIMS",
       "name": "Hims & Hers Health, Inc.",
-      "price": 18.685,
-      "change_percent": -18.55,
-      "volume": 43383841,
-      "avg_volume_3m": 11367110,
-      "relative_volume": 3.82,
-      "market_cap": 4359460864,
+      "price": 19.13,
+      "change_percent": -16.61,
+      "volume": 58431549,
+      "avg_volume_3m": 11373200,
+      "relative_volume": 5.14,
+      "market_cap": 4463285248,
       "exchange": "NYSE",
       "sources": [
         "most_actives"
       ],
-      "reason": "장중 -18.5% 하락, 거래량 3개월 평균 대비 3.8배, 거래대금 상위 종목",
-      "score": 70.79
+      "reason": "장중 -16.6% 하락, 거래량 3개월 평균 대비 5.1배, 거래대금 상위 종목",
+      "score": 85.33
     },
     {
       "symbol": "AAON",
       "name": "AAON, Inc.",
-      "price": 76.18,
-      "change_percent": 21.17,
-      "volume": 3065170,
-      "avg_volume_3m": 1202578,
-      "relative_volume": 2.55,
-      "market_cap": 6281318400,
+      "price": 75.01,
+      "change_percent": 19.31,
+      "volume": 5024111,
+      "avg_volume_3m": 1261944,
+      "relative_volume": 3.98,
+      "market_cap": 6184847872,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +21.2% 상승, 거래량 3개월 평균 대비 2.5배",
-      "score": 53.96
+      "reason": "장중 +19.3% 상승, 거래량 3개월 평균 대비 4.0배",
+      "score": 76.88
     },
     {
       "symbol": "CSQR",
       "name": "Csquare, Inc.",
-      "price": 17.595,
-      "change_percent": 15.23,
-      "volume": 3516406,
+      "price": 17.52,
+      "change_percent": 14.73,
+      "volume": 6628461,
       "avg_volume_3m": 1629762,
-      "relative_volume": 2.16,
-      "market_cap": 2931924736,
+      "relative_volume": 4.07,
+      "market_cap": 2919427584,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +15.2% 상승, 거래량 3개월 평균 대비 2.2배",
-      "score": 32.85
-    },
-    {
-      "symbol": "TTWO",
-      "name": "Take-Two Interactive Software, ",
-      "price": 223.23,
-      "change_percent": 7.63,
-      "volume": 5513110,
-      "avg_volume_3m": 2621614,
-      "relative_volume": 2.1,
-      "market_cap": 41739644928,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +7.6% 상승, 거래량 3개월 평균 대비 2.1배",
-      "score": 16.05
+      "reason": "장중 +14.7% 상승, 거래량 3개월 평균 대비 4.1배",
+      "score": 59.93
     },
     {
       "symbol": "ACAD",
       "name": "ACADIA Pharmaceuticals Inc.",
-      "price": 17.95,
-      "change_percent": 8.79,
-      "volume": 3528555,
-      "avg_volume_3m": 2056954,
-      "relative_volume": 1.72,
-      "market_cap": 3102280192,
+      "price": 18.28,
+      "change_percent": 10.79,
+      "volume": 6354150,
+      "avg_volume_3m": 2123315,
+      "relative_volume": 2.99,
+      "market_cap": 3159313920,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +8.8% 상승, 거래량 3개월 평균 대비 1.7배",
-      "score": 15.07
-    },
-    {
-      "symbol": "ASTS",
-      "name": "AST SpaceMobile, Inc.",
-      "price": 32.07,
-      "change_percent": -13.07,
-      "volume": 15754799,
-      "avg_volume_3m": 13684090,
-      "relative_volume": 1.15,
-      "market_cap": 12480601088,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "most_actives"
-      ],
-      "reason": "장중 -13.1% 하락, 거래량 3개월 평균 대비 1.2배, 거래대금 상위 종목",
-      "score": 15.04
-    },
-    {
-      "symbol": "NVDA",
-      "name": "NVIDIA Corporation",
-      "price": 167.73,
-      "change_percent": -6.12,
-      "volume": 284888924,
-      "avg_volume_3m": 122712573,
-      "relative_volume": 2.32,
-      "market_cap": 4050176180224,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "most_actives"
-      ],
-      "reason": "장중 -6.1% 하락, 거래량 3개월 평균 대비 2.3배, 거래대금 상위 종목",
-      "score": 14.22
-    },
-    {
-      "symbol": "DBX",
-      "name": "Dropbox, Inc.",
-      "price": 31.72,
-      "change_percent": -2.64,
-      "volume": 20067625,
-      "avg_volume_3m": 3954779,
-      "relative_volume": 5.07,
-      "market_cap": 6829008896,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "most_actives"
-      ],
-      "reason": "장중 -2.6% 하락, 거래량 3개월 평균 대비 5.1배, 거래대금 상위 종목",
-      "score": 13.39
-    },
-    {
-      "symbol": "QBTS",
-      "name": "D-Wave Quantum Inc.",
-      "price": 10.285,
-      "change_percent": -10.33,
-      "volume": 19080974,
-      "avg_volume_3m": 15335834,
-      "relative_volume": 1.24,
-      "market_cap": 3904459776,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "most_actives"
-      ],
-      "reason": "장중 -10.3% 하락, 거래량 3개월 평균 대비 1.2배, 거래대금 상위 종목",
-      "score": 12.85
-    },
-    {
-      "symbol": "EMBJ",
-      "name": "Embraer S.A.",
-      "price": 82.33,
-      "change_percent": 6.82,
-      "volume": 2480714,
-      "avg_volume_3m": 1428967,
-      "relative_volume": 1.74,
-      "market_cap": 14651305984,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +6.8% 상승, 거래량 3개월 평균 대비 1.7배",
-      "score": 11.85
-    },
-    {
-      "symbol": "TTD",
-      "name": "The Trade Desk, Inc.",
-      "price": 15.7218,
-      "change_percent": 5.3,
-      "volume": 42832202,
-      "avg_volume_3m": 20908068,
-      "relative_volume": 2.05,
-      "market_cap": 7433189888,
-      "exchange": "NasdaqGM",
-      "sources": [
-        "day_gainers",
-        "most_actives"
-      ],
-      "reason": "장중 +5.3% 상승, 거래량 3개월 평균 대비 2.0배, 거래대금 상위 종목",
-      "score": 10.86
-    },
-    {
-      "symbol": "AKAM",
-      "name": "Akamai Technologies, Inc.",
-      "price": 82.73,
-      "change_percent": 3.04,
-      "volume": 15668456,
-      "avg_volume_3m": 4923860,
-      "relative_volume": 3.18,
-      "market_cap": 11932079104,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "most_actives"
-      ],
-      "reason": "장중 +3.0% 상승, 거래량 3개월 평균 대비 3.2배, 거래대금 상위 종목",
-      "score": 9.67
-    },
-    {
-      "symbol": "IREN",
-      "name": "IREN LIMITED",
-      "price": 19.2418,
-      "change_percent": -10.13,
-      "volume": 45774302,
-      "avg_volume_3m": 49878703,
-      "relative_volume": 0.92,
-      "market_cap": 8165400064,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "most_actives"
-      ],
-      "reason": "장중 -10.1% 하락, 거래량 3개월 평균 대비 0.9배, 거래대금 상위 종목",
-      "score": 9.29
-    },
-    {
-      "symbol": "ZETA",
-      "name": "Zeta Global Holdings Corp.",
-      "price": 34.78,
-      "change_percent": 7.28,
-      "volume": 7291731,
-      "avg_volume_3m": 6142812,
-      "relative_volume": 1.19,
-      "market_cap": 8669179904,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +7.3% 상승, 거래량 3개월 평균 대비 1.2배",
-      "score": 8.64
+      "reason": "장중 +10.8% 상승, 거래량 3개월 평균 대비 3.0배",
+      "score": 32.28
     },
     {
       "symbol": "JHX",
       "name": "James Hardie Industries plc.",
-      "price": 28.8,
-      "change_percent": -3.81,
-      "volume": 17656333,
-      "avg_volume_3m": 9717565,
-      "relative_volume": 1.82,
-      "market_cap": 16751644672,
+      "price": 29.05,
+      "change_percent": -2.97,
+      "volume": 101892235,
+      "avg_volume_3m": 11135667,
+      "relative_volume": 9.15,
+      "market_cap": 16897057792,
       "exchange": "NYSE",
       "sources": [
         "most_actives"
       ],
-      "reason": "장중 -3.8% 하락, 거래량 3개월 평균 대비 1.8배, 거래대금 상위 종목",
-      "score": 6.92
+      "reason": "장중 -3.0% 하락, 거래량 3개월 평균 대비 9.2배, 거래대금 상위 종목",
+      "score": 27.2
+    },
+    {
+      "symbol": "TTWO",
+      "name": "Take-Two Interactive Software, ",
+      "price": 224.64,
+      "change_percent": 8.31,
+      "volume": 8434598,
+      "avg_volume_3m": 2711567,
+      "relative_volume": 3.11,
+      "market_cap": 42003288064,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +8.3% 상승, 거래량 3개월 평균 대비 3.1배",
+      "score": 25.86
+    },
+    {
+      "symbol": "AKAM",
+      "name": "Akamai Technologies, Inc.",
+      "price": 83.71,
+      "change_percent": 4.26,
+      "volume": 23422864,
+      "avg_volume_3m": 5208460,
+      "relative_volume": 4.5,
+      "market_cap": 12073423872,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +4.3% 상승, 거래량 3개월 평균 대비 4.5배",
+      "score": 19.16
+    },
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA Corporation",
+      "price": 168.89,
+      "change_percent": -5.47,
+      "volume": 427096957,
+      "avg_volume_3m": 127443187,
+      "relative_volume": 3.35,
+      "market_cap": 4078186790912,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "most_actives"
+      ],
+      "reason": "장중 -5.5% 하락, 거래량 3개월 평균 대비 3.4배, 거래대금 상위 종목",
+      "score": 18.34
+    },
+    {
+      "symbol": "EMBJ",
+      "name": "Embraer S.A.",
+      "price": 82.5,
+      "change_percent": 7.05,
+      "volume": 3545500,
+      "avg_volume_3m": 1461535,
+      "relative_volume": 2.43,
+      "market_cap": 14681559040,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +7.0% 상승, 거래량 3개월 평균 대비 2.4배",
+      "score": 17.09
+    },
+    {
+      "symbol": "MARA",
+      "name": "MARA Holdings, Inc.",
+      "price": 7.34,
+      "change_percent": 10.54,
+      "volume": 65975648,
+      "avg_volume_3m": 42989221,
+      "relative_volume": 1.53,
+      "market_cap": 2835436800,
+      "exchange": "NasdaqCM",
+      "sources": [
+        "day_gainers",
+        "most_actives"
+      ],
+      "reason": "장중 +10.5% 상승, 거래량 3개월 평균 대비 1.5배, 거래대금 상위 종목",
+      "score": 16.18
+    },
+    {
+      "symbol": "PRCH",
+      "name": "Porch Group, Inc.",
+      "price": 21.95,
+      "change_percent": 6.35,
+      "volume": 4078000,
+      "avg_volume_3m": 1626617,
+      "relative_volume": 2.51,
+      "market_cap": 2509584896,
+      "exchange": "NasdaqCM",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +6.3% 상승, 거래량 3개월 평균 대비 2.5배",
+      "score": 15.91
+    },
+    {
+      "symbol": "CHTR",
+      "name": "Charter Communications, Inc.",
+      "price": 134.06,
+      "change_percent": 10.61,
+      "volume": 4373533,
+      "avg_volume_3m": 2965860,
+      "relative_volume": 1.47,
+      "market_cap": 24003651584,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +10.6% 상승, 거래량 3개월 평균 대비 1.5배",
+      "score": 15.65
+    },
+    {
+      "symbol": "ZETA",
+      "name": "Zeta Global Holdings Corp.",
+      "price": 35.07,
+      "change_percent": 8.17,
+      "volume": 11435430,
+      "avg_volume_3m": 6145695,
+      "relative_volume": 1.86,
+      "market_cap": 8803046400,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +8.2% 상승, 거래량 3개월 평균 대비 1.9배",
+      "score": 15.21
+    },
+    {
+      "symbol": "QBTS",
+      "name": "D-Wave Quantum Inc.",
+      "price": 10.48,
+      "change_percent": -8.63,
+      "volume": 26559389,
+      "avg_volume_3m": 15338175,
+      "relative_volume": 1.73,
+      "market_cap": 3978486784,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "most_actives"
+      ],
+      "reason": "장중 -8.6% 하락, 거래량 3개월 평균 대비 1.7배, 거래대금 상위 종목",
+      "score": 14.95
+    },
+    {
+      "symbol": "GRDN",
+      "name": "Guardian Pharmacy Services, Inc",
+      "price": 49.85,
+      "change_percent": 6.02,
+      "volume": 1184489,
+      "avg_volume_3m": 523964,
+      "relative_volume": 2.26,
+      "market_cap": 3158192896,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +6.0% 상승, 거래량 3개월 평균 대비 2.3배",
+      "score": 13.61
     }
   ]
 }
