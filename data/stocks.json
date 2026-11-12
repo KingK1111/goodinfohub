@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T12:38:11+09:00",
+  "updated_at": "2026-11-12T22:30:10+09:00",
   "disclaimer": "이 목록은 공개 시세 데이터(거래량, 변동률)를 기준으로 자동 정렬한 결과이며 특정 종목의 매수/매도를 추천하지 않습니다. 투자 판단과 책임은 본인에게 있습니다.",
   "criteria": {
     "min_price": 5.0,
@@ -16,16 +16,16 @@
       "price": 60.77,
       "change_percent": 24.71,
       "volume": 158080488,
-      "avg_volume_3m": 42348935,
-      "relative_volume": 3.73,
+      "avg_volume_3m": 43509265,
+      "relative_volume": 3.63,
       "market_cap": 33516877824,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers",
         "most_actives"
       ],
-      "reason": "장중 +24.7% 상승, 거래량 3개월 평균 대비 3.7배, 거래대금 상위 종목",
-      "score": 92.23
+      "reason": "장중 +24.7% 상승, 거래량 3개월 평균 대비 3.6배, 거래대금 상위 종목",
+      "score": 89.77
     },
     {
       "symbol": "REZI",
@@ -33,15 +33,15 @@
       "price": 23.0,
       "change_percent": 18.25,
       "volume": 7491771,
-      "avg_volume_3m": 2177414,
-      "relative_volume": 3.44,
-      "market_cap": 3492489728,
+      "avg_volume_3m": 2238671,
+      "relative_volume": 3.35,
+      "market_cap": 3499857664,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +18.3% 상승, 거래량 3개월 평균 대비 3.4배",
-      "score": 62.8
+      "reason": "장중 +18.3% 상승, 거래량 3개월 평균 대비 3.3배",
+      "score": 61.08
     },
     {
       "symbol": "AZTA",
@@ -49,15 +49,15 @@
       "price": 48.9,
       "change_percent": 20.8,
       "volume": 2485615,
-      "avg_volume_3m": 962684,
-      "relative_volume": 2.58,
-      "market_cap": 2142230400,
+      "avg_volume_3m": 993307,
+      "relative_volume": 2.5,
+      "market_cap": 2041918336,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +20.8% 상승, 거래량 3개월 평균 대비 2.6배",
-      "score": 53.71
+      "reason": "장중 +20.8% 상승, 거래량 3개월 평균 대비 2.5배",
+      "score": 52.05
     },
     {
       "symbol": "AXGN",
@@ -65,15 +65,15 @@
       "price": 58.63,
       "change_percent": 15.21,
       "volume": 4412988,
-      "avg_volume_3m": 1446903,
-      "relative_volume": 3.05,
+      "avg_volume_3m": 1505301,
+      "relative_volume": 2.93,
       "market_cap": 3502011904,
       "exchange": "NasdaqCM",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +15.2% 상승, 거래량 3개월 평균 대비 3.0배",
-      "score": 46.39
+      "reason": "장중 +15.2% 상승, 거래량 3개월 평균 대비 2.9배",
+      "score": 44.59
     },
     {
       "symbol": "SONO",
@@ -81,31 +81,15 @@
       "price": 19.06,
       "change_percent": 12.85,
       "volume": 6090694,
-      "avg_volume_3m": 1693895,
-      "relative_volume": 3.6,
+      "avg_volume_3m": 1757070,
+      "relative_volume": 3.47,
       "market_cap": 2254683136,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +12.8% 상승, 거래량 3개월 평균 대비 3.6배",
-      "score": 46.2
-    },
-    {
-      "symbol": "EQPT",
-      "name": "EquipmentShare.com Inc",
-      "price": 15.99,
-      "change_percent": 18.14,
-      "volume": 6656661,
-      "avg_volume_3m": 3336571,
-      "relative_volume": 2.0,
-      "market_cap": 4051481600,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +18.1% 상승, 거래량 3개월 평균 대비 2.0배",
-      "score": 36.19
+      "reason": "장중 +12.8% 상승, 거래량 3개월 평균 대비 3.5배",
+      "score": 44.54
     },
     {
       "symbol": "LGN",
@@ -113,15 +97,31 @@
       "price": 37.09,
       "change_percent": 15.73,
       "volume": 3054389,
-      "avg_volume_3m": 1335003,
-      "relative_volume": 2.29,
+      "avg_volume_3m": 1349368,
+      "relative_volume": 2.26,
       "market_cap": 6093328384,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +15.7% 상승, 거래량 3개월 평균 대비 2.3배",
-      "score": 35.98
+      "score": 35.6
+    },
+    {
+      "symbol": "EQPT",
+      "name": "EquipmentShare.com Inc",
+      "price": 15.99,
+      "change_percent": 18.14,
+      "volume": 6656661,
+      "avg_volume_3m": 3395996,
+      "relative_volume": 1.96,
+      "market_cap": 4057306368,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +18.1% 상승, 거래량 3개월 평균 대비 2.0배",
+      "score": 35.55
     },
     {
       "symbol": "RUM",
@@ -129,31 +129,15 @@
       "price": 5.96,
       "change_percent": 16.63,
       "volume": 9528276,
-      "avg_volume_3m": 4693484,
-      "relative_volume": 2.03,
+      "avg_volume_3m": 4737693,
+      "relative_volume": 2.01,
       "market_cap": 2384113664,
       "exchange": "NasdaqGM",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +16.6% 상승, 거래량 3개월 평균 대비 2.0배",
-      "score": 33.77
-    },
-    {
-      "symbol": "AXTI",
-      "name": "AXT Inc",
-      "price": 46.97,
-      "change_percent": 19.49,
-      "volume": 14719564,
-      "avg_volume_3m": 9750026,
-      "relative_volume": 1.51,
-      "market_cap": 3079973888,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +19.5% 상승, 거래량 3개월 평균 대비 1.5배",
-      "score": 29.42
+      "score": 33.45
     },
     {
       "symbol": "NBIS",
@@ -161,8 +145,8 @@
       "price": 154.69,
       "change_percent": 15.44,
       "volume": 38897144,
-      "avg_volume_3m": 20740098,
-      "relative_volume": 1.88,
+      "avg_volume_3m": 20369671,
+      "relative_volume": 1.91,
       "market_cap": 42053287936,
       "exchange": "NasdaqGS",
       "sources": [
@@ -170,7 +154,23 @@
         "most_actives"
       ],
       "reason": "장중 +15.4% 상승, 거래량 3개월 평균 대비 1.9배, 거래대금 상위 종목",
-      "score": 28.96
+      "score": 29.48
+    },
+    {
+      "symbol": "AXTI",
+      "name": "AXT Inc",
+      "price": 46.97,
+      "change_percent": 19.49,
+      "volume": 14719564,
+      "avg_volume_3m": 9806248,
+      "relative_volume": 1.5,
+      "market_cap": 3079973888,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +19.5% 상승, 거래량 3개월 평균 대비 1.5배",
+      "score": 29.25
     },
     {
       "symbol": "FLY",
@@ -178,32 +178,15 @@
       "price": 26.61,
       "change_percent": 12.28,
       "volume": 7032802,
-      "avg_volume_3m": 3292714,
-      "relative_volume": 2.14,
-      "market_cap": 4454637568,
+      "avg_volume_3m": 3303821,
+      "relative_volume": 2.13,
+      "market_cap": 4570422784,
       "exchange": "NasdaqGM",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +12.3% 상승, 거래량 3개월 평균 대비 2.1배",
-      "score": 26.23
-    },
-    {
-      "symbol": "CORZ",
-      "name": "Core Scientific, Inc.",
-      "price": 14.57,
-      "change_percent": 10.97,
-      "volume": 28482505,
-      "avg_volume_3m": 13556571,
-      "relative_volume": 2.1,
-      "market_cap": 4694981120,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers",
-        "most_actives"
-      ],
-      "reason": "장중 +11.0% 상승, 거래량 3개월 평균 대비 2.1배, 거래대금 상위 종목",
-      "score": 23.04
+      "score": 26.14
     },
     {
       "symbol": "AAOI",
@@ -211,15 +194,32 @@
       "price": 55.86,
       "change_percent": 15.6,
       "volume": 15472015,
-      "avg_volume_3m": 10632214,
-      "relative_volume": 1.46,
+      "avg_volume_3m": 10671437,
+      "relative_volume": 1.45,
       "market_cap": 5070453248,
       "exchange": "NasdaqGM",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +15.6% 상승, 거래량 3개월 평균 대비 1.5배",
-      "score": 22.71
+      "reason": "장중 +15.6% 상승, 거래량 3개월 평균 대비 1.4배",
+      "score": 22.62
+    },
+    {
+      "symbol": "CORZ",
+      "name": "Core Scientific, Inc.",
+      "price": 14.57,
+      "change_percent": 10.97,
+      "volume": 28482505,
+      "avg_volume_3m": 13815212,
+      "relative_volume": 2.06,
+      "market_cap": 4694981120,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers",
+        "most_actives"
+      ],
+      "reason": "장중 +11.0% 상승, 거래량 3개월 평균 대비 2.1배, 거래대금 상위 종목",
+      "score": 22.61
     },
     {
       "symbol": "FRVO",
@@ -227,15 +227,15 @@
       "price": 12.94,
       "change_percent": 13.71,
       "volume": 13058372,
-      "avg_volume_3m": 8225106,
-      "relative_volume": 1.59,
+      "avg_volume_3m": 8304876,
+      "relative_volume": 1.57,
       "market_cap": 3817569792,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +13.7% 상승, 거래량 3개월 평균 대비 1.6배",
-      "score": 21.76
+      "score": 21.55
     },
     {
       "symbol": "GLXY",
@@ -243,15 +243,15 @@
       "price": 15.97,
       "change_percent": 13.18,
       "volume": 10417408,
-      "avg_volume_3m": 6736360,
-      "relative_volume": 1.55,
+      "avg_volume_3m": 6806529,
+      "relative_volume": 1.53,
       "market_cap": 9372605440,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +13.2% 상승, 거래량 3개월 평균 대비 1.5배",
-      "score": 20.39
+      "score": 20.18
     }
   ]
 }
