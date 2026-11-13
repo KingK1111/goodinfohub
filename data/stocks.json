@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T21:45:16+09:00",
+  "updated_at": "2026-11-14T03:24:30+09:00",
   "disclaimer": "이 목록은 공개 시세 데이터(거래량, 변동률)를 기준으로 자동 정렬한 결과이며 특정 종목의 매수/매도를 추천하지 않습니다. 투자 판단과 책임은 본인에게 있습니다.",
   "criteria": {
     "min_price": 5.0,
@@ -11,246 +11,246 @@
   },
   "candidates": [
     {
-      "symbol": "NBIS",
-      "name": "Nebius Group N.V.",
-      "price": 128.64,
-      "change_percent": -16.84,
-      "volume": 68754090,
-      "avg_volume_3m": 20904559,
-      "relative_volume": 3.29,
-      "market_cap": 32661463040,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "most_actives"
-      ],
-      "reason": "장중 -16.8% 하락, 거래량 3개월 평균 대비 3.3배, 거래대금 상위 종목",
-      "score": 55.39
-    },
-    {
-      "symbol": "CTVA",
-      "name": "Corteva, Inc.",
-      "price": 9.19,
-      "change_percent": -24.3,
-      "volume": 64896116,
-      "avg_volume_3m": 31966161,
-      "relative_volume": 2.03,
-      "market_cap": 6131531264,
-      "exchange": "NYSE",
-      "sources": [
-        "most_actives"
-      ],
-      "reason": "장중 -24.3% 하락, 거래량 3개월 평균 대비 2.0배, 거래대금 상위 종목",
-      "score": 49.33
-    },
-    {
-      "symbol": "SMCI",
-      "name": "Super Micro Computer, Inc.",
-      "price": 26.99,
-      "change_percent": -11.3,
-      "volume": 114188872,
-      "avg_volume_3m": 40822803,
-      "relative_volume": 2.8,
-      "market_cap": 17792546816,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "most_actives"
-      ],
-      "reason": "장중 -11.3% 하락, 거래량 3개월 평균 대비 2.8배, 거래대금 상위 종목",
-      "score": 31.62
-    },
-    {
-      "symbol": "MBGL",
-      "name": "Mobility Global Inc.",
-      "price": 23.13,
-      "change_percent": 16.11,
-      "volume": 7285764,
-      "avg_volume_3m": 3924915,
-      "relative_volume": 1.86,
-      "market_cap": 6819669504,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +16.1% 상승, 거래량 3개월 평균 대비 1.9배",
-      "score": 29.91
-    },
-    {
-      "symbol": "CHA",
-      "name": "Chagee Holdings Limited",
-      "price": 13.51,
-      "change_percent": 9.57,
-      "volume": 2437429,
-      "avg_volume_3m": 928057,
-      "relative_volume": 2.63,
-      "market_cap": 2577212672,
+      "symbol": "LFTO",
+      "name": "Liftoff Mobile, Inc.",
+      "price": 22.395,
+      "change_percent": 19.7,
+      "volume": 5997421,
+      "avg_volume_3m": 802118,
+      "relative_volume": 7.48,
+      "market_cap": 3792179456,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +9.6% 상승, 거래량 3개월 평균 대비 2.6배",
-      "score": 25.13
+      "reason": "장중 +19.7% 상승, 거래량 3개월 평균 대비 7.5배",
+      "score": 147.26
     },
     {
-      "symbol": "LUNR",
-      "name": "Intuitive Machines, Inc.",
-      "price": 13.03,
-      "change_percent": 6.98,
-      "volume": 27756263,
-      "avg_volume_3m": 8351062,
-      "relative_volume": 3.32,
-      "market_cap": 2103210880,
-      "exchange": "NasdaqGM",
+      "symbol": "MOD",
+      "name": "Modine Manufacturing Company",
+      "price": 139.06,
+      "change_percent": 31.07,
+      "volume": 6222510,
+      "avg_volume_3m": 1628796,
+      "relative_volume": 3.82,
+      "market_cap": 7397563392,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +31.1% 상승, 거래량 3개월 평균 대비 3.8배",
+      "score": 118.68
+    },
+    {
+      "symbol": "CBRS",
+      "name": "Cerebras Systems Inc.",
+      "price": 108.53,
+      "change_percent": 11.03,
+      "volume": 27780047,
+      "avg_volume_3m": 9098012,
+      "relative_volume": 3.05,
+      "market_cap": 25782824960,
+      "exchange": "NasdaqGS",
       "sources": [
         "day_gainers",
         "most_actives"
       ],
-      "reason": "장중 +7.0% 상승, 거래량 3개월 평균 대비 3.3배, 거래대금 상위 종목",
-      "score": 23.19
+      "reason": "장중 +11.0% 상승, 거래량 3개월 평균 대비 3.1배, 거래대금 상위 종목",
+      "score": 33.67
     },
     {
-      "symbol": "NVDA",
-      "name": "NVIDIA Corporation",
-      "price": 166.19,
-      "change_percent": -4.34,
-      "volume": 740019481,
-      "avg_volume_3m": 141555634,
-      "relative_volume": 5.23,
-      "market_cap": 4012989743104,
+      "symbol": "WSE",
+      "name": "Wise Group plc",
+      "price": 11.6021,
+      "change_percent": 6.15,
+      "volume": 9431442,
+      "avg_volume_3m": 1799507,
+      "relative_volume": 5.24,
+      "market_cap": 11194577920,
       "exchange": "NasdaqGS",
-      "sources": [
-        "most_actives"
-      ],
-      "reason": "장중 -4.3% 하락, 거래량 3개월 평균 대비 5.2배, 거래대금 상위 종목",
-      "score": 22.69
-    },
-    {
-      "symbol": "KDP",
-      "name": "Keurig Dr Pepper Inc.",
-      "price": 35.42,
-      "change_percent": -7.4,
-      "volume": 37128056,
-      "avg_volume_3m": 13301446,
-      "relative_volume": 2.79,
-      "market_cap": 48204787712,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "most_actives"
-      ],
-      "reason": "장중 -7.4% 하락, 거래량 3개월 평균 대비 2.8배, 거래대금 상위 종목",
-      "score": 20.65
-    },
-    {
-      "symbol": "DPC",
-      "name": "DPC Holdings PLC",
-      "price": 34.33,
-      "change_percent": 8.36,
-      "volume": 2957043,
-      "avg_volume_3m": 1427668,
-      "relative_volume": 2.07,
-      "market_cap": 5128663040,
-      "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +8.4% 상승, 거래량 3개월 평균 대비 2.1배",
-      "score": 17.33
+      "reason": "장중 +6.1% 상승, 거래량 3개월 평균 대비 5.2배",
+      "score": 32.22
     },
     {
-      "symbol": "BABA",
-      "name": "Alibaba Group Holding Limited",
-      "price": 94.36,
-      "change_percent": -7.05,
-      "volume": 25347775,
-      "avg_volume_3m": 10355770,
-      "relative_volume": 2.45,
-      "market_cap": 234743627776,
-      "exchange": "NYSE",
-      "sources": [
-        "most_actives"
-      ],
-      "reason": "장중 -7.1% 하락, 거래량 3개월 평균 대비 2.4배, 거래대금 상위 종목",
-      "score": 17.26
-    },
-    {
-      "symbol": "CRWV",
-      "name": "CoreWeave, Inc.",
-      "price": 56.6,
-      "change_percent": -6.86,
-      "volume": 107572081,
-      "avg_volume_3m": 44457201,
-      "relative_volume": 2.42,
-      "market_cap": 31476713472,
+      "symbol": "NBIS",
+      "name": "Nebius Group N.V.",
+      "price": 116.7078,
+      "change_percent": -9.28,
+      "volume": 37069370,
+      "avg_volume_3m": 20904559,
+      "relative_volume": 1.77,
+      "market_cap": 31727626240,
       "exchange": "NasdaqGS",
       "sources": [
         "most_actives"
       ],
-      "reason": "장중 -6.9% 하락, 거래량 3개월 평균 대비 2.4배, 거래대금 상위 종목",
-      "score": 16.6
+      "reason": "장중 -9.3% 하락, 거래량 3개월 평균 대비 1.8배, 거래대금 상위 종목",
+      "score": 16.45
     },
     {
       "symbol": "AMD",
       "name": "Advanced Micro Devices, Inc.",
-      "price": 585.3,
-      "change_percent": 5.86,
-      "volume": 55014886,
+      "price": 523.67,
+      "change_percent": -10.53,
+      "volume": 31553386,
       "avg_volume_3m": 24287717,
-      "relative_volume": 2.27,
-      "market_cap": 959943081984,
+      "relative_volume": 1.3,
+      "market_cap": 858864484352,
       "exchange": "NasdaqGS",
+      "sources": [
+        "most_actives"
+      ],
+      "reason": "장중 -10.5% 하락, 거래량 3개월 평균 대비 1.3배, 거래대금 상위 종목",
+      "score": 13.68
+    },
+    {
+      "symbol": "NU",
+      "name": "Nu Holdings Ltd.",
+      "price": 13.05,
+      "change_percent": 10.31,
+      "volume": 100989277,
+      "avg_volume_3m": 81403462,
+      "relative_volume": 1.24,
+      "market_cap": 63040487424,
+      "exchange": "NYSE",
       "sources": [
         "day_gainers",
         "most_actives"
       ],
-      "reason": "장중 +5.9% 상승, 거래량 3개월 평균 대비 2.3배, 거래대금 상위 종목",
-      "score": 13.27
+      "reason": "장중 +10.3% 상승, 거래량 3개월 평균 대비 1.2배, 거래대금 상위 종목",
+      "score": 12.79
     },
     {
-      "symbol": "TTEK",
-      "name": "Tetra Tech, Inc.",
-      "price": 39.43,
-      "change_percent": 4.84,
-      "volume": 6746064,
-      "avg_volume_3m": 2483154,
-      "relative_volume": 2.72,
-      "market_cap": 9986988032,
+      "symbol": "WWW",
+      "name": "Wolverine World Wide, Inc.",
+      "price": 24.68,
+      "change_percent": 7.91,
+      "volume": 1232751,
+      "avg_volume_3m": 854389,
+      "relative_volume": 1.44,
+      "market_cap": 2025397248,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +7.9% 상승, 거래량 3개월 평균 대비 1.4배",
+      "score": 11.42
+    },
+    {
+      "symbol": "CRWV",
+      "name": "CoreWeave, Inc.",
+      "price": 52.2368,
+      "change_percent": -7.71,
+      "volume": 54362230,
+      "avg_volume_3m": 44457201,
+      "relative_volume": 1.22,
+      "market_cap": 29050226688,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "most_actives"
+      ],
+      "reason": "장중 -7.7% 하락, 거래량 3개월 평균 대비 1.2배, 거래대금 상위 종목",
+      "score": 9.43
+    },
+    {
+      "symbol": "KDP",
+      "name": "Keurig Dr Pepper Inc.",
+      "price": 36.525,
+      "change_percent": 3.12,
+      "volume": 38152452,
+      "avg_volume_3m": 13301446,
+      "relative_volume": 2.87,
+      "market_cap": 49708642304,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "most_actives"
+      ],
+      "reason": "장중 +3.1% 상승, 거래량 3개월 평균 대비 2.9배, 거래대금 상위 종목",
+      "score": 8.95
+    },
+    {
+      "symbol": "STVN",
+      "name": "Stevanato Group S.p.A.",
+      "price": 15.34,
+      "change_percent": 6.81,
+      "volume": 800315,
+      "avg_volume_3m": 615810,
+      "relative_volume": 1.3,
+      "market_cap": 4189793792,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +6.8% 상승, 거래량 3개월 평균 대비 1.3배",
+      "score": 8.86
+    },
+    {
+      "symbol": "CHA",
+      "name": "Chagee Holdings Limited",
+      "price": 14.28,
+      "change_percent": 5.7,
+      "volume": 1321061,
+      "avg_volume_3m": 928057,
+      "relative_volume": 1.42,
+      "market_cap": 2724100352,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +4.8% 상승, 거래량 3개월 평균 대비 2.7배",
-      "score": 13.15
+      "reason": "장중 +5.7% 상승, 거래량 3개월 평균 대비 1.4배",
+      "score": 8.11
     },
     {
-      "symbol": "FIGR",
-      "name": "Figure Technology Solutions, In",
-      "price": 25.67,
-      "change_percent": 6.12,
-      "volume": 10683813,
-      "avg_volume_3m": 4998728,
-      "relative_volume": 2.14,
-      "market_cap": 5779571712,
+      "symbol": "IREN",
+      "name": "IREN LIMITED",
+      "price": 17.826,
+      "change_percent": -8.49,
+      "volume": 44321773,
+      "avg_volume_3m": 50700282,
+      "relative_volume": 0.87,
+      "market_cap": 7564594688,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "most_actives"
+      ],
+      "reason": "장중 -8.5% 하락, 거래량 3개월 평균 대비 0.9배, 거래대금 상위 종목",
+      "score": 7.42
+    },
+    {
+      "symbol": "KLAR",
+      "name": "Klarna Group plc",
+      "price": 13.535,
+      "change_percent": 6.49,
+      "volume": 6241537,
+      "avg_volume_3m": 6515592,
+      "relative_volume": 0.96,
+      "market_cap": 5131931648,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +6.5% 상승, 거래량 3개월 평균 대비 1.0배",
+      "score": 6.22
+    },
+    {
+      "symbol": "CLBT",
+      "name": "Cellebrite DI Ltd.",
+      "price": 11.63,
+      "change_percent": 6.8,
+      "volume": 2372271,
+      "avg_volume_3m": 2657371,
+      "relative_volume": 0.89,
+      "market_cap": 2923096576,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +6.1% 상승, 거래량 3개월 평균 대비 2.1배",
-      "score": 13.08
-    },
-    {
-      "symbol": "IRTC",
-      "name": "iRhythm Holdings, Inc.",
-      "price": 93.56,
-      "change_percent": 5.5,
-      "volume": 1390266,
-      "avg_volume_3m": 658503,
-      "relative_volume": 2.11,
-      "market_cap": 3104788480,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +5.5% 상승, 거래량 3개월 평균 대비 2.1배",
-      "score": 11.62
+      "reason": "장중 +6.8% 상승, 거래량 3개월 평균 대비 0.9배",
+      "score": 6.07
     }
   ]
 }
