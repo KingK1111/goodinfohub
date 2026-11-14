@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T20:54:29+09:00",
+  "updated_at": "2026-11-15T01:51:42+09:00",
   "disclaimer": "이 목록은 공개 시세 데이터(거래량, 변동률)를 기준으로 자동 정렬한 결과이며 특정 종목의 매수/매도를 추천하지 않습니다. 투자 판단과 책임은 본인에게 있습니다.",
   "criteria": {
     "min_price": 5.0,
@@ -18,7 +18,7 @@
       "volume": 9555830,
       "avg_volume_3m": 914934,
       "relative_volume": 10.44,
-      "market_cap": 4138462464,
+      "market_cap": 4141218048,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
@@ -50,7 +50,7 @@
       "volume": 36275400,
       "avg_volume_3m": 9455171,
       "relative_volume": 3.84,
-      "market_cap": 25827962880,
+      "market_cap": 26419324928,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers",
@@ -67,7 +67,7 @@
       "volume": 2571535,
       "avg_volume_3m": 874190,
       "relative_volume": 2.94,
-      "market_cap": 2042631040,
+      "market_cap": 2043141248,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
@@ -99,7 +99,7 @@
       "volume": 48214621,
       "avg_volume_3m": 21217646,
       "relative_volume": 2.27,
-      "market_cap": 31502583808,
+      "market_cap": 33941528576,
       "exchange": "NasdaqGS",
       "sources": [
         "most_actives"
@@ -115,7 +115,7 @@
       "volume": 152420449,
       "avg_volume_3m": 81352726,
       "relative_volume": 1.87,
-      "market_cap": 63861706752,
+      "market_cap": 63965421568,
       "exchange": "NYSE",
       "sources": [
         "day_gainers",
