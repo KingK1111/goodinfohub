@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T22:36:05+09:00",
+  "updated_at": "2026-11-19T04:16:53+09:00",
   "disclaimer": "이 목록은 공개 시세 데이터(거래량, 변동률)를 기준으로 자동 정렬한 결과이며 특정 종목의 매수/매도를 추천하지 않습니다. 투자 판단과 책임은 본인에게 있습니다.",
   "criteria": {
     "min_price": 5.0,
@@ -11,246 +11,245 @@
   },
   "candidates": [
     {
-      "symbol": "SLS",
-      "name": "SELLAS Life Sciences Group, Inc",
-      "price": 19.15,
-      "change_percent": 156.36,
-      "volume": 119486326,
-      "avg_volume_3m": 8773260,
-      "relative_volume": 13.62,
-      "market_cap": 3903902720,
-      "exchange": "NasdaqCM",
+      "symbol": "TTWO",
+      "name": "Take-Two Interactive Software, ",
+      "price": 220.15,
+      "change_percent": 7.95,
+      "volume": 8268238,
+      "avg_volume_3m": 2960668,
+      "relative_volume": 2.79,
+      "market_cap": 41215049728,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +8.0% 상승, 거래량 3개월 평균 대비 2.8배",
+      "score": 22.21
+    },
+    {
+      "symbol": "BLSH",
+      "name": "Bullish",
+      "price": 21.535,
+      "change_percent": 11.75,
+      "volume": 2662754,
+      "avg_volume_3m": 1437345,
+      "relative_volume": 1.85,
+      "market_cap": 3265747200,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +11.8% 상승, 거래량 3개월 평균 대비 1.9배",
+      "score": 21.77
+    },
+    {
+      "symbol": "PRMB",
+      "name": "Primo Brands Corporation",
+      "price": 22.795,
+      "change_percent": -6.0,
+      "volume": 17093561,
+      "avg_volume_3m": 4714390,
+      "relative_volume": 3.63,
+      "market_cap": 8241488384,
+      "exchange": "NYSE",
+      "sources": [
+        "most_actives"
+      ],
+      "reason": "장중 -6.0% 하락, 거래량 3개월 평균 대비 3.6배, 거래대금 상위 종목",
+      "score": 21.75
+    },
+    {
+      "symbol": "AAOI",
+      "name": "Applied Optoelectronics, Inc.",
+      "price": 40.0,
+      "change_percent": -11.54,
+      "volume": 16053861,
+      "avg_volume_3m": 10535770,
+      "relative_volume": 1.52,
+      "market_cap": 3630829568,
+      "exchange": "NasdaqGM",
+      "sources": [
+        "most_actives"
+      ],
+      "reason": "장중 -11.5% 하락, 거래량 3개월 평균 대비 1.5배, 거래대금 상위 종목",
+      "score": 17.59
+    },
+    {
+      "symbol": "FSLY",
+      "name": "Fastly, Inc.",
+      "price": 18.1381,
+      "change_percent": 14.08,
+      "volume": 6846520,
+      "avg_volume_3m": 6390040,
+      "relative_volume": 1.07,
+      "market_cap": 2923861760,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +14.1% 상승, 거래량 3개월 평균 대비 1.1배",
+      "score": 15.08
+    },
+    {
+      "symbol": "TJX",
+      "name": "TJX Companies, Inc. (The)",
+      "price": 143.545,
+      "change_percent": 10.55,
+      "volume": 11016148,
+      "avg_volume_3m": 7981887,
+      "relative_volume": 1.38,
+      "market_cap": 157895770112,
+      "exchange": "NYSE",
       "sources": [
         "day_gainers",
         "most_actives"
       ],
-      "reason": "장중 +156.4% 상승, 거래량 3개월 평균 대비 13.6배, 거래대금 상위 종목",
-      "score": 2129.51
+      "reason": "장중 +10.5% 상승, 거래량 3개월 평균 대비 1.4배, 거래대금 상위 종목",
+      "score": 14.56
     },
     {
-      "symbol": "BILL",
-      "name": "BILL Holdings, Inc.",
-      "price": 64.88,
-      "change_percent": 12.58,
-      "volume": 10133538,
-      "avg_volume_3m": 1863256,
-      "relative_volume": 5.44,
-      "market_cap": 5572091392,
+      "symbol": "TGT",
+      "name": "Target Corporation",
+      "price": 169.72,
+      "change_percent": 6.39,
+      "volume": 7834606,
+      "avg_volume_3m": 4031729,
+      "relative_volume": 1.94,
+      "market_cap": 77103243264,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +12.6% 상승, 거래량 3개월 평균 대비 5.4배",
-      "score": 68.42
+      "reason": "장중 +6.4% 상승, 거래량 3개월 평균 대비 1.9배",
+      "score": 12.41
     },
     {
-      "symbol": "ACM",
-      "name": "AECOM",
-      "price": 80.53,
-      "change_percent": 11.08,
-      "volume": 4151010,
-      "avg_volume_3m": 1716489,
-      "relative_volume": 2.42,
-      "market_cap": 10363922432,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +11.1% 상승, 거래량 3개월 평균 대비 2.4배",
-      "score": 26.79
-    },
-    {
-      "symbol": "CHYM",
-      "name": "Chime Financial, Inc.",
-      "price": 32.97,
-      "change_percent": -3.85,
-      "volume": 40264466,
-      "avg_volume_3m": 6498323,
-      "relative_volume": 6.2,
-      "market_cap": 12653285376,
+      "symbol": "MDLN",
+      "name": "Medline Inc.",
+      "price": 38.99,
+      "change_percent": 3.48,
+      "volume": 29350719,
+      "avg_volume_3m": 8943532,
+      "relative_volume": 3.28,
+      "market_cap": 51311362048,
       "exchange": "NasdaqGS",
       "sources": [
         "most_actives"
       ],
-      "reason": "장중 -3.8% 하락, 거래량 3개월 평균 대비 6.2배, 거래대금 상위 종목",
-      "score": 23.85
+      "reason": "장중 +3.5% 상승, 거래량 3개월 평균 대비 3.3배, 거래대금 상위 종목",
+      "score": 11.41
     },
     {
-      "symbol": "SA",
-      "name": "Seabridge Gold, Inc.",
-      "price": 26.28,
-      "change_percent": 7.27,
-      "volume": 1943591,
-      "avg_volume_3m": 653181,
-      "relative_volume": 2.98,
-      "market_cap": 2840338688,
-      "exchange": "NYSE",
+      "symbol": "TENB",
+      "name": "Tenable Holdings, Inc.",
+      "price": 45.05,
+      "change_percent": 16.71,
+      "volume": 2552362,
+      "avg_volume_3m": 4226676,
+      "relative_volume": 0.6,
+      "market_cap": 4708068352,
+      "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +7.3% 상승, 거래량 3개월 평균 대비 3.0배",
-      "score": 21.62
-    },
-    {
-      "symbol": "RYTM",
-      "name": "Rhythm Pharmaceuticals, Inc.",
-      "price": 116.61,
-      "change_percent": 8.49,
-      "volume": 2563407,
-      "avg_volume_3m": 1050353,
-      "relative_volume": 2.44,
-      "market_cap": 8084676608,
-      "exchange": "NasdaqGM",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +8.5% 상승, 거래량 3개월 평균 대비 2.4배",
-      "score": 20.73
-    },
-    {
-      "symbol": "MNSO",
-      "name": "MINISO Group Holding Limited",
-      "price": 12.18,
-      "change_percent": 8.36,
-      "volume": 2800931,
-      "avg_volume_3m": 1150926,
-      "relative_volume": 2.43,
-      "market_cap": 3553235456,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +8.4% 상승, 거래량 3개월 평균 대비 2.4배",
-      "score": 20.35
-    },
-    {
-      "symbol": "SNAP",
-      "name": "Snap Inc.",
-      "price": 5.5,
-      "change_percent": 8.06,
-      "volume": 74922732,
-      "avg_volume_3m": 38892129,
-      "relative_volume": 1.93,
-      "market_cap": 9496172544,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers",
-        "most_actives"
-      ],
-      "reason": "장중 +8.1% 상승, 거래량 3개월 평균 대비 1.9배, 거래대금 상위 종목",
-      "score": 15.52
-    },
-    {
-      "symbol": "KLAR",
-      "name": "Klarna Group plc",
-      "price": 14.27,
-      "change_percent": 4.7,
-      "volume": 19463917,
-      "avg_volume_3m": 6524426,
-      "relative_volume": 2.98,
-      "market_cap": 5410614272,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +4.7% 상승, 거래량 3개월 평균 대비 3.0배",
-      "score": 14.01
-    },
-    {
-      "symbol": "NKE",
-      "name": "Nike, Inc.",
-      "price": 35.85,
-      "change_percent": -6.3,
-      "volume": 66228090,
-      "avg_volume_3m": 32641370,
-      "relative_volume": 2.03,
-      "market_cap": 53248319488,
-      "exchange": "NYSE",
-      "sources": [
-        "most_actives"
-      ],
-      "reason": "장중 -6.3% 하락, 거래량 3개월 평균 대비 2.0배, 거래대금 상위 종목",
-      "score": 12.78
-    },
-    {
-      "symbol": "TME",
-      "name": "Tencent Music Entertainment Gro",
-      "price": 9.47,
-      "change_percent": 6.64,
-      "volume": 13307781,
-      "avg_volume_3m": 7395195,
-      "relative_volume": 1.8,
-      "market_cap": 15433876480,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +6.6% 상승, 거래량 3개월 평균 대비 1.8배",
-      "score": 11.96
-    },
-    {
-      "symbol": "OMF",
-      "name": "OneMain Holdings, Inc.",
-      "price": 56.84,
-      "change_percent": 3.76,
-      "volume": 3036733,
-      "avg_volume_3m": 955921,
-      "relative_volume": 3.18,
-      "market_cap": 6505999360,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +3.8% 상승, 거래량 3개월 평균 대비 3.2배",
-      "score": 11.95
-    },
-    {
-      "symbol": "UNFI",
-      "name": "United Natural Foods, Inc.",
-      "price": 51.99,
-      "change_percent": 7.44,
-      "volume": 873333,
-      "avg_volume_3m": 597293,
-      "relative_volume": 1.46,
-      "market_cap": 3122163456,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +7.4% 상승, 거래량 3개월 평균 대비 1.5배",
-      "score": 10.88
+      "reason": "장중 +16.7% 상승, 거래량 3개월 평균 대비 0.6배",
+      "score": 10.09
     },
     {
       "symbol": "VIK",
       "name": "Viking Holdings Ltd",
-      "price": 94.28,
-      "change_percent": 4.43,
-      "volume": 9812308,
+      "price": 100.77,
+      "change_percent": 6.88,
+      "volume": 6221430,
       "avg_volume_3m": 4249040,
-      "relative_volume": 2.31,
-      "market_cap": 41711554560,
+      "relative_volume": 1.46,
+      "market_cap": 44582875136,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +4.4% 상승, 거래량 3개월 평균 대비 2.3배",
-      "score": 10.23
+      "reason": "장중 +6.9% 상승, 거래량 3개월 평균 대비 1.5배",
+      "score": 10.08
     },
     {
-      "symbol": "NOW",
-      "name": "ServiceNow, Inc.",
-      "price": 92.9,
-      "change_percent": -6.51,
-      "volume": 23760713,
-      "avg_volume_3m": 15640807,
-      "relative_volume": 1.52,
-      "market_cap": 96422494208,
+      "symbol": "QLYS",
+      "name": "Qualys, Inc.",
+      "price": 196.96,
+      "change_percent": 12.76,
+      "volume": 594166,
+      "avg_volume_3m": 769120,
+      "relative_volume": 0.77,
+      "market_cap": 6875758592,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +12.8% 상승, 거래량 3개월 평균 대비 0.8배",
+      "score": 9.86
+    },
+    {
+      "symbol": "PSLV",
+      "name": "\"Sprott Physical Silver Trust\"",
+      "price": 14.375,
+      "change_percent": -5.05,
+      "volume": 12556673,
+      "avg_volume_3m": 6597384,
+      "relative_volume": 1.9,
+      "market_cap": 9082787840,
+      "exchange": "NYSE American",
+      "sources": [
+        "most_actives"
+      ],
+      "reason": "장중 -5.1% 하락, 거래량 3개월 평균 대비 1.9배, 거래대금 상위 종목",
+      "score": 9.62
+    },
+    {
+      "symbol": "ATEN",
+      "name": "A10 Networks, Inc.",
+      "price": 32.675,
+      "change_percent": 11.59,
+      "volume": 928190,
+      "avg_volume_3m": 1175828,
+      "relative_volume": 0.79,
+      "market_cap": 2354283776,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +11.6% 상승, 거래량 3개월 평균 대비 0.8배",
+      "score": 9.15
+    },
+    {
+      "symbol": "FCX",
+      "name": "Freeport-McMoRan, Inc.",
+      "price": 51.585,
+      "change_percent": -6.72,
+      "volume": 16584115,
+      "avg_volume_3m": 12753701,
+      "relative_volume": 1.3,
+      "market_cap": 74021175296,
       "exchange": "NYSE",
       "sources": [
         "most_actives"
       ],
-      "reason": "장중 -6.5% 하락, 거래량 3개월 평균 대비 1.5배, 거래대금 상위 종목",
-      "score": 9.89
+      "reason": "장중 -6.7% 하락, 거래량 3개월 평균 대비 1.3배, 거래대금 상위 종목",
+      "score": 8.74
+    },
+    {
+      "symbol": "PANW",
+      "name": "Palo Alto Networks, Inc.",
+      "price": 335.0455,
+      "change_percent": 8.32,
+      "volume": 6273469,
+      "avg_volume_3m": 6137959,
+      "relative_volume": 1.02,
+      "market_cap": 274325749760,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +8.3% 상승, 거래량 3개월 평균 대비 1.0배",
+      "score": 8.51
     }
   ]
 }
