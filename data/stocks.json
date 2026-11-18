@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T04:40:29+09:00",
+  "updated_at": "2026-11-18T13:03:28+09:00",
   "disclaimer": "이 목록은 공개 시세 데이터(거래량, 변동률)를 기준으로 자동 정렬한 결과이며 특정 종목의 매수/매도를 추천하지 않습니다. 투자 판단과 책임은 본인에게 있습니다.",
   "criteria": {
     "min_price": 5.0,
@@ -13,244 +13,244 @@
     {
       "symbol": "SLS",
       "name": "SELLAS Life Sciences Group, Inc",
-      "price": 19.6,
-      "change_percent": 162.38,
-      "volume": 103775319,
-      "avg_volume_3m": 6972498,
-      "relative_volume": 14.88,
-      "market_cap": 3995639552,
+      "price": 19.15,
+      "change_percent": 156.36,
+      "volume": 119486326,
+      "avg_volume_3m": 6977009,
+      "relative_volume": 17.13,
+      "market_cap": 3903902720,
       "exchange": "NasdaqCM",
       "sources": [
         "day_gainers",
         "most_actives"
       ],
-      "reason": "장중 +162.4% 상승, 거래량 3개월 평균 대비 14.9배, 거래대금 상위 종목",
-      "score": 2416.83
+      "reason": "장중 +156.4% 상승, 거래량 3개월 평균 대비 17.1배, 거래대금 상위 종목",
+      "score": 2677.76
     },
     {
       "symbol": "BILL",
       "name": "BILL Holdings, Inc.",
-      "price": 64.565,
-      "change_percent": 12.03,
-      "volume": 7339374,
+      "price": 64.88,
+      "change_percent": 12.58,
+      "volume": 10133538,
       "avg_volume_3m": 1741618,
-      "relative_volume": 4.21,
-      "market_cap": 5545038848,
+      "relative_volume": 5.82,
+      "market_cap": 5572091392,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +12.0% 상승, 거래량 3개월 평균 대비 4.2배",
-      "score": 50.71
+      "reason": "장중 +12.6% 상승, 거래량 3개월 평균 대비 5.8배",
+      "score": 73.2
     },
     {
       "symbol": "ACM",
       "name": "AECOM",
-      "price": 82.545,
-      "change_percent": 13.86,
-      "volume": 2227043,
-      "avg_volume_3m": 1680995,
-      "relative_volume": 1.32,
-      "market_cap": 10623246336,
+      "price": 80.53,
+      "change_percent": 11.08,
+      "volume": 4151010,
+      "avg_volume_3m": 1681275,
+      "relative_volume": 2.47,
+      "market_cap": 10363922432,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +13.9% 상승, 거래량 3개월 평균 대비 1.3배",
-      "score": 18.36
+      "reason": "장중 +11.1% 상승, 거래량 3개월 평균 대비 2.5배",
+      "score": 27.35
     },
     {
-      "symbol": "RYTM",
-      "name": "Rhythm Pharmaceuticals, Inc.",
-      "price": 116.99,
-      "change_percent": 8.85,
-      "volume": 1897890,
-      "avg_volume_3m": 1016776,
-      "relative_volume": 1.87,
-      "market_cap": 8111022080,
-      "exchange": "NasdaqGM",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +8.8% 상승, 거래량 3개월 평균 대비 1.9배",
-      "score": 16.52
-    },
-    {
-      "symbol": "MNSO",
-      "name": "MINISO Group Holding Limited",
-      "price": 12.175,
-      "change_percent": 8.31,
-      "volume": 2032821,
-      "avg_volume_3m": 1119451,
-      "relative_volume": 1.82,
-      "market_cap": 3551776768,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +8.3% 상승, 거래량 3개월 평균 대비 1.8배",
-      "score": 15.1
-    },
-    {
-      "symbol": "JD",
-      "name": "JD.com, Inc.",
-      "price": 25.79,
-      "change_percent": -6.35,
-      "volume": 15930021,
-      "avg_volume_3m": 7329260,
-      "relative_volume": 2.17,
-      "market_cap": 34829393920,
+      "symbol": "CHYM",
+      "name": "Chime Financial, Inc.",
+      "price": 32.97,
+      "change_percent": -3.85,
+      "volume": 40264466,
+      "avg_volume_3m": 5998371,
+      "relative_volume": 6.71,
+      "market_cap": 12653285376,
       "exchange": "NasdaqGS",
       "sources": [
         "most_actives"
       ],
-      "reason": "장중 -6.4% 하락, 거래량 3개월 평균 대비 2.2배, 거래대금 상위 종목",
-      "score": 13.81
+      "reason": "장중 -3.8% 하락, 거래량 3개월 평균 대비 6.7배, 거래대금 상위 종목",
+      "score": 25.84
     },
     {
       "symbol": "SA",
       "name": "Seabridge Gold, Inc.",
-      "price": 26.045,
-      "change_percent": 6.31,
-      "volume": 1303545,
+      "price": 26.28,
+      "change_percent": 7.27,
+      "volume": 1943591,
       "avg_volume_3m": 632665,
-      "relative_volume": 2.06,
-      "market_cap": 2814939904,
+      "relative_volume": 3.07,
+      "market_cap": 2840338688,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +6.3% 상승, 거래량 3개월 평균 대비 2.1배",
-      "score": 12.99
+      "reason": "장중 +7.3% 상승, 거래량 3개월 평균 대비 3.1배",
+      "score": 22.32
+    },
+    {
+      "symbol": "RYTM",
+      "name": "Rhythm Pharmaceuticals, Inc.",
+      "price": 116.61,
+      "change_percent": 8.49,
+      "volume": 2563407,
+      "avg_volume_3m": 1016776,
+      "relative_volume": 2.52,
+      "market_cap": 8084676608,
+      "exchange": "NasdaqGM",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +8.5% 상승, 거래량 3개월 평균 대비 2.5배",
+      "score": 21.42
+    },
+    {
+      "symbol": "MNSO",
+      "name": "MINISO Group Holding Limited",
+      "price": 12.18,
+      "change_percent": 8.36,
+      "volume": 2800931,
+      "avg_volume_3m": 1119451,
+      "relative_volume": 2.5,
+      "market_cap": 3553235456,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +8.4% 상승, 거래량 3개월 평균 대비 2.5배",
+      "score": 20.92
     },
     {
       "symbol": "SNAP",
       "name": "Snap Inc.",
-      "price": 5.47,
-      "change_percent": 7.47,
-      "volume": 51885150,
-      "avg_volume_3m": 38011556,
-      "relative_volume": 1.36,
-      "market_cap": 9444374528,
+      "price": 5.5,
+      "change_percent": 8.06,
+      "volume": 74922732,
+      "avg_volume_3m": 38117823,
+      "relative_volume": 1.97,
+      "market_cap": 9496172544,
       "exchange": "NYSE",
       "sources": [
         "day_gainers",
         "most_actives"
       ],
-      "reason": "장중 +7.5% 상승, 거래량 3개월 평균 대비 1.4배, 거래대금 상위 종목",
-      "score": 10.19
-    },
-    {
-      "symbol": "AS",
-      "name": "Amer Sports, Inc.",
-      "price": 30.635,
-      "change_percent": 5.27,
-      "volume": 12473868,
-      "avg_volume_3m": 6852417,
-      "relative_volume": 1.82,
-      "market_cap": 17824116736,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +5.3% 상승, 거래량 3개월 평균 대비 1.8배",
-      "score": 9.6
-    },
-    {
-      "symbol": "TME",
-      "name": "Tencent Music Entertainment Gro",
-      "price": 9.465,
-      "change_percent": 6.59,
-      "volume": 8596609,
-      "avg_volume_3m": 7382264,
-      "relative_volume": 1.16,
-      "market_cap": 15425727488,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +6.6% 상승, 거래량 3개월 평균 대비 1.2배",
-      "score": 7.67
+      "reason": "장중 +8.1% 상승, 거래량 3개월 평균 대비 2.0배, 거래대금 상위 종목",
+      "score": 15.83
     },
     {
       "symbol": "KLAR",
       "name": "Klarna Group plc",
-      "price": 14.115,
-      "change_percent": 3.56,
-      "volume": 13376075,
+      "price": 14.27,
+      "change_percent": 4.7,
+      "volume": 19463917,
       "avg_volume_3m": 6728426,
-      "relative_volume": 1.99,
-      "market_cap": 5351844352,
+      "relative_volume": 2.89,
+      "market_cap": 5410614272,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +3.6% 상승, 거래량 3개월 평균 대비 2.0배",
-      "score": 7.07
-    },
-    {
-      "symbol": "TU",
-      "name": "Telus Corporation",
-      "price": 9.305,
-      "change_percent": -2.77,
-      "volume": 17528875,
-      "avg_volume_3m": 7059798,
-      "relative_volume": 2.48,
-      "market_cap": 14794950656,
-      "exchange": "NYSE",
-      "sources": [
-        "most_actives"
-      ],
-      "reason": "장중 -2.8% 하락, 거래량 3개월 평균 대비 2.5배, 거래대금 상위 종목",
-      "score": 6.88
+      "reason": "장중 +4.7% 상승, 거래량 3개월 평균 대비 2.9배",
+      "score": 13.58
     },
     {
       "symbol": "NKE",
       "name": "Nike, Inc.",
-      "price": 36.435,
-      "change_percent": -4.77,
-      "volume": 43822078,
-      "avg_volume_3m": 32216101,
-      "relative_volume": 1.36,
-      "market_cap": 54117228544,
+      "price": 35.85,
+      "change_percent": -6.3,
+      "volume": 66228090,
+      "avg_volume_3m": 32216425,
+      "relative_volume": 2.06,
+      "market_cap": 53248319488,
       "exchange": "NYSE",
       "sources": [
         "most_actives"
       ],
-      "reason": "장중 -4.8% 하락, 거래량 3개월 평균 대비 1.4배, 거래대금 상위 종목",
-      "score": 6.49
+      "reason": "장중 -6.3% 하락, 거래량 3개월 평균 대비 2.1배, 거래대금 상위 종목",
+      "score": 12.95
     },
     {
-      "symbol": "VIK",
-      "name": "Viking Holdings Ltd",
-      "price": 94.15,
-      "change_percent": 4.29,
-      "volume": 6246316,
-      "avg_volume_3m": 4143879,
-      "relative_volume": 1.51,
-      "market_cap": 42050977792,
+      "symbol": "OMF",
+      "name": "OneMain Holdings, Inc.",
+      "price": 56.84,
+      "change_percent": 3.76,
+      "volume": 3036733,
+      "avg_volume_3m": 920287,
+      "relative_volume": 3.3,
+      "market_cap": 6505999360,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +4.3% 상승, 거래량 3개월 평균 대비 1.5배",
-      "score": 6.46
+      "reason": "장중 +3.8% 상승, 거래량 3개월 평균 대비 3.3배",
+      "score": 12.41
+    },
+    {
+      "symbol": "TME",
+      "name": "Tencent Music Entertainment Gro",
+      "price": 9.47,
+      "change_percent": 6.64,
+      "volume": 13307781,
+      "avg_volume_3m": 7382915,
+      "relative_volume": 1.8,
+      "market_cap": 15433876480,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +6.6% 상승, 거래량 3개월 평균 대비 1.8배",
+      "score": 11.98
     },
     {
       "symbol": "UNFI",
       "name": "United Natural Foods, Inc.",
-      "price": 52.165,
-      "change_percent": 7.8,
-      "volume": 487162,
+      "price": 51.99,
+      "change_percent": 7.44,
+      "volume": 873333,
       "avg_volume_3m": 591482,
-      "relative_volume": 0.82,
-      "market_cap": 3132672768,
+      "relative_volume": 1.48,
+      "market_cap": 3122163456,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +7.8% 상승, 거래량 3개월 평균 대비 0.8배",
-      "score": 6.43
+      "reason": "장중 +7.4% 상승, 거래량 3개월 평균 대비 1.5배",
+      "score": 10.98
+    },
+    {
+      "symbol": "VIK",
+      "name": "Viking Holdings Ltd",
+      "price": 94.28,
+      "change_percent": 4.43,
+      "volume": 9812308,
+      "avg_volume_3m": 4144068,
+      "relative_volume": 2.37,
+      "market_cap": 42109042688,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +4.4% 상승, 거래량 3개월 평균 대비 2.4배",
+      "score": 10.49
+    },
+    {
+      "symbol": "NOW",
+      "name": "ServiceNow, Inc.",
+      "price": 92.9,
+      "change_percent": -6.51,
+      "volume": 23760713,
+      "avg_volume_3m": 15538310,
+      "relative_volume": 1.53,
+      "market_cap": 96422494208,
+      "exchange": "NYSE",
+      "sources": [
+        "most_actives"
+      ],
+      "reason": "장중 -6.5% 하락, 거래량 3개월 평균 대비 1.5배, 거래대금 상위 종목",
+      "score": 9.96
     }
   ]
 }
