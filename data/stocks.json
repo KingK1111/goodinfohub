@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T13:03:28+09:00",
+  "updated_at": "2026-11-18T22:36:05+09:00",
   "disclaimer": "이 목록은 공개 시세 데이터(거래량, 변동률)를 기준으로 자동 정렬한 결과이며 특정 종목의 매수/매도를 추천하지 않습니다. 투자 판단과 책임은 본인에게 있습니다.",
   "criteria": {
     "min_price": 5.0,
@@ -16,16 +16,16 @@
       "price": 19.15,
       "change_percent": 156.36,
       "volume": 119486326,
-      "avg_volume_3m": 6977009,
-      "relative_volume": 17.13,
+      "avg_volume_3m": 8773260,
+      "relative_volume": 13.62,
       "market_cap": 3903902720,
       "exchange": "NasdaqCM",
       "sources": [
         "day_gainers",
         "most_actives"
       ],
-      "reason": "장중 +156.4% 상승, 거래량 3개월 평균 대비 17.1배, 거래대금 상위 종목",
-      "score": 2677.76
+      "reason": "장중 +156.4% 상승, 거래량 3개월 평균 대비 13.6배, 거래대금 상위 종목",
+      "score": 2129.51
     },
     {
       "symbol": "BILL",
@@ -33,15 +33,15 @@
       "price": 64.88,
       "change_percent": 12.58,
       "volume": 10133538,
-      "avg_volume_3m": 1741618,
-      "relative_volume": 5.82,
+      "avg_volume_3m": 1863256,
+      "relative_volume": 5.44,
       "market_cap": 5572091392,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +12.6% 상승, 거래량 3개월 평균 대비 5.8배",
-      "score": 73.2
+      "reason": "장중 +12.6% 상승, 거래량 3개월 평균 대비 5.4배",
+      "score": 68.42
     },
     {
       "symbol": "ACM",
@@ -49,15 +49,15 @@
       "price": 80.53,
       "change_percent": 11.08,
       "volume": 4151010,
-      "avg_volume_3m": 1681275,
-      "relative_volume": 2.47,
+      "avg_volume_3m": 1716489,
+      "relative_volume": 2.42,
       "market_cap": 10363922432,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +11.1% 상승, 거래량 3개월 평균 대비 2.5배",
-      "score": 27.35
+      "reason": "장중 +11.1% 상승, 거래량 3개월 평균 대비 2.4배",
+      "score": 26.79
     },
     {
       "symbol": "CHYM",
@@ -65,15 +65,15 @@
       "price": 32.97,
       "change_percent": -3.85,
       "volume": 40264466,
-      "avg_volume_3m": 5998371,
-      "relative_volume": 6.71,
+      "avg_volume_3m": 6498323,
+      "relative_volume": 6.2,
       "market_cap": 12653285376,
       "exchange": "NasdaqGS",
       "sources": [
         "most_actives"
       ],
-      "reason": "장중 -3.8% 하락, 거래량 3개월 평균 대비 6.7배, 거래대금 상위 종목",
-      "score": 25.84
+      "reason": "장중 -3.8% 하락, 거래량 3개월 평균 대비 6.2배, 거래대금 상위 종목",
+      "score": 23.85
     },
     {
       "symbol": "SA",
@@ -81,15 +81,15 @@
       "price": 26.28,
       "change_percent": 7.27,
       "volume": 1943591,
-      "avg_volume_3m": 632665,
-      "relative_volume": 3.07,
+      "avg_volume_3m": 653181,
+      "relative_volume": 2.98,
       "market_cap": 2840338688,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +7.3% 상승, 거래량 3개월 평균 대비 3.1배",
-      "score": 22.32
+      "reason": "장중 +7.3% 상승, 거래량 3개월 평균 대비 3.0배",
+      "score": 21.62
     },
     {
       "symbol": "RYTM",
@@ -97,15 +97,15 @@
       "price": 116.61,
       "change_percent": 8.49,
       "volume": 2563407,
-      "avg_volume_3m": 1016776,
-      "relative_volume": 2.52,
+      "avg_volume_3m": 1050353,
+      "relative_volume": 2.44,
       "market_cap": 8084676608,
       "exchange": "NasdaqGM",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +8.5% 상승, 거래량 3개월 평균 대비 2.5배",
-      "score": 21.42
+      "reason": "장중 +8.5% 상승, 거래량 3개월 평균 대비 2.4배",
+      "score": 20.73
     },
     {
       "symbol": "MNSO",
@@ -113,15 +113,15 @@
       "price": 12.18,
       "change_percent": 8.36,
       "volume": 2800931,
-      "avg_volume_3m": 1119451,
-      "relative_volume": 2.5,
+      "avg_volume_3m": 1150926,
+      "relative_volume": 2.43,
       "market_cap": 3553235456,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +8.4% 상승, 거래량 3개월 평균 대비 2.5배",
-      "score": 20.92
+      "reason": "장중 +8.4% 상승, 거래량 3개월 평균 대비 2.4배",
+      "score": 20.35
     },
     {
       "symbol": "SNAP",
@@ -129,16 +129,16 @@
       "price": 5.5,
       "change_percent": 8.06,
       "volume": 74922732,
-      "avg_volume_3m": 38117823,
-      "relative_volume": 1.97,
+      "avg_volume_3m": 38892129,
+      "relative_volume": 1.93,
       "market_cap": 9496172544,
       "exchange": "NYSE",
       "sources": [
         "day_gainers",
         "most_actives"
       ],
-      "reason": "장중 +8.1% 상승, 거래량 3개월 평균 대비 2.0배, 거래대금 상위 종목",
-      "score": 15.83
+      "reason": "장중 +8.1% 상승, 거래량 3개월 평균 대비 1.9배, 거래대금 상위 종목",
+      "score": 15.52
     },
     {
       "symbol": "KLAR",
@@ -146,15 +146,15 @@
       "price": 14.27,
       "change_percent": 4.7,
       "volume": 19463917,
-      "avg_volume_3m": 6728426,
-      "relative_volume": 2.89,
+      "avg_volume_3m": 6524426,
+      "relative_volume": 2.98,
       "market_cap": 5410614272,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +4.7% 상승, 거래량 3개월 평균 대비 2.9배",
-      "score": 13.58
+      "reason": "장중 +4.7% 상승, 거래량 3개월 평균 대비 3.0배",
+      "score": 14.01
     },
     {
       "symbol": "NKE",
@@ -162,31 +162,15 @@
       "price": 35.85,
       "change_percent": -6.3,
       "volume": 66228090,
-      "avg_volume_3m": 32216425,
-      "relative_volume": 2.06,
+      "avg_volume_3m": 32641370,
+      "relative_volume": 2.03,
       "market_cap": 53248319488,
       "exchange": "NYSE",
       "sources": [
         "most_actives"
       ],
-      "reason": "장중 -6.3% 하락, 거래량 3개월 평균 대비 2.1배, 거래대금 상위 종목",
-      "score": 12.95
-    },
-    {
-      "symbol": "OMF",
-      "name": "OneMain Holdings, Inc.",
-      "price": 56.84,
-      "change_percent": 3.76,
-      "volume": 3036733,
-      "avg_volume_3m": 920287,
-      "relative_volume": 3.3,
-      "market_cap": 6505999360,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +3.8% 상승, 거래량 3개월 평균 대비 3.3배",
-      "score": 12.41
+      "reason": "장중 -6.3% 하락, 거래량 3개월 평균 대비 2.0배, 거래대금 상위 종목",
+      "score": 12.78
     },
     {
       "symbol": "TME",
@@ -194,7 +178,7 @@
       "price": 9.47,
       "change_percent": 6.64,
       "volume": 13307781,
-      "avg_volume_3m": 7382915,
+      "avg_volume_3m": 7395195,
       "relative_volume": 1.8,
       "market_cap": 15433876480,
       "exchange": "NYSE",
@@ -202,7 +186,23 @@
         "day_gainers"
       ],
       "reason": "장중 +6.6% 상승, 거래량 3개월 평균 대비 1.8배",
-      "score": 11.98
+      "score": 11.96
+    },
+    {
+      "symbol": "OMF",
+      "name": "OneMain Holdings, Inc.",
+      "price": 56.84,
+      "change_percent": 3.76,
+      "volume": 3036733,
+      "avg_volume_3m": 955921,
+      "relative_volume": 3.18,
+      "market_cap": 6505999360,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +3.8% 상승, 거래량 3개월 평균 대비 3.2배",
+      "score": 11.95
     },
     {
       "symbol": "UNFI",
@@ -210,15 +210,15 @@
       "price": 51.99,
       "change_percent": 7.44,
       "volume": 873333,
-      "avg_volume_3m": 591482,
-      "relative_volume": 1.48,
+      "avg_volume_3m": 597293,
+      "relative_volume": 1.46,
       "market_cap": 3122163456,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +7.4% 상승, 거래량 3개월 평균 대비 1.5배",
-      "score": 10.98
+      "score": 10.88
     },
     {
       "symbol": "VIK",
@@ -226,15 +226,15 @@
       "price": 94.28,
       "change_percent": 4.43,
       "volume": 9812308,
-      "avg_volume_3m": 4144068,
-      "relative_volume": 2.37,
-      "market_cap": 42109042688,
+      "avg_volume_3m": 4249040,
+      "relative_volume": 2.31,
+      "market_cap": 41711554560,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +4.4% 상승, 거래량 3개월 평균 대비 2.4배",
-      "score": 10.49
+      "reason": "장중 +4.4% 상승, 거래량 3개월 평균 대비 2.3배",
+      "score": 10.23
     },
     {
       "symbol": "NOW",
@@ -242,15 +242,15 @@
       "price": 92.9,
       "change_percent": -6.51,
       "volume": 23760713,
-      "avg_volume_3m": 15538310,
-      "relative_volume": 1.53,
+      "avg_volume_3m": 15640807,
+      "relative_volume": 1.52,
       "market_cap": 96422494208,
       "exchange": "NYSE",
       "sources": [
         "most_actives"
       ],
       "reason": "장중 -6.5% 하락, 거래량 3개월 평균 대비 1.5배, 거래대금 상위 종목",
-      "score": 9.96
+      "score": 9.89
     }
   ]
 }
