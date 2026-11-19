@@ -1,28 +1,34 @@
 {
-  "updated_at": "2026-11-19T23:03:05+09:00",
+  "updated_at": "2026-11-20T04:23:14+09:00",
   "quote": {
     "symbol": "META",
-    "price": 616.38,
-    "previous_close": 621.3,
-    "change": -4.92,
-    "change_percent": -0.79,
+    "price": 601.09,
+    "previous_close": 619.32,
+    "change": -18.22,
+    "change_percent": -2.94,
     "currency": "USD",
-    "day_high": 620.8099975585938,
-    "day_low": 610.2999877929688,
-    "market_cap": 1575615996005.7866
+    "day_high": 630.0112915039062,
+    "day_low": 598.0399780273438,
+    "market_cap": 1536543761082.1545
   },
   "articles": [
     {
-      "title": "Meta Pauses Zuckerberg Share Plan During Investor Legal Fight - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNVVZam9QRXJjREgtaGhPdlJxdmxiSW9yS0Jqa0d2Uk1UekxmYU01akxSYVBzdjV5TmJoNnFqSmpWdkF2cklrRG15UWFZc1NTOW1kRFVRbTd2cTR2M0x5RDkzY3ctc1J3MnFPZTJSOTRNWldFSDF6YlVrVW9rRUU0TWhzUXBRZDN4NEozSWJmOGkxdzkzQjRHTmNURmdNMGs?oc=5",
+      "title": "Navigating Meta Platforms’ (META) Journey from July Dip to New 52-Week High - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOU0JKZmRKWEdaRGhjdElFQ3dKUVhqVW1NT0JwMGFLYkdTaVI4SUx3cWU4VFd2M1huQnlmNmxfWUczYTFIT3M2WU81cG03aUt3SVVIRU5FV0dnaTBPQTdDMmNRM2M3UGlQem13MUVIbUVwQkdxUjBGUFFkbFZ3UGZkOWdtZWlsdzdyYkZlVEhvXzN3ZW53RWlFbFdYZFBBcU1ESE1GNTRR?oc=5",
       "source": "Yahoo Finance",
-      "published": "Wed, 18 Nov 2026 20:45:15 GMT"
+      "published": "Thu, 19 Nov 2026 16:20:18 GMT"
     },
     {
-      "title": "How to Play META Stock as Meta Platforms Tests a New Prediction Markets App - Barchart.com",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQY1pIcENNWE1fdjdWTzhuUzdkTUVra21hbzZLbjNFa1ptTm4wSXQ0UTNpUno2bzdueHg4WllFY1BiS09lTEVkMHVJVFl5Q0I4MllsUFJfWFlkM3d5N1BRdUZGRWo1VDdHT2E4RXBIc3dDSThOVDZqQmJyS2I1RUs4ckF5SGc2TUthQVoyUnY0TGV0MUt5eWNaUlVza0NTbDZuMlJCdEg1MUZPVWJRZWg2T25aekNacWNIWS1Z?oc=5",
-      "source": "Barchart.com",
-      "published": "Wed, 18 Nov 2026 16:26:59 GMT"
+      "title": "Meta’s Advertising Business Could Drive Another Major Earnings Surprise - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMlV5UW5BeEE5QTNqYnhUNTFteHg3UFl4Z2YwZGY0Y0s3QndOWUpWQ090M2huSk1OY0hLQWVhTnlKRWFnVFkwN3FCRU9kS1lmbVFycVgxVmFSUllRSFdSU0N6ajBaSWcybDB6UWtyUU5DN096Z2VfOXE4VkRQdHJtS3ZoU09Ra0VpVHF2VV85aDk1MHpualVva3RKcGpfb1VUTEZzQktSdlB0ZUxCQ1R5V1Y4Wng?oc=5",
+      "source": "24/7 Wall St.",
+      "published": "Thu, 19 Nov 2026 17:33:00 GMT"
+    },
+    {
+      "title": "Daniel Loeb's Meta Stock Bet Stands Out as Tiger Global Trims - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORzZjX2RYNEpzNzFCclZwdnBsd3pVelpsLV90ZzFJcFhVYVlDOG04WVhwZVgySUVnVzR2ZFN6dlppajRZM2FoN2tKUmYxbFNvN0dFVzYwQ0plODljcWVmUzNQbFppY2I4cDIxYkJVUXpST1h1c1F4VWRzMXp0WHlWeUhoRWtlN2tYdXZYUW1zcnJzbWRjeEtmc2lzanI1TlZpWU9yR21BTlB6Z0dUcUV6NXZnRVFMTUZOSHpFekZ3?oc=5",
+      "source": "TradingView",
+      "published": "Thu, 19 Nov 2026 18:42:45 GMT"
     },
     {
       "title": "Meta: Buy The AI Payoff Before The Capex Fear Fades - Seeking Alpha",
@@ -43,16 +49,22 @@
       "published": "Mon, 16 Nov 2026 10:06:01 GMT"
     },
     {
-      "title": "Meta Platforms stock forecast: Seller pressure keeps price below $628.64 resistance - Traders Union",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbmtKaWdLbjVhcEZCX29DRnotUTcxMEtiMFFiSnV1MTVCazBQYk9jSVhhcEZiWkNoTGxQTElvR1YzSjhVSi1DMmZoeFU4TFNWbUZkTU0tN1ZMUVU1N3RhR1Fad3FrWGpLbVVEcm84UjhPemRxSDhhaEYwWmwtelkxZTFpWHJ1aGt0ak9TVHVVRQ?oc=5",
-      "source": "Traders Union",
-      "published": "Wed, 18 Nov 2026 16:52:33 GMT"
+      "title": "Meta Pauses Zuckerberg Share Plan During Investor Legal Fight - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNVVZam9QRXJjREgtaGhPdlJxdmxiSW9yS0Jqa0d2Uk1UekxmYU01akxSYVBzdjV5TmJoNnFqSmpWdkF2cklrRG15UWFZc1NTOW1kRFVRbTd2cTR2M0x5RDkzY3ctc1J3MnFPZTJSOTRNWldFSDF6YlVrVW9rRUU0TWhzUXBRZDN4NEozSWJmOGkxdzkzQjRHTmNURmdNMGs?oc=5",
+      "source": "Yahoo Finance",
+      "published": "Wed, 18 Nov 2026 20:45:15 GMT"
     },
     {
       "title": "Meta Platforms Suspends Plan to Issue Non-Voting Shares - marketscreener.com",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSEdQQnMxUmdCZ2lIQzgyNmM5emhtZC12cWhuMjNRV3FydlkxdXlzNHVmSXRmUDRxd2k5dzJtdFo3TEpacVQ1Q3lNZHNaYmJpS3JUa0RnN3ZsbTFvVUFkbXY2NF9DbmF6eDZfRThnelpvSzZINVZmVzhoa0gydC1wVWV5OWhkVVZOUHdSWWJOcUZSUkpueUVuaVdFUUFOOGtCSkxKaU9TNEl2SlF4?oc=5",
       "source": "marketscreener.com",
       "published": "Thu, 19 Nov 2026 10:34:12 GMT"
+    },
+    {
+      "title": "Meta Platforms stock forecast: Seller pressure keeps price below $628.64 resistance - Traders Union",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbmtKaWdLbjVhcEZCX29DRnotUTcxMEtiMFFiSnV1MTVCazBQYk9jSVhhcEZiWkNoTGxQTElvR1YzSjhVSi1DMmZoeFU4TFNWbUZkTU0tN1ZMUVU1N3RhR1Fad3FrWGpLbVVEcm84UjhPemRxSDhhaEYwWmwtelkxZTFpWHJ1aGt0ak9TVHVVRQ?oc=5",
+      "source": "Traders Union",
+      "published": "Wed, 18 Nov 2026 16:52:33 GMT"
     },
     {
       "title": "UBS assumes coverage on Meta stock with buy rating on AI momentum - Investing.com",
@@ -73,24 +85,6 @@
       "published": "Wed, 18 Nov 2026 12:56:11 GMT"
     },
     {
-      "title": "Meta Platforms, Inc. $META Stock Sold by Danica Pension Livsforsikringsaktieselskab - MarketBeat",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVUJKaU1FM09Kdmlmb2N2TVZWanRiclpMZDdKS0p3YVBXbDFLdE41X0Z0b0twR1JmSUFyZmJUUVY0MXExdFl0LWFpVVZPSW9HSlJVZFJ1YVkzcXhDc2hJb3RIRHBzWkFLUmlBdmp1cmp3LV9DT1czNS1Hb3ctZ1hncEVjOV8td2ZWUVNTc3F3VXk2SldnTHlmRmJGaFpUVy1rQ1Z1UURuQzJuTm1CMlZDY3VYdTRwUFVaUXUzeGo2Ny11anV6UWdXdjJSX1hNTm5TTDVzNjVmSWg?oc=5",
-      "source": "MarketBeat",
-      "published": "Thu, 19 Nov 2026 09:58:49 GMT"
-    },
-    {
-      "title": "Will ETF Buying Change Meta Stock Narrative - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUnhObF9vcWxydnRua1J4T2hsVjhTOExiYjFWYUJhTmxGazE1ZS1zTzVBN3JuUTkwaHVKM3h0bm95ZXU4NlBLQkFmbkk1cnlYVTBlc1F4Rk9VaVV4cnhtd1Y1QnVETzNjbkZvM3FObVc5Y182VjVjc1B4SXBIbjAwSUp3WUZlVXpqOHpFbkkxT2pqbGhKQWxEMw?oc=5",
-      "source": "Yahoo Finance",
-      "published": "Sat, 14 Nov 2026 00:20:00 GMT"
-    },
-    {
-      "title": "Meta Platforms shares weekly forecast: remains defensive after more than 3% drop and negative MACD - Traders Union",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObEFhcm41OVVVQ2taWDNyUmdjX1VXeWxZenVtenR0Ul8tdlZlOEctcjlQR25SSnpRa0c3Wml6ZjBCb3NyMEMwb0RFY0RHX3lnclRfTHQ0cmRjN3hLNU9LbUZtd3JZeVh2OU83SlFTNVBSck1vUEp3ZFpRaUpybTJVb1cwRU9mek9hZ0E?oc=5",
-      "source": "Traders Union",
-      "published": "Wed, 18 Nov 2026 14:07:26 GMT"
-    },
-    {
       "title": "Prediction: These 2 Stocks Will Be Worth More Than SpaceX 5 Years From Now - The Motley Fool",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYWxFSWkzZHhpeTRBOUdYZ1k5UzdhaDJCZ0VRVS00OG9XaUNseXdsYUhyUUdmeFlQZUY0R0tSdmVIOURVV0xqMm5PdFhTdEhJS1VicVZudUlXSHkxYlJnc256V05ETnBmOE1ZeTBxOEFwZnVWdGF4NW5lUXRQWTdoQlc4SFV2czFZbklXel9ybGxOY3ZvZGRNXw?oc=5",
       "source": "The Motley Fool",
@@ -101,6 +95,12 @@
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOTdPWXF1LXZSeEZuUEp6VXo2dWF2VDBCN1E4aEZ4dXg1OURyTFZuSXM2MFFwa1I4MHoxbkRtQkRQTTU1TDQwQW5FYjl4RnpSOHVXZERfV2QyWllTVm45SEY4Sk9iN3JXUFBCOW9penZlNEdYRXVwc0pnVDhUYmhlVWd2WjdEY2UxN0FFRi1jUFJJYzlVcHl4QXJYdw?oc=5",
       "source": "Yahoo Finance",
       "published": "Mon, 16 Nov 2026 00:21:32 GMT"
+    },
+    {
+      "title": "Will ETF Buying Change Meta Stock Narrative - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUnhObF9vcWxydnRua1J4T2hsVjhTOExiYjFWYUJhTmxGazE1ZS1zTzVBN3JuUTkwaHVKM3h0bm95ZXU4NlBLQkFmbkk1cnlYVTBlc1F4Rk9VaVV4cnhtd1Y1QnVETzNjbkZvM3FObVc5Y182VjVjc1B4SXBIbjAwSUp3WUZlVXpqOHpFbkkxT2pqbGhKQWxEMw?oc=5",
+      "source": "Yahoo Finance",
+      "published": "Sat, 14 Nov 2026 00:20:00 GMT"
     },
     {
       "title": "Is Trending Stock Meta Platforms, Inc. (META) a Buy Now? - Yahoo Finance",
