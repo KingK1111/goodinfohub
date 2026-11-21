@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T12:47:00+09:00",
+  "updated_at": "2026-11-21T22:10:47+09:00",
   "disclaimer": "이 목록은 공개 시세 데이터(거래량, 변동률)를 기준으로 자동 정렬한 결과이며 특정 종목의 매수/매도를 추천하지 않습니다. 투자 판단과 책임은 본인에게 있습니다.",
   "criteria": {
     "min_price": 5.0,
@@ -11,36 +11,20 @@
   },
   "candidates": [
     {
-      "symbol": "SNDK",
-      "name": "Sandisk Corporation",
-      "price": 79.24,
-      "change_percent": -16.05,
-      "volume": 127147042,
-      "avg_volume_3m": 10572807,
-      "relative_volume": 12.03,
-      "market_cap": 90200072192,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "most_actives"
-      ],
-      "reason": "장중 -16.1% 하락, 거래량 3개월 평균 대비 12.0배, 거래대금 상위 종목",
-      "score": 193.07
-    },
-    {
       "symbol": "NVDA",
       "name": "NVIDIA Corporation",
       "price": 125.53,
       "change_percent": -14.01,
       "volume": 626274281,
-      "avg_volume_3m": 162219881,
-      "relative_volume": 3.86,
+      "avg_volume_3m": 170462129,
+      "relative_volume": 3.67,
       "market_cap": 3031172907008,
       "exchange": "NasdaqGS",
       "sources": [
         "most_actives"
       ],
-      "reason": "장중 -14.0% 하락, 거래량 3개월 평균 대비 3.9배, 거래대금 상위 종목",
-      "score": 54.08
+      "reason": "장중 -14.0% 하락, 거래량 3개월 평균 대비 3.7배, 거래대금 상위 종목",
+      "score": 51.47
     },
     {
       "symbol": "GAP",
@@ -48,15 +32,15 @@
       "price": 20.94,
       "change_percent": 11.44,
       "volume": 28018446,
-      "avg_volume_3m": 7119673,
-      "relative_volume": 3.94,
+      "avg_volume_3m": 7468898,
+      "relative_volume": 3.75,
       "market_cap": 7355596800,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +11.4% 상승, 거래량 3개월 평균 대비 3.9배",
-      "score": 45.03
+      "reason": "장중 +11.4% 상승, 거래량 3개월 평균 대비 3.8배",
+      "score": 42.92
     },
     {
       "symbol": "IREN",
@@ -64,15 +48,15 @@
       "price": 11.82,
       "change_percent": -17.97,
       "volume": 131457012,
-      "avg_volume_3m": 54377078,
-      "relative_volume": 2.42,
+      "avg_volume_3m": 55649365,
+      "relative_volume": 2.36,
       "market_cap": 5015904256,
       "exchange": "NasdaqGS",
       "sources": [
         "most_actives"
       ],
       "reason": "장중 -18.0% 하락, 거래량 3개월 평균 대비 2.4배, 거래대금 상위 종목",
-      "score": 43.45
+      "score": 42.46
     },
     {
       "symbol": "NBIS",
@@ -80,15 +64,15 @@
       "price": 81.31,
       "change_percent": -16.11,
       "volume": 49573896,
-      "avg_volume_3m": 21305823,
-      "relative_volume": 2.33,
+      "avg_volume_3m": 21763639,
+      "relative_volume": 2.28,
       "market_cap": 23815892992,
       "exchange": "NasdaqGS",
       "sources": [
         "most_actives"
       ],
       "reason": "장중 -16.1% 하락, 거래량 3개월 평균 대비 2.3배, 거래대금 상위 종목",
-      "score": 37.48
+      "score": 36.69
     },
     {
       "symbol": "AMD",
@@ -96,15 +80,15 @@
       "price": 424.39,
       "change_percent": -13.25,
       "volume": 69985844,
-      "avg_volume_3m": 26240857,
-      "relative_volume": 2.67,
+      "avg_volume_3m": 27110325,
+      "relative_volume": 2.58,
       "market_cap": 702393286656,
       "exchange": "NasdaqGS",
       "sources": [
         "most_actives"
       ],
-      "reason": "장중 -13.2% 하락, 거래량 3개월 평균 대비 2.7배, 거래대금 상위 종목",
-      "score": 35.33
+      "reason": "장중 -13.2% 하락, 거래량 3개월 평균 대비 2.6배, 거래대금 상위 종목",
+      "score": 34.2
     },
     {
       "symbol": "APLD",
@@ -112,15 +96,15 @@
       "price": 11.49,
       "change_percent": -17.81,
       "volume": 43217126,
-      "avg_volume_3m": 22409923,
-      "relative_volume": 1.93,
+      "avg_volume_3m": 22803460,
+      "relative_volume": 1.9,
       "market_cap": 3474428160,
       "exchange": "NasdaqGS",
       "sources": [
         "most_actives"
       ],
       "reason": "장중 -17.8% 하락, 거래량 3개월 평균 대비 1.9배, 거래대금 상위 종목",
-      "score": 34.35
+      "score": 33.76
     },
     {
       "symbol": "GPN",
@@ -128,15 +112,15 @@
       "price": 91.83,
       "change_percent": 9.95,
       "volume": 9535931,
-      "avg_volume_3m": 2858175,
-      "relative_volume": 3.34,
+      "avg_volume_3m": 2942609,
+      "relative_volume": 3.24,
       "market_cap": 24301506560,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +9.9% 상승, 거래량 3개월 평균 대비 3.3배",
-      "score": 33.2
+      "reason": "장중 +9.9% 상승, 거래량 3개월 평균 대비 3.2배",
+      "score": 32.24
     },
     {
       "symbol": "MU",
@@ -144,15 +128,15 @@
       "price": 594.51,
       "change_percent": -13.89,
       "volume": 59087700,
-      "avg_volume_3m": 27702918,
-      "relative_volume": 2.13,
+      "avg_volume_3m": 28285271,
+      "relative_volume": 2.09,
       "market_cap": 672642433024,
       "exchange": "NasdaqGS",
       "sources": [
         "most_actives"
       ],
       "reason": "장중 -13.9% 하락, 거래량 3개월 평균 대비 2.1배, 거래대금 상위 종목",
-      "score": 29.63
+      "score": 29.02
     },
     {
       "symbol": "TSM",
@@ -160,31 +144,15 @@
       "price": 318.71,
       "change_percent": -9.48,
       "volume": 37156375,
-      "avg_volume_3m": 12081382,
-      "relative_volume": 3.08,
+      "avg_volume_3m": 12522364,
+      "relative_volume": 2.97,
       "market_cap": 1652980711424,
       "exchange": "NYSE",
       "sources": [
         "most_actives"
       ],
-      "reason": "장중 -9.5% 하락, 거래량 3개월 평균 대비 3.1배, 거래대금 상위 종목",
-      "score": 29.16
-    },
-    {
-      "symbol": "BIPC",
-      "name": "Brookfield Infrastructure Corpo",
-      "price": 42.82,
-      "change_percent": 4.24,
-      "volume": 9888157,
-      "avg_volume_3m": 1449859,
-      "relative_volume": 6.82,
-      "market_cap": 5267762176,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +4.2% 상승, 거래량 3개월 평균 대비 6.8배",
-      "score": 28.89
+      "reason": "장중 -9.5% 하락, 거래량 3개월 평균 대비 3.0배, 거래대금 상위 종목",
+      "score": 28.13
     },
     {
       "symbol": "AVGO",
@@ -192,15 +160,31 @@
       "price": 304.41,
       "change_percent": -12.19,
       "volume": 59550482,
-      "avg_volume_3m": 25403431,
-      "relative_volume": 2.34,
+      "avg_volume_3m": 26036645,
+      "relative_volume": 2.29,
       "market_cap": 1453140738048,
       "exchange": "NasdaqGS",
       "sources": [
         "most_actives"
       ],
       "reason": "장중 -12.2% 하락, 거래량 3개월 평균 대비 2.3배, 거래대금 상위 종목",
-      "score": 28.56
+      "score": 27.87
+    },
+    {
+      "symbol": "BIPC",
+      "name": "Brookfield Infrastructure Corpo",
+      "price": 42.82,
+      "change_percent": 4.24,
+      "volume": 9888157,
+      "avg_volume_3m": 1594301,
+      "relative_volume": 6.2,
+      "market_cap": 5267762176,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +4.2% 상승, 거래량 3개월 평균 대비 6.2배",
+      "score": 26.27
     },
     {
       "symbol": "SKHY",
@@ -208,15 +192,15 @@
       "price": 103.57,
       "change_percent": -13.11,
       "volume": 39701193,
-      "avg_volume_3m": 20136926,
-      "relative_volume": 1.97,
+      "avg_volume_3m": 20515114,
+      "relative_volume": 1.94,
       "market_cap": 730347995136,
       "exchange": "NasdaqGS",
       "sources": [
         "most_actives"
       ],
-      "reason": "장중 -13.1% 하락, 거래량 3개월 평균 대비 2.0배, 거래대금 상위 종목",
-      "score": 25.85
+      "reason": "장중 -13.1% 하락, 거래량 3개월 평균 대비 1.9배, 거래대금 상위 종목",
+      "score": 25.38
     },
     {
       "symbol": "WULF",
@@ -224,15 +208,31 @@
       "price": 9.85,
       "change_percent": -14.94,
       "volume": 63088854,
-      "avg_volume_3m": 38662060,
-      "relative_volume": 1.63,
+      "avg_volume_3m": 38907834,
+      "relative_volume": 1.62,
       "market_cap": 4939987968,
       "exchange": "NasdaqCM",
       "sources": [
         "most_actives"
       ],
       "reason": "장중 -14.9% 하락, 거래량 3개월 평균 대비 1.6배, 거래대금 상위 종목",
-      "score": 24.38
+      "score": 24.22
+    },
+    {
+      "symbol": "SNDK",
+      "name": "Sandisk Corporation",
+      "price": 79.24,
+      "change_percent": -16.05,
+      "volume": 127147042,
+      "avg_volume_3m": 85620481,
+      "relative_volume": 1.49,
+      "market_cap": 90200072192,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "most_actives"
+      ],
+      "reason": "장중 -16.1% 하락, 거래량 3개월 평균 대비 1.5배, 거래대금 상위 종목",
+      "score": 23.84
     },
     {
       "symbol": "BMNR",
@@ -240,7 +240,7 @@
       "price": 12.98,
       "change_percent": -13.87,
       "volume": 54937758,
-      "avg_volume_3m": 36611018,
+      "avg_volume_3m": 36539909,
       "relative_volume": 1.5,
       "market_cap": 8131333632,
       "exchange": "NYSE",
@@ -248,7 +248,7 @@
         "most_actives"
       ],
       "reason": "장중 -13.9% 하락, 거래량 3개월 평균 대비 1.5배, 거래대금 상위 종목",
-      "score": 20.81
+      "score": 20.85
     }
   ]
 }
