@@ -1,22 +1,22 @@
 {
-  "updated_at": "2026-11-24T15:47:13+09:00",
+  "updated_at": "2026-11-25T00:27:48+09:00",
   "quote": {
     "symbol": "META",
-    "price": 597.6,
-    "previous_close": 566.67,
-    "change": 30.93,
-    "change_percent": 5.46,
+    "price": 593.48,
+    "previous_close": 598.0,
+    "change": -4.52,
+    "change_percent": -0.76,
     "currency": "USD",
-    "day_high": 602.4600219726562,
-    "day_low": 579.780029296875,
-    "market_cap": 1527609710384.5664
+    "day_high": 600.3150024414062,
+    "day_low": 588.280029296875,
+    "market_cap": 1517090802591.7646
   },
   "articles": [
     {
-      "title": "What Explains The Fall In Meta Stock? - Trefis",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOGFiY1Nic3hFMjIxNWxSb1VGQXd2Q0x5VWxQLWJHUE9zTzIxOTNySGVlZVR1Q2tLWE1SVjhDMmlEb0wxQ3hXaHd5S0hiclNxNENTUjg3aXBIaUM0QS1wb0RFTEdkaVVnN0Rya2ZxOXRHQzhzVGhlbkRkQWtJLXlXN0k0ZWhlNnhndnplMFMxWVVXQzZCR1NZaFA3LURTQQ?oc=5",
-      "source": "Trefis",
-      "published": "Mon, 23 Nov 2026 08:22:18 GMT"
+      "title": "Alphabet vs. Meta Platforms: Which Media Stock Is a Better Buy for 2027? - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMlhsRXNoSjIyU3QzYUxqWW1TN1RGRUdnTDUxSWt4YlNlMEN6Z1RUZlRMV1QxX1ViVVBQWU5uQi1jZUpySHlLXy1DWk5oaFFYWTJDaWpnRUFZOHJkSUZYZUhVcVVFeWN0Yks3b2R0ZmpvSDN1VW5UdFExYTVHRHAyVXJabUJXZG5pMXdlTnU2X0laZkdZMk5VbFJwQ1lISXEyX0hwUi1iMkN6LVZTV2pBM0ZMU2pZZEZLVy14MTNlOA?oc=5",
+      "source": "The Motley Fool",
+      "published": "Sun, 22 Nov 2026 16:56:18 GMT"
     },
     {
       "title": "Tech surge sends Meta Platforms higher by 7% (META:NASDAQ) - Seeking Alpha",
@@ -25,28 +25,82 @@
       "published": "Mon, 23 Nov 2026 22:26:47 GMT"
     },
     {
+      "title": "Meta Platforms, Inc. $META Stock Acquired by Sumitomo Life Insurance Co. - MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYjVZbVRDMGFMdU1oQkhvUC1YWFhiMFFNem9iOW9BbWc4ZVN6REhOX0taaFJkQjBEWUZRVU16RVVUc1VRb0tWOGFWTUZOWUxKR05NUWdZT2FYdldBLWRta0ktREFQb1BydU1PSUhVclhyaEZlUXdqcWNvUnJyRE83RXpJeFFWTFFrSldNeElZOTFrQ2hEeVkweU94ckJOUlJHdENERWNwdnpaaFNUOWxHalM0QXh3Ymo0WkxIS2Fqc3Z2NFlkMFBlWQ?oc=5",
+      "source": "MarketBeat",
+      "published": "Tue, 24 Nov 2026 10:12:34 GMT"
+    },
+    {
       "title": "Don’t Rush to Buy Meta Stock Yet Despite the Crash - Barchart.com",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSXhId0NFZWluMWd5TWo4Z01OVGsxTWRPT0hrRWdkczVSUUtxXzg2OFNnY0lpYnhOTmc1ODdxeW9wdWFtUU1SVFJuSGhabERLZkZha0JTNlFQSjFQMzlVMm5hQlM5ZDNoamNIbmIxWFQtUmRJek1PQnRtZlRER0VsdEIwS2pCMXRsUG1lZ1d1YmJBMU41VC1CMg?oc=5",
       "source": "Barchart.com",
       "published": "Mon, 23 Nov 2026 12:00:02 GMT"
     },
     {
-      "title": "Why is Meta Platforms stock surging today? - Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQzNSUm1CYUdCcGRiaUNEWGdhdVJHamVydVFHZC1yVC1CMnBzRXdkQ01uX3VpTnM4THV5T1hBSGdPQXFtZFpQdDd4c1A3WjlsdmMzRU9BMW5WY0I3RUFQQzVOaUh3ckxLZFhUdUR4SFJiOS1YeUtTNkRlTjJzUVZJYnZEODVnNERXZmpsVHUwWGFhdGpiaEdwRnJMUHpGbTZOSUFvMzR3?oc=5",
-      "source": "Investing.com",
-      "published": "Mon, 23 Nov 2026 16:15:15 GMT"
+      "title": "Meta stock prediction: $664.52 bull, $460.13 bear - FinanceFeeds",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSE5sSG9fb1lHejluQ25EbFZpcWp1QUszMG5HT0txX1Bpb0FrTEpVeV9GZVFvbnBpblJqZzNfTGJ1bmZLbDBMazh5SF9FMm9FWmVPajNOUUhsdjllenc0aGhVVGpuMDk4X2NTaWI0ZHBRamo4eGlXajhKUDY2RmY2cE5kc3A?oc=5",
+      "source": "FinanceFeeds",
+      "published": "Sat, 21 Nov 2026 21:18:18 GMT"
     },
     {
-      "title": "How to Play META Stock as Meta Platforms Tests a New Prediction Markets App - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOUk1bWJIcDlxSUs5b3RqeFdlbFVLckdqeUdwLVZkMnQ4WDJUNEdTWm0yMWtQckFubzZOR0tCVUU3dnFKOF9WbmotZl9wTWFuNzlfOVFPYzZHUlVSQzFfcVY0ZDJId3ptQVVXaFpPVV9HT2g3YVFCY2Z3SUdIU2NCeWtuRzBfbDEyYWs1VW0wQ002RXYyR3Jrb3hHOA?oc=5",
+      "title": "Here’s How Much Meta Stock Is Expected to Move After Earnings - Investopedia",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNDlGN05oelNLdkV4ZXJWRFVsZl80RDlnVFBhY044cjFTNEc5a3ZoU2NVeFdmejZYQTlZMXFQdm9POU5mcFlEcmhCLVhFZ2NDN3dFM1hrU2Zmdm42NlVGNTZWTE95YnF0ZlBjSzMyM2FqelpxR0ljMXZHYjF4THRCcEMwaTNDRUpvdlR2UndBanpMa0dVSGtTaWZWUFJVNEpCQ1NhLWdNaTR3SGpLNlBpZVdzb0UxVWdy?oc=5",
+      "source": "Investopedia",
+      "published": "Tue, 20 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Meta stock enjoys best month since 2022 on AI momentum - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1JU2Z5QzZ5cDZaZmhqYzJIR3lHeEduQWNfZnMyMTNNSENwdUh0cXNaOTRaZTRweS13STVyckg3MkVoNnB0aUFDV3R1YVU0YlFJbjA1YlhmRmM3cFN1eFRLQmpwUS1hZ0k2dUg4SXpuZ25LLXBU0gF6QVVfeXFMTnpwYnd1RXlTR25obHhCa28zeVhkUDFEbTZBcjA1ZklfSklPc3p0VVoxZHduRUwwdURtYVlXc0NDb1Q3U3Z1cjIwRmg0M284SUYwczV0U081MVliN0s1bkZtU1p0NWgyOUZPUnhPQkJ4bjc2OHE2RXNrNmc?oc=5",
+      "source": "CNBC",
+      "published": "Wed, 30 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "META Stock Is Down 24% From Peak: JPMorgan Sees ‘Attractive Buying Opportunity’ — But 2027 Spending, Capex Remain An Overhang - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSk9fRUN4RmFOTWdZSWVDRzFCTVU3akVWVldXOFhSWkhvdm5WUlFQczhPc2h0b1JHSHM4WU0xZk1FYkdkSmJ4Y3pXVTZ0UVZOV1JKVF9TcGFmbFU5VDJwTUF3QTJGN3pZbHVTQl9PVFVzTlVKR2lRSnhfY1UteTU0UzI5WjI3cG1vQW1uVloxcHZpdw?oc=5",
       "source": "Yahoo Finance",
-      "published": "Wed, 18 Nov 2026 16:26:59 GMT"
+      "published": "Tue, 24 Nov 2026 12:08:52 GMT"
     },
     {
-      "title": "If You Invested $1000 In Meta Platforms Stock 10 Years Ago, You Would Have This Much Today - Benzinga",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVmZDQVN3R3VsVy0xQlJHSW14OGlMWFlLLWhVV3A5bVdTZU9wQldkVG5rdUtEcEdNYWM5VElQWXdJeFdvdHU1d3FPemVfeE5yT01TaWVvalN2QnZ6a1lFaWlySzJvUnJhMTdLMi1WOWlTWktXRm51NlFqWE9NcG1RcFliTHdCWmhPeXpnS2hLd0VOcUEwdHVVV2xvS3NfRW1GYVMtR0J0UVpFcmtiZ3Y4MXFFN2M0TVAxVkJwLTFGbkxCU3M?oc=5",
+      "title": "Meta Stock Dips Premarket As Class C Share Pause Delays $60 Billion AI Funding Plan - Benzinga",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNURCWEpIbFQ1TVVkdzRSWGxQUWRPS2pyRmxYdXRvT2FTNDVCMUJ5SG9vaEZ2YXh5cS1EWEEtQnFQdE9Lb2xUdnAzRlZzUU5FOWxfLXpnZFJwSjhOY2x4MHU5endNWHNuQjZjc3l0M24yZFNzSkFUNUtOMFZhdlNHbllNWVhsbXlfZ2VfbUp3Q25iTWtEeWI5cmxDU1FhUG9LQ2tSbHFDbkhxQ3lzbWt4NElsUGtablh6R1g1OG5SUExhWjBET1dUM25xSkhpdUhFTzdodXhn?oc=5",
       "source": "Benzinga",
-      "published": "Mon, 23 Nov 2026 15:00:26 GMT"
+      "published": "Tue, 24 Nov 2026 11:49:16 GMT"
+    },
+    {
+      "title": "Meta pauses Class C share issuance amid shareholder lawsuit - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNN2g3TFJ5emdHN3NnLVJ6TTFuUThTVW42UmthQXkzLWtkaUUxN3hyOWRtZWttRGdaOVFZMjZoOFJwYmJfa1ZtX0RfZ0hEai14NXFBX0s5ei1EMDhiQmhDaTQ4WHNNNEJsLVNaS25fQVh5eGpnektkOG9xSTJncXVNRjI3U3ZRLVBFTUJuOVR4TGdSbllaZ29MRUxxcU1ZbUxYcDc3MHdEV2l0Q3ZzdlpBZV9kZFcwZw?oc=5",
+      "source": "Reuters",
+      "published": "Mon, 23 Nov 2026 22:37:54 GMT"
+    },
+    {
+      "title": "Meta Platforms stock price prediction: Upward move approaches $610.2 resistance - Traders Union",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeFRkRmliMGxQUFFadVhGRFIyVHM2SE45eVBoMFNtdGZpeWRVRmdRbmxSSU1iQWZNZXEyTzVoaGlWaExZMktPVHJfVWJzNXYxUWZWREtybmtCWjFsUTdpMlpPLW1Cc3lUd01SVWJFQ3d1N2lZNFg5bEt1eEdnUXpHM2ZVd2FQbV9kU1pLaVRLY2lfWFE?oc=5",
+      "source": "Traders Union",
+      "published": "Tue, 24 Nov 2026 14:35:37 GMT"
+    },
+    {
+      "title": "Meta Platforms: Funding Uncertainty Is Burying The Muse Option (Rating Upgrade) (META) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUkRmUklIeGQ2aVB1Tk1ZaXAtVVlyMzVMQWsxY21lZW5ENDRsRUNXR2s4Sm1ZR2tmZUVyNzlycU0yVF9iQkFLdkhjRlJjVkZWZmF6YmlJVmRVX3h4WF9taUJnYzZKeE1zSFNWQ0hMZGI0RGlzcW5SLW9tcG9WcVNiOHhNN0dMOGZ0YWtqdmM0WFhGZ1luVnFWV0R3MkJOU21qR3NsRW1TUkp6RG9RNGFYcjA2M0ZuOVNE?oc=5",
+      "source": "Seeking Alpha",
+      "published": "Tue, 24 Nov 2026 14:11:15 GMT"
+    },
+    {
+      "title": "JPMorgan cuts Meta stock price target on 2027 spending concerns - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbG11c2VCMzN0eFo5ZHRBN0doX1lqYWc4MlRVZDBCQTFsX2VGdjkxT0JwWW9PWURXaHRnNEhRT2ZCN3hwdHRXaFh2SDllLTNzMW5LalF5dHlNRk5jb0ZuLWxkOEo1akNDMFU2LUpCU08xemV0WkZTVC1meERzLVVZRDdJMnA2THp0WnJsWE8xVGEzZHNjQS14Y0NreEV5Nmo4QTlOOTVSbmpaWENHWlFzMVNWWHBrSXk3U0JGSWVpWTA?oc=5",
+      "source": "Investing.com",
+      "published": "Tue, 24 Nov 2026 09:43:33 GMT"
+    },
+    {
+      "title": "What Explains The Fall In Meta Stock? - Trefis",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOGFiY1Nic3hFMjIxNWxSb1VGQXd2Q0x5VWxQLWJHUE9zTzIxOTNySGVlZVR1Q2tLWE1SVjhDMmlEb0wxQ3hXaHd5S0hiclNxNENTUjg3aXBIaUM0QS1wb0RFTEdkaVVnN0Rya2ZxOXRHQzhzVGhlbkRkQWtJLXlXN0k0ZWhlNnhndnplMFMxWVVXQzZCR1NZaFA3LURTQQ?oc=5",
+      "source": "Trefis",
+      "published": "Mon, 23 Nov 2026 08:22:18 GMT"
+    },
+    {
+      "title": "Dan Loeb’s Third Point Takes $475 Million Stake in Meta as Institutional Investors Concentrate Their Wealth in Tech Winners - Barchart.com",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOSEdSZDFpaUI4MVhuMlBUUlNGeXlTYXQ0SVRGa0syeDBwOVplbzVQbmM4Tm85NXFackh2dU5LbUl2XzVobkwyOUxYejJTaXhlSFF4T0FuUlY5VW1SS3JFS0Q0aU5PTWNHUlVJV2R1V2ZZeFJCTmVndGVieE5RelJlYXVfS1N6c2RGeXg4NGItUmxEYnRicVU2cXJDVlBqanJOREtxN1A3YUQ5TDV0N1B2S1M0LXJPVGVEYnBWOTllWWZlNmhqNkw1Slp1ckRvaTBRNlNWYWk5UXlmUVVzczBZdUo4amYxTFN4amhra0JwUi0tZG15MXI4Rg?oc=5",
+      "source": "Barchart.com",
+      "published": "Tue, 24 Nov 2026 14:30:03 GMT"
     },
     {
       "title": "Why Is Meta Stock Up Today? Shares Jump 6.55% to $597.60 as AI Trade Rebounds on Nvidia CEO News - Around Prague",
@@ -55,16 +109,10 @@
       "published": "Mon, 23 Nov 2026 21:53:02 GMT"
     },
     {
-      "title": "Meta Platforms(META) Stock Price Today | Quotes & News - Moomoo",
-      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxQdnRhbGNsVldJQzR0WEhpY3VGNG5JdWJtbWl3MmdJWXhoSlVnQnNTUklkazRZeUd2MUdUTk51Q18wU1NYNlI5X2hKTmZBRWwxTk5zMlpKeHhpcTNrRkRNWlo5YnVmTEVyQ2xmR3FmWEt6dXJTVEdtSm9nRjkxMVYwbzYwSmwtcGdIMlFhdVJvQVZ5ZERuNzJwVnpjX1B2SFRfZjRNOTFCUWlEZVJjcDZkUk5hOWN4YVdxZnhLT1VXdUVCT2JZR05EZDEyNXkwTXdONGpIZDdPeVVxdzNZTlNqa3dlTnppdTZLM1VvRDRqNEFVRFZrWUJjTmpid2l0Nk5yUVltMUxybkI3eVBqbF9kSV8yR3o1ZTR3ZzA3VFJR?oc=5",
-      "source": "Moomoo",
-      "published": "Sun, 22 Nov 2026 17:01:46 GMT"
-    },
-    {
-      "title": "Meta (META) Stock Looks Discounted As Its 76% Five Year Run Cools - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZmIyaHFvQURwT2xLTk1SQ0IyZEtfZW1zUThxR2c3VXVTM3FFZE52YlBGX21fdElMTHpIcldJMGJHTS1LTDV1YkYxcFhQdVVKa1NCbGRXbHRDTWF1QXB5WkJOVGg1M2pINnpudGY5dXN1UHV4d1hGOTBlQmViaEd0Z1RZanV5WWlHYVZXdDNuTkRpRVpwcmpsRGZ5bThOQQ?oc=5",
+      "title": "David Tepper, George Soros and 5 Other Famous Investors Own Meta. Here’s Who Bought and Sold Recently - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOFRwcnRWSERWQzlUVThvVEdaVmtma3lSN2tVeXcxVFFPSjdTck9hYjV5UDVyblNWT2daVEhsNTV2bHpZcGdFQWlSaDhMT3RKNVlKYWEtVnVqOVJUTm1UY09vQTVxelZkb2haTlBxcEpHYzJXVFpRZDF4T0phWmNIWVJMZnAyMEZZc04yTndzVVlwaVNsS0Fz?oc=5",
       "source": "Yahoo Finance",
-      "published": "Fri, 20 Nov 2026 18:10:51 GMT"
+      "published": "Tue, 24 Nov 2026 10:20:28 GMT"
     },
     {
       "title": "Is Meta Stock Worth More Than Its Tech Rivals? - Trefis",
@@ -73,64 +121,16 @@
       "published": "Mon, 23 Nov 2026 04:29:39 GMT"
     },
     {
-      "title": "Meta Platforms(META) Stock Price Today | Quotes & News - Moomoo",
-      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxNTDlzNW5CQXZfYjVIdXNWRVRTVUx5b2UybTR0UjZZdkQ4Q3N1LWJfSkN1cTd0akZwbWliYl9hcmNPSGVWb0xRQzFTYUJFWW9nSHRTRDI2YUM1RnFxSjQ1b1B1SmREQXJRQldwMklmMXJjbU0zeGl4ZzBJazJzNHBpYklONlhkUzl0bFB1aFhHMUFWTWVnUjZ3dGtGZVFzOEZwUTBQbDRMQmJOeE42dG1GcjMwUXRqYXktS1RaTmFvNmg5ZjFiWk5Sdkp5NjVzcy1EQWJSeVJzOTZlTFBHMnR5ak9icTl0SmRLZS1yUUhLYkxnSUI4TmxUZlcxbVFtQ2hPZFZ3NEhFYW5xV0gwTncxZzdpR1BjVWttNzN5akVB?oc=5",
-      "source": "Moomoo",
-      "published": "Sat, 21 Nov 2026 19:22:22 GMT"
+      "title": "Microsoft vs. Meta: Which AI Infrastructure Stock Has An Edge Now? - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUkROOVo2RHJQandqaVB0OGdzclFXb2pDd2daQ3ZGa1M1aDQ0VW8yMXVBVTFfUy1JY3hVMGpadWlDT3lDclk4ZGdzLUl6LTMzZ0ZTamhRS2xUbEJIVjJwZkdwU1hBMnh3Z2tYel9DV011TXVBQjdJcXMtMkhrY3dtbUtNMmsxTVlDckJoZ1FPRlRHLWhmQnhGc3QtSkg3Mkh5eWFHd2hzbkZLVkgwR3M5SWY0ZUpRUHRRenQ0?oc=5",
+      "source": "TradingView",
+      "published": "Tue, 24 Nov 2026 12:40:00 GMT"
     },
     {
-      "title": "Morgan Stanley cuts Meta stock price target on higher cloud spending outlook - Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdlEzbXR4dEtINnF4TFVJS1gwRXFSa1VXWXlrTW51cmEyYkkzT1hKVW9TU25qdmZlbnVXbXhERUJ1Qmc0TjFWaVRlQmtEcUkzdFdFVTRkMEZSOGtJYTgtQlNWekg1MkV3dlFjc0NOTGRoT1BSUFJ5TXN4MldqSEZYVEV5UlA4eWdiR0VYbkxIMFJnYWVFTEplcUV2bzItVmhwUF9TY1lFU1M0SXZpYkJWMVYxcElYRXl6WlM1eHdyamdwRjNvSHFndTQyWXlZVG83VlE?oc=5",
+      "title": "Why is Meta Platforms stock surging today? - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQzNSUm1CYUdCcGRiaUNEWGdhdVJHamVydVFHZC1yVC1CMnBzRXdkQ01uX3VpTnM4THV5T1hBSGdPQXFtZFpQdDd4c1A3WjlsdmMzRU9BMW5WY0I3RUFQQzVOaUh3ckxLZFhUdUR4SFJiOS1YeUtTNkRlTjJzUVZJYnZEODVnNERXZmpsVHUwWGFhdGpiaEdwRnJMUHpGbTZOSUFvMzR3?oc=5",
       "source": "Investing.com",
-      "published": "Mon, 23 Nov 2026 11:33:14 GMT"
-    },
-    {
-      "title": "Alphabet vs. Meta Platforms: Which Media Stock Is a Better Buy for 2027? - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZTBsV1hGeU9wUTVmeGdjMzZ3ak5fODdfeXJmWXlOMlR4U0FxVFVWTFFQNUhsMmJBRVEtSWpaYzM4RExzTnhKSFVjSzY5OFc0OTBfTkNmR24zTHJPV0d4R1RaWE44YWZsWEhUeEJtZ01wXzUxVld2MzNIZFYzZGRDTjFKTERVOVI3SWFHM2wtMl9rR2YyMDdoUTRnMVFwa3BieGc?oc=5",
-      "source": "Yahoo Finance",
-      "published": "Sun, 22 Nov 2026 17:16:18 GMT"
-    },
-    {
-      "title": "George Soros, Cathie Wood and 45 Other Big Funds Bought Meta Last Quarter. It’s Down 18% Since. Time to Buy? - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQ1FYbHVoSDE0bWpYSlcyYzhsMjQ1a0RDNHhpVU5GbUdrb0xFWmp1b1V2RUsxdE15ZFFXNGczTHhnUzZPQklmQjNTdHpaRXFveFdQVE5NbXRqNE82U1hpVVRxOGd1T3lVTUc5cE1ZSHNnaEEzWjQwWlBHZHNkYVhuRnB5V0pBVWNhcWZDRmdaTDIteWVaYWJZ?oc=5",
-      "source": "Yahoo Finance",
-      "published": "Mon, 23 Nov 2026 16:49:40 GMT"
-    },
-    {
-      "title": "Meta Platforms (META) Down 8.1% Since Last Earnings Report: Can It Rebound? - Yahoo! Finance Canada",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYk5tSmtVOHlocG5sQXpiLXBUU08xQjVVQXJQRE8xU0xxM2gwWk1MNG5KYmFfWU11RFdSaF9VOGRQTTZ5V1V5UmNKUDdaUWxlaGFmOWxrcjBONC03eDNKQmVQdHp1U3drNi1vaU9PUkx1UWwyUFpfYm4yenFvZGwyRw?oc=5",
-      "source": "Yahoo! Finance Canada",
-      "published": "Fri, 20 Nov 2026 15:30:08 GMT"
-    },
-    {
-      "title": "George Soros Raised His Meta (META) Stake by 596%. Then the Stock Fell - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMmQycHY2WjJ6V3FuT0FNb1R1SktTQmVUQlZpeVloeXdsZl8ycEdfcmtrcU8teGExbndnVFJkTnZUSWdMdGx5b1lOVFZCdFBibmwtdWw2ZDJIM1hyV3FVSU1UTGo3UnlLcHhxU0VXVDlBU0JrdnpyVDdSNjh3Wl9RWUxza2c4a2FIeW04dFFEWE1HYVRRb0FWRVNn?oc=5",
-      "source": "Yahoo Finance",
-      "published": "Sat, 21 Nov 2026 01:10:00 GMT"
-    },
-    {
-      "title": "Daniel Loeb's Meta Stock Bet Stands Out as Tiger Global Trims - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeXFXazFEX3JKcGdMbTNRX3BlYlJWaWhkQk43dzlvLUEtR0N3RDZmYVNDM0JTQjlCd1ZCWDhuODlsaEMxUW9CWjV2bzY0WjRGVTkzRVpab2QxM19HMGtJQkl2Y2tQNlJpQU1mb082MDlsbm1LR1BNdnB6SXUzbnJLcXVNcEhBOXUtM0t6aTU5REdtRzFscGlr?oc=5",
-      "source": "Yahoo Finance",
-      "published": "Thu, 19 Nov 2026 18:42:45 GMT"
-    },
-    {
-      "title": "Meta Platforms (META) Rethinks 2030 Climate Goals After 45% AI Emissions Jump - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPam9WWTlDT0JsdTFGNWVPMmtWeVMyLVhpQ2haZXQydG1yQUU3YVloaDBsNTZvNmlqOFlyVFJkTUxtb1MxUW0yMzRINEdGU0tvVkVBNW11N0pwMnZMUGxYZjl0aTN0bEN6UmFGX2V1MFRfU205WHJTalBvd1RoUFRwbnNCRnRibEstcUxGbkJPNWZHc3ROeHNfa0JyRVhYdw?oc=5",
-      "source": "Yahoo Finance",
-      "published": "Sat, 21 Nov 2026 15:09:51 GMT"
-    },
-    {
-      "title": "Here’s What Reinforcing Meta Platforms (META) New Monetization Opportunities - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObUh6T2dfRFFGWldXUTFaaVJ4TE5pMF9CSGxGY0RfSGZWcXRPNFVmVUxGYWRlNlBEeTZzR3pydGVpc2FqdzlKTjJtaTh3VWU1V042VVRYY1pwRkJKNHVkS29sOUF2NWl3bWlCaFFleU5XVC1nN1V3bEpHN0I0WDFmN2hTMEJHdGM3ZFloTHBNbnBXSzE2VElwaUM4VGFQeWp5cVNFNHBPMjl6TkZGZHc?oc=5",
-      "source": "Yahoo Finance",
-      "published": "Fri, 20 Nov 2026 16:45:33 GMT"
-    },
-    {
-      "title": "Meta Shares Are Down Since Earnings. Is the Stock a Buy? - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQamFKWmVYLUc0VkRSZ3U2anMwaXJBVWNsM251R0UwVUpSUDBLM29LeDhGTGlLOEJUVDR2SDVGRGxFUFRfX3hQOUR2NXI5OGhibWVldkw1eWktYkRuTWY2T09fRFhoNXBxRE9sTFYxTlB2Rm9OYXhPNC1QQnNreXNFeEdkaDRjOFhHRHZ4d0FaN3JPMF8zRnlz?oc=5",
-      "source": "Morningstar",
-      "published": "Mon, 02 Nov 2026 08:00:00 GMT"
+      "published": "Mon, 23 Nov 2026 16:15:15 GMT"
     }
   ]
 }
