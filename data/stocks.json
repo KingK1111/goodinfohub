@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T13:45:08+09:00",
+  "updated_at": "2026-11-26T23:38:00+09:00",
   "disclaimer": "이 목록은 공개 시세 데이터(거래량, 변동률)를 기준으로 자동 정렬한 결과이며 특정 종목의 매수/매도를 추천하지 않습니다. 투자 판단과 책임은 본인에게 있습니다.",
   "criteria": {
     "min_price": 5.0,
@@ -16,15 +16,15 @@
       "price": 11.88,
       "change_percent": 11.03,
       "volume": 10477747,
-      "avg_volume_3m": 2932126,
-      "relative_volume": 3.57,
+      "avg_volume_3m": 3047454,
+      "relative_volume": 3.44,
       "market_cap": 11610020864,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +11.0% 상승, 거래량 3개월 평균 대비 3.6배",
-      "score": 39.41
+      "reason": "장중 +11.0% 상승, 거래량 3개월 평균 대비 3.4배",
+      "score": 37.92
     },
     {
       "symbol": "HPQ",
@@ -32,8 +32,8 @@
       "price": 31.15,
       "change_percent": 11.49,
       "volume": 39060684,
-      "avg_volume_3m": 14780006,
-      "relative_volume": 2.64,
+      "avg_volume_3m": 15020629,
+      "relative_volume": 2.6,
       "market_cap": 28090787840,
       "exchange": "NYSE",
       "sources": [
@@ -41,7 +41,7 @@
         "most_actives"
       ],
       "reason": "장중 +11.5% 상승, 거래량 3개월 평균 대비 2.6배, 거래대금 상위 종목",
-      "score": 30.36
+      "score": 29.88
     },
     {
       "symbol": "COGT",
@@ -49,15 +49,15 @@
       "price": 36.08,
       "change_percent": 9.3,
       "volume": 6127264,
-      "avg_volume_3m": 2168885,
-      "relative_volume": 2.83,
+      "avg_volume_3m": 2248051,
+      "relative_volume": 2.73,
       "market_cap": 6277720064,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +9.3% 상승, 거래량 3개월 평균 대비 2.8배",
-      "score": 26.27
+      "reason": "장중 +9.3% 상승, 거래량 3개월 평균 대비 2.7배",
+      "score": 25.35
     },
     {
       "symbol": "BSP",
@@ -65,15 +65,15 @@
       "price": 46.29,
       "change_percent": 8.0,
       "volume": 8184168,
-      "avg_volume_3m": 2870540,
-      "relative_volume": 2.85,
+      "avg_volume_3m": 2983170,
+      "relative_volume": 2.74,
       "market_cap": 30400454656,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +8.0% 상승, 거래량 3개월 평균 대비 2.9배",
-      "score": 22.82
+      "reason": "장중 +8.0% 상승, 거래량 3개월 평균 대비 2.7배",
+      "score": 21.96
     },
     {
       "symbol": "ASTS",
@@ -81,15 +81,15 @@
       "price": 26.02,
       "change_percent": 10.25,
       "volume": 26322800,
-      "avg_volume_3m": 15256998,
-      "relative_volume": 1.73,
+      "avg_volume_3m": 15554714,
+      "relative_volume": 1.69,
       "market_cap": 10426942464,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +10.3% 상승, 거래량 3개월 평균 대비 1.7배",
-      "score": 17.69
+      "score": 17.35
     },
     {
       "symbol": "BZ",
@@ -97,15 +97,15 @@
       "price": 14.34,
       "change_percent": 12.56,
       "volume": 8340953,
-      "avg_volume_3m": 7086003,
-      "relative_volume": 1.18,
+      "avg_volume_3m": 6817545,
+      "relative_volume": 1.22,
       "market_cap": 6273831936,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +12.6% 상승, 거래량 3개월 평균 대비 1.2배",
-      "score": 14.78
+      "score": 15.37
     },
     {
       "symbol": "ADI",
@@ -113,15 +113,15 @@
       "price": 333.105,
       "change_percent": 6.44,
       "volume": 8602252,
-      "avg_volume_3m": 4134460,
-      "relative_volume": 2.08,
+      "avg_volume_3m": 4244210,
+      "relative_volume": 2.03,
       "market_cap": 160781926400,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +6.4% 상승, 거래량 3개월 평균 대비 2.1배",
-      "score": 13.4
+      "reason": "장중 +6.4% 상승, 거래량 3개월 평균 대비 2.0배",
+      "score": 13.05
     },
     {
       "symbol": "RKT",
@@ -129,16 +129,16 @@
       "price": 15.3,
       "change_percent": 7.37,
       "volume": 59541943,
-      "avg_volume_3m": 35529929,
-      "relative_volume": 1.68,
+      "avg_volume_3m": 36233692,
+      "relative_volume": 1.64,
       "market_cap": 43419815936,
       "exchange": "NYSE",
       "sources": [
         "day_gainers",
         "most_actives"
       ],
-      "reason": "장중 +7.4% 상승, 거래량 3개월 평균 대비 1.7배, 거래대금 상위 종목",
-      "score": 12.35
+      "reason": "장중 +7.4% 상승, 거래량 3개월 평균 대비 1.6배, 거래대금 상위 종목",
+      "score": 12.11
     },
     {
       "symbol": "QXO",
@@ -146,15 +146,15 @@
       "price": 11.97,
       "change_percent": 8.62,
       "volume": 28441961,
-      "avg_volume_3m": 20190884,
-      "relative_volume": 1.41,
+      "avg_volume_3m": 20472767,
+      "relative_volume": 1.39,
       "market_cap": 12448305152,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +8.6% 상승, 거래량 3개월 평균 대비 1.4배",
-      "score": 12.14
+      "score": 11.98
     },
     {
       "symbol": "COMP",
@@ -162,15 +162,15 @@
       "price": 10.61,
       "change_percent": 7.72,
       "volume": 23071985,
-      "avg_volume_3m": 14750221,
-      "relative_volume": 1.56,
+      "avg_volume_3m": 15019037,
+      "relative_volume": 1.54,
       "market_cap": 8136646656,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +7.7% 상승, 거래량 3개월 평균 대비 1.6배",
-      "score": 12.07
+      "reason": "장중 +7.7% 상승, 거래량 3개월 평균 대비 1.5배",
+      "score": 11.85
     },
     {
       "symbol": "AXON",
@@ -178,47 +178,15 @@
       "price": 343.05,
       "change_percent": 7.43,
       "volume": 2022901,
-      "avg_volume_3m": 1257623,
-      "relative_volume": 1.61,
+      "avg_volume_3m": 1282729,
+      "relative_volume": 1.58,
       "market_cap": 27935490048,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +7.4% 상승, 거래량 3개월 평균 대비 1.6배",
-      "score": 11.95
-    },
-    {
-      "symbol": "ABVX",
-      "name": "Abivax SA",
-      "price": 84.05,
-      "change_percent": 8.3,
-      "volume": 1948044,
-      "avg_volume_3m": 1414478,
-      "relative_volume": 1.38,
-      "market_cap": 7357862400,
-      "exchange": "NasdaqGM",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +8.3% 상승, 거래량 3개월 평균 대비 1.4배",
-      "score": 11.43
-    },
-    {
-      "symbol": "INIO",
-      "name": "INNIO N.V.",
-      "price": 12.985,
-      "change_percent": 8.21,
-      "volume": 7826951,
-      "avg_volume_3m": 5767996,
-      "relative_volume": 1.36,
-      "market_cap": 9738749952,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +8.2% 상승, 거래량 3개월 평균 대비 1.4배",
-      "score": 11.14
+      "score": 11.72
     },
     {
       "symbol": "KSS",
@@ -226,31 +194,63 @@
       "price": 26.7,
       "change_percent": 5.41,
       "volume": 9068590,
-      "avg_volume_3m": 4403331,
-      "relative_volume": 2.06,
+      "avg_volume_3m": 4342206,
+      "relative_volume": 2.09,
       "market_cap": 3027151360,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
       "reason": "장중 +5.4% 상승, 거래량 3개월 평균 대비 2.1배",
-      "score": 11.14
+      "score": 11.3
     },
     {
-      "symbol": "DKNG",
-      "name": "DraftKings Inc.",
-      "price": 17.65,
-      "change_percent": 9.56,
-      "volume": 17264172,
-      "avg_volume_3m": 14983259,
-      "relative_volume": 1.15,
-      "market_cap": 8794838016,
+      "symbol": "ABVX",
+      "name": "Abivax SA",
+      "price": 84.05,
+      "change_percent": 8.3,
+      "volume": 1948044,
+      "avg_volume_3m": 1436935,
+      "relative_volume": 1.36,
+      "market_cap": 7357862400,
+      "exchange": "NasdaqGM",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +8.3% 상승, 거래량 3개월 평균 대비 1.4배",
+      "score": 11.25
+    },
+    {
+      "symbol": "INIO",
+      "name": "INNIO N.V.",
+      "price": 12.985,
+      "change_percent": 8.21,
+      "volume": 7826951,
+      "avg_volume_3m": 5851359,
+      "relative_volume": 1.34,
+      "market_cap": 9738749952,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +9.6% 상승, 거래량 3개월 평균 대비 1.2배",
-      "score": 11.01
+      "reason": "장중 +8.2% 상승, 거래량 3개월 평균 대비 1.3배",
+      "score": 10.98
+    },
+    {
+      "symbol": "RH",
+      "name": "RH",
+      "price": 112.42,
+      "change_percent": 8.67,
+      "volume": 1039764,
+      "avg_volume_3m": 823018,
+      "relative_volume": 1.26,
+      "market_cap": 2128465792,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +8.7% 상승, 거래량 3개월 평균 대비 1.3배",
+      "score": 10.95
     }
   ]
 }
