@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T05:01:34+09:00",
+  "updated_at": "2026-11-27T13:48:53+09:00",
   "disclaimer": "이 목록은 공개 시세 데이터(거래량, 변동률)를 기준으로 자동 정렬한 결과이며 특정 종목의 매수/매도를 추천하지 않습니다. 투자 판단과 책임은 본인에게 있습니다.",
   "criteria": {
     "min_price": 5.0,
@@ -16,7 +16,7 @@
       "price": 11.88,
       "change_percent": 11.03,
       "volume": 10477747,
-      "avg_volume_3m": 3047454,
+      "avg_volume_3m": 3047670,
       "relative_volume": 3.44,
       "market_cap": 11610020864,
       "exchange": "NasdaqGS",
@@ -24,7 +24,7 @@
         "day_gainers"
       ],
       "reason": "장중 +11.0% 상승, 거래량 3개월 평균 대비 3.4배",
-      "score": 37.92
+      "score": 37.91
     },
     {
       "symbol": "HPQ",
@@ -32,7 +32,7 @@
       "price": 31.15,
       "change_percent": 11.49,
       "volume": 39060684,
-      "avg_volume_3m": 15020629,
+      "avg_volume_3m": 15021196,
       "relative_volume": 2.6,
       "market_cap": 28090787840,
       "exchange": "NYSE",
@@ -81,7 +81,7 @@
       "price": 26.02,
       "change_percent": 10.25,
       "volume": 26322800,
-      "avg_volume_3m": 15554714,
+      "avg_volume_3m": 15558151,
       "relative_volume": 1.69,
       "market_cap": 10426942464,
       "exchange": "NasdaqGS",
@@ -146,7 +146,7 @@
       "price": 11.97,
       "change_percent": 8.62,
       "volume": 28441961,
-      "avg_volume_3m": 20472767,
+      "avg_volume_3m": 20473415,
       "relative_volume": 1.39,
       "market_cap": 12448305152,
       "exchange": "NYSE",
