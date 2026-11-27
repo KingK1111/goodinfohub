@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T13:48:53+09:00",
+  "updated_at": "2026-11-27T23:32:39+09:00",
   "disclaimer": "이 목록은 공개 시세 데이터(거래량, 변동률)를 기준으로 자동 정렬한 결과이며 특정 종목의 매수/매도를 추천하지 않습니다. 투자 판단과 책임은 본인에게 있습니다.",
   "criteria": {
     "min_price": 5.0,
@@ -11,246 +11,245 @@
   },
   "candidates": [
     {
-      "symbol": "LI",
-      "name": "Li Auto Inc.",
-      "price": 11.88,
-      "change_percent": 11.03,
-      "volume": 10477747,
-      "avg_volume_3m": 3047670,
-      "relative_volume": 3.44,
-      "market_cap": 11610020864,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +11.0% 상승, 거래량 3개월 평균 대비 3.4배",
-      "score": 37.91
-    },
-    {
-      "symbol": "HPQ",
-      "name": "HP Inc.",
-      "price": 31.15,
-      "change_percent": 11.49,
-      "volume": 39060684,
-      "avg_volume_3m": 15021196,
-      "relative_volume": 2.6,
-      "market_cap": 28090787840,
+      "symbol": "BIPC",
+      "name": "Brookfield Infrastructure Corpo",
+      "price": 42.82,
+      "change_percent": 4.24,
+      "volume": 9888157,
+      "avg_volume_3m": 1640875,
+      "relative_volume": 6.03,
+      "market_cap": 5267762176,
       "exchange": "NYSE",
       "sources": [
-        "day_gainers",
         "most_actives"
       ],
-      "reason": "장중 +11.5% 상승, 거래량 3개월 평균 대비 2.6배, 거래대금 상위 종목",
-      "score": 29.88
+      "reason": "장중 +4.2% 상승, 거래량 3개월 평균 대비 6.0배, 거래대금 상위 종목",
+      "score": 25.52
     },
     {
-      "symbol": "COGT",
-      "name": "Cogent Biosciences, Inc.",
-      "price": 36.08,
-      "change_percent": 9.3,
-      "volume": 6127264,
-      "avg_volume_3m": 2248051,
-      "relative_volume": 2.73,
-      "market_cap": 6277720064,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +9.3% 상승, 거래량 3개월 평균 대비 2.7배",
-      "score": 25.35
-    },
-    {
-      "symbol": "BSP",
-      "name": "Bending Spoons S.p.A.",
-      "price": 46.29,
-      "change_percent": 8.0,
-      "volume": 8184168,
-      "avg_volume_3m": 2983170,
-      "relative_volume": 2.74,
-      "market_cap": 30400454656,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +8.0% 상승, 거래량 3개월 평균 대비 2.7배",
-      "score": 21.96
-    },
-    {
-      "symbol": "ASTS",
-      "name": "AST SpaceMobile, Inc.",
-      "price": 26.02,
-      "change_percent": 10.25,
-      "volume": 26322800,
-      "avg_volume_3m": 15558151,
-      "relative_volume": 1.69,
-      "market_cap": 10426942464,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +10.3% 상승, 거래량 3개월 평균 대비 1.7배",
-      "score": 17.35
-    },
-    {
-      "symbol": "BZ",
-      "name": "KANZHUN LIMITED - American Depo",
-      "price": 14.34,
-      "change_percent": 12.56,
-      "volume": 8340953,
-      "avg_volume_3m": 6817545,
-      "relative_volume": 1.22,
-      "market_cap": 6273831936,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +12.6% 상승, 거래량 3개월 평균 대비 1.2배",
-      "score": 15.37
-    },
-    {
-      "symbol": "ADI",
-      "name": "Analog Devices, Inc.",
-      "price": 333.105,
-      "change_percent": 6.44,
-      "volume": 8602252,
-      "avg_volume_3m": 4244210,
-      "relative_volume": 2.03,
-      "market_cap": 160781926400,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +6.4% 상승, 거래량 3개월 평균 대비 2.0배",
-      "score": 13.05
-    },
-    {
-      "symbol": "RKT",
-      "name": "Rocket Companies, Inc.",
-      "price": 15.3,
-      "change_percent": 7.37,
-      "volume": 59541943,
-      "avg_volume_3m": 36233692,
-      "relative_volume": 1.64,
-      "market_cap": 43419815936,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers",
-        "most_actives"
-      ],
-      "reason": "장중 +7.4% 상승, 거래량 3개월 평균 대비 1.6배, 거래대금 상위 종목",
-      "score": 12.11
-    },
-    {
-      "symbol": "QXO",
-      "name": "QXO, Inc.",
-      "price": 11.97,
-      "change_percent": 8.62,
-      "volume": 28441961,
-      "avg_volume_3m": 20473415,
-      "relative_volume": 1.39,
-      "market_cap": 12448305152,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +8.6% 상승, 거래량 3개월 평균 대비 1.4배",
-      "score": 11.98
-    },
-    {
-      "symbol": "COMP",
-      "name": "Compass, Inc.",
-      "price": 10.61,
-      "change_percent": 7.72,
-      "volume": 23071985,
-      "avg_volume_3m": 15019037,
-      "relative_volume": 1.54,
-      "market_cap": 8136646656,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +7.7% 상승, 거래량 3개월 평균 대비 1.5배",
-      "score": 11.85
-    },
-    {
-      "symbol": "AXON",
-      "name": "Axon Enterprise, Inc.",
-      "price": 343.05,
-      "change_percent": 7.43,
-      "volume": 2022901,
-      "avg_volume_3m": 1282729,
-      "relative_volume": 1.58,
-      "market_cap": 27935490048,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +7.4% 상승, 거래량 3개월 평균 대비 1.6배",
-      "score": 11.72
-    },
-    {
-      "symbol": "KSS",
-      "name": "Kohl's Corporation",
-      "price": 26.7,
-      "change_percent": 5.41,
-      "volume": 9068590,
-      "avg_volume_3m": 4342206,
-      "relative_volume": 2.09,
-      "market_cap": 3027151360,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +5.4% 상승, 거래량 3개월 평균 대비 2.1배",
-      "score": 11.3
-    },
-    {
-      "symbol": "ABVX",
-      "name": "Abivax SA",
-      "price": 84.05,
-      "change_percent": 8.3,
-      "volume": 1948044,
-      "avg_volume_3m": 1436935,
-      "relative_volume": 1.36,
-      "market_cap": 7357862400,
+      "symbol": "VERA",
+      "name": "Vera Therapeutics, Inc.",
+      "price": 35.34,
+      "change_percent": 19.8,
+      "volume": 435185,
+      "avg_volume_3m": 1897707,
+      "relative_volume": 0.23,
+      "market_cap": 2555038464,
       "exchange": "NasdaqGM",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +8.3% 상승, 거래량 3개월 평균 대비 1.4배",
-      "score": 11.25
+      "reason": "장중 +19.8% 상승, 거래량 3개월 평균 대비 0.2배",
+      "score": 4.54
     },
     {
-      "symbol": "INIO",
-      "name": "INNIO N.V.",
-      "price": 12.985,
-      "change_percent": 8.21,
-      "volume": 7826951,
-      "avg_volume_3m": 5851359,
-      "relative_volume": 1.34,
-      "market_cap": 9738749952,
+      "symbol": "XP",
+      "name": "XP Inc.",
+      "price": 16.86,
+      "change_percent": 17.16,
+      "volume": 3459603,
+      "avg_volume_3m": 13358041,
+      "relative_volume": 0.26,
+      "market_cap": 8358828032,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +8.2% 상승, 거래량 3개월 평균 대비 1.3배",
-      "score": 10.98
+      "reason": "장중 +17.2% 상승, 거래량 3개월 평균 대비 0.3배",
+      "score": 4.45
     },
     {
-      "symbol": "RH",
-      "name": "RH",
-      "price": 112.42,
-      "change_percent": 8.67,
-      "volume": 1039764,
-      "avg_volume_3m": 823018,
-      "relative_volume": 1.26,
-      "market_cap": 2128465792,
+      "symbol": "BILI",
+      "name": "Bilibili Inc.",
+      "price": 12.3,
+      "change_percent": 7.61,
+      "volume": 1197417,
+      "avg_volume_3m": 3540369,
+      "relative_volume": 0.34,
+      "market_cap": 4916939264,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +7.6% 상승, 거래량 3개월 평균 대비 0.3배",
+      "score": 2.57
+    },
+    {
+      "symbol": "UTZ",
+      "name": "Utz Brands Inc",
+      "price": 14.29,
+      "change_percent": 0.21,
+      "volume": 25284975,
+      "avg_volume_3m": 2240375,
+      "relative_volume": 11.29,
+      "market_cap": 2057219968,
+      "exchange": "NYSE",
+      "sources": [
+        "most_actives"
+      ],
+      "reason": "장중 +0.2% 상승, 거래량 3개월 평균 대비 11.3배, 거래대금 상위 종목",
+      "score": 2.37
+    },
+    {
+      "symbol": "PBR-A",
+      "name": "Petroleo Brasileiro S.A. Petrob",
+      "price": 15.46,
+      "change_percent": 8.99,
+      "volume": 2245914,
+      "avg_volume_3m": 10393615,
+      "relative_volume": 0.22,
+      "market_cap": 105847111680,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +8.7% 상승, 거래량 3개월 평균 대비 1.3배",
-      "score": 10.95
+      "reason": "장중 +9.0% 상승, 거래량 3개월 평균 대비 0.2배",
+      "score": 1.94
+    },
+    {
+      "symbol": "TIMB",
+      "name": "TIM S.A.",
+      "price": 20.84,
+      "change_percent": 10.59,
+      "volume": 119540,
+      "avg_volume_3m": 673633,
+      "relative_volume": 0.18,
+      "market_cap": 9906498560,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +10.6% 상승, 거래량 3개월 평균 대비 0.2배",
+      "score": 1.88
+    },
+    {
+      "symbol": "GGAL",
+      "name": "Grupo Financiero Galicia S.A.",
+      "price": 29.11,
+      "change_percent": 9.16,
+      "volume": 205554,
+      "avg_volume_3m": 1014433,
+      "relative_volume": 0.2,
+      "market_cap": 4932789760,
+      "exchange": "NasdaqCM",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +9.2% 상승, 거래량 3개월 평균 대비 0.2배",
+      "score": 1.86
+    },
+    {
+      "symbol": "ELPC",
+      "name": "Companhia Paranaense de Energia",
+      "price": 11.83,
+      "change_percent": 14.52,
+      "volume": 83646,
+      "avg_volume_3m": 683866,
+      "relative_volume": 0.12,
+      "market_cap": 8782622720,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +14.5% 상승, 거래량 3개월 평균 대비 0.1배",
+      "score": 1.78
+    },
+    {
+      "symbol": "SBS",
+      "name": "Companhia de saneamento Basico ",
+      "price": 5.52,
+      "change_percent": 13.7,
+      "volume": 1479399,
+      "avg_volume_3m": 11599650,
+      "relative_volume": 0.13,
+      "market_cap": 19466098688,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +13.7% 상승, 거래량 3개월 평균 대비 0.1배",
+      "score": 1.75
+    },
+    {
+      "symbol": "ITUB",
+      "name": "Itau Unibanco Banco Holding SA",
+      "price": 7.79,
+      "change_percent": 13.14,
+      "volume": 3444452,
+      "avg_volume_3m": 31873834,
+      "relative_volume": 0.11,
+      "market_cap": 85861580800,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +13.1% 상승, 거래량 3개월 평균 대비 0.1배",
+      "score": 1.42
+    },
+    {
+      "symbol": "PBR",
+      "name": "Petroleo Brasileiro S.A. Petrob",
+      "price": 17.41,
+      "change_percent": 8.54,
+      "volume": 4153420,
+      "avg_volume_3m": 24971580,
+      "relative_volume": 0.17,
+      "market_cap": 112196419584,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +8.5% 상승, 거래량 3개월 평균 대비 0.2배",
+      "score": 1.42
+    },
+    {
+      "symbol": "YPF",
+      "name": "YPF Sociedad Anonima",
+      "price": 33.635,
+      "change_percent": 6.98,
+      "volume": 249565,
+      "avg_volume_3m": 1368801,
+      "relative_volume": 0.18,
+      "market_cap": 13229075456,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +7.0% 상승, 거래량 3개월 평균 대비 0.2배",
+      "score": 1.27
+    },
+    {
+      "symbol": "SNDK",
+      "name": "Sandisk Corporation",
+      "price": 78.63,
+      "change_percent": 6.82,
+      "volume": 14466873,
+      "avg_volume_3m": 87133296,
+      "relative_volume": 0.17,
+      "market_cap": 89505693696,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers",
+        "most_actives"
+      ],
+      "reason": "장중 +6.8% 상승, 거래량 3개월 평균 대비 0.2배, 거래대금 상위 종목",
+      "score": 1.13
+    },
+    {
+      "symbol": "UGP",
+      "name": "Ultrapar Participacoes S.A. (Ne",
+      "price": 5.85,
+      "change_percent": 11.32,
+      "volume": 417289,
+      "avg_volume_3m": 4382612,
+      "relative_volume": 0.1,
+      "market_cap": 6227692032,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +11.3% 상승, 거래량 3개월 평균 대비 0.1배",
+      "score": 1.08
     }
   ]
 }
