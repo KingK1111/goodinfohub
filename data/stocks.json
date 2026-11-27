@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T23:32:39+09:00",
+  "updated_at": "2026-11-28T04:50:08+09:00",
   "disclaimer": "이 목록은 공개 시세 데이터(거래량, 변동률)를 기준으로 자동 정렬한 결과이며 특정 종목의 매수/매도를 추천하지 않습니다. 투자 판단과 책임은 본인에게 있습니다.",
   "criteria": {
     "min_price": 5.0,
@@ -11,245 +11,247 @@
   },
   "candidates": [
     {
-      "symbol": "BIPC",
-      "name": "Brookfield Infrastructure Corpo",
-      "price": 42.82,
-      "change_percent": 4.24,
-      "volume": 9888157,
-      "avg_volume_3m": 1640875,
-      "relative_volume": 6.03,
-      "market_cap": 5267762176,
-      "exchange": "NYSE",
-      "sources": [
-        "most_actives"
-      ],
-      "reason": "장중 +4.2% 상승, 거래량 3개월 평균 대비 6.0배, 거래대금 상위 종목",
-      "score": 25.52
-    },
-    {
-      "symbol": "VERA",
-      "name": "Vera Therapeutics, Inc.",
-      "price": 35.34,
-      "change_percent": 19.8,
-      "volume": 435185,
-      "avg_volume_3m": 1897707,
-      "relative_volume": 0.23,
-      "market_cap": 2555038464,
-      "exchange": "NasdaqGM",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +19.8% 상승, 거래량 3개월 평균 대비 0.2배",
-      "score": 4.54
-    },
-    {
       "symbol": "XP",
       "name": "XP Inc.",
-      "price": 16.86,
-      "change_percent": 17.16,
-      "volume": 3459603,
+      "price": 16.99,
+      "change_percent": 18.07,
+      "volume": 23853140,
       "avg_volume_3m": 13358041,
-      "relative_volume": 0.26,
-      "market_cap": 8358828032,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +17.2% 상승, 거래량 3개월 평균 대비 0.3배",
-      "score": 4.45
-    },
-    {
-      "symbol": "BILI",
-      "name": "Bilibili Inc.",
-      "price": 12.3,
-      "change_percent": 7.61,
-      "volume": 1197417,
-      "avg_volume_3m": 3540369,
-      "relative_volume": 0.34,
-      "market_cap": 4916939264,
-      "exchange": "NasdaqGS",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +7.6% 상승, 거래량 3개월 평균 대비 0.3배",
-      "score": 2.57
-    },
-    {
-      "symbol": "UTZ",
-      "name": "Utz Brands Inc",
-      "price": 14.29,
-      "change_percent": 0.21,
-      "volume": 25284975,
-      "avg_volume_3m": 2240375,
-      "relative_volume": 11.29,
-      "market_cap": 2057219968,
-      "exchange": "NYSE",
-      "sources": [
-        "most_actives"
-      ],
-      "reason": "장중 +0.2% 상승, 거래량 3개월 평균 대비 11.3배, 거래대금 상위 종목",
-      "score": 2.37
-    },
-    {
-      "symbol": "PBR-A",
-      "name": "Petroleo Brasileiro S.A. Petrob",
-      "price": 15.46,
-      "change_percent": 8.99,
-      "volume": 2245914,
-      "avg_volume_3m": 10393615,
-      "relative_volume": 0.22,
-      "market_cap": 105847111680,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +9.0% 상승, 거래량 3개월 평균 대비 0.2배",
-      "score": 1.94
-    },
-    {
-      "symbol": "TIMB",
-      "name": "TIM S.A.",
-      "price": 20.84,
-      "change_percent": 10.59,
-      "volume": 119540,
-      "avg_volume_3m": 673633,
-      "relative_volume": 0.18,
-      "market_cap": 9906498560,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +10.6% 상승, 거래량 3개월 평균 대비 0.2배",
-      "score": 1.88
-    },
-    {
-      "symbol": "GGAL",
-      "name": "Grupo Financiero Galicia S.A.",
-      "price": 29.11,
-      "change_percent": 9.16,
-      "volume": 205554,
-      "avg_volume_3m": 1014433,
-      "relative_volume": 0.2,
-      "market_cap": 4932789760,
-      "exchange": "NasdaqCM",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +9.2% 상승, 거래량 3개월 평균 대비 0.2배",
-      "score": 1.86
-    },
-    {
-      "symbol": "ELPC",
-      "name": "Companhia Paranaense de Energia",
-      "price": 11.83,
-      "change_percent": 14.52,
-      "volume": 83646,
-      "avg_volume_3m": 683866,
-      "relative_volume": 0.12,
-      "market_cap": 8782622720,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +14.5% 상승, 거래량 3개월 평균 대비 0.1배",
-      "score": 1.78
-    },
-    {
-      "symbol": "SBS",
-      "name": "Companhia de saneamento Basico ",
-      "price": 5.52,
-      "change_percent": 13.7,
-      "volume": 1479399,
-      "avg_volume_3m": 11599650,
-      "relative_volume": 0.13,
-      "market_cap": 19466098688,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +13.7% 상승, 거래량 3개월 평균 대비 0.1배",
-      "score": 1.75
-    },
-    {
-      "symbol": "ITUB",
-      "name": "Itau Unibanco Banco Holding SA",
-      "price": 7.79,
-      "change_percent": 13.14,
-      "volume": 3444452,
-      "avg_volume_3m": 31873834,
-      "relative_volume": 0.11,
-      "market_cap": 85861580800,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +13.1% 상승, 거래량 3개월 평균 대비 0.1배",
-      "score": 1.42
-    },
-    {
-      "symbol": "PBR",
-      "name": "Petroleo Brasileiro S.A. Petrob",
-      "price": 17.41,
-      "change_percent": 8.54,
-      "volume": 4153420,
-      "avg_volume_3m": 24971580,
-      "relative_volume": 0.17,
-      "market_cap": 112196419584,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +8.5% 상승, 거래량 3개월 평균 대비 0.2배",
-      "score": 1.42
-    },
-    {
-      "symbol": "YPF",
-      "name": "YPF Sociedad Anonima",
-      "price": 33.635,
-      "change_percent": 6.98,
-      "volume": 249565,
-      "avg_volume_3m": 1368801,
-      "relative_volume": 0.18,
-      "market_cap": 13229075456,
-      "exchange": "NYSE",
-      "sources": [
-        "day_gainers"
-      ],
-      "reason": "장중 +7.0% 상승, 거래량 3개월 평균 대비 0.2배",
-      "score": 1.27
-    },
-    {
-      "symbol": "SNDK",
-      "name": "Sandisk Corporation",
-      "price": 78.63,
-      "change_percent": 6.82,
-      "volume": 14466873,
-      "avg_volume_3m": 87133296,
-      "relative_volume": 0.17,
-      "market_cap": 89505693696,
+      "relative_volume": 1.79,
+      "market_cap": 8423278592,
       "exchange": "NasdaqGS",
       "sources": [
         "day_gainers",
         "most_actives"
       ],
-      "reason": "장중 +6.8% 상승, 거래량 3개월 평균 대비 0.2배, 거래대금 상위 종목",
-      "score": 1.13
+      "reason": "장중 +18.1% 상승, 거래량 3개월 평균 대비 1.8배, 거래대금 상위 종목",
+      "score": 32.26
     },
     {
-      "symbol": "UGP",
-      "name": "Ultrapar Participacoes S.A. (Ne",
-      "price": 5.85,
-      "change_percent": 11.32,
-      "volume": 417289,
-      "avg_volume_3m": 4382612,
-      "relative_volume": 0.1,
-      "market_cap": 6227692032,
+      "symbol": "VERA",
+      "name": "Vera Therapeutics, Inc.",
+      "price": 34.26,
+      "change_percent": 16.14,
+      "volume": 2803036,
+      "avg_volume_3m": 1897707,
+      "relative_volume": 1.48,
+      "market_cap": 2476955648,
+      "exchange": "NasdaqGM",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +16.1% 상승, 거래량 3개월 평균 대비 1.5배",
+      "score": 23.83
+    },
+    {
+      "symbol": "AYA",
+      "name": "Aya Gold & Silver Inc.",
+      "price": 22.84,
+      "change_percent": 15.01,
+      "volume": 1284061,
+      "avg_volume_3m": 1034376,
+      "relative_volume": 1.24,
+      "market_cap": 3293422080,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +15.0% 상승, 거래량 3개월 평균 대비 1.2배",
+      "score": 18.63
+    },
+    {
+      "symbol": "SNDK",
+      "name": "Sandisk Corporation",
+      "price": 85.36,
+      "change_percent": 15.96,
+      "volume": 96234051,
+      "avg_volume_3m": 87133296,
+      "relative_volume": 1.1,
+      "market_cap": 97166557184,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers",
+        "most_actives"
+      ],
+      "reason": "장중 +16.0% 상승, 거래량 3개월 평균 대비 1.1배, 거래대금 상위 종목",
+      "score": 17.63
+    },
+    {
+      "symbol": "KNTK",
+      "name": "Kinetik Holdings Inc.",
+      "price": 59.76,
+      "change_percent": 9.25,
+      "volume": 2278534,
+      "avg_volume_3m": 1209600,
+      "relative_volume": 1.88,
+      "market_cap": 10232260608,
       "exchange": "NYSE",
       "sources": [
         "day_gainers"
       ],
-      "reason": "장중 +11.3% 상승, 거래량 3개월 평균 대비 0.1배",
-      "score": 1.08
+      "reason": "장중 +9.3% 상승, 거래량 3개월 평균 대비 1.9배",
+      "score": 17.43
+    },
+    {
+      "symbol": "ITUB",
+      "name": "Itau Unibanco Banco Holding SA",
+      "price": 7.66,
+      "change_percent": 11.34,
+      "volume": 40864903,
+      "avg_volume_3m": 31873834,
+      "relative_volume": 1.28,
+      "market_cap": 84428718080,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers",
+        "most_actives"
+      ],
+      "reason": "장중 +11.3% 상승, 거래량 3개월 평균 대비 1.3배, 거래대금 상위 종목",
+      "score": 14.54
+    },
+    {
+      "symbol": "LFTO",
+      "name": "Liftoff Mobile, Inc.",
+      "price": 26.14,
+      "change_percent": 9.88,
+      "volume": 1505648,
+      "avg_volume_3m": 1046563,
+      "relative_volume": 1.44,
+      "market_cap": 4429273088,
+      "exchange": "NasdaqGS",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +9.9% 상승, 거래량 3개월 평균 대비 1.4배",
+      "score": 14.21
+    },
+    {
+      "symbol": "SBS",
+      "name": "Companhia de saneamento Basico ",
+      "price": 5.41,
+      "change_percent": 11.32,
+      "volume": 13245717,
+      "avg_volume_3m": 11599650,
+      "relative_volume": 1.14,
+      "market_cap": 19078187008,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +11.3% 상승, 거래량 3개월 평균 대비 1.1배",
+      "score": 12.92
+    },
+    {
+      "symbol": "SA",
+      "name": "Seabridge Gold, Inc.",
+      "price": 21.52,
+      "change_percent": 13.32,
+      "volume": 789760,
+      "avg_volume_3m": 839087,
+      "relative_volume": 0.94,
+      "market_cap": 2325878528,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +13.3% 상승, 거래량 3개월 평균 대비 0.9배",
+      "score": 12.54
+    },
+    {
+      "symbol": "EXK",
+      "name": "Endeavour Silver Corporation",
+      "price": 6.87,
+      "change_percent": 11.89,
+      "volume": 8081809,
+      "avg_volume_3m": 7814188,
+      "relative_volume": 1.03,
+      "market_cap": 2035081216,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +11.9% 상승, 거래량 3개월 평균 대비 1.0배",
+      "score": 12.3
+    },
+    {
+      "symbol": "COHR",
+      "name": "Coherent Corp.",
+      "price": 223.79,
+      "change_percent": 14.07,
+      "volume": 6972190,
+      "avg_volume_3m": 8070915,
+      "relative_volume": 0.86,
+      "market_cap": 44077379584,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +14.1% 상승, 거래량 3개월 평균 대비 0.9배",
+      "score": 12.15
+    },
+    {
+      "symbol": "UGP",
+      "name": "Ultrapar Participacoes S.A. (Ne",
+      "price": 5.73,
+      "change_percent": 8.94,
+      "volume": 5691375,
+      "avg_volume_3m": 4382612,
+      "relative_volume": 1.3,
+      "market_cap": 6099944448,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +8.9% 상승, 거래량 3개월 평균 대비 1.3배",
+      "score": 11.6
+    },
+    {
+      "symbol": "B",
+      "name": "Barrick Mining Corporation",
+      "price": 36.54,
+      "change_percent": 5.85,
+      "volume": 17253222,
+      "avg_volume_3m": 8752360,
+      "relative_volume": 1.97,
+      "market_cap": 59510251520,
+      "exchange": "NYSE",
+      "sources": [
+        "most_actives"
+      ],
+      "reason": "장중 +5.9% 상승, 거래량 3개월 평균 대비 2.0배, 거래대금 상위 종목",
+      "score": 11.54
+    },
+    {
+      "symbol": "AG",
+      "name": "First Majestic Silver Corp.",
+      "price": 12.33,
+      "change_percent": 9.8,
+      "volume": 12909855,
+      "avg_volume_3m": 11254922,
+      "relative_volume": 1.15,
+      "market_cap": 6079331328,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +9.8% 상승, 거래량 3개월 평균 대비 1.1배",
+      "score": 11.24
+    },
+    {
+      "symbol": "ELPC",
+      "name": "Companhia Paranaense de Energia",
+      "price": 11.71,
+      "change_percent": 13.36,
+      "volume": 565218,
+      "avg_volume_3m": 683866,
+      "relative_volume": 0.83,
+      "market_cap": 8693534720,
+      "exchange": "NYSE",
+      "sources": [
+        "day_gainers"
+      ],
+      "reason": "장중 +13.4% 상승, 거래량 3개월 평균 대비 0.8배",
+      "score": 11.04
     }
   ]
 }
